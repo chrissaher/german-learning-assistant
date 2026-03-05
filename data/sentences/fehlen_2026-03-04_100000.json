@@ -1,0 +1,78 @@
+{
+  "word": "fehlen (verb)",
+  "base_form": "fehlen",
+  "word_type": "verb",
+  "generated_at": "2026-03-04T10:00:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Du fehlst mir.",
+      "english": "I miss you.",
+      "level": "simple",
+      "grammar_note": "fehlen is a dative verb — the person doing the missing takes dative (mir); the subject is who/what is absent."
+    },
+    {
+      "id": 2,
+      "german": "Er fehlt heute.",
+      "english": "He is absent today.",
+      "level": "simple",
+      "grammar_note": "Basic Präsens: fehlen conjugates as fehle, fehlst, fehlt, fehlen, fehlt, fehlen."
+    },
+    {
+      "id": 3,
+      "german": "Das Wort fehlt.",
+      "english": "The word is missing.",
+      "level": "simple",
+      "grammar_note": "Neuter subject (das Wort) → third-person singular: fehlt."
+    },
+    {
+      "id": 4,
+      "german": "Mir fehlt das Geld für das Hotel.",
+      "english": "I don't have enough money for the hotel.",
+      "level": "medium",
+      "grammar_note": "Dative pronoun mir (= to me) comes first; the missing thing (das Geld) is the grammatical subject."
+    },
+    {
+      "id": 5,
+      "german": "Dir fehlt ein Visum für die Reise.",
+      "english": "You are missing a visa for the trip.",
+      "level": "medium",
+      "grammar_note": "dir = dative of du; travel context — common A1 vocabulary (das Visum, die Reise)."
+    },
+    {
+      "id": 6,
+      "german": "Uns fehlt die Zeit für das Museum.",
+      "english": "We don't have time for the museum.",
+      "level": "medium",
+      "grammar_note": "uns = dative of wir; die Zeit is feminine → nominative subject stays die Zeit."
+    },
+    {
+      "id": 7,
+      "german": "Mein Koffer fehlt am Flughafen, und ich bin sehr nervös.",
+      "english": "My suitcase is missing at the airport, and I am very nervous.",
+      "level": "complex",
+      "grammar_note": "Coordinating conjunction und joins two main clauses; verb stays in position 2 in each clause."
+    },
+    {
+      "id": 8,
+      "german": "Du hast mir sehr gefehlt!",
+      "english": "I missed you so much!",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + Partizip II → gefehlt (regular weak verb: ge- + fehlt). fehlen always takes haben."
+    },
+    {
+      "id": 9,
+      "german": "Mir fehlt ein Wörterbuch, aber ich habe mein Handy.",
+      "english": "I'm missing a dictionary, but I have my phone.",
+      "level": "complex",
+      "grammar_note": "aber (but) is a coordinating conjunction; ein Wörterbuch is indefinite neuter nominative."
+    },
+    {
+      "id": 10,
+      "german": "Der Schlüssel hat gefehlt, und wir haben lange gewartet.",
+      "english": "The key was missing, and we waited a long time.",
+      "level": "complex",
+      "grammar_note": "Two Perfekt verbs: hat gefehlt (der Schlüssel) + haben gewartet (wir); lange = adverb of duration."
+    }
+  ]
+}

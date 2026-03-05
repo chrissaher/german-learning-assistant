@@ -1,0 +1,78 @@
+{
+  "word": "das Fenster",
+  "base_form": "das Fenster",
+  "word_type": "noun",
+  "generated_at": "2026-03-05T10:20:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Das Fenster ist groß.",
+      "english": "The window is big.",
+      "level": "simple",
+      "grammar_note": "Das Fenster is neuter nominative (subject); predicate adjective groß takes no ending after ist."
+    },
+    {
+      "id": 2,
+      "german": "Ich öffne das Fenster.",
+      "english": "I open the window.",
+      "level": "simple",
+      "grammar_note": "Accusative neuter: das Fenster stays das Fenster — neuter nouns look identical in nominative and accusative."
+    },
+    {
+      "id": 3,
+      "german": "Das ist ein Fenster.",
+      "english": "That is a window.",
+      "level": "simple",
+      "grammar_note": "Ein Fenster uses the neuter indefinite article; this structure identifies or points to something."
+    },
+    {
+      "id": 4,
+      "german": "Das Fenster im Zimmer ist sehr schön.",
+      "english": "The window in the room is very beautiful.",
+      "level": "medium",
+      "grammar_note": "Im = in + dem (neuter dative contraction); das Fenster remains nominative as subject of ist."
+    },
+    {
+      "id": 5,
+      "german": "Ich sehe die Berge durch das Fenster.",
+      "english": "I see the mountains through the window.",
+      "level": "medium",
+      "grammar_note": "Durch always takes accusative: durch das Fenster; die Berge is the direct object of sehe."
+    },
+    {
+      "id": 6,
+      "german": "Die Fenster in diesem Hotel sind groß.",
+      "english": "The windows in this hotel are big.",
+      "level": "medium",
+      "grammar_note": "Plural die Fenster is identical in form to the singular; only the article changes (das → die); sind for plural."
+    },
+    {
+      "id": 7,
+      "german": "Ich habe das Fenster in meinem Zimmer geöffnet.",
+      "english": "I opened the window in my room.",
+      "level": "complex",
+      "grammar_note": "Perfekt: habe + geöffnet (past participle at end); in meinem Zimmer = dative (mein → meinem, neuter dative)."
+    },
+    {
+      "id": 8,
+      "german": "Du kannst das Fenster öffnen, aber es ist kalt.",
+      "english": "You can open the window, but it is cold.",
+      "level": "complex",
+      "grammar_note": "Modal kannst sends the infinitive öffnen to the end; aber joins two main clauses with normal word order in each."
+    },
+    {
+      "id": 9,
+      "german": "Das Zimmer hat zwei Fenster und ist sehr hell.",
+      "english": "The room has two windows and is very bright.",
+      "level": "complex",
+      "grammar_note": "Zwei (two) uses no article; zwei Fenster is accusative plural; und joins two predicates sharing the subject das Zimmer."
+    },
+    {
+      "id": 10,
+      "german": "Wir haben ein Zimmer mit einem großen Fenster gebucht.",
+      "english": "We booked a room with a big window.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + gebucht; mit einem großen Fenster = dative (einem for neuter dative, großen with weak adjective ending)."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "word": "die Meinung",
+  "base_form": "die Meinung",
+  "word_type": "noun",
+  "generated_at": "2026-03-05T10:40:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Ich habe eine Meinung.",
+      "english": "I have an opinion.",
+      "level": "simple",
+      "grammar_note": "Haben + eine Meinung = to have an opinion; eine is the feminine indefinite article in accusative (object of habe)."
+    },
+    {
+      "id": 2,
+      "german": "Das ist meine Meinung.",
+      "english": "That is my opinion.",
+      "level": "simple",
+      "grammar_note": "Predicate nominative: meine Meinung after ist stays nominative; meine is the feminine possessive (1st person)."
+    },
+    {
+      "id": 3,
+      "german": "Alle Meinungen sind wichtig.",
+      "english": "All opinions are important.",
+      "level": "simple",
+      "grammar_note": "Die Meinungen is the plural form (add -en to -ung nouns); alle (all) precedes the plural noun without an article."
+    },
+    {
+      "id": 4,
+      "german": "Ich sage immer meine Meinung auf Deutsch.",
+      "english": "I always say my opinion in German.",
+      "level": "medium",
+      "grammar_note": "Meine Meinung is accusative (direct object of sage); immer (always) and auf Deutsch are adverbial modifiers."
+    },
+    {
+      "id": 5,
+      "german": "Er hat eine andere Meinung als ich.",
+      "english": "He has a different opinion from me.",
+      "level": "medium",
+      "grammar_note": "Eine andere Meinung: accusative feminine; als ich = than I (comparison; als is followed by nominative in German)."
+    },
+    {
+      "id": 6,
+      "german": "Wie ist Ihre Meinung über das Hotel?",
+      "english": "What is your opinion of the hotel?",
+      "level": "medium",
+      "grammar_note": "Ihre = formal possessive of Sie (your); Meinung is nominative subject; über + accusative: über das Hotel."
+    },
+    {
+      "id": 7,
+      "german": "Ich habe meine Meinung über das Hotel gesagt.",
+      "english": "I said my opinion about the hotel.",
+      "level": "complex",
+      "grammar_note": "Perfekt: habe + gesagt (sagen → gesagt, regular); meine Meinung is accusative object."
+    },
+    {
+      "id": 8,
+      "german": "Du kannst deine Meinung sagen, und ich höre zu.",
+      "english": "You can say your opinion, and I will listen.",
+      "level": "complex",
+      "grammar_note": "Modal kannst sends sagen to the end; zuhören is separable: ich höre … zu (prefix zu splits off to the end)."
+    },
+    {
+      "id": 9,
+      "german": "Meiner Meinung nach ist das Hotel sehr schön.",
+      "english": "In my opinion, the hotel is very beautiful.",
+      "level": "complex",
+      "grammar_note": "Meiner Meinung nach = fixed phrase meaning 'in my opinion'; meiner is dative feminine (meine → meiner); nach follows the noun."
+    },
+    {
+      "id": 10,
+      "german": "Wir haben verschiedene Meinungen über die Reise gehabt.",
+      "english": "We had different opinions about the trip.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + gehabt (haben → gehabt); verschiedene Meinungen is accusative plural (no article, adjective ending -e)."
+    }
+  ]
+}

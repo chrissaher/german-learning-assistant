@@ -1,0 +1,276 @@
+{
+  "topic": "der die das",
+  "focus": "exercises to remember the correct article for each noun and build confidence when choosing between der, die, or das",
+  "topic_slug": "der_die_das",
+  "generated_at": "2026-03-05T15:59:29",
+  "explanation": {
+    "sections": [
+      {
+        "title": "Strategy: How to Tackle Gender in A1 Vocabulary",
+        "content": "Since you already understand what der/die/das mean, the challenge is knowing WHICH one applies to each noun. There is no single perfect rule that covers all German nouns — but there are two tools you can combine:\n\n1. PATTERN recognition: certain noun endings and semantic categories reliably predict gender. Learn these patterns and you can make educated guesses for new words.\n\n2. MEMORIZE as a unit: learn every noun with its article from day one. Never write 'Hotel' alone — always write 'das Hotel'. Treat the article as part of the word.\n\nAt A1 level, you do NOT need to know every German noun. Focus on the ~100–150 nouns that appear in Momente A1 and travel/tourism contexts. This session drills the most important ones."
+      },
+      {
+        "title": "Reliable Ending Patterns — Your Best Guessing Tool",
+        "content": "These patterns are not 100% perfect but cover the majority of A1 vocabulary:\n\n| Ending | Gender | Reliability | Examples |\n|--------|--------|-------------|----------|\n| -ung | die (f) | very high | die Wohnung, die Zeitung, die Reservierung, die Rechnung |\n| -heit / -keit | die (f) | very high | die Freiheit, die Möglichkeit |\n| -tion / -sion | die (f) | very high | die Station, die Lektion, die Information |\n| -e (abstract/place nouns) | die (f) | high | die Straße, die Sprache, die Apotheke, die Schule, die Küche |\n| -er (agent nouns) | der (m) | high | der Lehrer, der Kellner, der Bäcker |\n| -ling | der (m) | high | der Frühling |\n| Days / months / seasons | der (m) | always | der Montag, der März, der Sommer |\n| -chen / -lein | das (n) | always | das Mädchen, das Brötchen |\n| -ment | das (n) | very high | das Dokument, das Instrument |\n| Infinitive used as noun | das (n) | always | das Essen, das Frühstück |\n| -um (borrowed words) | das (n) | high | das Museum, das Datum |\n\nIMPORTANT — exceptions to watch out for:\n- der Junge (boy) ends in -e but is masculine\n- das Cafe ends in -e but is neuter\n- die Butter ends in -er but is feminine\nThese exceptions are rare at A1; the patterns above cover most cases."
+      },
+      {
+        "title": "High-Frequency A1 Noun Reference by Gender",
+        "content": "Memorize these as fixed units (article + noun). They are the backbone of A1 German.\n\nDER (masculine):\nder Mann (man) · der Bahnhof (train station) · der Zug (train) · der Bus (bus) · der Flughafen (airport) · der Kaffee (coffee) · der Tee (tea) · der Wein (wine) · der Saft (juice) · der Hunger (hunger) · der Arzt (doctor, m) · der Kellner (waiter) · der Lehrer (teacher, m) · der Name (name) · der Tag (day) · der Morgen (morning) · der Abend (evening) · der Markt (market) · der Tisch (table) · der Koffer (suitcase) · der Pass (passport) · der Schlüssel (key) · der Supermarkt (supermarket) · der Preis (price)\n\nDIE (feminine):\ndie Frau (woman) · die Stadt (city) · die Straße (street) · die Apotheke (pharmacy) · die Schule (school) · die Uhr (clock/time) · die Sprache (language) · die Wohnung (flat) · die Zeitung (newspaper) · die Küche (kitchen) · die Tasche (bag) · die Reise (trip) · die Rechnung (bill) · die Reservierung (reservation) · die Adresse (address) · die Nummer (number) · die Stunde (hour) · die Nacht (night) · die Woche (week) · die Kirche (church) · die Bäckerei (bakery) · die Information (information)\n\nDAS (neuter):\ndas Hotel (hotel) · das Restaurant (restaurant) · das Zimmer (room) · das Essen (food/meal) · das Wasser (water) · das Bier (beer) · das Kind (child) · das Buch (book) · das Ticket (ticket) · das Geld (money) · das Auto (car) · das Taxi (taxi) · das Handy (mobile phone) · das Frühstück (breakfast) · das Gepäck (luggage) · das Museum (museum) · das Dokument (document) · das Formular (form) · das Café (café)"
+      }
+    ],
+    "transfer_notes": [
+      "Spanish gender rarely matches German gender for the same concept — do not rely on Spanish as a guide. For example: el sol (m) → die Sonne (f); el agua (m) → das Wasser (n); la ciudad (f) → die Stadt (f) ✓ — some match, many don't.",
+      "English gives you no information about German gender since English nouns have no article gender. This is why memorizing der/die/das with each noun is essential — you cannot reconstruct it from English.",
+      "The -ung ending is your single most reliable pattern at A1 level: it is almost always feminine (die). If you see an -ung noun you haven't memorized, guess die.",
+      "Neuter is often the 'default' for borrowed words from English (das Ticket, das Handy, das Internet, das Taxi). When in doubt about a modern borrowed word, das is a reasonable guess."
+    ],
+    "key_takeaway": "Learn every A1 noun as a fixed pair (der/die/das + noun), use the -ung → die and -chen/-lein → das patterns to help with unknowns, and when in doubt about borrowed words from English, guess das."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Hotel ist sehr schön.",
+      "english": "The hotel is very nice.",
+      "level": "simple",
+      "grammar_note": "das Hotel — neuter; borrowed word from French/English, das is common for modern borrowed nouns."
+    },
+    {
+      "id": 2,
+      "german": "Der Bahnhof ist groß.",
+      "english": "The train station is big.",
+      "level": "simple",
+      "grammar_note": "der Bahnhof — masculine; must-memorize noun, no reliable ending pattern."
+    },
+    {
+      "id": 3,
+      "german": "Die Apotheke ist rechts.",
+      "english": "The pharmacy is on the right.",
+      "level": "simple",
+      "grammar_note": "die Apotheke — feminine; -e ending on a place noun → usually die."
+    },
+    {
+      "id": 4,
+      "german": "Die Wohnung hat zwei Zimmer.",
+      "english": "The flat has two rooms.",
+      "level": "medium",
+      "grammar_note": "die Wohnung (feminine, -ung ending) + das Zimmer (neuter, must-memorize)."
+    },
+    {
+      "id": 5,
+      "german": "Der Kaffee kostet zwei Euro.",
+      "english": "The coffee costs two euros.",
+      "level": "medium",
+      "grammar_note": "der Kaffee — masculine; must-memorize, the -ee ending is not a reliable pattern."
+    },
+    {
+      "id": 6,
+      "german": "Die Reservierung ist für morgen Abend.",
+      "english": "The reservation is for tomorrow evening.",
+      "level": "medium",
+      "grammar_note": "die Reservierung — feminine; -ung ending → always die."
+    },
+    {
+      "id": 7,
+      "german": "Der Zug nach München fährt um acht Uhr ab.",
+      "english": "The train to Munich departs at eight o'clock.",
+      "level": "complex",
+      "grammar_note": "der Zug (masculine, must-memorize) · die Uhr (feminine, must-memorize)."
+    },
+    {
+      "id": 8,
+      "german": "Das Ticket kostet zwanzig Euro und der Pass ist im Koffer.",
+      "english": "The ticket costs twenty euros and the passport is in the suitcase.",
+      "level": "complex",
+      "grammar_note": "das Ticket (neuter, borrowed word) · der Pass (masculine) · der Koffer (masculine)."
+    },
+    {
+      "id": 9,
+      "german": "Die Rechnung bitte — das Restaurant hat ein gutes Frühstück.",
+      "english": "The bill, please — the restaurant has a good breakfast.",
+      "level": "complex",
+      "grammar_note": "die Rechnung (feminine, -ung) · das Restaurant (neuter, borrowed) · das Frühstück (neuter, compound from infinitive Frühstück)."
+    },
+    {
+      "id": 10,
+      "german": "Das Museum ist in der Stadtmitte, neben der Kirche.",
+      "english": "The museum is in the city centre, next to the church.",
+      "level": "complex",
+      "grammar_note": "das Museum (neuter, -um ending) · die Kirche (feminine, -e ending on a place noun)."
+    },
+    {
+      "id": 11,
+      "german": "Der Kellner bringt das Bier und die Rechnung.",
+      "english": "The waiter brings the beer and the bill.",
+      "level": "complex",
+      "grammar_note": "der Kellner (masculine, -er agent noun) · das Bier (neuter, must-memorize) · die Rechnung (feminine, -ung)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Hotel ist sehr gut. (The hotel)",
+      "solution": "Das",
+      "explanation": "das Hotel — neuter. Borrowed word; neuter is common for modern borrowed nouns."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Bahnhof ist weit weg. (The train station)",
+      "solution": "Der",
+      "explanation": "der Bahnhof — masculine. Must-memorize; no reliable ending pattern."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Wohnung hat drei Zimmer. (The flat)",
+      "solution": "Die",
+      "explanation": "die Wohnung — feminine. The -ung ending is one of the most reliable patterns: always die."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Ticket kostet fünfzehn Euro. (The ticket)",
+      "solution": "Das",
+      "explanation": "das Ticket — neuter. Borrowed from English; modern borrowed words are often neuter."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Pass und ___ Koffer sind am Bahnhof. (The passport / The suitcase)",
+      "solution": "Der, der",
+      "explanation": "der Pass and der Koffer are both masculine. Both must be memorized; no ending pattern helps here."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Rechnung kommt vom Kellner. ___ Restaurant ist sehr gut. (The bill / The restaurant)",
+      "solution": "Die, Das",
+      "explanation": "die Rechnung (feminine, -ung ending). das Restaurant (neuter, borrowed word)."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Zug ist pünktlich.\na) Der\nb) Die\nc) Das",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "a) Der",
+      "explanation": "der Zug — masculine. Must-memorize; transport nouns are often masculine but there is no rule, so memorize it."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Kind schläft.\na) Der\nb) Die\nc) Das",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "c) Das",
+      "explanation": "das Kind — neuter. This is a must-memorize noun; despite referring to a child (a person), German uses neuter."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Apotheke ist geschlossen.\na) Der\nb) Die\nc) Das",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "b) Die",
+      "explanation": "die Apotheke — feminine. The -e ending on a place noun is a reliable indicator of feminine gender."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Frühstück ist um sieben Uhr.\na) Der\nb) Die\nc) Das",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "c) Das",
+      "explanation": "das Frühstück — neuter. It is a compound noun originally derived from an infinitive (früh + stücken), and nouns made from infinitives are always neuter."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Reservierung ist für zwei Nächte.\na) Der\nb) Die\nc) Das",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "b) Die",
+      "explanation": "die Reservierung — feminine. The -ung ending is one of the most reliable patterns in German: virtually all -ung nouns are feminine."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Museum ist sehr interessant.\na) Der\nb) Die\nc) Das",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "c) Das",
+      "explanation": "das Museum — neuter. The -um ending (from Latin/Greek borrowed words) is a reliable indicator of neuter gender."
+    },
+    {
+      "id": 13,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The train station is far away.",
+      "solution": "Der Bahnhof ist weit weg.",
+      "explanation": "der Bahnhof — masculine (must-memorize). 'Weit weg' means 'far away'."
+    },
+    {
+      "id": 14,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The pharmacy is on the right.",
+      "solution": "Die Apotheke ist rechts.",
+      "explanation": "die Apotheke — feminine (-e ending, place noun). 'Rechts' means 'on the right'."
+    },
+    {
+      "id": 15,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The hotel has a restaurant.",
+      "solution": "Das Hotel hat ein Restaurant.",
+      "explanation": "das Hotel (neuter, borrowed word) · das Restaurant (neuter, borrowed) → 'ein Restaurant' (Akkusativ neuter, no change)."
+    },
+    {
+      "id": 16,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The bill, please. The waiter is very friendly.",
+      "solution": "Die Rechnung, bitte. Der Kellner ist sehr freundlich.",
+      "explanation": "die Rechnung (feminine, -ung ending) · der Kellner (masculine, -er agent noun)."
+    },
+    {
+      "id": 17,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Mann ist Arzt.",
+      "solution": "Der Mann ist Arzt.",
+      "explanation": "der Mann — masculine. Male persons are always masculine in German."
+    },
+    {
+      "id": 18,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Hotel ist schön.",
+      "solution": "Das Hotel ist schön.",
+      "explanation": "das Hotel — neuter (not feminine). Borrowed words, especially those ending in a vowel like Hotel, are typically neuter."
+    },
+    {
+      "id": 19,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Wohnung hat drei Zimmer.",
+      "solution": "Die Wohnung hat drei Zimmer.",
+      "explanation": "die Wohnung — feminine. The -ung ending always signals feminine gender; it should be die, not der."
+    },
+    {
+      "id": 20,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Zug nach Berlin fährt um neun Uhr ab.",
+      "solution": "Der Zug nach Berlin fährt um neun Uhr ab.",
+      "explanation": "der Zug — masculine (must-memorize). The -ug ending has no pattern rule; this noun must be memorized as masculine."
+    }
+  ]
+}

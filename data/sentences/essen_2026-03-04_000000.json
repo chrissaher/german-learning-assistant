@@ -1,0 +1,78 @@
+{
+  "word": "essen",
+  "base_form": "essen",
+  "word_type": "verb",
+  "generated_at": "2026-03-04T00:00:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Ich esse Brot.",
+      "english": "I eat bread.",
+      "level": "simple",
+      "grammar_note": "1st person singular Präsens; 'Brot' (neuter) used without article as general food."
+    },
+    {
+      "id": 2,
+      "german": "Du isst gern Pizza.",
+      "english": "You like to eat pizza.",
+      "level": "simple",
+      "grammar_note": "2nd person singular; irregular stem change e→i (essen→isst); 'gern' adds 'like to.'"
+    },
+    {
+      "id": 3,
+      "german": "Er isst ein Ei.",
+      "english": "He eats an egg.",
+      "level": "simple",
+      "grammar_note": "3rd person singular; 'ein Ei' — neuter indefinite article in accusative (same form as nominative for neuter)."
+    },
+    {
+      "id": 4,
+      "german": "Wir essen heute Abend im Restaurant.",
+      "english": "We are eating at the restaurant this evening.",
+      "level": "medium",
+      "grammar_note": "1st person plural; time phrase 'heute Abend' placed after the verb; 'im' = in + dem (dative contraction)."
+    },
+    {
+      "id": 5,
+      "german": "Was isst du zum Frühstück?",
+      "english": "What do you eat for breakfast?",
+      "level": "medium",
+      "grammar_note": "Question word 'was' triggers verb-second word order; 'zum Frühstück' = zu + dem, dative contraction."
+    },
+    {
+      "id": 6,
+      "german": "Sie essen oft Nudeln.",
+      "english": "They/You (formal) eat pasta often.",
+      "level": "medium",
+      "grammar_note": "'Sie' (formal) or 3rd person plural; 'oft' (often) is a frequency adverb placed after the verb."
+    },
+    {
+      "id": 7,
+      "german": "Ich esse kein Fleisch, aber ich esse gern Fisch.",
+      "english": "I don't eat meat, but I like to eat fish.",
+      "level": "complex",
+      "grammar_note": "Coordinating conjunction 'aber' (but) joins two main clauses; 'kein' negates the noun."
+    },
+    {
+      "id": 8,
+      "german": "Meine Mutter isst jeden Tag Obst und Gemüse.",
+      "english": "My mother eats fruit and vegetables every day.",
+      "level": "complex",
+      "grammar_note": "'jeden Tag' (every day) — accusative time expression; 'und' connects two nouns."
+    },
+    {
+      "id": 9,
+      "german": "Wir haben heute Abend Schnitzel gegessen.",
+      "english": "We ate Schnitzel this evening.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + Partizip II (gegessen); 'essen' is irregular (gegessen, not *geesst)."
+    },
+    {
+      "id": 10,
+      "german": "Haben Sie schon gegessen, oder möchten Sie noch etwas bestellen?",
+      "english": "Have you already eaten, or would you like to order something else?",
+      "level": "complex",
+      "grammar_note": "Perfekt question with 'schon' (already); 'möchten' is a modal verb (would like); useful restaurant phrase."
+    }
+  ]
+}

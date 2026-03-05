@@ -1,0 +1,78 @@
+{
+  "word": "hässlich",
+  "base_form": "hässlich",
+  "word_type": "adjective",
+  "generated_at": "2026-03-05T10:30:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Das Gebäude ist hässlich.",
+      "english": "The building is ugly.",
+      "level": "simple",
+      "grammar_note": "Predicate position (after ist): hässlich takes no ending, regardless of the noun's gender."
+    },
+    {
+      "id": 2,
+      "german": "Der Tisch ist sehr hässlich.",
+      "english": "The table is very ugly.",
+      "level": "simple",
+      "grammar_note": "Predicate adjective stays undeclined even with masculine der Tisch — the gender never affects predicate form."
+    },
+    {
+      "id": 3,
+      "german": "Du siehst das hässliche Bild.",
+      "english": "You see the ugly picture.",
+      "level": "simple",
+      "grammar_note": "Das hässliche Bild: neuter accusative, definite article → weak ending -e (not -es, because definite article already shows the gender)."
+    },
+    {
+      "id": 4,
+      "german": "Die hässliche Straße in der Stadt ist lang.",
+      "english": "The ugly street in the city is long.",
+      "level": "medium",
+      "grammar_note": "Die hässliche Straße: feminine nominative, definite article → weak ending -e; in der Stadt = dative feminine."
+    },
+    {
+      "id": 5,
+      "german": "Ich finde das alte Hotel sehr hässlich.",
+      "english": "I find the old hotel very ugly.",
+      "level": "medium",
+      "grammar_note": "Predicate complement after finden: hässlich stays undeclined; das Hotel is neuter accusative direct object."
+    },
+    {
+      "id": 6,
+      "german": "Er wohnt in einem hässlichen Haus in Berlin.",
+      "english": "He lives in an ugly house in Berlin.",
+      "level": "medium",
+      "grammar_note": "Einem hässlichen Haus: neuter dative, indefinite article → mixed ending -en (dative always uses -en for attributive adjectives)."
+    },
+    {
+      "id": 7,
+      "german": "Ich habe ein hässliches Zimmer im Hotel gefunden.",
+      "english": "I found an ugly room in the hotel.",
+      "level": "complex",
+      "grammar_note": "Perfekt: habe + gefunden; ein hässliches Zimmer: neuter accusative, indefinite article → mixed ending -es (the article ein gives no gender signal here, so the adjective must show it)."
+    },
+    {
+      "id": 8,
+      "german": "Das Gebäude ist sehr hässlich, aber das Museum ist schön.",
+      "english": "The building is very ugly, but the museum is beautiful.",
+      "level": "complex",
+      "grammar_note": "Aber (but) joins two main clauses with verb in second position in each; both adjectives stay undeclined in predicate position."
+    },
+    {
+      "id": 9,
+      "german": "Sie können das hässliche Sofa aus dem Zimmer nehmen.",
+      "english": "You can take the ugly sofa out of the room.",
+      "level": "complex",
+      "grammar_note": "Modal können sends nehmen to the end; das hässliche Sofa: neuter accusative, definite article → weak ending -e."
+    },
+    {
+      "id": 10,
+      "german": "Wir haben die hässlichen Stühle im Restaurant nicht gemocht.",
+      "english": "We didn't like the ugly chairs in the restaurant.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + gemocht (mögen → gemocht, irregular); die hässlichen Stühle: plural accusative, definite article → weak ending -en."
+    }
+  ]
+}

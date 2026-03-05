@@ -1,0 +1,78 @@
+{
+  "word": "gefallen",
+  "base_form": "gefallen",
+  "word_type": "verb",
+  "generated_at": "2026-03-04T10:00:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Das gefällt mir.",
+      "english": "I like that.",
+      "level": "simple",
+      "grammar_note": "Gefallen works like 'gustar': the thing liked is the subject (Das), and the person uses dative (mir = to me)."
+    },
+    {
+      "id": 2,
+      "german": "Die Stadt gefällt dir.",
+      "english": "You like the city.",
+      "level": "simple",
+      "grammar_note": "Dir is the dative of 'du'; die Stadt is the nominative subject of gefällt."
+    },
+    {
+      "id": 3,
+      "german": "Musik gefällt ihr.",
+      "english": "She likes music.",
+      "level": "simple",
+      "grammar_note": "Ihr here is dative of 'sie' (she); Musik is the subject without an article."
+    },
+    {
+      "id": 4,
+      "german": "Das Essen im Restaurant gefällt mir sehr.",
+      "english": "I like the food in the restaurant very much.",
+      "level": "medium",
+      "grammar_note": "Im = in + dem (dative contraction); sehr modifies gefällt as an adverb of degree."
+    },
+    {
+      "id": 5,
+      "german": "Die Hotels in Wien gefallen uns gut.",
+      "english": "We like the hotels in Vienna.",
+      "level": "medium",
+      "grammar_note": "Plural subject (die Hotels) requires the plural verb form 'gefallen'; uns is dative of 'wir'."
+    },
+    {
+      "id": 6,
+      "german": "Wie gefällt Ihnen das Hotel in München?",
+      "english": "How do you like the hotel in Munich?",
+      "level": "medium",
+      "grammar_note": "Ihnen is the dative of formal 'Sie'; 'Wie' starts the sentence, pushing the verb to second position."
+    },
+    {
+      "id": 7,
+      "german": "Das Stadtmuseum hat mir gestern sehr gut gefallen.",
+      "english": "I liked the city museum very much yesterday.",
+      "level": "complex",
+      "grammar_note": "Perfekt: hat + gefallen (past participle); gefallen uses 'haben' as its auxiliary verb."
+    },
+    {
+      "id": 8,
+      "german": "Der Strand gefällt meiner Familie, und wir kommen jeden Sommer.",
+      "english": "My family likes the beach, and we come every summer.",
+      "level": "complex",
+      "grammar_note": "Meiner Familie is dative feminine; 'und' joins two main clauses with normal verb-second word order in each."
+    },
+    {
+      "id": 9,
+      "german": "Das Hotel gefällt mir nicht, aber das Zimmer ist sauber.",
+      "english": "I don't like the hotel, but the room is clean.",
+      "level": "complex",
+      "grammar_note": "Negation 'nicht' goes at the end of the verb phrase; 'aber' (but) is a coordinating conjunction."
+    },
+    {
+      "id": 10,
+      "german": "Hat dir die Reise nach Berlin gut gefallen?",
+      "english": "Did you like the trip to Berlin?",
+      "level": "complex",
+      "grammar_note": "Perfekt yes/no question: 'hat' moves to first position; past participle 'gefallen' goes to the end."
+    }
+  ]
+}

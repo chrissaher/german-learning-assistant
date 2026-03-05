@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Grammar: Nominativ · Akkusativ · Dativ — German Learning A1</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.65;
+      color: #212121;
+      background: #fafafa;
+      padding: 24px 16px 64px;
+    }
+
+    .container { max-width: 800px; margin: 0 auto; }
+
+    /* ── HEADER ── */
+    header {
+      background: #1a237e;
+      color: #fff;
+      border-radius: 10px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+    }
+    header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 6px; }
+    header .focus-line { font-size: 0.95rem; opacity: 0.85; margin-bottom: 4px; }
+    header .meta { font-size: 0.8rem; opacity: 0.6; }
+
+    /* ── NAV ── */
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 32px;
+    }
+    nav a {
+      background: #e8eaf6;
+      color: #1a237e;
+      text-decoration: none;
+      padding: 8px 18px;
+      border-radius: 24px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: background 0.15s;
+    }
+    nav a:hover { background: #c5cae9; }
+
+    /* ── SECTIONS ── */
+    section { margin-bottom: 48px; }
+    section > h2 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: #1a237e;
+      border-bottom: 3px solid #c5cae9;
+      padding-bottom: 8px;
+      margin-bottom: 20px;
+    }
+
+    /* ── EXPLANATION ── */
+    .exp-block { margin-bottom: 28px; }
+    .exp-block h3 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #283593;
+      margin-bottom: 8px;
+    }
+    .exp-block p { margin-bottom: 8px; white-space: pre-line; }
+
+    /* Tables */
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 12px 0 16px;
+      font-size: 0.92rem;
+    }
+    th {
+      background: #e8eaf6;
+      color: #1a237e;
+      padding: 8px 12px;
+      text-align: left;
+      border: 1px solid #c5cae9;
+    }
+    td {
+      padding: 8px 12px;
+      border: 1px solid #e0e0e0;
+      text-align: center;
+    }
+    tr:nth-child(even) td { background: #f5f5f5; }
+    td:first-child { text-align: left; font-weight: 600; }
+    .changed { color: #c62828; font-weight: 700; }
+
+    /* Transfer notes */
+    .transfer-notes {
+      background: #e8f5e9;
+      border-left: 4px solid #2e7d32;
+      border-radius: 6px;
+      padding: 16px 20px;
+      margin-top: 8px;
+    }
+    .transfer-notes h3 { color: #1b5e20; margin-bottom: 10px; font-size: 1rem; }
+    .transfer-notes ul { padding-left: 20px; }
+    .transfer-notes li { margin-bottom: 6px; }
+
+    /* Key takeaway */
+    .key-takeaway {
+      background: #fff8e1;
+      border-left: 4px solid #f9a825;
+      border-radius: 6px;
+      padding: 16px 20px;
+      margin-top: 16px;
+      font-weight: 600;
+      color: #4e342e;
+    }
+    .key-takeaway span { color: #e65100; }
+
+    /* ── LEVEL BADGE ── */
+    .badge {
+      display: inline-block;
+      padding: 2px 10px;
+      border-radius: 12px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: #fff;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .badge-simple    { background: #2e7d32; }
+    .badge-medium    { background: #f57c00; }
+    .badge-complex   { background: #c62828; }
+    .badge-fill      { background: #1565c0; }
+    .badge-choice    { background: #6a1b9a; }
+    .badge-trans     { background: #00695c; }
+    .badge-error     { background: #4e342e; }
+
+    /* ── EXAMPLES ── */
+    .level-group { margin-bottom: 24px; }
+    .level-group h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .example-card {
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin-bottom: 10px;
+    }
+    .example-german { font-size: 1.05rem; font-weight: 600; color: #1a237e; }
+    .example-english { color: #555; font-size: 0.92rem; margin: 2px 0 4px; }
+    .example-note { font-size: 0.85rem; color: #5c6bc0; }
+    .example-note::before { content: "📝 "; }
+
+    /* ── EXERCISES ── */
+    .exercise-card {
+      background: #f5f5f5;
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 14px;
+    }
+    .exercise-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+    .exercise-num { font-weight: 700; font-size: 1rem; color: #333; }
+    .exercise-prompt { white-space: pre-line; font-size: 0.97rem; color: #212121; }
+
+    /* ── SOLUTIONS ── */
+    #solutions { background: #fffde7; border-radius: 10px; padding: 24px; }
+    #solutions h2 { color: #e65100; border-color: #ffe082; }
+    .solution-card {
+      border-bottom: 1px solid #ffe082;
+      padding: 12px 0;
+      font-size: 0.93rem;
+    }
+    .solution-card:last-child { border-bottom: none; }
+    .solution-id { font-weight: 700; color: #e65100; margin-bottom: 4px; }
+    .solution-answer {
+      font-weight: 700;
+      color: #1b5e20;
+      margin-bottom: 4px;
+    }
+    .solution-explanation { color: #555; }
+
+    /* ── FOOTER ── */
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #9e9e9e;
+      margin-top: 48px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>Grammar: Nominativ · Akkusativ · Dativ</h1>
+    <p class="focus-line"><strong>Focus:</strong> Article changes (der/die/das), ein/kein variations, dative prepositions</p>
+    <p class="meta">Generated 2026-03-05 &nbsp;·&nbsp; Level: A1</p>
+  </header>
+
+  <nav>
+    <a href="#explanation">📖 Explanation</a>
+    <a href="#examples">✏️ Examples</a>
+    <a href="#exercises">🏋️ Exercises</a>
+    <a href="#solutions">✅ Solutions</a>
+  </nav>
+
+  <!-- ════════════════════ EXPLANATION ════════════════════ -->
+  <section id="explanation">
+    <h2>📖 Explanation</h2>
+
+    <div class="exp-block">
+      <h3>What is it?</h3>
+      <p>German uses a system of grammatical cases to show the role each noun plays in a sentence. The case of a noun determines the form of its article — this is why <em>der/die/das</em> change. At A1 level, you need three cases: <strong>Nominativ</strong> (the subject), <strong>Akkusativ</strong> (the direct object), and <strong>Dativ</strong> (the indirect object or following certain prepositions).</p>
+    </div>
+
+    <div class="exp-block">
+      <h3>When to use each case</h3>
+      <p><strong>NOMINATIV</strong> — The subject: the person or thing performing the action.<br>
+      Ask: <em>"Who or what is doing this?"</em><br>
+      Example: <em>Der Mann schläft.</em> (The man is sleeping.)</p>
+
+      <p><strong>AKKUSATIV</strong> — The direct object: what is directly affected by the action.<br>
+      Ask: <em>"Who or what is being acted on?"</em><br>
+      Example: <em>Ich kaufe den Kaffee.</em> (I buy the coffee.)</p>
+
+      <p><strong>DATIV</strong> — The indirect object: to whom or for whom something is done. Also required by certain prepositions when expressing location.<br>
+      Ask: <em>"To whom? For whom? Where is it (with a location preposition)?"</em><br>
+      Example: <em>Ich gebe dem Mann das Buch.</em> (I give the man the book.)</p>
+    </div>
+
+    <div class="exp-block">
+      <h3>How to form it — Definite Articles (der/die/das)</h3>
+      <table>
+        <thead>
+          <tr><th>Case</th><th>Masculine (m)</th><th>Feminine (f)</th><th>Neuter (n)</th><th>Plural</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Nominativ</td><td>der</td><td>die</td><td>das</td><td>die</td></tr>
+          <tr><td>Akkusativ</td><td class="changed">den</td><td>die</td><td>das</td><td>die</td></tr>
+          <tr><td>Dativ</td><td class="changed">dem</td><td class="changed">der</td><td class="changed">dem</td><td class="changed">den</td></tr>
+        </tbody>
+      </table>
+      <p><strong>What changes (red = changed from Nominativ):</strong></p>
+      <ul style="padding-left:20px; margin-top:8px;">
+        <li>Masculine changes in BOTH Akkusativ and Dativ: <strong>der → den → dem</strong></li>
+        <li>Feminine changes only in Dativ: <strong>die → der</strong></li>
+        <li>Neuter changes only in Dativ: <strong>das → dem</strong></li>
+        <li>Plural changes only in Dativ: <strong>die → den</strong></li>
+      </ul>
+      <p style="margin-top:10px;"><strong>Memory trick:</strong> In Akkusativ, ONLY masculine changes (der → den). In Dativ, ALL genders change: masculine and neuter both become <em>dem</em>, feminine becomes <em>der</em>.</p>
+    </div>
+
+    <div class="exp-block">
+      <h3>How to form it — Indefinite Articles (ein/eine)</h3>
+      <table>
+        <thead>
+          <tr><th>Case</th><th>Masculine (m)</th><th>Feminine (f)</th><th>Neuter (n)</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Nominativ</td><td>ein</td><td>eine</td><td>ein</td></tr>
+          <tr><td>Akkusativ</td><td class="changed">einen</td><td>eine</td><td>ein</td></tr>
+          <tr><td>Dativ</td><td class="changed">einem</td><td class="changed">einer</td><td class="changed">einem</td></tr>
+        </tbody>
+      </table>
+      <p><strong>Note:</strong> There is no plural of <em>ein</em> — for plural indefinite nouns simply use no article: <em>Ich kaufe Äpfel.</em></p>
+      <ul style="padding-left:20px; margin-top:8px;">
+        <li>Masculine Akkusativ: ein → <strong>einen</strong></li>
+        <li>All genders in Dativ gain a suffix: -em (m), -er (f), -em (n)</li>
+      </ul>
+    </div>
+
+    <div class="exp-block">
+      <h3>How to form it — Negative Article (kein/keine)</h3>
+      <p><em>kein/keine</em> means "not a / no" and follows the <strong>exact same pattern as ein/eine</strong>, plus it has a plural form:</p>
+      <table>
+        <thead>
+          <tr><th>Case</th><th>Masculine (m)</th><th>Feminine (f)</th><th>Neuter (n)</th><th>Plural</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Nominativ</td><td>kein</td><td>keine</td><td>kein</td><td>keine</td></tr>
+          <tr><td>Akkusativ</td><td class="changed">keinen</td><td>keine</td><td>kein</td><td>keine</td></tr>
+          <tr><td>Dativ</td><td class="changed">keinem</td><td class="changed">keiner</td><td class="changed">keinem</td><td class="changed">keinen</td></tr>
+        </tbody>
+      </table>
+      <p><strong>Usage:</strong> Use <em>kein</em> to negate nouns that take <em>ein</em> or no article.</p>
+      <ul style="padding-left:20px; margin-top:8px;">
+        <li>Ich habe ein Auto. → Ich habe <strong>kein</strong> Auto.</li>
+        <li>Ich habe Hunger. → Ich habe <strong>keinen</strong> Hunger. (masculine Akkusativ!)</li>
+      </ul>
+      <p style="margin-top:8px; color:#c62828;"><strong>⚠️ Common mistake:</strong> Do NOT use <em>nicht ein</em> to negate a noun — use <em>kein</em> instead.</p>
+    </div>
+
+    <div class="exp-block">
+      <h3>Dative Prepositions — The Connection You Noticed</h3>
+      <p>Your observation is exactly right. When a preposition forces dative case, the article changes to its dative form — it is the same case system at work.</p>
+      <p style="margin-top:10px;"><strong>ALWAYS DATIVE (at A1):</strong> <em>mit, bei, zu, von, aus, nach, seit, gegenüber</em></p>
+      <p style="margin-top:10px;"><strong>TWO-WAY PREPOSITIONS</strong> (the ones you asked about):<br>
+      <em>an, auf, hinter, in, neben, über, unter, vor, zwischen</em></p>
+      <ul style="padding-left:20px; margin-top:6px;">
+        <li>Use <strong>DATIV</strong> when answering <em>"Where is it?"</em> (location)</li>
+        <li>Use <strong>AKKUSATIV</strong> when answering <em>"Where is it going?"</em> (direction/movement)</li>
+      </ul>
+
+      <table style="margin-top:12px;">
+        <thead>
+          <tr><th>Question</th><th>Case</th><th>Example</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Where IS it? (location)</td><td>Dativ</td><td><em>Das Restaurant ist neben <strong>dem</strong> Hotel.</em></td></tr>
+          <tr><td>Where is it GOING? (direction)</td><td>Akkusativ</td><td><em>Ich gehe neben <strong>das</strong> Hotel.</em></td></tr>
+        </tbody>
+      </table>
+
+      <p style="margin-top:14px;"><strong>After dative prepositions, the articles become:</strong></p>
+      <ul style="padding-left:20px; margin-top:6px;">
+        <li>Masculine → <strong>dem</strong> (der → dem)</li>
+        <li>Feminine → <strong>der</strong> (die → der)</li>
+        <li>Neuter → <strong>dem</strong> (das → dem)</li>
+        <li>Plural → <strong>den</strong> (die → den)</li>
+      </ul>
+
+      <p style="margin-top:14px;"><strong>Common contractions (you will see these constantly):</strong></p>
+      <ul style="padding-left:20px; margin-top:6px;">
+        <li><em>in + dem</em> = <strong>im</strong> → Ich bin <strong>im</strong> Hotel.</li>
+        <li><em>an + dem</em> = <strong>am</strong> → Er steht <strong>am</strong> Bahnhof.</li>
+        <li><em>zu + dem</em> = <strong>zum</strong> → Ich gehe <strong>zum</strong> Restaurant.</li>
+        <li><em>zu + der</em> = <strong>zur</strong> → Ich gehe <strong>zur</strong> Apotheke.</li>
+      </ul>
+    </div>
+
+    <div class="exp-block">
+      <h3>Common Exceptions</h3>
+      <ol style="padding-left:20px;">
+        <li style="margin-bottom:8px;"><strong>Plural nouns in Dativ add -n</strong> to the noun itself (if the plural doesn't already end in -n or -s):<br>
+          <em>die Männer → den Männern &nbsp;|&nbsp; die Kinder → den Kindern &nbsp;|&nbsp; die Hotels → den Hotels</em></li>
+        <li><strong>N-nouns</strong> (masculine nouns that add -en in all cases except Nominativ):<br>
+          <em>der Herr → den Herrn (Akk) → dem Herrn (Dat)</em><br>
+          Not very common at A1, but worth recognizing.</li>
+      </ol>
+    </div>
+
+    <div class="transfer-notes">
+      <h3>🌍 Transfer Notes</h3>
+      <ul>
+        <li>Spanish has gender (el/la) but only 2 genders. German has 3 (m/f/n) and the article changes with case — don't map Spanish el/la directly to German der/die/das.</li>
+        <li>Spanish uses indirect objects with clitic pronouns (le doy el libro a él), which parallels Dativ closely. The concept is the same; the mechanism differs.</li>
+        <li>English has <strong>no article changes for case at all</strong> — 'the' and 'a' never change. This makes case invisible to English speakers; you must consciously track each noun's role.</li>
+        <li>The Spanish 'personal a' (marking a direct-object person: veo a Juan) has no German equivalent — German uses Akkusativ article forms (den/einen/keinen) to signal the direct object.</li>
+      </ul>
+    </div>
+
+    <div class="key-takeaway">
+      🔑 <span>Key Takeaway:</span> In Akkusativ only the masculine article changes (der → den, ein → einen, kein → keinen); in Dativ ALL genders change — and the same changes apply whether the dative comes from an indirect object or from a dative preposition like vor, neben, or an.
+    </div>
+  </section>
+
+  <!-- ════════════════════ EXAMPLES ════════════════════ -->
+  <section id="examples">
+    <h2>✏️ Examples</h2>
+
+    <div class="level-group">
+      <h3><span class="badge badge-simple">Simple</span> 3 examples — Nominativ / Akkusativ basics</h3>
+
+      <div class="example-card">
+        <div class="example-german">1. Der Zug ist schnell.</div>
+        <div class="example-english">→ The train is fast.</div>
+        <div class="example-note">Nominativ masculine: 'der' — Zug is the subject performing no action but being described.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">2. Ich kaufe einen Kaffee.</div>
+        <div class="example-english">→ I am buying a coffee.</div>
+        <div class="example-note">Akkusativ masculine indefinite: ein → einen — Kaffee is the direct object of kaufen.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">3. Das ist kein Hotel.</div>
+        <div class="example-english">→ That is not a hotel.</div>
+        <div class="example-note">Nominativ neuter: 'kein' — Hotel is neuter (das Hotel); kein does not change in Nominativ neuter.</div>
+      </div>
+    </div>
+
+    <div class="level-group">
+      <h3><span class="badge badge-medium">Medium</span> 3 examples — Akkusativ + Dativ prepositions</h3>
+
+      <div class="example-card">
+        <div class="example-german">4. Ich sehe den Bahnhof nicht.</div>
+        <div class="example-english">→ I don't see the train station.</div>
+        <div class="example-note">Akkusativ masculine definite: der → den — Bahnhof is the direct object of sehen.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">5. Sie hat keinen Hunger.</div>
+        <div class="example-english">→ She is not hungry. (lit. She has no hunger.)</div>
+        <div class="example-note">Akkusativ masculine: kein → keinen — Hunger is masculine (der Hunger) and the direct object of haben.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">6. Das Café ist neben dem Hotel.</div>
+        <div class="example-english">→ The café is next to the hotel.</div>
+        <div class="example-note">Dativ neuter after 'neben' (location): das → dem — Hotel is neuter and the location is fixed (not a direction).</div>
+      </div>
+    </div>
+
+    <div class="level-group">
+      <h3><span class="badge badge-complex">Complex</span> 6 examples — Double objects, multiple prepositions, Perfekt</h3>
+
+      <div class="example-card">
+        <div class="example-german">7. Ich gebe dem Kellner ein Trinkgeld.</div>
+        <div class="example-english">→ I give the waiter a tip.</div>
+        <div class="example-note">Double object: 'dem Kellner' = Dativ masculine (indirect object, der → dem); 'ein Trinkgeld' = Akkusativ neuter indefinite (no change for neuter).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">8. Das Restaurant ist neben der Apotheke und vor dem Bahnhof.</div>
+        <div class="example-english">→ The restaurant is next to the pharmacy and in front of the train station.</div>
+        <div class="example-note">Two location prepositions, both forcing Dativ: 'neben der Apotheke' (feminine die → der) and 'vor dem Bahnhof' (masculine der → dem).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">9. Er hat kein Ticket gekauft, weil er kein Geld hat.</div>
+        <div class="example-english">→ He didn't buy a ticket because he has no money.</div>
+        <div class="example-note">Akkusativ neuter: 'kein Ticket' and 'kein Geld' — both neuter nouns, Akkusativ of kein = kein (no change for neuter).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">10. Ich wohne in einem Hotel in der Stadt.</div>
+        <div class="example-english">→ I live in a hotel in the city.</div>
+        <div class="example-note">Dativ after 'in' (location): 'einem Hotel' (neuter indefinite: ein → einem) and 'der Stadt' (feminine definite: die → der).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">11. Sie sucht eine Apotheke, aber sie findet keine.</div>
+        <div class="example-english">→ She is looking for a pharmacy, but she doesn't find one.</div>
+        <div class="example-note">Akkusativ feminine: 'eine Apotheke' and 'keine' — feminine indefinite Akkusativ stays eine/keine (no change for feminine).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">12. Er hat dem Taxifahrer den Bahnhof gezeigt.</div>
+        <div class="example-english">→ He showed the taxi driver the train station.</div>
+        <div class="example-note">Perfekt with double object: 'dem Taxifahrer' (Dativ masculine indirect object) + 'den Bahnhof' (Akkusativ masculine direct object).</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════ EXERCISES ════════════════════ -->
+  <section id="exercises">
+    <h2>🏋️ Exercises</h2>
+    <p style="margin-bottom:20px; color:#555;">Try to answer each exercise before looking at the solutions below.</p>
+
+    <!-- Fill in the blank -->
+    <h3 style="margin-bottom:12px; color:#1565c0;">Fill in the Blank</h3>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">1.</span>
+        <span class="badge badge-fill">Fill in blank</span>
+        <span class="badge badge-simple">Simple</span>
+      </div>
+      <div class="exercise-prompt">___ Zug ist schnell. (The train — Nominativ, masculine)</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">2.</span>
+        <span class="badge badge-fill">Fill in blank</span>
+        <span class="badge badge-simple">Simple</span>
+      </div>
+      <div class="exercise-prompt">Ich kaufe ___ Brot. (a bread — Akkusativ, neuter)</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">3.</span>
+        <span class="badge badge-fill">Fill in blank</span>
+        <span class="badge badge-medium">Medium</span>
+      </div>
+      <div class="exercise-prompt">Das Café ist neben ___ Bahnhof. (the train station — Dativ, masculine)</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">4.</span>
+        <span class="badge badge-fill">Fill in blank</span>
+        <span class="badge badge-medium">Medium</span>
+      </div>
+      <div class="exercise-prompt">Er hat ___ Hunger. (no hunger — Akkusativ, masculine)</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">5.</span>
+        <span class="badge badge-fill">Fill in blank</span>
+        <span class="badge badge-complex">Complex</span>
+      </div>
+      <div class="exercise-prompt">Ich gebe ___ Kellner ___ Trinkgeld.
+(the waiter — Dativ masculine  /  a tip — Akkusativ neuter)</div>
+    </div>
+
+    <!-- Multiple choice -->
+    <h3 style="margin: 24px 0 12px; color:#6a1b9a;">Multiple Choice</h3>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">6.</span>
+        <span class="badge badge-choice">Multiple choice</span>
+        <span class="badge badge-simple">Simple</span>
+      </div>
+      <div class="exercise-prompt">Das ist ___ Hotel.
+a) ein
+b) einen
+c) einem</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">7.</span>
+        <span class="badge badge-choice">Multiple choice</span>
+        <span class="badge badge-simple">Simple</span>
+      </div>
+      <div class="exercise-prompt">Das ist ___ Apotheke.
+a) ein
+b) einen
+c) eine</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">8.</span>
+        <span class="badge badge-choice">Multiple choice</span>
+        <span class="badge badge-medium">Medium</span>
+      </div>
+      <div class="exercise-prompt">Ich sehe ___ Mann nicht.
+a) der
+b) den
+c) dem</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">9.</span>
+        <span class="badge badge-choice">Multiple choice</span>
+        <span class="badge badge-complex">Complex</span>
+      </div>
+      <div class="exercise-prompt">Das Buch liegt auf ___ Tisch. (location — where is the book?)
+a) der
+b) den
+c) dem</div>
+    </div>
+
+    <!-- Translation -->
+    <h3 style="margin: 24px 0 12px; color:#00695c;">Translation</h3>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">10.</span>
+        <span class="badge badge-trans">Translation</span>
+        <span class="badge badge-medium">Medium</span>
+      </div>
+      <div class="exercise-prompt">Translate: "The woman has no car."</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">11.</span>
+        <span class="badge badge-trans">Translation</span>
+        <span class="badge badge-medium">Medium</span>
+      </div>
+      <div class="exercise-prompt">Translate: "I am looking for the train station."</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">12.</span>
+        <span class="badge badge-trans">Translation</span>
+        <span class="badge badge-complex">Complex</span>
+      </div>
+      <div class="exercise-prompt">Translate: "The restaurant is next to the pharmacy."</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">13.</span>
+        <span class="badge badge-trans">Translation</span>
+        <span class="badge badge-complex">Complex</span>
+      </div>
+      <div class="exercise-prompt">Translate: "He has bought no ticket."
+(Use Perfekt: kaufen → hat gekauft)</div>
+    </div>
+
+    <!-- Error correction -->
+    <h3 style="margin: 24px 0 12px; color:#4e342e;">Error Correction</h3>
+    <p style="margin-bottom:12px; color:#555; font-size:0.9rem;">Each sentence contains exactly one grammatical error related to articles/cases. Find and correct it.</p>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">14.</span>
+        <span class="badge badge-error">Error correction</span>
+        <span class="badge badge-simple">Simple</span>
+      </div>
+      <div class="exercise-prompt">Ich kaufe der Kaffee.</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">15.</span>
+        <span class="badge badge-error">Error correction</span>
+        <span class="badge badge-medium">Medium</span>
+      </div>
+      <div class="exercise-prompt">Das Hotel ist neben die Apotheke.</div>
+    </div>
+
+    <div class="exercise-card">
+      <div class="exercise-header">
+        <span class="exercise-num">16.</span>
+        <span class="badge badge-error">Error correction</span>
+        <span class="badge badge-complex">Complex</span>
+      </div>
+      <div class="exercise-prompt">Ich habe kein Hunger, aber ich esse ein Sandwich.</div>
+    </div>
+  </section>
+
+  <!-- ════════════════════ SOLUTIONS ════════════════════ -->
+  <section id="solutions">
+    <h2>✅ Solutions</h2>
+
+    <div class="solution-card">
+      <div class="solution-id">1. Fill in blank · Simple</div>
+      <div class="solution-answer">→ Der</div>
+      <div class="solution-explanation">Nominativ masculine definite = 'der'. Zug is the subject of the sentence.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">2. Fill in blank · Simple</div>
+      <div class="solution-answer">→ ein</div>
+      <div class="solution-explanation">Akkusativ neuter indefinite = 'ein'. Neuter nouns do not change between Nominativ and Akkusativ.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">3. Fill in blank · Medium</div>
+      <div class="solution-answer">→ dem</div>
+      <div class="solution-explanation">'Neben' for location forces Dativ. Masculine definite Dativ = 'dem'.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">4. Fill in blank · Medium</div>
+      <div class="solution-answer">→ keinen</div>
+      <div class="solution-explanation">Hunger is masculine (der Hunger), Akkusativ direct object of haben. Kein → keinen in Akkusativ masculine.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">5. Fill in blank · Complex</div>
+      <div class="solution-answer">→ dem, ein</div>
+      <div class="solution-explanation">'Dem Kellner' = Dativ masculine definite (indirect object). 'Ein Trinkgeld' = Akkusativ neuter indefinite (neuter has no change in Akkusativ).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">6. Multiple choice · Simple</div>
+      <div class="solution-answer">→ a) ein</div>
+      <div class="solution-explanation">Hotel is neuter (das Hotel). Nominativ neuter indefinite = 'ein'. 'Einen' is masculine Akkusativ; 'einem' is Dativ.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">7. Multiple choice · Simple</div>
+      <div class="solution-answer">→ c) eine</div>
+      <div class="solution-explanation">Apotheke is feminine (die Apotheke). Nominativ feminine indefinite = 'eine'. 'Ein' is masculine/neuter; 'einen' is masculine Akkusativ.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">8. Multiple choice · Medium</div>
+      <div class="solution-answer">→ b) den</div>
+      <div class="solution-explanation">Mann is the direct object (Akkusativ), masculine. Masculine definite Akkusativ = 'den'. 'Der' is Nominativ; 'dem' is Dativ.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">9. Multiple choice · Complex</div>
+      <div class="solution-answer">→ c) dem</div>
+      <div class="solution-explanation">'Auf' for location forces Dativ. Tisch is masculine (der Tisch), so Dativ masculine definite = 'dem'. Direction (putting the book onto the table) would be Akkusativ: 'den Tisch'.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">10. Translation · Medium</div>
+      <div class="solution-answer">→ Die Frau hat kein Auto.</div>
+      <div class="solution-explanation">'Frau' is Nominativ subject (die Frau). 'Auto' is neuter (das Auto), Akkusativ. Neuter Akkusativ of kein = 'kein' (no change).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">11. Translation · Medium</div>
+      <div class="solution-answer">→ Ich suche den Bahnhof.</div>
+      <div class="solution-explanation">'Bahnhof' is masculine (der Bahnhof), Akkusativ direct object of suchen. Masculine definite Akkusativ = 'den'.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">12. Translation · Complex</div>
+      <div class="solution-answer">→ Das Restaurant ist neben der Apotheke.</div>
+      <div class="solution-explanation">'Neben' for location forces Dativ. Apotheke is feminine (die Apotheke). Feminine definite Dativ = 'der'.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">13. Translation · Complex</div>
+      <div class="solution-answer">→ Er hat kein Ticket gekauft.</div>
+      <div class="solution-explanation">'Ticket' is neuter (das Ticket), Akkusativ. Neuter Akkusativ of kein = 'kein' (no change). Perfekt: hat + past participle at the end.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">14. Error correction · Simple</div>
+      <div class="solution-answer">→ Ich kaufe den Kaffee.</div>
+      <div class="solution-explanation">'Kaffee' is masculine Akkusativ direct object. 'Der' (Nominativ) must change to 'den' (Akkusativ masculine).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">15. Error correction · Medium</div>
+      <div class="solution-answer">→ Das Hotel ist neben der Apotheke.</div>
+      <div class="solution-explanation">'Neben' for location forces Dativ. Apotheke is feminine. Feminine definite Dativ = 'der', not 'die' (which is Nominativ/Akkusativ).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">16. Error correction · Complex</div>
+      <div class="solution-answer">→ Ich habe keinen Hunger, aber ich esse ein Sandwich.</div>
+      <div class="solution-explanation">'Hunger' is masculine (der Hunger), Akkusativ direct object of haben. Kein → keinen in Akkusativ masculine. The second clause is already correct: Sandwich is neuter, neuter Akkusativ of ein = 'ein'.</div>
+    </div>
+  </section>
+
+  <footer>
+    Generated by German Learning Assistant &nbsp;·&nbsp; Level: A1 &nbsp;·&nbsp; 2026-03-05
+  </footer>
+
+</div>
+</body>
+</html>

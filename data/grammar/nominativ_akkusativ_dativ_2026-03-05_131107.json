@@ -1,0 +1,265 @@
+{
+  "topic": "nominativ - akusativ - dative",
+  "focus": "article changes (der/die/das variations), ein/kein and their variations, dative prepositions (vor, neben, an, etc.)",
+  "topic_slug": "nominativ_akkusativ_dativ",
+  "generated_at": "2026-03-05T13:11:07",
+  "explanation": {
+    "sections": [
+      {
+        "title": "What is it?",
+        "content": "German uses a system of grammatical cases to show the role each noun plays in a sentence. The case of a noun determines the form of its article — this is why der/die/das change. At A1 level, you need three cases: Nominativ (the subject), Akkusativ (the direct object), and Dativ (the indirect object or following certain prepositions)."
+      },
+      {
+        "title": "When to use each case",
+        "content": "NOMINATIV — The subject: the person or thing performing the action.\nAsk: \"Who or what is doing this?\"\nExample: Der Mann schläft. (The man is sleeping.)\n\nAKKUSATIV — The direct object: what is directly affected by the action.\nAsk: \"Who or what is being acted on?\"\nExample: Ich kaufe den Kaffee. (I buy the coffee.)\n\nDATIV — The indirect object: to whom or for whom something is done. Also required by certain prepositions when expressing location.\nAsk: \"To whom? For whom? Where is it (location with a preposition)?\"\nExample: Ich gebe dem Mann das Buch. (I give the man the book.)"
+      },
+      {
+        "title": "How to form it — Definite Articles (der/die/das)",
+        "content": "| Case       | Masculine (m) | Feminine (f) | Neuter (n) | Plural |\n|------------|:---:|:---:|:---:|:---:|\n| Nominativ  | der  | die  | das  | die  |\n| Akkusativ  | den  | die  | das  | die  |\n| Dativ      | dem  | der  | dem  | den  |\n\nWhat changes:\n- Masculine changes in BOTH Akkusativ and Dativ: der → den → dem\n- Feminine changes only in Dativ: die → der\n- Neuter changes only in Dativ: das → dem\n- Plural changes only in Dativ: die → den\n\nMemory trick: In Akkusativ, ONLY masculine changes (der → den). In Dativ, ALL genders change: masculine and neuter both become dem, feminine becomes der."
+      },
+      {
+        "title": "How to form it — Indefinite Articles (ein/eine)",
+        "content": "| Case       | Masculine (m) | Feminine (f) | Neuter (n) |\n|------------|:---:|:---:|:---:|\n| Nominativ  | ein   | eine  | ein   |\n| Akkusativ  | einen | eine  | ein   |\n| Dativ      | einem | einer | einem |\n\nNote: There is no plural of ein — you simply use no article for plural indefinite nouns (\"Ich kaufe Äpfel\" — I am buying apples).\n\nKey changes:\n- Masculine Akkusativ: ein → einen\n- All genders in Dativ gain a suffix: -em (masculine), -er (feminine), -em (neuter)"
+      },
+      {
+        "title": "How to form it — Negative Article (kein/keine)",
+        "content": "kein/keine means 'not a / no' and follows the SAME pattern as ein/eine, but it also has a plural form:\n\n| Case       | Masculine (m) | Feminine (f) | Neuter (n) | Plural  |\n|------------|:---:|:---:|:---:|:---:|\n| Nominativ  | kein   | keine  | kein   | keine  |\n| Akkusativ  | keinen | keine  | kein   | keine  |\n| Dativ      | keinem | keiner | keinem | keinen |\n\nUsage: Use kein/keine to negate a noun that would use ein/eine or no article at all.\n- Ich habe ein Auto. → Ich habe kein Auto. (I don't have a car.)\n- Ich habe Hunger. → Ich habe keinen Hunger. (I'm not hungry.)\n\nImportant: Do NOT use 'nicht' to negate a noun that takes ein — that is a common learner error. 'Nicht ein Auto' is wrong; 'kein Auto' is correct."
+      },
+      {
+        "title": "Dative Prepositions — The Connection You Noticed",
+        "content": "Your observation is exactly right. When a preposition forces dative case, the article changes to its dative form — it is the same case system at work.\n\nALWAYS DATIVE (at A1 level): mit, bei, zu, von, aus, nach, seit, gegenüber\n\nTWO-WAY PREPOSITIONS — dative for location, accusative for direction:\nan, auf, hinter, in, neben, über, unter, vor, zwischen\n→ Use DATIV when answering: \"Where is it?\" (location — something is staying/being somewhere)\n→ Use AKKUSATIV when answering: \"Where is it going?\" (direction/movement — something is moving to a place)\n\nExamples:\n- Das Restaurant ist neben dem Hotel. (Dativ: WHERE IS the restaurant? → location)\n- Ich stelle das Glas neben das Hotel. (Akkusativ: WHERE IS IT GOING? → movement — unusual at A1 but shows the contrast)\n\nAfter any dative preposition, the articles become:\n- Masculine noun: dem (der → dem)\n- Feminine noun: der (die → der)\n- Neuter noun: dem (das → dem)\n- Plural noun: den (die → den)\n\nCommon contractions you will see constantly:\n- in + dem = im   → Ich bin im Hotel.\n- an + dem = am   → Er steht am Bahnhof.\n- zu + dem = zum  → Ich gehe zum Restaurant.\n- zu + der = zur  → Ich gehe zur Apotheke."
+      },
+      {
+        "title": "Common Exceptions",
+        "content": "1. Plural nouns in Dativ add -n to the noun itself (if the plural form doesn't already end in -n or -s):\n   - die Männer → den Männern\n   - die Kinder → den Kindern\n   - die Hotels → den Hotels (no extra -n, already ends in -s)\n\n2. N-nouns (certain masculine nouns add -en in all cases except Nominativ):\n   - der Herr → den Herrn (Akk) → dem Herrn (Dat)\n   These are not very common at A1 level but good to recognize."
+      }
+    ],
+    "transfer_notes": [
+      "Spanish has gender (el/la) but only 2 genders. German has 3 (m/f/n), and the article changes with case — don't try to map Spanish el/la directly to German der/die/das.",
+      "Spanish also uses indirect objects (le doy el libro a él), which closely parallels Dativ. The concept is the same; the mechanism differs (Spanish uses clitic pronouns, German uses article changes).",
+      "English has no article changes for case at all — 'the' and 'a' never change form. This is why case feels invisible to English speakers: you must mentally track each noun's grammatical role.",
+      "The Spanish 'personal a' (marking a direct-object person: 'veo a Juan') has no equivalent in German — German uses Akkusativ article forms (den/einen/keinen) to signal the direct object."
+    ],
+    "key_takeaway": "In Akkusativ only the masculine article changes (der → den, ein → einen, kein → keinen); in Dativ ALL genders change, and the same changes apply whether the dative comes from an indirect object or from a dative preposition like vor, neben, or an."
+  },
+  "examples": [
+    {
+      "id": 1,
+      "german": "Der Zug ist schnell.",
+      "english": "The train is fast.",
+      "level": "simple",
+      "grammar_note": "Nominativ masculine: 'der' — Zug is the subject performing no action but being described."
+    },
+    {
+      "id": 2,
+      "german": "Ich kaufe einen Kaffee.",
+      "english": "I am buying a coffee.",
+      "level": "simple",
+      "grammar_note": "Akkusativ masculine indefinite: ein → einen — Kaffee is the direct object of kaufen."
+    },
+    {
+      "id": 3,
+      "german": "Das ist kein Hotel.",
+      "english": "That is not a hotel.",
+      "level": "simple",
+      "grammar_note": "Nominativ neuter: 'kein' — Hotel is neuter (das Hotel); kein does not change in Nominativ neuter."
+    },
+    {
+      "id": 4,
+      "german": "Ich sehe den Bahnhof nicht.",
+      "english": "I don't see the train station.",
+      "level": "medium",
+      "grammar_note": "Akkusativ masculine definite: der → den — Bahnhof is the direct object of sehen."
+    },
+    {
+      "id": 5,
+      "german": "Sie hat keinen Hunger.",
+      "english": "She is not hungry. (lit. She has no hunger.)",
+      "level": "medium",
+      "grammar_note": "Akkusativ masculine: kein → keinen — Hunger is masculine (der Hunger) and the direct object of haben."
+    },
+    {
+      "id": 6,
+      "german": "Das Café ist neben dem Hotel.",
+      "english": "The café is next to the hotel.",
+      "level": "medium",
+      "grammar_note": "Dativ neuter after 'neben' (location): das → dem — Hotel is neuter and the location is fixed (not a direction)."
+    },
+    {
+      "id": 7,
+      "german": "Ich gebe dem Kellner ein Trinkgeld.",
+      "english": "I give the waiter a tip.",
+      "level": "complex",
+      "grammar_note": "Double object: 'dem Kellner' = Dativ masculine (indirect object, der → dem); 'ein Trinkgeld' = Akkusativ neuter indefinite (no change for neuter)."
+    },
+    {
+      "id": 8,
+      "german": "Das Restaurant ist neben der Apotheke und vor dem Bahnhof.",
+      "english": "The restaurant is next to the pharmacy and in front of the train station.",
+      "level": "complex",
+      "grammar_note": "Two location prepositions, both forcing Dativ: 'neben der Apotheke' (feminine die → der) and 'vor dem Bahnhof' (masculine der → dem)."
+    },
+    {
+      "id": 9,
+      "german": "Er hat kein Ticket gekauft, weil er kein Geld hat.",
+      "english": "He didn't buy a ticket because he has no money.",
+      "level": "complex",
+      "grammar_note": "Akkusativ neuter: 'kein Ticket' and 'kein Geld' — both neuter nouns, Akkusativ of kein = kein (no change for neuter)."
+    },
+    {
+      "id": 10,
+      "german": "Ich wohne in einem Hotel in der Stadt.",
+      "english": "I live in a hotel in the city.",
+      "level": "complex",
+      "grammar_note": "Dativ after 'in' (location): 'einem Hotel' (neuter indefinite: ein → einem) and 'der Stadt' (feminine definite: die → der)."
+    },
+    {
+      "id": 11,
+      "german": "Sie sucht eine Apotheke, aber sie findet keine.",
+      "english": "She is looking for a pharmacy, but she doesn't find one.",
+      "level": "complex",
+      "grammar_note": "Akkusativ feminine: 'eine Apotheke' and 'keine' — feminine indefinite Akkusativ stays eine/keine (no change for feminine)."
+    },
+    {
+      "id": 12,
+      "german": "Er hat dem Taxifahrer den Bahnhof gezeigt.",
+      "english": "He showed the taxi driver the train station.",
+      "level": "complex",
+      "grammar_note": "Perfekt with double object: 'dem Taxifahrer' (Dativ masculine indirect object) + 'den Bahnhof' (Akkusativ masculine direct object)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Zug ist schnell. (The train — Nominativ, masculine)",
+      "solution": "Der",
+      "explanation": "Nominativ masculine definite article = 'der'. Zug (train) is the subject of the sentence."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich kaufe ___ Brot. (a bread — Akkusativ, neuter)",
+      "solution": "ein",
+      "explanation": "Akkusativ neuter indefinite = 'ein'. Neuter nouns do not change between Nominativ and Akkusativ."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Café ist neben ___ Bahnhof. (the train station — Dativ, masculine)",
+      "solution": "dem",
+      "explanation": "'Neben' for location forces Dativ. Masculine definite article in Dativ = 'dem'."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er hat ___ Hunger. (no hunger — Akkusativ, masculine)",
+      "solution": "keinen",
+      "explanation": "Hunger is masculine (der Hunger) and the direct object of haben (Akkusativ). Kein → keinen in Akkusativ masculine."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich gebe ___ Kellner ___ Trinkgeld. (the waiter — Dativ masc. / a tip — Akkusativ neuter)",
+      "solution": "dem, ein",
+      "explanation": "'Dem Kellner' = Dativ masculine definite (indirect object). 'Ein Trinkgeld' = Akkusativ neuter indefinite (neuter has no change in Akkusativ)."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ Hotel.\na) ein\nb) einen\nc) einem",
+      "options": ["a) ein", "b) einen", "c) einem"],
+      "solution": "a) ein",
+      "explanation": "Hotel is neuter (das Hotel). Nominativ neuter indefinite = 'ein'. 'Einen' is masculine Akkusativ; 'einem' is Dativ."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ Apotheke.\na) ein\nb) einen\nc) eine",
+      "options": ["a) ein", "b) einen", "c) eine"],
+      "solution": "c) eine",
+      "explanation": "Apotheke is feminine (die Apotheke). Nominativ feminine indefinite = 'eine'. 'Ein' is masculine/neuter; 'einen' is masculine Akkusativ."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich sehe ___ Mann nicht.\na) der\nb) den\nc) dem",
+      "options": ["a) der", "b) den", "c) dem"],
+      "solution": "b) den",
+      "explanation": "Mann is the direct object (Akkusativ), masculine. Masculine definite Akkusativ = 'den'. 'Der' is Nominativ; 'dem' is Dativ."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Buch liegt auf ___ Tisch. (location — where is the book?)\na) der\nb) den\nc) dem",
+      "options": ["a) der", "b) den", "c) dem"],
+      "solution": "c) dem",
+      "explanation": "'Auf' for location forces Dativ. Tisch is masculine (der Tisch), so Dativ masculine definite = 'dem'. If it expressed direction (putting the book onto the table), it would be Akkusativ: 'den Tisch'."
+    },
+    {
+      "id": 10,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The woman has no car.",
+      "solution": "Die Frau hat kein Auto.",
+      "explanation": "'Frau' is Nominativ subject (die Frau). 'Auto' is neuter (das Auto), Akkusativ direct object of haben. Neuter Akkusativ of kein = 'kein' (no change)."
+    },
+    {
+      "id": 11,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I am looking for the train station.",
+      "solution": "Ich suche den Bahnhof.",
+      "explanation": "'Bahnhof' is masculine (der Bahnhof), Akkusativ direct object of suchen. Masculine definite Akkusativ = 'den'."
+    },
+    {
+      "id": 12,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The restaurant is next to the pharmacy.",
+      "solution": "Das Restaurant ist neben der Apotheke.",
+      "explanation": "'Neben' for location forces Dativ. Apotheke is feminine (die Apotheke). Feminine definite Dativ = 'der'."
+    },
+    {
+      "id": 13,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He has bought no ticket. (Use Perfekt: kaufen → hat gekauft)",
+      "solution": "Er hat kein Ticket gekauft.",
+      "explanation": "'Ticket' is neuter (das Ticket), Akkusativ direct object. Neuter Akkusativ of kein = 'kein' (no change). Perfekt: hat + past participle at the end."
+    },
+    {
+      "id": 14,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich kaufe der Kaffee.",
+      "solution": "Ich kaufe den Kaffee.",
+      "explanation": "'Kaffee' is the direct object (Akkusativ) and masculine. Masculine definite Akkusativ = 'den', not 'der' (which is Nominativ masculine)."
+    },
+    {
+      "id": 15,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Hotel ist neben die Apotheke.",
+      "solution": "Das Hotel ist neben der Apotheke.",
+      "explanation": "'Neben' for location forces Dativ. Apotheke is feminine. Feminine definite Dativ = 'der', not 'die' (which is Nominativ/Akkusativ feminine)."
+    },
+    {
+      "id": 16,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe kein Hunger, aber ich esse ein Sandwich.",
+      "solution": "Ich habe keinen Hunger, aber ich esse ein Sandwich.",
+      "explanation": "'Hunger' is masculine (der Hunger) and the direct object of haben (Akkusativ). Kein → keinen in Akkusativ masculine. The second clause is correct: Sandwich is neuter, and neuter Akkusativ of ein = 'ein' (no change)."
+    }
+  ]
+}

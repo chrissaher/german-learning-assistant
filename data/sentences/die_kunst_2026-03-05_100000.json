@@ -1,0 +1,78 @@
+{
+  "word": "die Kunst",
+  "base_form": "die Kunst",
+  "word_type": "noun",
+  "generated_at": "2026-03-05T10:00:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Die Kunst ist schön.",
+      "english": "Art is beautiful.",
+      "level": "simple",
+      "grammar_note": "Die Kunst is feminine nominative (subject); predicate adjective schön takes no ending after ist."
+    },
+    {
+      "id": 2,
+      "german": "Ich liebe die Kunst.",
+      "english": "I love art.",
+      "level": "simple",
+      "grammar_note": "Accusative of feminine die Kunst is identical to nominative — the article does not change for feminine nouns."
+    },
+    {
+      "id": 3,
+      "german": "Das ist eine Kunst.",
+      "english": "That is an art.",
+      "level": "simple",
+      "grammar_note": "Eine Kunst uses the feminine indefinite article; this construction defines or categorizes something."
+    },
+    {
+      "id": 4,
+      "german": "Die Kunst im Museum ist sehr interessant.",
+      "english": "The art in the museum is very interesting.",
+      "level": "medium",
+      "grammar_note": "Im = in + dem (dative contraction); die Kunst remains nominative as subject of ist."
+    },
+    {
+      "id": 5,
+      "german": "Wir sehen die Kunst in der Galerie.",
+      "english": "We see the art in the gallery.",
+      "level": "medium",
+      "grammar_note": "Die Kunst is accusative direct object; in der Galerie is dative (in + der, feminine dative article)."
+    },
+    {
+      "id": 6,
+      "german": "Die Künste in Wien sind sehr bekannt.",
+      "english": "The arts in Vienna are very well known.",
+      "level": "medium",
+      "grammar_note": "Die Künste is the nominative plural form; plural subjects take sind (not ist); Wien takes no article."
+    },
+    {
+      "id": 7,
+      "german": "Ich habe die Kunst in der Galerie sehr schön gefunden.",
+      "english": "I found the art in the gallery very beautiful.",
+      "level": "complex",
+      "grammar_note": "Perfekt: habe + gefunden (past participle of finden at the end); die Kunst is accusative object."
+    },
+    {
+      "id": 8,
+      "german": "Du kannst die Kunst im Museum jeden Tag sehen.",
+      "english": "You can see the art in the museum every day.",
+      "level": "complex",
+      "grammar_note": "Modal verb kannst sends the infinitive sehen to the end; jeden Tag is an accusative time expression."
+    },
+    {
+      "id": 9,
+      "german": "Die Künste in dieser Stadt sind alt und sehr schön.",
+      "english": "The arts in this city are old and very beautiful.",
+      "level": "complex",
+      "grammar_note": "Dieser Stadt is dative feminine (in + dieser); two predicate adjectives joined by und, both undeclined."
+    },
+    {
+      "id": 10,
+      "german": "Wir haben viele Künste im Museum gesehen und viel gelernt.",
+      "english": "We saw many arts at the museum and learned a lot.",
+      "level": "complex",
+      "grammar_note": "Perfekt with two past participles (gesehen, gelernt) sharing the auxiliary haben; viele Künste is accusative plural."
+    }
+  ]
+}

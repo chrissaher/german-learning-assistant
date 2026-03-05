@@ -1,0 +1,78 @@
+{
+  "word": "helfen",
+  "base_form": "helfen",
+  "word_type": "verb",
+  "generated_at": "2026-03-05T10:10:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Ich helfe dir.",
+      "english": "I help you.",
+      "level": "simple",
+      "grammar_note": "Helfen takes a dative object: dir = dative of du (not dich, which is accusative)."
+    },
+    {
+      "id": 2,
+      "german": "Er hilft mir gern.",
+      "english": "He likes to help me.",
+      "level": "simple",
+      "grammar_note": "Vowel change: helfen → er hilft (e → i); mir = dative of ich; gern = gladly/likes to."
+    },
+    {
+      "id": 3,
+      "german": "Du hilfst mir.",
+      "english": "You help me.",
+      "level": "simple",
+      "grammar_note": "Vowel change: du hilfst (e → i); mir = dative of ich."
+    },
+    {
+      "id": 4,
+      "german": "Wir helfen Ihnen gerne mit dem Gepäck.",
+      "english": "We are happy to help you with the luggage.",
+      "level": "medium",
+      "grammar_note": "Ihnen = dative of formal Sie; mit always takes dative: mit dem Gepäck (neuter dative)."
+    },
+    {
+      "id": 5,
+      "german": "Der Mann am Bahnhof hilft uns sehr.",
+      "english": "The man at the train station helps us a lot.",
+      "level": "medium",
+      "grammar_note": "Am = an + dem (dative contraction); uns = dative of wir; hilft is the er-form with vowel change."
+    },
+    {
+      "id": 6,
+      "german": "Sie helfen dem Touristen mit der Karte.",
+      "english": "You help the tourist with the map.",
+      "level": "medium",
+      "grammar_note": "Dem Touristen = dative masculine (der Tourist → dem Touristen); mit der Karte = dative feminine."
+    },
+    {
+      "id": 7,
+      "german": "Der Kellner im Restaurant hat mir sehr gut geholfen.",
+      "english": "The waiter in the restaurant helped me very well.",
+      "level": "complex",
+      "grammar_note": "Perfekt: hat + geholfen (strong verb, irregular past participle); mir = dative object stays in middle."
+    },
+    {
+      "id": 8,
+      "german": "Kannst du mir bitte mit dem Koffer helfen?",
+      "english": "Can you please help me with the suitcase?",
+      "level": "complex",
+      "grammar_note": "Modal kannst sends the infinitive helfen to the end; mir = dative; mit dem Koffer = dative with mit."
+    },
+    {
+      "id": 9,
+      "german": "Ich helfe dir gerne, aber ich spreche kein Deutsch.",
+      "english": "I am happy to help you, but I don't speak any German.",
+      "level": "complex",
+      "grammar_note": "Aber (but) joins two main clauses, each with verb in second position; kein negates a neuter noun (Deutsch)."
+    },
+    {
+      "id": 10,
+      "german": "Die Frau hat uns mit der Reservierung geholfen.",
+      "english": "The woman helped us with the reservation.",
+      "level": "complex",
+      "grammar_note": "Perfekt: hat + geholfen; uns = dative of wir; mit der Reservierung = dative feminine with mit."
+    }
+  ]
+}

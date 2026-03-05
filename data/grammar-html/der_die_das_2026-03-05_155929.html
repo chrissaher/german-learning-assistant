@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Grammar: der · die · das — Article Confidence Drill · A1</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.65;
+      color: #212121;
+      background: #fafafa;
+      padding: 24px 16px 64px;
+    }
+    .container { max-width: 800px; margin: 0 auto; }
+
+    /* HEADER */
+    header {
+      background: #1a237e;
+      color: #fff;
+      border-radius: 10px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+    }
+    header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 6px; }
+    header .focus-line { font-size: 0.95rem; opacity: 0.85; margin-bottom: 4px; }
+    header .meta { font-size: 0.8rem; opacity: 0.6; }
+
+    /* ARTICLE PILLS in header */
+    .article-pills { display: flex; gap: 10px; margin-top: 14px; }
+    .art-pill {
+      padding: 4px 16px;
+      border-radius: 20px;
+      font-weight: 800;
+      font-size: 1rem;
+      letter-spacing: .02em;
+    }
+    .art-m { background: #1565c0; color: #fff; }
+    .art-f { background: #c62828; color: #fff; }
+    .art-n { background: #2e7d32; color: #fff; }
+
+    /* NAV */
+    nav { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 32px; }
+    nav a {
+      background: #e8eaf6; color: #1a237e;
+      text-decoration: none; padding: 8px 18px;
+      border-radius: 24px; font-weight: 600; font-size: 0.9rem;
+    }
+    nav a:hover { background: #c5cae9; }
+
+    /* SECTIONS */
+    section { margin-bottom: 48px; }
+    section > h2 {
+      font-size: 1.35rem; font-weight: 700;
+      color: #1a237e;
+      border-bottom: 3px solid #c5cae9;
+      padding-bottom: 8px; margin-bottom: 20px;
+    }
+
+    /* EXPLANATION */
+    .exp-block { margin-bottom: 28px; }
+    .exp-block h3 { font-size: 1.05rem; font-weight: 700; color: #283593; margin-bottom: 8px; }
+    .exp-block p { margin-bottom: 8px; }
+
+    /* Tables */
+    table { border-collapse: collapse; width: 100%; margin: 12px 0 16px; font-size: 0.9rem; }
+    th { background: #e8eaf6; color: #1a237e; padding: 8px 12px; text-align: left; border: 1px solid #c5cae9; }
+    td { padding: 8px 12px; border: 1px solid #e0e0e0; vertical-align: top; }
+    tr:nth-child(even) td { background: #f9f9f9; }
+
+    /* Gender noun lists */
+    .gender-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin-top: 12px; }
+    @media (max-width: 600px) { .gender-grid { grid-template-columns: 1fr; } }
+    .gender-box { border-radius: 8px; padding: 14px 16px; }
+    .gender-box.masc { background: #e3f2fd; border-left: 4px solid #1565c0; }
+    .gender-box.fem  { background: #fce4ec; border-left: 4px solid #c62828; }
+    .gender-box.neut { background: #e8f5e9; border-left: 4px solid #2e7d32; }
+    .gender-box h4 { font-size: 1rem; font-weight: 700; margin-bottom: 8px; }
+    .gender-box.masc h4 { color: #0d47a1; }
+    .gender-box.fem  h4 { color: #b71c1c; }
+    .gender-box.neut h4 { color: #1b5e20; }
+    .gender-box ul { list-style: none; font-size: 0.85rem; }
+    .gender-box ul li { padding: 2px 0; border-bottom: 1px solid rgba(0,0,0,0.06); }
+    .gender-box ul li:last-child { border: none; }
+    .noun-en { color: #757575; font-size: 0.8rem; }
+
+    /* Pattern highlights */
+    .pattern-tag {
+      display: inline-block;
+      font-size: 0.72rem; font-weight: 700;
+      padding: 1px 7px; border-radius: 10px;
+      margin-left: 4px; vertical-align: middle;
+    }
+    .ptag-m { background: #bbdefb; color: #0d47a1; }
+    .ptag-f { background: #fce4ec; color: #b71c1c; }
+    .ptag-n { background: #c8e6c9; color: #1b5e20; }
+
+    /* Transfer notes */
+    .transfer-notes {
+      background: #e8f5e9; border-left: 4px solid #2e7d32;
+      border-radius: 6px; padding: 16px 20px; margin-top: 8px;
+    }
+    .transfer-notes h3 { color: #1b5e20; margin-bottom: 10px; font-size: 1rem; }
+    .transfer-notes ul { padding-left: 20px; }
+    .transfer-notes li { margin-bottom: 6px; }
+
+    /* Key takeaway */
+    .key-takeaway {
+      background: #fff8e1; border-left: 4px solid #f9a825;
+      border-radius: 6px; padding: 16px 20px; margin-top: 16px;
+      font-weight: 600; color: #4e342e;
+    }
+
+    /* BADGES */
+    .badge {
+      display: inline-block; padding: 2px 10px; border-radius: 12px;
+      font-size: 0.72rem; font-weight: 700; letter-spacing: .04em;
+      text-transform: uppercase; color: #fff; margin-right: 6px;
+    }
+    .badge-simple  { background: #2e7d32; }
+    .badge-medium  { background: #f57c00; }
+    .badge-complex { background: #c62828; }
+    .badge-fill    { background: #1565c0; }
+    .badge-choice  { background: #6a1b9a; }
+    .badge-trans   { background: #00695c; }
+    .badge-error   { background: #4e342e; }
+
+    /* EXAMPLES */
+    .level-group { margin-bottom: 24px; }
+    .level-group h3 { font-size: 1rem; font-weight: 700; margin-bottom: 12px; }
+    .example-card {
+      background: #fff; border: 1px solid #e0e0e0;
+      border-radius: 8px; padding: 14px 18px; margin-bottom: 10px;
+    }
+    .example-german { font-size: 1.05rem; font-weight: 600; color: #1a237e; }
+    .example-english { color: #555; font-size: 0.92rem; margin: 2px 0 4px; }
+    .example-note { font-size: 0.85rem; color: #5c6bc0; }
+    .example-note::before { content: "📝 "; }
+
+    /* EXERCISES */
+    .exercise-card {
+      background: #f5f5f5; border-radius: 8px;
+      padding: 16px 20px; margin-bottom: 14px;
+    }
+    .exercise-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+    .exercise-num { font-weight: 700; font-size: 1rem; color: #333; }
+    .exercise-prompt { white-space: pre-line; font-size: 0.97rem; color: #212121; }
+
+    /* SOLUTIONS */
+    #solutions { background: #fffde7; border-radius: 10px; padding: 24px; }
+    #solutions h2 { color: #e65100; border-color: #ffe082; }
+    .solution-card { border-bottom: 1px solid #ffe082; padding: 12px 0; font-size: 0.93rem; }
+    .solution-card:last-child { border-bottom: none; }
+    .solution-id { font-weight: 700; color: #e65100; margin-bottom: 4px; }
+    .solution-answer { font-weight: 700; color: #1b5e20; margin-bottom: 4px; }
+    .solution-explanation { color: #555; }
+
+    /* FOOTER */
+    footer { text-align: center; font-size: 0.8rem; color: #9e9e9e; margin-top: 48px; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>Grammar: der · die · das</h1>
+    <p class="focus-line"><strong>Focus:</strong> Article confidence drill — learning the correct article for A1 nouns</p>
+    <p class="meta">Generated 2026-03-05 &nbsp;·&nbsp; Level: A1</p>
+    <div class="article-pills">
+      <span class="art-pill art-m">der (m)</span>
+      <span class="art-pill art-f">die (f)</span>
+      <span class="art-pill art-n">das (n)</span>
+    </div>
+  </header>
+
+  <nav>
+    <a href="#explanation">📖 Strategy &amp; Patterns</a>
+    <a href="#nouns">📋 Noun Reference</a>
+    <a href="#examples">✏️ Examples</a>
+    <a href="#exercises">🏋️ Exercises (20)</a>
+    <a href="#solutions">✅ Solutions</a>
+  </nav>
+
+  <!-- ════ EXPLANATION ════ -->
+  <section id="explanation">
+    <h2>📖 Strategy &amp; Patterns</h2>
+
+    <div class="exp-block">
+      <h3>How to tackle gender in A1 vocabulary</h3>
+      <p>Since you already understand what der/die/das mean, the challenge is knowing <em>which one</em> applies to each noun. There is no single perfect rule — but two tools help:</p>
+      <ol style="padding-left:20px; margin-top:8px;">
+        <li style="margin-bottom:6px;"><strong>Pattern recognition:</strong> certain noun endings reliably predict gender. Learn them and make educated guesses for new words.</li>
+        <li><strong>Memorize as a unit:</strong> always learn the article with the noun — never <em>Hotel</em> alone, always <em>das Hotel</em>. Treat the article as part of the word.</li>
+      </ol>
+      <p style="margin-top:10px;">At A1 level, you do not need every German noun — just the ~100–150 words in Momente A1 and travel contexts. This session drills the most important ones.</p>
+    </div>
+
+    <div class="exp-block">
+      <h3>Reliable ending patterns — your best guessing tool</h3>
+      <table>
+        <thead>
+          <tr><th>Ending</th><th>Gender</th><th>Reliability</th><th>A1 examples</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>-ung</strong></td>
+            <td><span class="pattern-tag ptag-f">die (f)</span></td>
+            <td>⭐⭐⭐ very high</td>
+            <td>die Wohnung, die Zeitung, die Reservierung, die Rechnung</td>
+          </tr>
+          <tr>
+            <td><strong>-heit / -keit</strong></td>
+            <td><span class="pattern-tag ptag-f">die (f)</span></td>
+            <td>⭐⭐⭐ very high</td>
+            <td>die Freiheit, die Möglichkeit</td>
+          </tr>
+          <tr>
+            <td><strong>-tion / -sion</strong></td>
+            <td><span class="pattern-tag ptag-f">die (f)</span></td>
+            <td>⭐⭐⭐ very high</td>
+            <td>die Station, die Information, die Lektion</td>
+          </tr>
+          <tr>
+            <td><strong>-e</strong> (places &amp; abstracts)</td>
+            <td><span class="pattern-tag ptag-f">die (f)</span></td>
+            <td>⭐⭐ high</td>
+            <td>die Straße, die Apotheke, die Küche, die Schule</td>
+          </tr>
+          <tr>
+            <td><strong>-er</strong> (agent nouns)</td>
+            <td><span class="pattern-tag ptag-m">der (m)</span></td>
+            <td>⭐⭐ high</td>
+            <td>der Kellner, der Lehrer, der Bäcker</td>
+          </tr>
+          <tr>
+            <td><strong>Days / months / seasons</strong></td>
+            <td><span class="pattern-tag ptag-m">der (m)</span></td>
+            <td>⭐⭐⭐ always</td>
+            <td>der Montag, der März, der Sommer</td>
+          </tr>
+          <tr>
+            <td><strong>-chen / -lein</strong> (diminutives)</td>
+            <td><span class="pattern-tag ptag-n">das (n)</span></td>
+            <td>⭐⭐⭐ always</td>
+            <td>das Mädchen, das Brötchen</td>
+          </tr>
+          <tr>
+            <td><strong>-um</strong> (Latin/Greek)</td>
+            <td><span class="pattern-tag ptag-n">das (n)</span></td>
+            <td>⭐⭐ high</td>
+            <td>das Museum, das Datum</td>
+          </tr>
+          <tr>
+            <td><strong>-ment</strong></td>
+            <td><span class="pattern-tag ptag-n">das (n)</span></td>
+            <td>⭐⭐⭐ very high</td>
+            <td>das Dokument, das Instrument</td>
+          </tr>
+          <tr>
+            <td><strong>Infinitive as noun</strong></td>
+            <td><span class="pattern-tag ptag-n">das (n)</span></td>
+            <td>⭐⭐⭐ always</td>
+            <td>das Essen, das Frühstück</td>
+          </tr>
+          <tr>
+            <td><strong>Modern borrowed words</strong></td>
+            <td><span class="pattern-tag ptag-n">das (n)</span></td>
+            <td>⭐ moderate</td>
+            <td>das Ticket, das Taxi, das Handy, das Hotel</td>
+          </tr>
+        </tbody>
+      </table>
+      <p style="color:#c62828; font-size:0.9rem;"><strong>⚠️ Watch out:</strong> der Junge (ends in -e but masculine) · das Café (ends in -é but neuter) · die Butter (ends in -er but feminine). Exceptions are rare at A1.</p>
+    </div>
+
+    <div class="transfer-notes">
+      <h3>🌍 Transfer Notes</h3>
+      <ul>
+        <li>Spanish gender rarely matches German gender — don't use Spanish as a guide. <em>el sol</em> (m) → <em>die Sonne</em> (f); <em>la ciudad</em> (f) → <em>die Stadt</em> (f) ✓ — some match, many don't.</li>
+        <li>English gives you zero information about German gender — 'the' never changes. Memorizing the article is the only way.</li>
+        <li>The <strong>-ung ending → die</strong> is your single most reliable pattern at A1. If you see an unfamiliar -ung noun, guess <em>die</em> with confidence.</li>
+        <li>Borrowed words from English (Ticket, Taxi, Handy, Internet) are often neuter. When in doubt about a modern borrowed word, guess <em>das</em>.</li>
+      </ul>
+    </div>
+
+    <div class="key-takeaway">
+      🔑 <strong>Key Takeaway:</strong> Learn every A1 noun as a fixed pair (article + noun), use <em>-ung → die</em> and <em>-chen/-lein → das</em> for unknowns, and default to <em>das</em> for modern borrowed words.
+    </div>
+  </section>
+
+  <!-- ════ NOUN REFERENCE ════ -->
+  <section id="nouns">
+    <h2>📋 High-Frequency A1 Noun Reference</h2>
+    <p style="margin-bottom:16px; color:#555;">Memorize these as fixed pairs. These are the backbone of A1 German.</p>
+
+    <div class="gender-grid">
+      <div class="gender-box masc">
+        <h4>🔵 DER (masculine)</h4>
+        <ul>
+          <li>der Mann <span class="noun-en">man</span></li>
+          <li>der Bahnhof <span class="noun-en">train station</span></li>
+          <li>der Zug <span class="noun-en">train</span></li>
+          <li>der Bus <span class="noun-en">bus</span></li>
+          <li>der Flughafen <span class="noun-en">airport</span></li>
+          <li>der Kaffee <span class="noun-en">coffee</span></li>
+          <li>der Tee <span class="noun-en">tea</span></li>
+          <li>der Wein <span class="noun-en">wine</span></li>
+          <li>der Saft <span class="noun-en">juice</span></li>
+          <li>der Hunger <span class="noun-en">hunger</span></li>
+          <li>der Arzt <span class="noun-en">doctor (m)</span></li>
+          <li>der Kellner <span class="noun-en">waiter</span></li>
+          <li>der Lehrer <span class="noun-en">teacher (m)</span></li>
+          <li>der Name <span class="noun-en">name</span></li>
+          <li>der Tag <span class="noun-en">day</span></li>
+          <li>der Morgen <span class="noun-en">morning</span></li>
+          <li>der Abend <span class="noun-en">evening</span></li>
+          <li>der Tisch <span class="noun-en">table</span></li>
+          <li>der Koffer <span class="noun-en">suitcase</span></li>
+          <li>der Pass <span class="noun-en">passport</span></li>
+          <li>der Schlüssel <span class="noun-en">key</span></li>
+          <li>der Preis <span class="noun-en">price</span></li>
+          <li>der Supermarkt <span class="noun-en">supermarket</span></li>
+          <li>der Markt <span class="noun-en">market</span></li>
+        </ul>
+      </div>
+
+      <div class="gender-box fem">
+        <h4>🔴 DIE (feminine)</h4>
+        <ul>
+          <li>die Frau <span class="noun-en">woman</span></li>
+          <li>die Stadt <span class="noun-en">city</span></li>
+          <li>die Straße <span class="noun-en">street</span></li>
+          <li>die Apotheke <span class="noun-en">pharmacy</span></li>
+          <li>die Schule <span class="noun-en">school</span></li>
+          <li>die Uhr <span class="noun-en">clock / time</span></li>
+          <li>die Sprache <span class="noun-en">language</span></li>
+          <li>die Wohnung <span class="noun-en">flat</span></li>
+          <li>die Zeitung <span class="noun-en">newspaper</span></li>
+          <li>die Küche <span class="noun-en">kitchen</span></li>
+          <li>die Tasche <span class="noun-en">bag</span></li>
+          <li>die Reise <span class="noun-en">trip</span></li>
+          <li>die Rechnung <span class="noun-en">bill</span></li>
+          <li>die Reservierung <span class="noun-en">reservation</span></li>
+          <li>die Adresse <span class="noun-en">address</span></li>
+          <li>die Nummer <span class="noun-en">number</span></li>
+          <li>die Stunde <span class="noun-en">hour</span></li>
+          <li>die Nacht <span class="noun-en">night</span></li>
+          <li>die Woche <span class="noun-en">week</span></li>
+          <li>die Kirche <span class="noun-en">church</span></li>
+          <li>die Bäckerei <span class="noun-en">bakery</span></li>
+          <li>die Information <span class="noun-en">information</span></li>
+          <li>die Bahn <span class="noun-en">railway / tram</span></li>
+          <li>die Minute <span class="noun-en">minute</span></li>
+        </ul>
+      </div>
+
+      <div class="gender-box neut">
+        <h4>🟢 DAS (neuter)</h4>
+        <ul>
+          <li>das Hotel <span class="noun-en">hotel</span></li>
+          <li>das Restaurant <span class="noun-en">restaurant</span></li>
+          <li>das Zimmer <span class="noun-en">room</span></li>
+          <li>das Essen <span class="noun-en">food / meal</span></li>
+          <li>das Wasser <span class="noun-en">water</span></li>
+          <li>das Bier <span class="noun-en">beer</span></li>
+          <li>das Kind <span class="noun-en">child</span></li>
+          <li>das Buch <span class="noun-en">book</span></li>
+          <li>das Ticket <span class="noun-en">ticket</span></li>
+          <li>das Geld <span class="noun-en">money</span></li>
+          <li>das Auto <span class="noun-en">car</span></li>
+          <li>das Taxi <span class="noun-en">taxi</span></li>
+          <li>das Handy <span class="noun-en">mobile phone</span></li>
+          <li>das Frühstück <span class="noun-en">breakfast</span></li>
+          <li>das Gepäck <span class="noun-en">luggage</span></li>
+          <li>das Museum <span class="noun-en">museum</span></li>
+          <li>das Dokument <span class="noun-en">document</span></li>
+          <li>das Formular <span class="noun-en">form</span></li>
+          <li>das Café <span class="noun-en">café</span></li>
+          <li>das Brötchen <span class="noun-en">bread roll</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════ EXAMPLES ════ -->
+  <section id="examples">
+    <h2>✏️ Examples</h2>
+
+    <div class="level-group">
+      <h3><span class="badge badge-simple">Simple</span> Basic article identification</h3>
+      <div class="example-card">
+        <div class="example-german">1. Das Hotel ist sehr schön.</div>
+        <div class="example-english">→ The hotel is very nice.</div>
+        <div class="example-note">das Hotel — neuter; borrowed word, das is common for modern borrowed nouns.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">2. Der Bahnhof ist groß.</div>
+        <div class="example-english">→ The train station is big.</div>
+        <div class="example-note">der Bahnhof — masculine; must-memorize noun, no reliable ending pattern.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">3. Die Apotheke ist rechts.</div>
+        <div class="example-english">→ The pharmacy is on the right.</div>
+        <div class="example-note">die Apotheke — feminine; -e ending on a place noun → usually die.</div>
+      </div>
+    </div>
+
+    <div class="level-group">
+      <h3><span class="badge badge-medium">Medium</span> Multiple nouns per sentence</h3>
+      <div class="example-card">
+        <div class="example-german">4. Die Wohnung hat zwei Zimmer.</div>
+        <div class="example-english">→ The flat has two rooms.</div>
+        <div class="example-note">die Wohnung (feminine, -ung ending) + das Zimmer (neuter, must-memorize).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">5. Der Kaffee kostet zwei Euro.</div>
+        <div class="example-english">→ The coffee costs two euros.</div>
+        <div class="example-note">der Kaffee — masculine; must-memorize, the -ee ending is not a reliable pattern.</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">6. Die Reservierung ist für morgen Abend.</div>
+        <div class="example-english">→ The reservation is for tomorrow evening.</div>
+        <div class="example-note">die Reservierung — feminine; -ung ending → always die.</div>
+      </div>
+    </div>
+
+    <div class="level-group">
+      <h3><span class="badge badge-complex">Complex</span> Multiple genders, real contexts</h3>
+      <div class="example-card">
+        <div class="example-german">7. Der Zug nach München fährt um acht Uhr ab.</div>
+        <div class="example-english">→ The train to Munich departs at eight o'clock.</div>
+        <div class="example-note">der Zug (masculine, must-memorize) · die Uhr (feminine, must-memorize).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">8. Das Ticket kostet zwanzig Euro und der Pass ist im Koffer.</div>
+        <div class="example-english">→ The ticket costs twenty euros and the passport is in the suitcase.</div>
+        <div class="example-note">das Ticket (neuter, borrowed) · der Pass (masculine) · der Koffer (masculine, -er pattern).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">9. Die Rechnung, bitte — das Restaurant hat ein gutes Frühstück.</div>
+        <div class="example-english">→ The bill, please — the restaurant has a good breakfast.</div>
+        <div class="example-note">die Rechnung (feminine, -ung) · das Restaurant (neuter, borrowed) · das Frühstück (neuter, from infinitive).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">10. Das Museum ist in der Stadtmitte, neben der Kirche.</div>
+        <div class="example-english">→ The museum is in the city centre, next to the church.</div>
+        <div class="example-note">das Museum (neuter, -um ending) · die Kirche (feminine, -e place noun).</div>
+      </div>
+      <div class="example-card">
+        <div class="example-german">11. Der Kellner bringt das Bier und die Rechnung.</div>
+        <div class="example-english">→ The waiter brings the beer and the bill.</div>
+        <div class="example-note">der Kellner (masculine, -er agent noun) · das Bier (neuter, must-memorize) · die Rechnung (feminine, -ung).</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════ EXERCISES ════ -->
+  <section id="exercises">
+    <h2>🏋️ Exercises — 20 drills</h2>
+    <p style="margin-bottom:20px; color:#555;">Cover all exercises before checking solutions. Focus on <em>why</em> you chose each article, not just the answer.</p>
+
+    <h3 style="margin-bottom:12px; color:#1565c0;">Fill in the Blank</h3>
+
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">1.</span><span class="badge badge-fill">Fill in blank</span><span class="badge badge-simple">Simple</span></div>
+      <div class="exercise-prompt">___ Hotel ist sehr gut. (The hotel)</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">2.</span><span class="badge badge-fill">Fill in blank</span><span class="badge badge-simple">Simple</span></div>
+      <div class="exercise-prompt">___ Bahnhof ist weit weg. (The train station)</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">3.</span><span class="badge badge-fill">Fill in blank</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">___ Wohnung hat drei Zimmer. (The flat)</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">4.</span><span class="badge badge-fill">Fill in blank</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">___ Ticket kostet fünfzehn Euro. (The ticket)</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">5.</span><span class="badge badge-fill">Fill in blank</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">___ Pass und ___ Koffer sind am Bahnhof. (The passport / The suitcase)</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">6.</span><span class="badge badge-fill">Fill in blank</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">___ Rechnung kommt vom Kellner. ___ Restaurant ist sehr gut. (The bill / The restaurant)</div>
+    </div>
+
+    <h3 style="margin: 24px 0 12px; color:#6a1b9a;">Multiple Choice</h3>
+
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">7.</span><span class="badge badge-choice">Multiple choice</span><span class="badge badge-simple">Simple</span></div>
+      <div class="exercise-prompt">___ Zug ist pünktlich.
+a) Der
+b) Die
+c) Das</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">8.</span><span class="badge badge-choice">Multiple choice</span><span class="badge badge-simple">Simple</span></div>
+      <div class="exercise-prompt">___ Kind schläft.
+a) Der
+b) Die
+c) Das</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">9.</span><span class="badge badge-choice">Multiple choice</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">___ Apotheke ist geschlossen.
+a) Der
+b) Die
+c) Das</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">10.</span><span class="badge badge-choice">Multiple choice</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">___ Frühstück ist um sieben Uhr.
+a) Der
+b) Die
+c) Das</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">11.</span><span class="badge badge-choice">Multiple choice</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">___ Reservierung ist für zwei Nächte.
+a) Der
+b) Die
+c) Das</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">12.</span><span class="badge badge-choice">Multiple choice</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">___ Museum ist sehr interessant.
+a) Der
+b) Die
+c) Das</div>
+    </div>
+
+    <h3 style="margin: 24px 0 12px; color:#00695c;">Translation</h3>
+
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">13.</span><span class="badge badge-trans">Translation</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">Translate: "The train station is far away."</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">14.</span><span class="badge badge-trans">Translation</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">Translate: "The pharmacy is on the right."</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">15.</span><span class="badge badge-trans">Translation</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">Translate: "The hotel has a restaurant."</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">16.</span><span class="badge badge-trans">Translation</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">Translate: "The bill, please. The waiter is very friendly."</div>
+    </div>
+
+    <h3 style="margin: 24px 0 12px; color:#4e342e;">Error Correction</h3>
+    <p style="margin-bottom:12px; color:#555; font-size:0.9rem;">Each sentence has exactly one article error. Find and correct it.</p>
+
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">17.</span><span class="badge badge-error">Error correction</span><span class="badge badge-simple">Simple</span></div>
+      <div class="exercise-prompt">Das Mann ist Arzt.</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">18.</span><span class="badge badge-error">Error correction</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">Die Hotel ist schön.</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">19.</span><span class="badge badge-error">Error correction</span><span class="badge badge-medium">Medium</span></div>
+      <div class="exercise-prompt">Der Wohnung hat drei Zimmer.</div>
+    </div>
+    <div class="exercise-card">
+      <div class="exercise-header"><span class="exercise-num">20.</span><span class="badge badge-error">Error correction</span><span class="badge badge-complex">Complex</span></div>
+      <div class="exercise-prompt">Das Zug nach Berlin fährt um neun Uhr ab.</div>
+    </div>
+  </section>
+
+  <!-- ════ SOLUTIONS ════ -->
+  <section id="solutions">
+    <h2>✅ Solutions</h2>
+
+    <div class="solution-card">
+      <div class="solution-id">1. Fill in blank · Simple</div>
+      <div class="solution-answer">→ Das Hotel</div>
+      <div class="solution-explanation">das Hotel — neuter. Borrowed word; neuter is common for modern borrowed nouns.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">2. Fill in blank · Simple</div>
+      <div class="solution-answer">→ Der Bahnhof</div>
+      <div class="solution-explanation">der Bahnhof — masculine. Must-memorize; no reliable ending pattern.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">3. Fill in blank · Medium</div>
+      <div class="solution-answer">→ Die Wohnung</div>
+      <div class="solution-explanation">die Wohnung — feminine. The -ung ending is one of the most reliable patterns: always die.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">4. Fill in blank · Medium</div>
+      <div class="solution-answer">→ Das Ticket</div>
+      <div class="solution-explanation">das Ticket — neuter. Borrowed from English; modern borrowed words are often neuter.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">5. Fill in blank · Complex</div>
+      <div class="solution-answer">→ Der Pass und der Koffer</div>
+      <div class="solution-explanation">der Pass and der Koffer are both masculine. Must be memorized; no ending pattern helps here.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">6. Fill in blank · Complex</div>
+      <div class="solution-answer">→ Die Rechnung / Das Restaurant</div>
+      <div class="solution-explanation">die Rechnung (feminine, -ung ending). das Restaurant (neuter, borrowed word).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">7. Multiple choice · Simple</div>
+      <div class="solution-answer">→ a) Der</div>
+      <div class="solution-explanation">der Zug — masculine. Must-memorize; transport nouns are often masculine but there is no rule.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">8. Multiple choice · Simple</div>
+      <div class="solution-answer">→ c) Das</div>
+      <div class="solution-explanation">das Kind — neuter. Despite referring to a person (a child), German uses neuter. Must-memorize.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">9. Multiple choice · Medium</div>
+      <div class="solution-answer">→ b) Die</div>
+      <div class="solution-explanation">die Apotheke — feminine. The -e ending on a place noun is a reliable indicator of feminine gender.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">10. Multiple choice · Medium</div>
+      <div class="solution-answer">→ c) Das</div>
+      <div class="solution-explanation">das Frühstück — neuter. It is a compound noun derived from an infinitive; nouns made from infinitives are always neuter.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">11. Multiple choice · Complex</div>
+      <div class="solution-answer">→ b) Die</div>
+      <div class="solution-explanation">die Reservierung — feminine. The -ung ending is the most reliable pattern in German: virtually all -ung nouns are feminine.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">12. Multiple choice · Complex</div>
+      <div class="solution-answer">→ c) Das</div>
+      <div class="solution-explanation">das Museum — neuter. The -um ending (from Latin/Greek) is a reliable indicator of neuter gender.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">13. Translation · Medium</div>
+      <div class="solution-answer">→ Der Bahnhof ist weit weg.</div>
+      <div class="solution-explanation">der Bahnhof — masculine (must-memorize). 'Weit weg' means 'far away'.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">14. Translation · Medium</div>
+      <div class="solution-answer">→ Die Apotheke ist rechts.</div>
+      <div class="solution-explanation">die Apotheke — feminine (-e ending, place noun). 'Rechts' = 'on the right'.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">15. Translation · Complex</div>
+      <div class="solution-answer">→ Das Hotel hat ein Restaurant.</div>
+      <div class="solution-explanation">das Hotel (neuter, borrowed). das Restaurant (neuter, borrowed) → Akkusativ neuter: 'ein Restaurant' (no change).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">16. Translation · Complex</div>
+      <div class="solution-answer">→ Die Rechnung, bitte. Der Kellner ist sehr freundlich.</div>
+      <div class="solution-explanation">die Rechnung (feminine, -ung ending) · der Kellner (masculine, -er agent noun).</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">17. Error correction · Simple</div>
+      <div class="solution-answer">→ Der Mann ist Arzt.</div>
+      <div class="solution-explanation">der Mann — masculine. Male persons are always masculine in German. 'Das' is wrong here.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">18. Error correction · Medium</div>
+      <div class="solution-answer">→ Das Hotel ist schön.</div>
+      <div class="solution-explanation">das Hotel — neuter (not feminine). Borrowed words like Hotel are typically neuter.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">19. Error correction · Medium</div>
+      <div class="solution-answer">→ Die Wohnung hat drei Zimmer.</div>
+      <div class="solution-explanation">die Wohnung — feminine. The -ung ending always signals feminine gender; 'Der' is wrong here.</div>
+    </div>
+    <div class="solution-card">
+      <div class="solution-id">20. Error correction · Complex</div>
+      <div class="solution-answer">→ Der Zug nach Berlin fährt um neun Uhr ab.</div>
+      <div class="solution-explanation">der Zug — masculine (must-memorize). The -ug ending has no pattern rule; 'Das' is wrong here.</div>
+    </div>
+  </section>
+
+  <footer>
+    Generated by German Learning Assistant &nbsp;·&nbsp; Level: A1 &nbsp;·&nbsp; 2026-03-05
+  </footer>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,78 @@
+{
+  "word": "ganz einfach",
+  "base_form": "ganz einfach",
+  "word_type": "other",
+  "generated_at": "2026-03-04T10:10:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Das ist ganz einfach.",
+      "english": "That is very simple.",
+      "level": "simple",
+      "grammar_note": "Ganz intensifies einfach (like 'very/quite'); predicate adjective after 'ist' takes no ending."
+    },
+    {
+      "id": 2,
+      "german": "Das Wort ist ganz einfach.",
+      "english": "The word is very simple.",
+      "level": "simple",
+      "grammar_note": "Das Wort is neuter nominative; einfach is predicate adjective and stays undeclined."
+    },
+    {
+      "id": 3,
+      "german": "Du machst das ganz einfach.",
+      "english": "You do that very easily.",
+      "level": "simple",
+      "grammar_note": "Here ganz einfach functions as an adverb modifying the verb machen, not a predicate adjective."
+    },
+    {
+      "id": 4,
+      "german": "Der Weg zum Bahnhof ist ganz einfach.",
+      "english": "The way to the train station is very simple.",
+      "level": "medium",
+      "grammar_note": "Zum = zu + dem (dative contraction); der Weg is masculine nominative subject."
+    },
+    {
+      "id": 5,
+      "german": "Wir finden die Adresse ganz einfach zusammen.",
+      "english": "Together we find the address quite easily.",
+      "level": "medium",
+      "grammar_note": "Die Adresse is feminine accusative object; ganz einfach and zusammen are both adverbial modifiers."
+    },
+    {
+      "id": 6,
+      "german": "Sie erklären das ganz einfach auf Deutsch.",
+      "english": "You explain that very simply in German.",
+      "level": "medium",
+      "grammar_note": "Sie (formal you) uses the same verb form as third-person plural; auf Deutsch is a fixed prepositional phrase."
+    },
+    {
+      "id": 7,
+      "german": "Das Einschecken im Hotel hat ganz einfach funktioniert.",
+      "english": "Checking in at the hotel worked out very easily.",
+      "level": "complex",
+      "grammar_note": "Perfekt: hat + funktioniert; das Einschecken is a nominalized infinitive (neuter noun) acting as subject."
+    },
+    {
+      "id": 8,
+      "german": "Ich finde das Formular ganz einfach, aber du nicht.",
+      "english": "I find the form very simple, but you don't.",
+      "level": "complex",
+      "grammar_note": "'Aber' (but) joins two clauses; 'du nicht' is an elliptical clause meaning 'du findest es nicht einfach'."
+    },
+    {
+      "id": 9,
+      "german": "Wir haben die Reservierung ganz einfach online gemacht.",
+      "english": "We made the reservation very easily online.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + gemacht; die Reservierung is feminine accusative object; online is an adverbial modifier."
+    },
+    {
+      "id": 10,
+      "german": "Das klingt ganz einfach, aber man braucht etwas Übung.",
+      "english": "That sounds very simple, but one needs a bit of practice.",
+      "level": "complex",
+      "grammar_note": "Man (one/you/people in general) takes 3rd-person singular verb; etwas Übung = a bit of practice (no article)."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "word": "gemütlich",
+  "base_form": "gemütlich",
+  "word_type": "adjective",
+  "generated_at": "2026-03-05T10:50:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Das Café ist gemütlich.",
+      "english": "The café is cozy.",
+      "level": "simple",
+      "grammar_note": "Predicate adjective after ist: gemütlich takes no ending, regardless of the noun's gender."
+    },
+    {
+      "id": 2,
+      "german": "Das Hotel ist sehr gemütlich.",
+      "english": "The hotel is very cozy.",
+      "level": "simple",
+      "grammar_note": "Sehr intensifies the predicate adjective; gemütlich stays undeclined after ist."
+    },
+    {
+      "id": 3,
+      "german": "Das ist ein gemütlicher Abend.",
+      "english": "This is a cozy evening.",
+      "level": "simple",
+      "grammar_note": "Ein gemütlicher Abend: masculine nominative + indefinite article → mixed ending -er (ein gives no gender signal for masc nom, so the adjective must carry it)."
+    },
+    {
+      "id": 4,
+      "german": "Wie gemütlich finden Sie das Hotel hier?",
+      "english": "How cozy do you find the hotel here?",
+      "level": "medium",
+      "grammar_note": "Gemütlich after finden is a predicate complement; wie (how) is fronted for emphasis, pushing the verb finden to second position."
+    },
+    {
+      "id": 5,
+      "german": "Wir sitzen in einem gemütlichen Café in Wien.",
+      "english": "We are sitting in a cozy café in Vienna.",
+      "level": "medium",
+      "grammar_note": "Einem gemütlichen Café: neuter dative + indefinite article → ending -en (dative always uses -en for attributive adjectives)."
+    },
+    {
+      "id": 6,
+      "german": "Ich finde die gemütliche Bar sehr schön.",
+      "english": "I find the cozy bar very beautiful.",
+      "level": "medium",
+      "grammar_note": "Die gemütliche Bar: feminine accusative + definite article → weak ending -e."
+    },
+    {
+      "id": 7,
+      "german": "Wir haben ein gemütliches Hotel in der Altstadt gefunden.",
+      "english": "We found a cozy hotel in the old town.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + gefunden; ein gemütliches Hotel: neuter accusative + indefinite article → mixed ending -es."
+    },
+    {
+      "id": 8,
+      "german": "Das Zimmer ist gemütlich, aber das Bad ist klein.",
+      "english": "The room is cozy, but the bathroom is small.",
+      "level": "complex",
+      "grammar_note": "Aber (but) joins two main clauses; both adjectives (gemütlich, klein) are in predicate position — no endings on either."
+    },
+    {
+      "id": 9,
+      "german": "Du kannst in einem gemütlichen Zimmer sehr gut schlafen.",
+      "english": "You can sleep very well in a cozy room.",
+      "level": "complex",
+      "grammar_note": "Modal kannst sends schlafen to the end; einem gemütlichen Zimmer: neuter dative + indefinite article → ending -en."
+    },
+    {
+      "id": 10,
+      "german": "Die gemütlichen Restaurants in München haben uns gut gefallen.",
+      "english": "We really liked the cozy restaurants in Munich.",
+      "level": "complex",
+      "grammar_note": "Perfekt: haben + gefallen (gefallen uses haben); die gemütlichen Restaurants: plural nominative + definite article → weak ending -en."
+    }
+  ]
+}

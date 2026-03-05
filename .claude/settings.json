@@ -1,0 +1,6 @@
+{
+  "allowedTools": [
+    "Bash(mkdir -p data/sentences)",
+    "Write(data/sentences/*.json)"
+  ]
+}

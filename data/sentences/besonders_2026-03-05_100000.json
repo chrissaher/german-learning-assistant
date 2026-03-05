@@ -1,0 +1,78 @@
+{
+  "word": "besonders",
+  "base_form": "besonders",
+  "word_type": "adverb",
+  "generated_at": "2026-03-05T10:00:00",
+  "sentences": [
+    {
+      "id": 1,
+      "german": "Das ist besonders gut.",
+      "english": "That is especially good.",
+      "level": "simple",
+      "grammar_note": "'besonders' is an adverb placed directly before the adjective 'gut' to intensify it."
+    },
+    {
+      "id": 2,
+      "german": "Er ist besonders nett.",
+      "english": "He is especially nice.",
+      "level": "simple",
+      "grammar_note": "'besonders' intensifies the predicate adjective 'nett'; no declension needed for adverbs."
+    },
+    {
+      "id": 3,
+      "german": "Das Essen ist besonders lecker.",
+      "english": "The food is especially delicious.",
+      "level": "simple",
+      "grammar_note": "'Das Essen' is neuter nominative; 'besonders' modifies the adjective in predicate position."
+    },
+    {
+      "id": 4,
+      "german": "Das Hotel in der Stadt ist besonders schön.",
+      "english": "The hotel in the city is especially beautiful.",
+      "level": "medium",
+      "grammar_note": "'in der Stadt' uses Dativ (feminine: die Stadt → der Stadt); 'besonders' modifies 'schön'."
+    },
+    {
+      "id": 5,
+      "german": "Die Museen in Wien sind besonders interessant.",
+      "english": "The museums in Vienna are especially interesting.",
+      "level": "medium",
+      "grammar_note": "Plural subject 'die Museen' takes plural verb 'sind'; 'besonders' works the same with any adjective."
+    },
+    {
+      "id": 6,
+      "german": "Heute ist das Wetter besonders warm und angenehm.",
+      "english": "Today the weather is especially warm and pleasant.",
+      "level": "medium",
+      "grammar_note": "Time adverb 'heute' in first position triggers verb-second (V2) word order: heute → ist → das Wetter."
+    },
+    {
+      "id": 7,
+      "german": "Das Museum war besonders interessant, und ich habe viele Fotos gemacht.",
+      "english": "The museum was especially interesting, and I took many photos.",
+      "level": "complex",
+      "grammar_note": "Coordinating conjunction 'und' joins two main clauses; second clause uses Perfekt: habe + gemacht."
+    },
+    {
+      "id": 8,
+      "german": "Ich habe das besonders schöne Schloss in München besucht.",
+      "english": "I visited the especially beautiful castle in Munich.",
+      "level": "complex",
+      "grammar_note": "Perfekt with 'habe...besucht'; 'besonders schöne' is attributive — adjective takes weak ending (-e) after 'das'."
+    },
+    {
+      "id": 9,
+      "german": "Du kannst in diesem Markt besonders viele Souvenirs kaufen.",
+      "english": "You can buy especially many souvenirs in this market.",
+      "level": "complex",
+      "grammar_note": "Modal verb 'kannst' (können) sends infinitive 'kaufen' to the end; 'besonders viele' modifies the noun."
+    },
+    {
+      "id": 10,
+      "german": "Die Altstadt ist besonders schön, aber sie ist leider sehr voll.",
+      "english": "The old town is especially beautiful, but it is unfortunately very crowded.",
+      "level": "complex",
+      "grammar_note": "Coordinating conjunction 'aber' connects two main clauses; both keep standard V2 word order."
+    }
+  ]
+}
