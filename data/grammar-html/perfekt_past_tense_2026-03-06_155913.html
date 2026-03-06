@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grammar: The Past in German A1 (Perfekt)</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: system-ui, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #212121; background: #fafafa; }
+    .container { max-width: 800px; margin: 0 auto; padding: 24px 16px 48px; }
+
+    header { background: #1a237e; color: white; padding: 28px 24px; border-radius: 8px; margin-bottom: 24px; }
+    header h1 { font-size: 1.6rem; margin-bottom: 6px; }
+    header .focus { font-size: 0.95rem; opacity: 0.85; margin-bottom: 8px; }
+    header .meta { font-size: 0.82rem; opacity: 0.65; }
+
+    nav { background: white; border: 1px solid #e0e0e0; border-radius: 8px; padding: 12px 16px; margin-bottom: 24px; }
+    nav a { color: #1a237e; text-decoration: none; margin-right: 20px; font-size: 0.92rem; font-weight: 600; }
+    nav a:hover { text-decoration: underline; }
+
+    section { background: white; border: 1px solid #e0e0e0; border-radius: 8px; padding: 24px; margin-bottom: 24px; }
+    section h2 { font-size: 1.25rem; color: #1a237e; border-bottom: 2px solid #e8eaf6; padding-bottom: 10px; margin-bottom: 16px; }
+    section h3 { font-size: 1.05rem; color: #37474f; margin: 20px 0 8px; }
+
+    p { margin-bottom: 12px; }
+    strong { color: #1a237e; }
+
+    table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.92rem; }
+    th { background: #e8eaf6; color: #1a237e; text-align: left; padding: 8px 10px; border: 1px solid #c5cae9; }
+    td { padding: 7px 10px; border: 1px solid #e0e0e0; }
+    tr:nth-child(even) td { background: #f5f5f5; }
+
+    .level-badge { display: inline-block; padding: 2px 9px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: white; margin-right: 6px; vertical-align: middle; }
+    .badge-simple { background: #2e7d32; }
+    .badge-medium { background: #f57c00; }
+    .badge-complex { background: #c62828; }
+    .badge-fill_in_blank { background: #1565c0; }
+    .badge-multiple_choice { background: #6a1b9a; }
+    .badge-translation { background: #00695c; }
+    .badge-error_correction { background: #4e342e; }
+
+    .example-group { margin-bottom: 20px; }
+    .example-group h3 { font-size: 1rem; font-weight: 700; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+    .example-item { margin-bottom: 14px; padding: 12px 14px; border-left: 4px solid #e0e0e0; background: #fafafa; border-radius: 0 6px 6px 0; }
+    .example-item.simple { border-left-color: #2e7d32; }
+    .example-item.medium { border-left-color: #f57c00; }
+    .example-item.complex { border-left-color: #c62828; }
+    .example-german { font-size: 1.05rem; font-weight: 700; color: #1a237e; margin-bottom: 3px; }
+    .example-english { color: #555; margin-bottom: 4px; }
+    .example-english::before { content: "→ "; color: #999; }
+    .example-note { font-size: 0.82rem; color: #777; font-style: italic; }
+    .example-note::before { content: "Note: "; font-style: normal; font-weight: 600; color: #1565c0; }
+
+    .exercise-item { margin-bottom: 16px; padding: 14px 16px; background: #f5f5f5; border-radius: 8px; }
+    .exercise-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+    .exercise-num { font-weight: 700; color: #37474f; }
+    .exercise-prompt { font-size: 1rem; margin-top: 4px; }
+    .exercise-options { margin-top: 8px; list-style: none; }
+    .exercise-options li { margin: 3px 0; color: #37474f; padding-left: 6px; }
+
+    .solutions-section { background: #fffde7; border: 1px solid #f9a825; }
+    .solutions-section h2 { color: #e65100; border-bottom-color: #ffe082; }
+    .solution-item { margin-bottom: 14px; padding: 12px 14px; background: white; border-radius: 6px; border: 1px solid #ffe082; }
+    .solution-answer { font-weight: 700; color: #1b5e20; margin-bottom: 4px; }
+    .solution-answer::before { content: "Answer: "; color: #37474f; font-weight: 400; }
+    .solution-explanation { font-size: 0.88rem; color: #555; }
+
+    .transfer-notes { background: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 8px; padding: 18px 20px; margin-bottom: 20px; }
+    .transfer-notes h3 { color: #2e7d32; margin-bottom: 10px; }
+    .transfer-notes ul { padding-left: 18px; }
+    .transfer-notes li { margin-bottom: 8px; font-size: 0.92rem; }
+
+    .key-takeaway { background: #e3f2fd; border: 1px solid #90caf9; border-radius: 8px; padding: 16px 20px; }
+    .key-takeaway h3 { color: #0d47a1; margin-bottom: 8px; }
+    .key-takeaway p { color: #1565c0; font-weight: 600; margin: 0; }
+
+    footer { text-align: center; color: #9e9e9e; font-size: 0.82rem; margin-top: 32px; }
+
+    code { background: #e8eaf6; padding: 1px 6px; border-radius: 4px; font-family: monospace; font-size: 0.9em; color: #1a237e; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>Grammar: The Past in German — Perfekt</h1>
+    <div class="focus"><strong>Focus:</strong> haben vs. sein as auxiliaries · Partizip II formation patterns</div>
+    <div class="meta">Level: A1 &nbsp;·&nbsp; Generated: 2026-03-06</div>
+  </header>
+
+  <nav>
+    <a href="#explanation">Explanation</a>
+    <a href="#examples">Examples</a>
+    <a href="#exercises">Exercises</a>
+    <a href="#solutions">Solutions</a>
+  </nav>
+
+  <!-- EXPLANATION -->
+  <section id="explanation">
+    <h2>Explanation</h2>
+
+    <h3>What is it?</h3>
+    <p>The <strong>Perfekt</strong> is the main way to talk about the past in spoken German. It is a <strong>compound tense</strong>: you combine a helper verb (haben or sein) with the <strong>Partizip II</strong> (past participle) of the main verb. At A1 level, the Perfekt covers what English speakers call both "I ate" and "I have eaten."</p>
+
+    <h3>The Formula</h3>
+    <p><strong>Subject + haben/sein (conjugated) + [rest of sentence] + Partizip II (always at the end)</strong></p>
+    <ul style="padding-left:18px; margin: 8px 0 12px;">
+      <li>Ich <strong>habe</strong> Kaffee <strong>getrunken</strong>. → I drank coffee.</li>
+      <li>Wir <strong>sind</strong> nach Berlin <strong>gefahren</strong>. → We traveled to Berlin.</li>
+    </ul>
+    <p>The Partizip II <strong>always goes to the very end</strong> of the sentence — never in the middle.</p>
+
+    <h3>haben or sein? — The Core Rule</h3>
+    <p><strong>Use SEIN (bin / bist / ist / sind / seid / sind) with:</strong></p>
+    <ol style="padding-left:20px; margin-bottom:12px;">
+      <li>Verbs of <strong>movement that change location</strong> — fahren, gehen, fliegen, laufen, kommen, reisen</li>
+      <li>Verbs of <strong>change of state</strong> — aufstehen, einschlafen, aufwachen, werden</li>
+      <li>The verbs <strong>bleiben</strong> (to stay) and <strong>sein</strong> (to be) — memorize these as exceptions</li>
+    </ol>
+    <p><strong>Use HABEN (habe / hast / hat / haben / habt / haben) with:</strong></p>
+    <ol style="padding-left:20px; margin-bottom:12px;">
+      <li><strong>Everything else</strong> — most verbs fall here</li>
+      <li>Any verb that takes a <strong>direct object</strong>: essen, trinken, kaufen, sehen, finden, nehmen, lesen, schreiben…</li>
+      <li>Reflexive verbs</li>
+    </ol>
+    <p><strong>Memory tip:</strong> Think of SEIN verbs as verbs where you physically move from A to B, or where something fundamentally changes. If the verb has an object ("I bought <em>something</em>", "I ate <em>something</em>") → almost always haben.</p>
+
+    <h3>Conjugation of haben and sein (the helpers)</h3>
+    <table>
+      <tr><th>Person</th><th>haben</th><th>sein</th></tr>
+      <tr><td>ich</td><td><strong>habe</strong></td><td><strong>bin</strong></td></tr>
+      <tr><td>du</td><td><strong>hast</strong></td><td><strong>bist</strong></td></tr>
+      <tr><td>er/sie/es</td><td><strong>hat</strong></td><td><strong>ist</strong></td></tr>
+      <tr><td>wir</td><td><strong>haben</strong></td><td><strong>sind</strong></td></tr>
+      <tr><td>ihr</td><td><strong>habt</strong></td><td><strong>seid</strong></td></tr>
+      <tr><td>sie/Sie</td><td><strong>haben</strong></td><td><strong>sind</strong></td></tr>
+    </table>
+    <p>Note: <code>bin</code> is what you already recognized — it's the ich-form of sein, used both in "Ich bin müde" (present) and "Ich bin gegangen" (past). Context tells them apart: if there's a Partizip II at the end, it's Perfekt.</p>
+
+    <h3>Forming the Partizip II — Regular (Weak) Verbs</h3>
+    <p><strong>Pattern: ge- + verb stem + -(e)t</strong></p>
+    <table>
+      <tr><th>Infinitiv</th><th>Partizip II</th><th>Meaning</th></tr>
+      <tr><td>machen</td><td>ge<strong>mach</strong>t</td><td>made / done</td></tr>
+      <tr><td>kaufen</td><td>ge<strong>kauf</strong>t</td><td>bought</td></tr>
+      <tr><td>spielen</td><td>ge<strong>spiel</strong>t</td><td>played</td></tr>
+      <tr><td>hören</td><td>ge<strong>hör</strong>t</td><td>heard</td></tr>
+      <tr><td>reisen</td><td>ge<strong>reis</strong>t</td><td>traveled</td></tr>
+      <tr><td>arbeiten</td><td>ge<strong>arbeit</strong>et</td><td>worked</td></tr>
+    </table>
+    <p>If the stem ends in <code>-t</code> or <code>-d</code>, add <strong>-et</strong> instead of -t: arbeiten → gearbeitet, warten → gewartet.</p>
+
+    <h3>Forming the Partizip II — Irregular (Strong) Verbs &amp; Patterns</h3>
+    <p>Irregular verbs use <strong>ge-...-en</strong> and often change their vowel. Many follow recognizable patterns:</p>
+    <table>
+      <tr><th>Pattern</th><th>Infinitiv</th><th>Partizip II</th><th>Meaning</th></tr>
+      <tr><td><strong>i → u</strong></td><td>trinken</td><td>getrunken</td><td>drunk</td></tr>
+      <tr><td><strong>i → u</strong></td><td>finden</td><td>gefunden</td><td>found</td></tr>
+      <tr><td><strong>i → u</strong></td><td>singen</td><td>gesungen</td><td>sung</td></tr>
+      <tr><td><strong>ei → ie</strong></td><td>schreiben</td><td>geschrieben</td><td>written</td></tr>
+      <tr><td><strong>ei → ie</strong></td><td>bleiben</td><td>geblieben</td><td>stayed</td></tr>
+      <tr><td><strong>ie/e → o</strong></td><td>fliegen</td><td>geflogen</td><td>flown</td></tr>
+      <tr><td><strong>ie/e → o</strong></td><td>kommen</td><td>gekommen</td><td>come</td></tr>
+      <tr><td><strong>e → e</strong></td><td>essen</td><td>gegessen</td><td>eaten</td></tr>
+      <tr><td><strong>e → e</strong></td><td>lesen</td><td>gelesen</td><td>read</td></tr>
+      <tr><td><strong>e → e</strong></td><td>sehen</td><td>gesehen</td><td>seen</td></tr>
+      <tr><td><strong>a → a</strong></td><td>fahren</td><td>gefahren</td><td>driven/traveled</td></tr>
+      <tr><td><strong>a → a</strong></td><td>schlafen</td><td>geschlafen</td><td>slept</td></tr>
+      <tr><td><strong>e → o</strong></td><td>nehmen</td><td>genommen</td><td>taken</td></tr>
+      <tr><td><strong>e → o</strong></td><td>sprechen</td><td>gesprochen</td><td>spoken</td></tr>
+      <tr><td><em>unique</em></td><td>gehen</td><td>gegangen</td><td>gone / went</td></tr>
+    </table>
+
+    <h3>Special Cases: Verbs Without ge-</h3>
+    <p><strong>1. Verbs ending in -ieren</strong> → just add -t, no ge-:</p>
+    <p style="padding-left:16px;">studieren → <strong>studiert</strong> &nbsp;·&nbsp; telefonieren → <strong>telefoniert</strong> &nbsp;·&nbsp; fotografieren → <strong>fotografiert</strong></p>
+    <p><strong>2. Inseparable prefix verbs</strong> (be-, ge-, er-, ver-, zer-, ent-, emp-, miss-) → no ge-:</p>
+    <p style="padding-left:16px;">besuchen → <strong>besucht</strong> &nbsp;·&nbsp; verstehen → <strong>verstanden</strong> &nbsp;·&nbsp; bezahlen → <strong>bezahlt</strong></p>
+    <p><strong>3. Separable verbs</strong> → ge- goes between prefix and stem:</p>
+    <p style="padding-left:16px;">einkaufen → ein<strong>ge</strong>kauft &nbsp;·&nbsp; aufstehen → auf<strong>ge</strong>standen &nbsp;·&nbsp; ankommen → an<strong>ge</strong>kommen</p>
+
+    <h3>Key Verb Reference</h3>
+    <table>
+      <tr><th colspan="3" style="background:#ffebee; color:#c62828;">SEIN verbs (movement / change of state / exceptions)</th></tr>
+      <tr><th>Infinitiv</th><th>Partizip II</th><th>Meaning</th></tr>
+      <tr><td>gehen</td><td>gegangen</td><td>to go</td></tr>
+      <tr><td>fahren</td><td>gefahren</td><td>to drive / travel</td></tr>
+      <tr><td>kommen</td><td>gekommen</td><td>to come</td></tr>
+      <tr><td>fliegen</td><td>geflogen</td><td>to fly</td></tr>
+      <tr><td>laufen</td><td>gelaufen</td><td>to run / walk</td></tr>
+      <tr><td>reisen</td><td>gereist</td><td>to travel</td></tr>
+      <tr><td>aufstehen</td><td>aufgestanden</td><td>to get up</td></tr>
+      <tr><td>einschlafen</td><td>eingeschlafen</td><td>to fall asleep</td></tr>
+      <tr><td>bleiben</td><td>geblieben</td><td>to stay (exception!)</td></tr>
+      <tr><td>sein</td><td>gewesen</td><td>to be (exception!)</td></tr>
+      <tr><th colspan="3" style="background:#e8f5e9; color:#2e7d32;">HABEN verbs (most verbs, especially with objects)</th></tr>
+      <tr><th>Infinitiv</th><th>Partizip II</th><th>Meaning</th></tr>
+      <tr><td>machen</td><td>gemacht</td><td>to make / do</td></tr>
+      <tr><td>kaufen</td><td>gekauft</td><td>to buy</td></tr>
+      <tr><td>essen</td><td>gegessen</td><td>to eat</td></tr>
+      <tr><td>trinken</td><td>getrunken</td><td>to drink</td></tr>
+      <tr><td>sehen</td><td>gesehen</td><td>to see</td></tr>
+      <tr><td>hören</td><td>gehört</td><td>to hear</td></tr>
+      <tr><td>schreiben</td><td>geschrieben</td><td>to write</td></tr>
+      <tr><td>lesen</td><td>gelesen</td><td>to read</td></tr>
+      <tr><td>finden</td><td>gefunden</td><td>to find</td></tr>
+      <tr><td>nehmen</td><td>genommen</td><td>to take</td></tr>
+      <tr><td>haben</td><td>gehabt</td><td>to have</td></tr>
+      <tr><td>arbeiten</td><td>gearbeitet</td><td>to work</td></tr>
+      <tr><td>besuchen</td><td>besucht</td><td>to visit (inseparable!)</td></tr>
+      <tr><td>verstehen</td><td>verstanden</td><td>to understand (inseparable!)</td></tr>
+      <tr><td>sprechen</td><td>gesprochen</td><td>to speak</td></tr>
+      <tr><td>bezahlen</td><td>bezahlt</td><td>to pay (inseparable!)</td></tr>
+    </table>
+  </section>
+
+  <!-- EXAMPLES -->
+  <section id="examples">
+    <h2>Examples</h2>
+
+    <div class="example-group">
+      <h3><span class="level-badge badge-simple">Simple</span> Short sentences, one feature at a time</h3>
+      <div class="example-item simple">
+        <div class="example-german">1. Ich habe gegessen.</div>
+        <div class="example-english">I ate. / I have eaten.</div>
+        <div class="example-note">essen takes haben; Partizip II = gegessen (e→e vowel, -en ending, irregular strong verb)</div>
+      </div>
+      <div class="example-item simple">
+        <div class="example-german">2. Er ist gegangen.</div>
+        <div class="example-english">He went. / He has gone.</div>
+        <div class="example-note">gehen takes sein (movement verb); Partizip II = gegangen (irregular: ge- + gang- + -en)</div>
+      </div>
+      <div class="example-item simple">
+        <div class="example-german">3. Sie hat Wasser gekauft.</div>
+        <div class="example-english">She bought water.</div>
+        <div class="example-note">kaufen takes haben (has an object); Partizip II = gekauft (regular: ge- + kauf + -t)</div>
+      </div>
+    </div>
+
+    <div class="example-group">
+      <h3><span class="level-badge badge-medium">Medium</span> With time phrases and prepositional phrases</h3>
+      <div class="example-item medium">
+        <div class="example-german">4. Wir haben gestern Kaffee getrunken.</div>
+        <div class="example-english">We drank coffee yesterday.</div>
+        <div class="example-note">trinken takes haben; Partizip II = getrunken (i→u vowel change, strong verb pattern)</div>
+      </div>
+      <div class="example-item medium">
+        <div class="example-german">5. Ich bin heute nach Berlin gefahren.</div>
+        <div class="example-english">I traveled to Berlin today.</div>
+        <div class="example-note">fahren takes sein (movement from A to B); Partizip II = gefahren (a stays a, -en ending)</div>
+      </div>
+      <div class="example-item medium">
+        <div class="example-german">6. Er hat das Hotel gefunden.</div>
+        <div class="example-english">He found the hotel.</div>
+        <div class="example-note">finden takes haben (transitive verb with object); Partizip II = gefunden (i→u pattern)</div>
+      </div>
+    </div>
+
+    <div class="example-group">
+      <h3><span class="level-badge badge-complex">Complex</span> Multiple verbs, mixed auxiliaries</h3>
+      <div class="example-item complex">
+        <div class="example-german">7. Ich habe im Restaurant gut gegessen und Wein getrunken.</div>
+        <div class="example-english">I ate well at the restaurant and drank wine.</div>
+        <div class="example-note">Two haben verbs: essen → gegessen (e→e), trinken → getrunken (i→u); both take haben</div>
+      </div>
+      <div class="example-item complex">
+        <div class="example-german">8. Sie sind mit dem Zug nach München gefahren und dort geblieben.</div>
+        <div class="example-english">They traveled to Munich by train and stayed there.</div>
+        <div class="example-note">Both fahren (movement) and bleiben (exception) take sein; geblieben = ei→ie pattern</div>
+      </div>
+      <div class="example-item complex">
+        <div class="example-german">9. Hast du den Stadtplan schon gesehen? Ich habe ihn nicht gefunden.</div>
+        <div class="example-english">Have you already seen the city map? I couldn't find it.</div>
+        <div class="example-note">sehen → gesehen and finden → gefunden both take haben; question word order: hast goes to position 1</div>
+      </div>
+      <div class="example-item complex">
+        <div class="example-german">10. Er ist früh aufgestanden und hat dann Frühstück gemacht.</div>
+        <div class="example-english">He got up early and then made breakfast.</div>
+        <div class="example-note">Mixed auxiliaries: aufstehen (change of state) → sein; machen (has object) → haben; aufgestanden = ge- between prefix and stem</div>
+      </div>
+      <div class="example-item complex">
+        <div class="example-german">11. Wir haben die Tickets online gekauft und sind dann zum Bahnhof gegangen.</div>
+        <div class="example-english">We bought the tickets online and then went to the train station.</div>
+        <div class="example-note">Mixed auxiliaries: kaufen (has object) → haben; gehen (movement) → sein — classic travel sentence</div>
+      </div>
+      <div class="example-item complex">
+        <div class="example-german">12. Das Museum hat mir sehr gut gefallen.</div>
+        <div class="example-english">I really liked the museum.</div>
+        <div class="example-note">gefallen takes haben; note: das Museum is the subject in German (unusual structure for English speakers)</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXERCISES -->
+  <section id="exercises">
+    <h2>Exercises</h2>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">1.</span>
+        <span class="level-badge badge-simple">Simple</span>
+        <span class="level-badge badge-fill_in_blank">Fill in the blank</span>
+      </div>
+      <div class="exercise-prompt">Ich ___ Kaffee getrunken.</div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">2.</span>
+        <span class="level-badge badge-simple">Simple</span>
+        <span class="level-badge badge-fill_in_blank">Fill in the blank</span>
+      </div>
+      <div class="exercise-prompt">Er ___ nach Hause gegangen.</div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">3.</span>
+        <span class="level-badge badge-simple">Simple</span>
+        <span class="level-badge badge-multiple_choice">Multiple choice</span>
+      </div>
+      <div class="exercise-prompt">Sie ___ das Buch gelesen.</div>
+      <ul class="exercise-options">
+        <li>a) hat</li>
+        <li>b) ist</li>
+        <li>c) haben</li>
+      </ul>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">4.</span>
+        <span class="level-badge badge-simple">Simple</span>
+        <span class="level-badge badge-multiple_choice">Multiple choice</span>
+      </div>
+      <div class="exercise-prompt">Wir ___ nach Wien geflogen.</div>
+      <ul class="exercise-options">
+        <li>a) haben</li>
+        <li>b) sind</li>
+        <li>c) ist</li>
+      </ul>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">5.</span>
+        <span class="level-badge badge-simple">Simple</span>
+        <span class="level-badge badge-translation">Translation</span>
+      </div>
+      <div class="exercise-prompt">Translate: "I ate." <em>(Use essen → gegessen)</em></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">6.</span>
+        <span class="level-badge badge-simple">Simple</span>
+        <span class="level-badge badge-error_correction">Error correction</span>
+      </div>
+      <div class="exercise-prompt">Find and correct the error:<br><strong>Ich bin gegessen.</strong></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">7.</span>
+        <span class="level-badge badge-medium">Medium</span>
+        <span class="level-badge badge-fill_in_blank">Fill in the blank</span>
+      </div>
+      <div class="exercise-prompt">Ich ___ gestern ins Hotel ___. <em>(sein + gehen — fill both blanks)</em></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">8.</span>
+        <span class="level-badge badge-medium">Medium</span>
+        <span class="level-badge badge-fill_in_blank">Fill in the blank</span>
+      </div>
+      <div class="exercise-prompt">Sie ___ den Zug nach Hamburg ___. <em>(haben + nehmen — fill both blanks)</em></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">9.</span>
+        <span class="level-badge badge-medium">Medium</span>
+        <span class="level-badge badge-multiple_choice">Multiple choice</span>
+      </div>
+      <div class="exercise-prompt">Er ___ früh aufgestanden.</div>
+      <ul class="exercise-options">
+        <li>a) hat</li>
+        <li>b) ist</li>
+        <li>c) wird</li>
+      </ul>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">10.</span>
+        <span class="level-badge badge-medium">Medium</span>
+        <span class="level-badge badge-translation">Translation</span>
+      </div>
+      <div class="exercise-prompt">Translate: "We traveled to Berlin yesterday." <em>(fahren → gefahren)</em></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">11.</span>
+        <span class="level-badge badge-medium">Medium</span>
+        <span class="level-badge badge-error_correction">Error correction</span>
+      </div>
+      <div class="exercise-prompt">Find and correct the error:<br><strong>Wir haben nach Hause gegangen.</strong></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">12.</span>
+        <span class="level-badge badge-complex">Complex</span>
+        <span class="level-badge badge-fill_in_blank">Fill in the blank</span>
+      </div>
+      <div class="exercise-prompt">Ich ___ das Museum ___ und dann ___ ich in die Stadt ___. <em>(besuchen + gehen — fill all four blanks)</em></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">13.</span>
+        <span class="level-badge badge-complex">Complex</span>
+        <span class="level-badge badge-multiple_choice">Multiple choice</span>
+      </div>
+      <div class="exercise-prompt">Er ___ lange im Café ___ und dann ___ er nach Hause ___.</div>
+      <ul class="exercise-options">
+        <li>a) hat / geblieben / ist / gegangen</li>
+        <li>b) ist / geblieben / hat / gegangen</li>
+        <li>c) ist / geblieben / ist / gegangen</li>
+      </ul>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">14.</span>
+        <span class="level-badge badge-complex">Complex</span>
+        <span class="level-badge badge-translation">Translation</span>
+      </div>
+      <div class="exercise-prompt">Translate: "He got up early and took the train to Hamburg." <em>(aufstehen → aufgestanden; nehmen → genommen)</em></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">15.</span>
+        <span class="level-badge badge-complex">Complex</span>
+        <span class="level-badge badge-error_correction">Error correction</span>
+      </div>
+      <div class="exercise-prompt">Find and correct ALL errors (there are two):<br><strong>Sie hat sehr früh aufgestanden und ist dann Frühstück gemacht.</strong></div>
+    </div>
+
+    <div class="exercise-item">
+      <div class="exercise-header">
+        <span class="exercise-num">16.</span>
+        <span class="level-badge badge-complex">Complex</span>
+        <span class="level-badge badge-fill_in_blank">Fill in the blank</span>
+      </div>
+      <div class="exercise-prompt">Wir ___ die Tickets ___ und ___ dann zum Bahnhof ___. <em>(kaufen + gehen — fill all four blanks)</em></div>
+    </div>
+
+  </section>
+
+  <!-- SOLUTIONS -->
+  <section id="solutions" class="solutions-section">
+    <h2>Solutions</h2>
+
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">1. Fill in the blank (simple)</div>
+      <div class="solution-answer">habe</div>
+      <div class="solution-explanation">trinken takes haben as its auxiliary. For ich, haben conjugates to "habe".</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">2. Fill in the blank (simple)</div>
+      <div class="solution-answer">ist</div>
+      <div class="solution-explanation">gehen is a movement verb → takes sein. For er, sein = "ist".</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">3. Multiple choice (simple)</div>
+      <div class="solution-answer">a) hat</div>
+      <div class="solution-explanation">lesen takes haben (it has an object: das Buch). For sie (she), haben = "hat".</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">4. Multiple choice (simple)</div>
+      <div class="solution-answer">b) sind</div>
+      <div class="solution-explanation">fliegen is a movement verb (travel from A to B) → takes sein. For wir, sein = "sind".</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">5. Translation (simple)</div>
+      <div class="solution-answer">Ich habe gegessen.</div>
+      <div class="solution-explanation">essen takes haben. For ich: habe. Partizip II of essen = gegessen (irregular, e→e, strong verb).</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">6. Error correction (simple)</div>
+      <div class="solution-answer">Ich habe gegessen.</div>
+      <div class="solution-explanation">essen is not a movement or change-of-state verb — it takes haben, not sein. "Ich bin gegessen" is a very common beginner error.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">7. Fill in the blank (medium)</div>
+      <div class="solution-answer">bin / gegangen</div>
+      <div class="solution-explanation">gehen is a movement verb → takes sein. For ich: bin. Partizip II of gehen = gegangen (irregular: ge-gang-en).</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">8. Fill in the blank (medium)</div>
+      <div class="solution-answer">hat / genommen</div>
+      <div class="solution-explanation">nehmen takes haben (transitive with object). For sie (she): hat. Partizip II of nehmen = genommen (e→o, irregular).</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">9. Multiple choice (medium)</div>
+      <div class="solution-answer">b) ist</div>
+      <div class="solution-explanation">aufstehen is a change-of-state verb (going from lying/sleeping to standing) → takes sein. For er: ist.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">10. Translation (medium)</div>
+      <div class="solution-answer">Wir sind gestern nach Berlin gefahren.</div>
+      <div class="solution-explanation">fahren is a movement verb → takes sein. For wir: sind. Partizip II = gefahren. Time expressions like "gestern" typically come early in the sentence.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">11. Error correction (medium)</div>
+      <div class="solution-answer">Wir sind nach Hause gegangen.</div>
+      <div class="solution-explanation">gehen is a movement verb (physically moving from A to B) → takes sein, not haben. This is one of the most common errors at A1 level.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">12. Fill in the blank (complex)</div>
+      <div class="solution-answer">habe / besucht / bin / gegangen</div>
+      <div class="solution-explanation">besuchen (inseparable prefix "be-") takes haben → habe/besucht (no ge- prefix). gehen takes sein → bin/gegangen. Two different auxiliaries in one sentence.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">13. Multiple choice (complex)</div>
+      <div class="solution-answer">c) ist / geblieben / ist / gegangen</div>
+      <div class="solution-explanation">Both bleiben (exception: takes sein) and gehen (movement verb: takes sein) use sein. So both verbs use "ist" for er.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">14. Translation (complex)</div>
+      <div class="solution-answer">Er ist früh aufgestanden und hat den Zug nach Hamburg genommen.</div>
+      <div class="solution-explanation">aufstehen (change of state) → sein: ist aufgestanden. nehmen (transitive with object "den Zug") → haben: hat genommen. Mixed auxiliaries — Partizip II always goes to the very end of each clause.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">15. Error correction (complex)</div>
+      <div class="solution-answer">Sie ist sehr früh aufgestanden und hat dann Frühstück gemacht.</div>
+      <div class="solution-explanation">Two errors: (1) aufstehen → change of state → takes sein, not haben: "ist aufgestanden". (2) machen → takes haben, not sein: "hat gemacht". Mixed auxiliaries: sein for the change-of-state verb, haben for the action verb with object.</div>
+    </div>
+    <div class="solution-item">
+      <div style="font-weight:700; color:#37474f; margin-bottom:4px;">16. Fill in the blank (complex)</div>
+      <div class="solution-answer">haben / gekauft / sind / gegangen</div>
+      <div class="solution-explanation">kaufen (transitive, has object "die Tickets") → haben: haben/gekauft (regular Partizip II: ge-kauf-t). gehen (movement) → sein: sind/gegangen. Classic mixed-auxiliary travel sentence.</div>
+    </div>
+
+  </section>
+
+  <!-- TRANSFER NOTES + KEY TAKEAWAY -->
+  <div class="transfer-notes">
+    <h3>Transfer Notes</h3>
+    <ul>
+      <li><strong>Spanish parallel (helpful!):</strong> Spanish has "haber + participio" — "he comido" (I have eaten) is structurally identical to "Ich habe gegessen". The big difference: Spanish only uses "haber" for everything, while German uses BOTH "haben" and "sein". So "he ido" = "Ich bin gegangen" — German uses "sein" for movement, not "haben".</li>
+      <li><strong>Spanish gender warning:</strong> Spanish participios agree in gender/number in some constructions. German Partizip II NEVER changes — it stays the same regardless of subject: "Er hat gegessen", "Sie hat gegessen", "Wir haben gegessen" — always "gegessen".</li>
+      <li><strong>English parallel (helpful!):</strong> "I have eaten" = "Ich habe gegessen" — almost identical structure. But English no longer uses "to be" in perfect tenses. German kept it: "Er ist gegangen" = literally "He is gone" — this form still exists in older English and helps you remember that sein verbs describe a resulting state.</li>
+      <li><strong>False friend — "bin":</strong> "bin" appears in both present ("Ich bin müde" = I am tired) and Perfekt ("Ich bin gegangen" = I went). Context tells them apart: if there is a Partizip II at the end of the sentence, it's Perfekt.</li>
+    </ul>
+  </div>
+
+  <div class="key-takeaway">
+    <h3>Key Takeaway</h3>
+    <p>The Perfekt = haben/sein (conjugated) + Partizip II at the end: use sein for movement and change-of-state verbs, haben for everything else — and the vowel-change patterns (i→u, ei→ie, e→o) help you predict many irregular Partizip II forms.</p>
+  </div>
+
+  <footer>Generated by German Learning Assistant &nbsp;·&nbsp; A1</footer>
+</div>
+</body>
+</html>

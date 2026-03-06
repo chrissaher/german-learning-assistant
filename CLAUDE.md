@@ -32,21 +32,23 @@ Skills will be created incrementally. Ideas in scope:
 
 ## Available Skills
 
-| Skill             | Invocation                                                          | Description                                                                                                           |
-|-------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| sentence-builder  | `sentence builder: [word]` or `sentence builder: [word] ([type])`  | Generates 10 A1-level example sentences for a given German word and saves them as JSON                               |
-| grammar-explainer | `grammar: [topic]` or `grammar: [topic], focus: [specifics]`       | Generates a detailed grammar explanation with examples, exercises (4 types), and solutions; saves JSON + HTML output |
+| Skill               | Invocation                                                          | Description                                                                                                                            |
+|---------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| sentence-builder    | `sentence builder: [word]` or `sentence builder: [word] ([type])`  | Generates 10 A1-level example sentences for a given German word and saves them as JSON                                                |
+| sentence-renderer   | `render sentences`                                                  | Renders all unrendered sentence JSON files to styled HTML; skips already-rendered files; saves to `data/sentences-html/`              |
+| grammar-explainer   | `grammar: [topic]` or `grammar: [topic], focus: [specifics]`       | Generates a detailed grammar explanation with examples, exercises (4 types), and solutions; saves JSON + HTML output                  |
 
 **Invocation examples:**
 - `sentence builder: Haus`
 - `sentence builder: essen (verb)`
 - `sentence builder: groß (adjective)`
+- `render sentences`
 - `grammar: Dativ`
 - `grammar: Perfekt, focus: haben vs. sein`
 - `grammar: lokale Präpositionen`
 
-Skill definitions: `skills/sentence-builder.md`, `skills/grammar-explainer.md`
-Generated sentence files saved to: `data/sentences/`
+Skill definitions: `.claude/skills/sentence-builder/SKILL.md`, `.claude/skills/sentence-renderer/SKILL.md`, `.claude/skills/grammar-explainer/SKILL.md`
+Generated sentence files saved to: `data/sentences/` (JSON) and `data/sentences-html/` (HTML)
 Generated grammar files saved to: `data/grammar/` (JSON) and `data/grammar-html/` (HTML)
 
 ---
