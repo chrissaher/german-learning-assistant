@@ -96,7 +96,112 @@ After saving, confirm to the user:
 
 ---
 
-## Step 5 — Display the Sentences
+## Step 5 — Regenerate index.html
+
+After saving the JSON file, regenerate `index.html` at the project root so the new sentence file appears in the browser index (once rendered via the sentence-renderer skill).
+
+Note: sentence-builder saves only a JSON file — the HTML file is created by `sentence-renderer`. Therefore, regenerate the index based on what HTML files **currently exist** in `data/sentences-html/`. The new word will appear in the index after the user runs `render sentences`.
+
+### How to rebuild index.html
+
+1. Use Bash to list all HTML files in both output directories:
+   ```bash
+   ls data/grammar-html/*.html 2>/dev/null
+   ls data/sentences-html/*.html 2>/dev/null
+   ```
+
+2. For each filename, extract:
+   - **label**: strip the datetime suffix (`_YYYY-MM-DD_HHMMSS`) from the stem, replace remaining underscores with spaces; capitalize the first letter of the result. Use your own knowledge of the word to improve capitalization where appropriate (e.g., `die_kunst` → "die Kunst", `perfekt_past_tense` → "Perfekt Past Tense").
+   - **date**: the `YYYY-MM-DD` portion embedded in the filename (second-to-last underscore segment, format `YYYY-MM-DD`).
+   - **href**: the relative path from the project root, e.g. `data/sentences-html/{filename}`.
+
+3. Sort each section by date descending (newest first).
+
+4. Write `index.html` to the project root using the Write tool, following this structure exactly:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>German Learning Assistant — A1</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      font-size: 16px; line-height: 1.65;
+      color: #212121; background: #fafafa;
+      padding: 24px 16px 64px;
+    }
+    .container { max-width: 800px; margin: 0 auto; }
+    header {
+      background: #1a237e; color: #fff;
+      border-radius: 10px; padding: 28px 32px; margin-bottom: 32px;
+    }
+    header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 6px; }
+    header .meta { font-size: 0.85rem; opacity: 0.7; }
+    section { margin-bottom: 40px; }
+    section > h2 {
+      font-size: 1.25rem; font-weight: 700; color: #1a237e;
+      border-bottom: 3px solid #c5cae9;
+      padding-bottom: 8px; margin-bottom: 16px;
+    }
+    .file-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .file-list li a {
+      display: flex; align-items: center; justify-content: space-between; gap: 12px;
+      background: #fff; border: 1px solid #e0e0e0; border-radius: 8px;
+      padding: 14px 18px; text-decoration: none; color: #1a237e;
+      font-weight: 600; font-size: 1rem;
+    }
+    .file-list li a:hover { background: #e8eaf6; border-color: #9fa8da; }
+    .file-list li a .label { flex: 1; }
+    .file-list li a .date { font-size: 0.78rem; font-weight: 400; color: #888; white-space: nowrap; }
+    .section-badge {
+      display: inline-block; padding: 2px 12px; border-radius: 12px;
+      font-size: 0.75rem; font-weight: 700; letter-spacing: .04em;
+      text-transform: uppercase; color: #fff; margin-right: 8px; vertical-align: middle;
+    }
+    .badge-grammar   { background: #6a1b9a; }
+    .badge-sentences { background: #00695c; }
+    footer { text-align: center; font-size: 0.8rem; color: #9e9e9e; margin-top: 48px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>German Learning Assistant</h1>
+      <p class="meta">A1 Level · Momente A1 (Hueber) · Travel &amp; Tourism</p>
+    </header>
+
+    <section id="grammar">
+      <h2><span class="section-badge badge-grammar">Grammar</span> Lessons</h2>
+      <ul class="file-list">
+        <!-- one <li> per grammar HTML file, newest first -->
+        <li><a href="{href}"><span class="label">{label}</span><span class="date">{date}</span></a></li>
+      </ul>
+    </section>
+
+    <section id="sentences">
+      <h2><span class="section-badge badge-sentences">Sentences</span> Practice</h2>
+      <ul class="file-list">
+        <!-- one <li> per sentence HTML file, newest first -->
+        <li><a href="{href}"><span class="label">{label}</span><span class="date">{date}</span></a></li>
+      </ul>
+    </section>
+
+    <footer>German Learning Assistant · A1 · Generated {YYYY-MM-DD}</footer>
+  </div>
+</body>
+</html>
+```
+
+Replace `{YYYY-MM-DD}` in the footer with today's date.
+After saving, confirm: `"index.html regenerated — {N} grammar + {M} sentence files listed."`
+
+---
+
+## Step 6 — Display the Sentences
 
 Show the sentences grouped by level. Use this exact format for each sentence:
 
