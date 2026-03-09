@@ -75,7 +75,7 @@ Group the sentences by level:
 
 ## Step 3 — Generate the HTML
 
-For each unrendered JSON, produce a self-contained, styled HTML file (inline CSS only — no external dependencies).
+For each unrendered JSON, produce a styled HTML file that links to the shared stylesheet.
 
 ### Page title
 `Sentences: {word} ({word_type}) — A1`
@@ -84,7 +84,7 @@ For each unrendered JSON, produce a self-contained, styled HTML file (inline CSS
 
 ```
 <html lang="en">
-  <head>  — charset, viewport, title, inline CSS
+  <head>  — charset, viewport, title, link to shared stylesheet
   <body>
     <div class="container">
       <header>   — word, word type pill, generated date
@@ -122,90 +122,9 @@ Each `.sentence-card` contains:
 
 ---
 
-## CSS Specification
+## Stylesheet
 
-Use this inline CSS exactly (paste into `<style>`):
-
-```css
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-  font-family: system-ui, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.65;
-  color: #212121;
-  background: #fafafa;
-  padding: 24px 16px 64px;
-}
-.container { max-width: 800px; margin: 0 auto; }
-
-/* HEADER */
-header {
-  background: #1a237e;
-  color: #fff;
-  border-radius: 10px;
-  padding: 28px 32px;
-  margin-bottom: 24px;
-}
-header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 8px; }
-header .meta { font-size: 0.8rem; opacity: 0.6; margin-top: 6px; }
-
-/* NAV */
-nav { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 32px; }
-nav a {
-  background: #e8eaf6; color: #1a237e;
-  text-decoration: none; padding: 8px 18px;
-  border-radius: 24px; font-weight: 600; font-size: 0.9rem;
-}
-nav a:hover { background: #c5cae9; }
-
-/* SECTIONS */
-section { margin-bottom: 48px; }
-section > h2 {
-  font-size: 1.35rem; font-weight: 700;
-  color: #1a237e;
-  border-bottom: 3px solid #c5cae9;
-  padding-bottom: 8px; margin-bottom: 20px;
-  display: flex; align-items: center; gap: 10px;
-}
-
-/* BADGES */
-.badge {
-  display: inline-block; padding: 2px 10px; border-radius: 12px;
-  font-size: 0.72rem; font-weight: 700; letter-spacing: .04em;
-  text-transform: uppercase; color: #fff; margin-right: 4px;
-}
-.badge-simple  { background: #2e7d32; }
-.badge-medium  { background: #f57c00; }
-.badge-complex { background: #c62828; }
-.badge-type    { background: #37474f; }
-
-/* SENTENCE CARDS */
-.sentence-card {
-  background: #fff;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 16px 20px;
-  margin-bottom: 12px;
-}
-.card-header {
-  display: flex; align-items: center; gap: 8px;
-  margin-bottom: 10px;
-}
-.card-num { font-weight: 700; font-size: 1rem; color: #333; }
-.sentence-german {
-  font-size: 1.1rem; font-weight: 700;
-  color: #1a237e; margin-bottom: 4px;
-}
-.sentence-english {
-  color: #555; font-size: 0.95rem; margin-bottom: 6px;
-}
-.sentence-note {
-  font-size: 0.85rem; color: #5c6bc0; font-style: italic;
-}
-
-/* FOOTER */
-footer { text-align: center; font-size: 0.8rem; color: #9e9e9e; margin-top: 48px; }
-```
+Use `<link rel="stylesheet" href="../../styles.css" />` in `<head>` instead of inline CSS. No `<style>` block needed.
 
 ---
 
@@ -252,46 +171,7 @@ After saving all newly rendered HTML files, regenerate `index.html` at the proje
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>German Learning Assistant — A1</title>
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: system-ui, Arial, sans-serif;
-      font-size: 16px; line-height: 1.65;
-      color: #212121; background: #fafafa;
-      padding: 24px 16px 64px;
-    }
-    .container { max-width: 800px; margin: 0 auto; }
-    header {
-      background: #1a237e; color: #fff;
-      border-radius: 10px; padding: 28px 32px; margin-bottom: 32px;
-    }
-    header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 6px; }
-    header .meta { font-size: 0.85rem; opacity: 0.7; }
-    section { margin-bottom: 40px; }
-    section > h2 {
-      font-size: 1.25rem; font-weight: 700; color: #1a237e;
-      border-bottom: 3px solid #c5cae9;
-      padding-bottom: 8px; margin-bottom: 16px;
-    }
-    .file-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-    .file-list li a {
-      display: flex; align-items: center; justify-content: space-between; gap: 12px;
-      background: #fff; border: 1px solid #e0e0e0; border-radius: 8px;
-      padding: 14px 18px; text-decoration: none; color: #1a237e;
-      font-weight: 600; font-size: 1rem;
-    }
-    .file-list li a:hover { background: #e8eaf6; border-color: #9fa8da; }
-    .file-list li a .label { flex: 1; }
-    .file-list li a .date { font-size: 0.78rem; font-weight: 400; color: #888; white-space: nowrap; }
-    .section-badge {
-      display: inline-block; padding: 2px 12px; border-radius: 12px;
-      font-size: 0.75rem; font-weight: 700; letter-spacing: .04em;
-      text-transform: uppercase; color: #fff; margin-right: 8px; vertical-align: middle;
-    }
-    .badge-grammar   { background: #6a1b9a; }
-    .badge-sentences { background: #00695c; }
-    footer { text-align: center; font-size: 0.8rem; color: #9e9e9e; margin-top: 48px; }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="container">
@@ -352,7 +232,7 @@ If nothing new was rendered, say so and list the already-rendered files so the u
 Before saving each HTML:
 - [ ] All 10 sentences from the JSON are rendered (or however many exist)
 - [ ] Sentences are correctly grouped by level (simple / medium / complex)
-- [ ] HTML is self-contained with inline CSS only — no external links
+- [ ] HTML links to `../../styles.css` — no inline `<style>` block
 - [ ] Filename matches the source JSON stem exactly
 - [ ] Each card shows: number, level badge, German, → English, 📝 grammar note
 - [ ] Deduplication check was done before rendering (no overwrites)

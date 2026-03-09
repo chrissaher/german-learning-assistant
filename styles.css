@@ -1,0 +1,222 @@
+/* ════════════════════════════════════════════════════════════
+   German Learning Assistant — Shared Stylesheet
+   Used by: index.html, data/sentences-html/*.html, data/grammar-html/*.html
+   ════════════════════════════════════════════════════════════ */
+
+/* ── RESET & BASE ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: system-ui, Arial, sans-serif;
+  font-size: 16px; line-height: 1.65;
+  color: #212121; background: #fafafa;
+  padding: 24px 16px 64px;
+}
+.container { max-width: 800px; margin: 0 auto; }
+
+/* ── HEADER ── */
+header {
+  background: #1a237e; color: #fff;
+  border-radius: 10px; padding: 28px 32px; margin-bottom: 24px;
+}
+header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 8px; }
+header .focus { font-size: 0.95rem; opacity: 0.85; margin-bottom: 8px; }
+header .meta { font-size: 0.82rem; opacity: 0.65; margin-top: 6px; }
+
+/* ── NAV — sentence/index style (pill links) ── */
+nav { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 32px; }
+nav a {
+  background: #e8eaf6; color: #1a237e;
+  text-decoration: none; padding: 8px 18px;
+  border-radius: 24px; font-weight: 600; font-size: 0.9rem;
+}
+nav a:hover { background: #c5cae9; }
+
+/* ── NAV — grammar style (block nav) ── */
+nav.block-nav {
+  display: block;
+  background: #fff; border: 1px solid #e0e0e0;
+  border-radius: 8px; padding: 12px 16px;
+  margin-bottom: 24px;
+}
+nav.block-nav a {
+  background: none; border-radius: 0; padding: 0;
+  margin-right: 20px; font-size: 0.92rem;
+  color: #1a237e; text-decoration: none; font-weight: 600;
+}
+nav.block-nav a:hover { text-decoration: underline; background: none; }
+
+/* ── BADGES ── */
+.badge, .level-badge {
+  display: inline-block; padding: 2px 10px; border-radius: 12px;
+  font-size: 0.72rem; font-weight: 700; letter-spacing: .04em;
+  text-transform: uppercase; color: #fff; margin-right: 4px;
+}
+.badge-simple  { background: #2e7d32; }
+.badge-medium  { background: #f57c00; }
+.badge-complex { background: #c62828; }
+.badge-type    { background: #37474f; }
+.badge-fill_in_blank   { background: #1565c0; }
+.badge-multiple_choice { background: #6a1b9a; }
+.badge-translation     { background: #00695c; }
+.badge-error_correction { background: #4e342e; }
+.section-badge {
+  display: inline-block; padding: 2px 12px; border-radius: 12px;
+  font-size: 0.75rem; font-weight: 700; letter-spacing: .04em;
+  text-transform: uppercase; color: #fff; margin-right: 8px; vertical-align: middle;
+}
+.badge-grammar   { background: #6a1b9a; }
+.badge-sentences { background: #00695c; }
+
+/* ── FOOTER ── */
+footer { text-align: center; font-size: 0.8rem; color: #9e9e9e; margin-top: 48px; }
+
+/* ════════════════════
+   SENTENCES-SPECIFIC
+   ════════════════════ */
+
+/* SECTIONS */
+section { margin-bottom: 48px; }
+section > h2 {
+  font-size: 1.35rem; font-weight: 700; color: #1a237e;
+  border-bottom: 3px solid #c5cae9; padding-bottom: 8px; margin-bottom: 20px;
+  display: flex; align-items: center; gap: 10px;
+}
+
+/* SENTENCE CARDS */
+.sentence-card {
+  background: #fff; border: 1px solid #e0e0e0;
+  border-radius: 8px; padding: 16px 20px; margin-bottom: 12px;
+}
+.card-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+.card-num { font-weight: 700; font-size: 1rem; color: #333; }
+.sentence-german { font-size: 1.1rem; font-weight: 700; color: #1a237e; margin-bottom: 4px; }
+.sentence-english { color: #555; font-size: 0.95rem; margin-bottom: 6px; }
+.sentence-note { font-size: 0.85rem; color: #5c6bc0; font-style: italic; }
+
+/* INDEX FILE LIST */
+.file-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.file-list li a {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  background: #fff; border: 1px solid #e0e0e0; border-radius: 8px;
+  padding: 14px 18px; text-decoration: none; color: #1a237e;
+  font-weight: 600; font-size: 1rem;
+}
+.file-list li a:hover { background: #e8eaf6; border-color: #9fa8da; }
+.file-list li a .label { flex: 1; }
+.file-list li a .date { font-size: 0.78rem; font-weight: 400; color: #888; white-space: nowrap; }
+
+/* ════════════════════
+   GRAMMAR-SPECIFIC
+   ════════════════════ */
+
+/* GRAMMAR SECTIONS */
+.grammar-page section {
+  background: #fff; border: 1px solid #e0e0e0;
+  border-radius: 8px; padding: 24px; margin-bottom: 24px;
+}
+.grammar-page section h2 {
+  font-size: 1.25rem; color: #1a237e;
+  border-bottom: 2px solid #e8eaf6; padding-bottom: 10px; margin-bottom: 16px;
+  display: block;
+}
+.grammar-page section h3 { font-size: 1.05rem; color: #37474f; margin: 20px 0 8px; }
+p { margin-bottom: 12px; }
+strong { color: #1a237e; }
+
+table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.92rem; }
+th { background: #e8eaf6; color: #1a237e; text-align: left; padding: 8px 10px; border: 1px solid #c5cae9; }
+td { padding: 7px 10px; border: 1px solid #e0e0e0; }
+tr:nth-child(even) td { background: #f5f5f5; }
+
+.example-group { margin-bottom: 20px; }
+.example-group h3 { font-size: 1rem; font-weight: 700; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+.example-item { margin-bottom: 14px; padding: 12px 14px; border-left: 4px solid #e0e0e0; background: #fafafa; border-radius: 0 6px 6px 0; }
+.example-item.simple { border-left-color: #2e7d32; }
+.example-item.medium { border-left-color: #f57c00; }
+.example-item.complex { border-left-color: #c62828; }
+.example-german { font-size: 1.05rem; font-weight: 700; color: #1a237e; margin-bottom: 3px; }
+.example-english { color: #555; margin-bottom: 4px; }
+.example-english::before { content: "→ "; color: #999; }
+.example-note { font-size: 0.82rem; color: #777; font-style: italic; }
+.example-note::before { content: "Note: "; font-style: normal; font-weight: 600; color: #1565c0; }
+
+.exercise-item { margin-bottom: 16px; padding: 14px 16px; background: #f5f5f5; border-radius: 8px; }
+.exercise-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+.exercise-num { font-weight: 700; color: #37474f; }
+.exercise-prompt { font-size: 1rem; margin-top: 4px; }
+.exercise-options { margin-top: 8px; list-style: none; }
+.exercise-options li { margin: 3px 0; color: #37474f; padding-left: 6px; }
+
+.solutions-section { background: #fffde7; border: 1px solid #f9a825; }
+.solutions-section h2 { color: #e65100; border-bottom-color: #ffe082; }
+.solution-item { margin-bottom: 14px; padding: 12px 14px; background: white; border-radius: 6px; border: 1px solid #ffe082; }
+.solution-answer { font-weight: 700; color: #1b5e20; margin-bottom: 4px; }
+.solution-answer::before { content: "Answer: "; color: #37474f; font-weight: 400; }
+.solution-explanation { font-size: 0.88rem; color: #555; }
+
+.transfer-notes { background: #e8f5e9; border: 1px solid #a5d6a7; border-radius: 8px; padding: 18px 20px; margin-bottom: 20px; }
+.transfer-notes h3 { color: #2e7d32; margin-bottom: 10px; }
+.transfer-notes ul { padding-left: 18px; }
+.transfer-notes li { margin-bottom: 8px; font-size: 0.92rem; }
+
+.key-takeaway { background: #e3f2fd; border: 1px solid #90caf9; border-radius: 8px; padding: 16px 20px; }
+.key-takeaway h3 { color: #0d47a1; margin-bottom: 8px; }
+.key-takeaway p { color: #1565c0; font-weight: 600; margin: 0; }
+
+code { background: #e8eaf6; padding: 1px 6px; border-radius: 4px; font-family: monospace; font-size: 0.9em; color: #1a237e; }
+
+/* ════════════════════
+   DARK MODE
+   ════════════════════ */
+@media (prefers-color-scheme: dark) {
+  /* Base */
+  body { background: #121212; color: #e0e0e0; }
+
+  /* Nav */
+  nav a { background: #283593; color: #c5cae9; }
+  nav a:hover { background: #3949ab; }
+  nav.block-nav { background: #1e1e1e; border-color: #333; }
+  nav.block-nav a { color: #9fa8da; }
+
+  /* Sentences */
+  section > h2 { color: #7986cb; border-bottom-color: #3949ab; }
+  .sentence-card { background: #1e1e1e; border-color: #333; }
+  .card-num { color: #bdbdbd; }
+  .sentence-german { color: #7986cb; }
+  .sentence-english { color: #9e9e9e; }
+  .sentence-note { color: #7986cb; }
+
+  /* Index file list */
+  .file-list li a { background: #1e1e1e; border-color: #333; color: #9fa8da; }
+  .file-list li a:hover { background: #283593; border-color: #5c6bc0; }
+  .file-list li a .date { color: #757575; }
+
+  /* Grammar sections */
+  .grammar-page section { background: #1e1e1e; border-color: #333; }
+  .grammar-page section h2 { color: #7986cb; border-bottom-color: #3949ab; }
+  .grammar-page section h3 { color: #90a4ae; }
+  p { color: #e0e0e0; }
+  strong { color: #9fa8da; }
+  th { background: #283593; color: #c5cae9; border-color: #3949ab; }
+  td { border-color: #333; }
+  tr:nth-child(even) td { background: #252525; }
+  .example-item { background: #262626; }
+  .example-german { color: #7986cb; }
+  .example-english { color: #9e9e9e; }
+  .example-note { color: #aaa; }
+  .exercise-item { background: #262626; }
+  .exercise-num { color: #90a4ae; }
+  .exercise-options li { color: #bdbdbd; }
+  .solutions-section { background: #1a1400; border-color: #5d4037; }
+  .solutions-section h2 { color: #ffb74d; border-bottom-color: #5d4037; }
+  .solution-item { background: #1e1e1e; border-color: #5d4037; }
+  .solution-answer { color: #81c784; }
+  .solution-explanation { color: #9e9e9e; }
+  .transfer-notes { background: #0a1f0d; border-color: #1b5e20; }
+  .transfer-notes h3 { color: #81c784; }
+  .key-takeaway { background: #0a1929; border-color: #0d47a1; }
+  .key-takeaway h3 { color: #64b5f6; }
+  .key-takeaway p { color: #90caf9; }
+  code { background: #283593; color: #c5cae9; }
+  footer { color: #616161; }
+}

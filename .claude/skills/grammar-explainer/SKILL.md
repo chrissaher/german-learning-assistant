@@ -161,14 +161,14 @@ Schema:
 
 ## Step 6 — Build the HTML File
 
-Generate a self-contained, styled HTML file (inline CSS only — no external dependencies).
+Generate a styled HTML file that links to the shared stylesheet.
 
 ### Structure
 
 ```
 <html>
-  <head> — title, inline CSS </head>
-  <body>
+  <head> — title, link to shared stylesheet </head>
+  <body class="grammar-page">
     <header>         — topic title, focus (if any), generated date
     <nav>            — anchor links: Explanation | Examples | Exercises | Solutions
     <section id="explanation">  — all explanation sections rendered as <h3> + <p>/<table>
@@ -180,14 +180,8 @@ Generate a self-contained, styled HTML file (inline CSS only — no external dep
 </html>
 ```
 
-### CSS Guidelines
-- Clean sans-serif font (system-ui or Arial)
-- Level color coding: simple = #2e7d32 (green), medium = #f57c00 (orange), complex = #c62828 (red)
-- Type color coding: fill_in_blank = #1565c0 (blue), multiple_choice = #6a1b9a (purple), translation = #00695c (teal), error_correction = #4e342e (brown)
-- Badges: small colored pill labels for level and type on each exercise
-- Exercise prompts in a light gray box (`background: #f5f5f5`)
-- Solutions section uses a distinct background (`background: #fffde7`) to visually separate it
-- Responsive max-width: 800px centered
+### Stylesheet
+Use `<link rel="stylesheet" href="../../styles.css" />` in `<head>` instead of inline CSS. Add `class="grammar-page"` to `<body>`. Use `<nav class="block-nav">` for the navigation. No `<style>` block needed.
 
 ---
 
@@ -240,46 +234,7 @@ After saving the grammar files, regenerate `index.html` at the project root so t
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>German Learning Assistant — A1</title>
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: system-ui, Arial, sans-serif;
-      font-size: 16px; line-height: 1.65;
-      color: #212121; background: #fafafa;
-      padding: 24px 16px 64px;
-    }
-    .container { max-width: 800px; margin: 0 auto; }
-    header {
-      background: #1a237e; color: #fff;
-      border-radius: 10px; padding: 28px 32px; margin-bottom: 32px;
-    }
-    header h1 { font-size: 1.7rem; font-weight: 700; margin-bottom: 6px; }
-    header .meta { font-size: 0.85rem; opacity: 0.7; }
-    section { margin-bottom: 40px; }
-    section > h2 {
-      font-size: 1.25rem; font-weight: 700; color: #1a237e;
-      border-bottom: 3px solid #c5cae9;
-      padding-bottom: 8px; margin-bottom: 16px;
-    }
-    .file-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-    .file-list li a {
-      display: flex; align-items: center; justify-content: space-between; gap: 12px;
-      background: #fff; border: 1px solid #e0e0e0; border-radius: 8px;
-      padding: 14px 18px; text-decoration: none; color: #1a237e;
-      font-weight: 600; font-size: 1rem;
-    }
-    .file-list li a:hover { background: #e8eaf6; border-color: #9fa8da; }
-    .file-list li a .label { flex: 1; }
-    .file-list li a .date { font-size: 0.78rem; font-weight: 400; color: #888; white-space: nowrap; }
-    .section-badge {
-      display: inline-block; padding: 2px 12px; border-radius: 12px;
-      font-size: 0.75rem; font-weight: 700; letter-spacing: .04em;
-      text-transform: uppercase; color: #fff; margin-right: 8px; vertical-align: middle;
-    }
-    .badge-grammar   { background: #6a1b9a; }
-    .badge-sentences { background: #00695c; }
-    footer { text-align: center; font-size: 0.8rem; color: #9e9e9e; margin-top: 48px; }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="container">
@@ -341,7 +296,7 @@ Before saving and displaying, verify:
 - [ ] At least 12 exercises spread across all 4 types
 - [ ] Exercises follow complexity distribution (~1/3 per level)
 - [ ] JSON matches schema (options key omitted for non-multiple_choice)
-- [ ] HTML is self-contained with inline CSS only
+- [ ] HTML links to `../../styles.css` — no inline `<style>` block; `<body class="grammar-page">` and `<nav class="block-nav">` present
 - [ ] Both files saved before displaying output
 - [ ] topic_slug uses only lowercase ASCII (no umlauts in filename)
 - [ ] Key Takeaway displayed in chat
