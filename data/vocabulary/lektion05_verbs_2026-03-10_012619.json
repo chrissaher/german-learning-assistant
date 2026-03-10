@@ -1,0 +1,616 @@
+{
+  "lektion": 5,
+  "focus": "verbs",
+  "file_slug": "lektion05_verbs",
+  "generated_at": "2026-03-10T01:26:19",
+  "vocabulary": [
+    {
+      "german": "zeichnen",
+      "base_form": "zeichnen",
+      "english": "to draw",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "zeichne",
+        "du": "zeichnest",
+        "er/sie/es": "zeichnet",
+        "wir": "zeichnen",
+        "ihr": "zeichnet",
+        "sie/Sie": "zeichnen"
+      },
+      "perfekt": "hat gezeichnet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb; note the extra -e- before -st/-t endings for pronunciation ease.",
+      "lektion_source": 5
+    },
+    {
+      "german": "sehen",
+      "base_form": "sehen",
+      "english": "to see",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "sehe",
+        "du": "siehst",
+        "er/sie/es": "sieht",
+        "wir": "sehen",
+        "ihr": "seht",
+        "sie/Sie": "sehen"
+      },
+      "perfekt": "hat gesehen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change e→ie in du/er forms.",
+      "lektion_source": 5
+    },
+    {
+      "german": "sagen",
+      "base_form": "sagen",
+      "english": "to say",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "sage",
+        "du": "sagst",
+        "er/sie/es": "sagt",
+        "wir": "sagen",
+        "ihr": "sagt",
+        "sie/Sie": "sagen"
+      },
+      "perfekt": "hat gesagt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 5
+    },
+    {
+      "german": "fragen",
+      "base_form": "fragen",
+      "english": "to ask",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "frage",
+        "du": "fragst",
+        "er/sie/es": "fragt",
+        "wir": "fragen",
+        "ihr": "fragt",
+        "sie/Sie": "fragen"
+      },
+      "perfekt": "hat gefragt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 5
+    },
+    {
+      "german": "antworten",
+      "base_form": "antworten",
+      "english": "to answer",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "antworte",
+        "du": "antwortest",
+        "er/sie/es": "antwortet",
+        "wir": "antworten",
+        "ihr": "antwortet",
+        "sie/Sie": "antworten"
+      },
+      "perfekt": "hat geantwortet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb; extra -e- before -st/-t endings because stem ends in -t.",
+      "lektion_source": 5
+    },
+    {
+      "german": "nennen",
+      "base_form": "nennen",
+      "english": "to name / to call",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "nenne",
+        "du": "nennst",
+        "er/sie/es": "nennt",
+        "wir": "nennen",
+        "ihr": "nennt",
+        "sie/Sie": "nennen"
+      },
+      "perfekt": "hat genannt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Mixed verb: regular Präsens but irregular Partizip II (genannt, not genennt).",
+      "lektion_source": 5
+    },
+    {
+      "german": "bitten",
+      "base_form": "bitten",
+      "english": "to ask for / to request",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bitte",
+        "du": "bittest",
+        "er/sie/es": "bittet",
+        "wir": "bitten",
+        "ihr": "bittet",
+        "sie/Sie": "bitten"
+      },
+      "perfekt": "hat gebeten",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: Partizip II is 'gebeten' (not gebittet). Note: 'bitte' is also the standalone word for 'please'.",
+      "lektion_source": 5
+    },
+    {
+      "german": "schreiben",
+      "base_form": "schreiben",
+      "english": "to write / to spell",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schreibe",
+        "du": "schreibst",
+        "er/sie/es": "schreibt",
+        "wir": "schreiben",
+        "ihr": "schreibt",
+        "sie/Sie": "schreiben"
+      },
+      "perfekt": "hat geschrieben",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: Partizip II is 'geschrieben' (ei→ie in Partizip II).",
+      "lektion_source": 5
+    },
+    {
+      "german": "sich bedanken",
+      "base_form": "sich bedanken",
+      "english": "to thank / to express thanks",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bedanke mich",
+        "du": "bedankst dich",
+        "er/sie/es": "bedankt sich",
+        "wir": "bedanken uns",
+        "ihr": "bedankt euch",
+        "sie/Sie": "bedanken sich"
+      },
+      "perfekt": "hat sich bedankt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Reflexive verb: always used with a reflexive pronoun (mich, dich, sich…).",
+      "lektion_source": 5
+    },
+    {
+      "german": "bestellen",
+      "base_form": "bestellen",
+      "english": "to order",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bestelle",
+        "du": "bestellst",
+        "er/sie/es": "bestellt",
+        "wir": "bestellen",
+        "ihr": "bestellt",
+        "sie/Sie": "bestellen"
+      },
+      "perfekt": "hat bestellt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb with inseparable prefix be-; no ge- in Partizip II.",
+      "lektion_source": 5
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Kannst du das Wort auf Deutsch schreiben?",
+      "english": "Can you write the word in German?",
+      "level": "medium",
+      "note": "Uses: schreiben — in classroom/language learning context; modal verb können"
+    },
+    {
+      "id": 2,
+      "german": "Ich sehe eine Tasche auf dem Tisch.",
+      "english": "I see a bag on the table.",
+      "level": "medium",
+      "note": "Uses: sehen (e→ie in er/sie/es); die Tasche from Lektion 5 nouns"
+    },
+    {
+      "id": 3,
+      "german": "Sie fragt den Kellner: Wie heißt das auf Deutsch?",
+      "english": "She asks the waiter: What is this called in German?",
+      "level": "medium",
+      "note": "Uses: fragen — reported speech style question; der Kellner from Lektion 2"
+    },
+    {
+      "id": 4,
+      "german": "Bitte nennen Sie Ihren Namen und Ihre Adresse.",
+      "english": "Please state your name and address.",
+      "level": "complex",
+      "note": "Uses: nennen — formal/polite register; der Name from Lektion 1, die Adresse from Lektion 5"
+    },
+    {
+      "id": 5,
+      "german": "Ich habe online ein Buch und ein Handy bestellt.",
+      "english": "I ordered a book and a mobile phone online.",
+      "level": "complex",
+      "note": "Uses: bestellen, Perfekt (hat bestellt); das Buch, das Handy from Lektion 5"
+    },
+    {
+      "id": 6,
+      "german": "Er antwortet auf die Frage und sagt: Das ist aus Holz.",
+      "english": "He answers the question and says: That is made of wood.",
+      "level": "complex",
+      "note": "Uses: antworten, sagen — both regular weak verbs; das Holz material noun"
+    },
+    {
+      "id": 7,
+      "german": "Ich bitte dich, noch einmal zu zeichnen.",
+      "english": "I ask you to draw again.",
+      "level": "complex",
+      "note": "Uses: bitten (irregular Partizip II), zeichnen — combines two Lektion 5 verbs"
+    },
+    {
+      "id": 8,
+      "german": "Sie bedankt sich beim Lehrer für die Erklärung.",
+      "english": "She thanks the teacher for the explanation.",
+      "level": "medium",
+      "note": "Uses: sich bedanken — reflexive verb; der Lehrer from Lektion 2"
+    },
+    {
+      "id": 9,
+      "german": "Er hat das Wort falsch geschrieben — es heißt Schlüssel, nicht Schlüsel.",
+      "english": "He spelled the word wrong — it is Schlüssel, not Schlüsel.",
+      "level": "complex",
+      "note": "Uses: schreiben (Perfekt: geschrieben); das Wort, der Schlüssel from Lektion 5"
+    },
+    {
+      "id": 10,
+      "german": "Ich sehe ein Problem: Die Brille ist kaputt.",
+      "english": "I see a problem: The glasses are broken.",
+      "level": "medium",
+      "note": "Uses: sehen, das Problem, die Brille — all Lektion 5 vocabulary"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ ein Bild. (zeichnen – ich form)",
+      "solution": "zeichne",
+      "explanation": "Regular weak verb: ich zeichne. Stem 'zeichn-' + ending -e."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ sehr gut. (sehen – du form)",
+      "solution": "siehst",
+      "explanation": "sehen has a stem vowel change e→ie in du/er forms: du siehst."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ seinen Namen. (sagen – er form)",
+      "solution": "sagt",
+      "explanation": "Regular weak verb: er sagt. Stem 'sag-' + ending -t."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir ___ die Lehrerin. (fragen – wir form)",
+      "solution": "fragen",
+      "explanation": "Regular weak verb: wir fragen. The wir form is the same as the infinitive."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie ___ auf die Frage. (antworten – sie/Sie form)",
+      "solution": "antwortet / antworten",
+      "explanation": "er/sie/es: antwortet (extra -e- before -t because stem ends in -t); sie/Sie: antworten."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie ___ man das auf Deutsch? (nennen – man/er form)",
+      "solution": "nennt",
+      "explanation": "man uses the er/sie/es form: nennt. Regular Präsens form."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___ dich um Hilfe. (bitten – ich form)",
+      "solution": "bitte",
+      "explanation": "bitten: ich bitte. Regular Präsens; but note the Partizip II is 'gebeten' (irregular)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie ___ man das? (schreiben – man form)",
+      "solution": "schreibt",
+      "explanation": "man uses the er/sie/es form: schreibt. Strong verb but Präsens is regular in this form."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich ___ mich bei Ihnen für die Hilfe. (sich bedanken – ich form)",
+      "solution": "bedanke mich",
+      "explanation": "Reflexive verb: ich bedanke mich. The reflexive pronoun for ich is 'mich'."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er hat ein Buch online ___. (bestellen – Perfekt)",
+      "solution": "bestellt",
+      "explanation": "bestellen → hat bestellt. Inseparable prefix be- means no ge- is added in the Partizip II."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ das Wort an die Tafel.",
+      "options": ["schreibt", "schreibst", "schreiben"],
+      "solution": "schreibt",
+      "explanation": "er/sie/es form of schreiben: schreibt. Regular present tense form."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr gut.",
+      "options": ["siehst", "sehst", "sieht"],
+      "solution": "siehst",
+      "explanation": "sehen has e→ie change in du form: du siehst (not sehst)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe den Namen ___.",
+      "options": ["genannt", "genennt", "genannen"],
+      "solution": "genannt",
+      "explanation": "nennen is a mixed verb: Partizip II is 'genannt' (irregular — not 'genennt')."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat das Buch ___.",
+      "options": ["bestellt", "gebestellt", "bestellte"],
+      "solution": "bestellt",
+      "explanation": "bestellen has inseparable prefix be-; Partizip II is 'bestellt' (no ge- added)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat den Brief ___.",
+      "options": ["geschrieben", "schrieben", "geSchreibt"],
+      "solution": "geschrieben",
+      "explanation": "schreiben is a strong verb: Partizip II is 'geschrieben' (not 'geschreibt')."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir haben uns für die Einladung ___.",
+      "options": ["bedankt", "gedankt", "gebedankt"],
+      "solution": "bedankt",
+      "explanation": "sich bedanken → hat sich bedankt. Inseparable prefix be-; no ge- in Partizip II."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie ___ die Lehrerin, ob das richtig ist.",
+      "options": ["fragt", "fragst", "fragen"],
+      "solution": "fragt",
+      "explanation": "sie (she, 3rd person sing.) → fragt. Regular weak verb."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ das nicht.",
+      "options": ["sehe", "siehst", "sieht"],
+      "solution": "sehe",
+      "explanation": "sehen: ich sehe (no stem vowel change in ich form; change only in du/er)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She sees a problem with the bag.",
+      "solution": "Sie sieht ein Problem mit der Tasche.",
+      "explanation": "sehen e→ie in er/sie/es: sie sieht. ein Problem (neuter accusative); mit der Tasche (dative after mit)."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I ask the teacher a question.",
+      "solution": "Ich frage den Lehrer eine Frage. / Ich frage den Lehrer.",
+      "explanation": "fragen: ich frage. den Lehrer (accusative masculine); eine Frage is also accusative."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He answers in German.",
+      "solution": "Er antwortet auf Deutsch.",
+      "explanation": "antworten: er antwortet (extra -e- before -t). auf Deutsch = in German."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I ordered sunglasses and a jacket online.",
+      "solution": "Ich habe eine Sonnenbrille und eine Jacke online bestellt.",
+      "explanation": "bestellen Perfekt: hat bestellt. die Sonnenbrille → eine; die Jacke → eine (both fem. accusative)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Can you write the word for me, please?",
+      "solution": "Kannst du das Wort für mich schreiben, bitte?",
+      "explanation": "schreiben with modal können; das Wort (neut. accusative); für mich (for me)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What do you call this in German? (formal)",
+      "solution": "Wie nennen Sie das auf Deutsch?",
+      "explanation": "nennen: Sie nennen (formal plural = 3rd person plural form). auf Deutsch = in German."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Please say your name.",
+      "solution": "Bitte sagen Sie Ihren Namen. / Bitte sag deinen Namen.",
+      "explanation": "sagen: Sie sagen (formal) or du sagst (informal). Ihren/deinen Namen (accusative masculine)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du sieht das Auto nicht.",
+      "solution": "Du siehst das Auto nicht.",
+      "explanation": "sehen du-form: du siehst (not sieht — sieht is the er/sie/es form)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er fragt nicht die Lehrerin.",
+      "solution": "Er fragt die Lehrerin nicht.",
+      "explanation": "Word order: 'nicht' comes at the end of the sentence (or before the element it negates), not before the object."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe das Wort genennt.",
+      "solution": "Ich habe das Wort genannt.",
+      "explanation": "nennen is a mixed verb: Partizip II is 'genannt' (not 'genennt'). Irregular form!"
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat das Buch gebestellt.",
+      "solution": "Sie hat das Buch bestellt.",
+      "explanation": "bestellen has inseparable prefix be-; no 'ge-' is added in the Partizip II: bestellt (not gebestellt)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er ist das Buch geschrieben.",
+      "solution": "Er hat das Buch geschrieben.",
+      "explanation": "schreiben takes haben in the Perfekt (not sein). Er hat das Buch geschrieben."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie bedankt mich für die Hilfe.",
+      "solution": "Sie bedankt sich für die Hilfe.",
+      "explanation": "sich bedanken is reflexive: sie (3rd person) → sich bedankt, not mich (which is the 1st person reflexive pronoun)."
+    },
+    {
+      "id": 32,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ das Wort geschrieben.",
+      "solution": "hat",
+      "explanation": "schreiben is a transitive verb (has a direct object) → always takes haben in Perfekt."
+    },
+    {
+      "id": 33,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ eine Frage gestellt.",
+      "solution": "hat",
+      "explanation": "eine Frage stellen — transitive verb with direct object → takes haben."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Ich ___ mich bei ihr bedankt.",
+      "solution": "habe",
+      "explanation": "sich bedanken takes haben in Perfekt: ich habe mich bedankt."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Du ___ eine Jacke online bestellt.",
+      "solution": "hast",
+      "explanation": "bestellen is transitive → takes haben in Perfekt: du hast bestellt."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ das Wort falsch genannt.",
+      "solution": "hat",
+      "explanation": "nennen is transitive → takes haben in Perfekt: er hat genannt."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Wir ___ auf die Frage nicht geantwortet.",
+      "solution": "haben",
+      "explanation": "antworten (auf) — takes haben in Perfekt: wir haben geantwortet."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie ___ du das auf Deutsch? (nennen – du form)",
+      "solution": "nennst",
+      "explanation": "nennen: du nennst. Regular Präsens endings on stem 'nenn-'."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe das Wort auf Englisch ___. (schreiben – Perfekt)",
+      "solution": "geschrieben",
+      "explanation": "schreiben Perfekt: hat geschrieben. Strong verb with irregular Partizip II."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He drew the picture and then asked the teacher.",
+      "solution": "Er hat das Bild gezeichnet und dann den Lehrer gefragt.",
+      "explanation": "zeichnen Perfekt: hat gezeichnet (regular); fragen Perfekt: hat gefragt (regular). dann = then."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir ___ die Produkte im Internet. (bestellen – wir form, Präsens)",
+      "solution": "bestellen",
+      "explanation": "bestellen: wir bestellen. The wir form of any verb matches the infinitive."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe ihr gebeten, das Wort zu sagen.",
+      "solution": "Ich habe sie gebeten, das Wort zu sagen.",
+      "explanation": "bitten + accusative: ich bitte sie (accusative, not ihr/dative). Correct: Ich habe sie gebeten."
+    }
+  ]
+}

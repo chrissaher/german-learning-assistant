@@ -1,0 +1,894 @@
+{
+  "lektion": 8,
+  "focus": "all",
+  "file_slug": "lektion08_all",
+  "generated_at": "2026-03-10T01:37:08",
+  "vocabulary": [
+    {
+      "german": "das Schwimmbad",
+      "base_form": "Schwimmbad",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Schwimmbäder",
+      "english": "swimming pool",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "das Kino",
+      "base_form": "Kino",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Kinos",
+      "english": "cinema / movie theater",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Nachmittag",
+      "base_form": "Nachmittag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Nachmittage",
+      "english": "afternoon",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Woche",
+      "base_form": "Woche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Wochen",
+      "english": "week",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Montag",
+      "base_form": "Montag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Montage",
+      "english": "Monday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Dienstag",
+      "base_form": "Dienstag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Dienstage",
+      "english": "Tuesday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Mittwoch",
+      "base_form": "Mittwoch",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Mittwoche",
+      "english": "Wednesday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Donnerstag",
+      "base_form": "Donnerstag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Donnerstage",
+      "english": "Thursday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Freitag",
+      "base_form": "Freitag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Freitage",
+      "english": "Friday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Samstag",
+      "base_form": "Samstag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Samstage",
+      "english": "Saturday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Sonntag",
+      "base_form": "Sonntag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Sonntage",
+      "english": "Sunday",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "das Wochenende",
+      "base_form": "Wochenende",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-n",
+      "plural_full": "Wochenenden",
+      "english": "weekend",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Nacht",
+      "base_form": "Nacht",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..e",
+      "plural_full": "Nächte",
+      "english": "night",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Lust",
+      "base_form": "Lust",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(Sg.)",
+      "english": "mood / desire",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Idee",
+      "base_form": "Idee",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Ideen",
+      "english": "idea",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Morgen",
+      "base_form": "Morgen",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Morgen",
+      "english": "morning",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "der Abend",
+      "base_form": "Abend",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Abende",
+      "english": "evening",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons — always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "das Museum",
+      "base_form": "Museum",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-en",
+      "plural_full": "Museen",
+      "english": "museum",
+      "word_type": "noun",
+      "pattern_hint": "-um ending (Latin) → usually das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 8
+    },
+    {
+      "german": "das Theater",
+      "base_form": "Theater",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Theater",
+      "english": "theatre / theater",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 8
+    },
+    {
+      "german": "das Café",
+      "base_form": "Café",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Cafés",
+      "english": "café",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Ausstellung",
+      "base_form": "Ausstellung",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Ausstellungen",
+      "english": "exhibition",
+      "word_type": "noun",
+      "pattern_hint": "-ung ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 8
+    },
+    {
+      "german": "das Restaurant",
+      "base_form": "Restaurant",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Restaurants",
+      "english": "restaurant",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Bar",
+      "base_form": "Bar",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-s",
+      "plural_full": "Bars",
+      "english": "bar",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Frage",
+      "base_form": "Frage",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Fragen",
+      "english": "question",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "die Antwort",
+      "base_form": "Antwort",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Antworten",
+      "english": "answer",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 8
+    },
+    {
+      "german": "wissen",
+      "base_form": "wissen",
+      "english": "to know (a fact)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "weiß",
+        "du": "weißt",
+        "er/sie/es": "weiß",
+        "wir": "wissen",
+        "ihr": "wisst",
+        "sie/Sie": "wissen"
+      },
+      "perfekt": "hat gewusst",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Modal-like: ich/er/es → weiß. Don't confuse with kennen (to know a person/place).",
+      "lektion_source": 8
+    },
+    {
+      "german": "spät",
+      "base_form": "spät",
+      "english": "late",
+      "word_type": "adjective",
+      "antonym": "früh",
+      "cognate_note": "Spanish 'tarde' = afternoon AND late — in German these are separate: 'der Nachmittag' vs. 'spät'.",
+      "lektion_source": 8
+    },
+    {
+      "german": "frei",
+      "base_form": "frei",
+      "english": "free / off (not working) / available",
+      "word_type": "adjective",
+      "antonym": "besetzt / beschäftigt",
+      "cognate_note": "English cognate: 'free'. Spanish cognate: 'libre'. Same meaning — you are available.",
+      "lektion_source": 8
+    },
+    {
+      "german": "heute",
+      "base_form": "heute",
+      "english": "today",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Time adverb for the current day. Always without article: 'Heute gehe ich ins Kino.'",
+      "lektion_source": 8
+    },
+    {
+      "german": "um",
+      "base_form": "um",
+      "english": "at (clock times)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Used before clock times: 'um drei Uhr' = at three o'clock.",
+      "lektion_source": 8
+    },
+    {
+      "german": "am",
+      "base_form": "am",
+      "english": "on (with days and parts of the day)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "an + dem contraction. Use with days (am Montag) and parts of the day (am Abend).",
+      "lektion_source": 8
+    },
+    {
+      "german": "halb",
+      "base_form": "halb",
+      "english": "half past (30 min BEFORE next hour)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "CAUTION: 'halb zehn' = 9:30 (NOT 10:30). Counts BACK from the next full hour.",
+      "lektion_source": 8
+    },
+    {
+      "german": "oder",
+      "base_form": "oder",
+      "english": "or",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction: 'Kino oder Theater?' Normal word order with oder.",
+      "lektion_source": 8
+    },
+    {
+      "german": "Bis dann!",
+      "base_form": "Bis dann!",
+      "english": "See you then!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Farewell phrase used when you have made plans. Casual register.",
+      "lektion_source": 8
+    },
+    {
+      "german": "Keine Lust.",
+      "base_form": "Keine Lust.",
+      "english": "I'm not in the mood.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short refusal. Full form: 'Ich habe keine Lust.' Casual spoken German.",
+      "lektion_source": 8
+    },
+    {
+      "german": "tut mir leid",
+      "base_form": "tut mir leid",
+      "english": "I am sorry",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Apology phrase. 'Tut mir leid, ich habe keine Zeit.'",
+      "lektion_source": 8
+    },
+    {
+      "german": "Wann?",
+      "base_form": "Wann?",
+      "english": "When?",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Question word for time: 'Wann beginnt der Film?' Answer with am/um time expressions.",
+      "lektion_source": 8
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Schwimmbad ist am Samstag und Sonntag von 8 bis 20 Uhr geöffnet.",
+      "english": "The swimming pool is open on Saturday and Sunday from 8 to 8 pm.",
+      "level": "complex",
+      "note": "Noun focus: das Schwimmbad, der Samstag, der Sonntag; Others: am, um; von … bis time pattern."
+    },
+    {
+      "id": 2,
+      "german": "Ich weiß nicht, wann das Kino heute beginnt.",
+      "english": "I don't know when the cinema starts today.",
+      "level": "medium",
+      "note": "Verb: wissen (weiß); Nouns: das Kino; Others: heute (adverb), wann."
+    },
+    {
+      "id": 3,
+      "german": "Am Freitag bin ich frei — gehen wir ins Theater!",
+      "english": "On Friday I am free — let's go to the theatre!",
+      "level": "medium",
+      "note": "Adjective: frei; Nouns: der Freitag, das Theater; Others: am."
+    },
+    {
+      "id": 4,
+      "german": "Der Film beginnt um halb acht — das ist sehr spät!",
+      "english": "The film starts at half past seven — that is very late!",
+      "level": "medium",
+      "note": "Adjective: spät; Others: um, halb (= 7:30, not 8:30!)"
+    },
+    {
+      "id": 5,
+      "german": "Tut mir leid, heute Abend habe ich keine Lust ins Restaurant zu gehen.",
+      "english": "I am sorry, tonight I don't feel like going to the restaurant.",
+      "level": "complex",
+      "note": "Others: tut mir leid (phrase), heute; Nouns: der Abend, die Lust, das Restaurant."
+    },
+    {
+      "id": 6,
+      "german": "Weißt du, ob das Museum am Mittwochnachmittag geöffnet ist?",
+      "english": "Do you know if the museum is open on Wednesday afternoon?",
+      "level": "complex",
+      "note": "Verb: wissen (weißt du); Nouns: das Museum, der Mittwoch, der Nachmittag; Others: am, ob."
+    },
+    {
+      "id": 7,
+      "german": "Gute Idee! Treffen wir uns um Viertel nach sieben vor dem Café — Bis dann!",
+      "english": "Good idea! Let's meet at quarter past seven in front of the café — See you then!",
+      "level": "complex",
+      "note": "Others: Gute Idee! (phrase), um, nach, Bis dann! (phrase); Noun: das Café."
+    },
+    {
+      "id": 8,
+      "german": "Wann bist du frei — am Donnerstag oder am Freitag?",
+      "english": "When are you free — on Thursday or on Friday?",
+      "level": "medium",
+      "note": "Others: Wann?, am, oder; Adjective: frei; Nouns: der Donnerstag, der Freitag."
+    },
+    {
+      "id": 9,
+      "german": "Ich weiß, dass die Ausstellung nur am Wochenende geöffnet ist.",
+      "english": "I know that the exhibition is only open at the weekend.",
+      "level": "complex",
+      "note": "Verb: wissen (weiß); Nouns: die Ausstellung, das Wochenende; Others: am."
+    },
+    {
+      "id": 10,
+      "german": "Die Antwort auf die Frage war: Heute Abend bin ich frei — gehen wir in die Disco oder in die Bar?",
+      "english": "The answer to the question was: Tonight I am free — shall we go to the disco or the bar?",
+      "level": "complex",
+      "note": "Nouns: die Antwort, die Frage, die Disco, die Bar; Adjective: frei; Others: heute, oder."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Kino ist sehr groß und modern. (the cinema — article)",
+      "solution": "Das",
+      "explanation": "das Kino — neuter (loanword). Borrowed words are often neuter in German."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ nicht, wann das Café schließt. (to know — ich-form)",
+      "solution": "weiß",
+      "explanation": "ich weiß — the irregular ich-form of wissen. The verb stem changes: wissen → weiß."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Am Samstag bin ich ___. (free / off work)",
+      "solution": "frei",
+      "explanation": "'frei sein' = to be free/available. Used predicatively after sein."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Film beginnt ___ 20 Uhr. (at — clock time)",
+      "solution": "um",
+      "explanation": "'um' is the preposition used before clock times: 'um 20 Uhr' = at 8 pm."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ gehe ich ins Schwimmbad. (today)",
+      "solution": "Heute",
+      "explanation": "'heute' = today. Placed first → verb stays second: Heute gehe ich …"
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir gehen ___ Donnerstag ins ___. (on Thursday / museum)",
+      "solution": "am Donnerstag / Museum",
+      "explanation": "'am Donnerstag' = on Thursday (am = an + dem); das Museum — neuter (-um ending)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ im Museum ist sehr interessant. (exhibition)",
+      "solution": "Ausstellung",
+      "explanation": "die Ausstellung — feminine, -ung ending always → die."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "'___ acht' bedeutet 7:30 Uhr auf Deutsch. (half past seven — key false friend!)",
+      "solution": "halb",
+      "explanation": "'halb acht' = 7:30 (half BEFORE eight). Not 8:30! The most common learner error with German time."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ mir leid, ich bin am Freitag nicht frei. (I'm sorry)",
+      "solution": "Tut",
+      "explanation": "'Tut mir leid' = I am sorry. Fixed phrase from Lektion 8."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe keine ___. Das weiß ich noch nicht. (desire / mood)",
+      "solution": "Lust",
+      "explanation": "'keine Lust' = no desire / not in the mood. die Lust is feminine → keine (not kein)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die ___ auf die ___ war: Das Museum öffnet ___ halb zehn. (answer / question / at)",
+      "solution": "Antwort / Frage / um",
+      "explanation": "die Antwort (fem.), die Frage (fem.), um (preposition before clock time)."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ du, ob das Restaurant ___ Sonntag ___ ist? (Do you know / on / free/open)",
+      "solution": "Weißt / am / frei",
+      "explanation": "du-form: Weißt; am Sonntag (day with am); frei = available/open (adjective)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Museum öffnet am Vormittag.",
+      "options": ["Das", "Der", "Die"],
+      "solution": "Das",
+      "explanation": "das Museum — neuter (-um Latin ending → das)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wir gehen ___ Freitag ins Kino.",
+      "options": ["am", "um", "in"],
+      "solution": "am",
+      "explanation": "'am Freitag' = on Friday. 'am' (an + dem) before days of week."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Du ___ doch, wann die Bar öffnet!",
+      "options": ["weißt", "weiß", "wisst"],
+      "solution": "weißt",
+      "explanation": "du-form of wissen: weißt. 'weiß' is ich/er/es; 'wisst' is ihr."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Es ist schon sehr ___. Das Café schließt in fünf Minuten.",
+      "options": ["spät", "frei", "früh"],
+      "solution": "spät",
+      "explanation": "'spät' = late. The closing-time context confirms the time is advanced."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der Film beginnt ___ halb neun.",
+      "options": ["um", "am", "in"],
+      "solution": "um",
+      "explanation": "'um' is used before clock times: 'um halb neun' = at 8:30."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe ___ Idee: Gehen wir am Wochenende ins Theater!",
+      "options": ["eine", "ein", "einen"],
+      "solution": "eine",
+      "explanation": "die Idee — feminine. Indefinite article in nominative feminine: eine."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Tut mir ___, aber heute bin ich nicht frei.",
+      "options": ["leid", "lied", "laid"],
+      "solution": "leid",
+      "explanation": "'Tut mir leid' = I am sorry. 'leid' (sorrow/grief). Not 'lied' (song) or 'laid' (English)."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "On Monday I go to the swimming pool.",
+      "solution": "Am Montag gehe ich ins Schwimmbad.",
+      "explanation": "'Am Montag' = on Monday; 'ins Schwimmbad' = in das Schwimmbad (neuter accusative)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I don't know when the cinema opens today.",
+      "solution": "Ich weiß nicht, wann das Kino heute öffnet.",
+      "explanation": "ich weiß (irregular); wann-clause with verb last; heute = today."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Are you free on Thursday or Friday?",
+      "solution": "Bist du am Donnerstag oder am Freitag frei?",
+      "explanation": "'frei sein'; am + day; oder (conjunction for alternatives)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The museum is open from Monday to Friday.",
+      "solution": "Das Museum ist von Montag bis Freitag geöffnet.",
+      "explanation": "das Museum (neut.); 'von Montag bis Freitag' = from Monday to Friday (bare day names in this construction)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am sorry, today I have no mood for the bar.",
+      "solution": "Tut mir leid, heute habe ich keine Lust auf die Bar.",
+      "explanation": "'Tut mir leid'; 'heute'; 'keine Lust auf + accusative' (die Bar → accusative fem.)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Good idea! We go to the restaurant at half past seven. See you then!",
+      "solution": "Gute Idee! Wir gehen um halb acht ins Restaurant. Bis dann!",
+      "explanation": "'Gute Idee!'; 'um halb acht' = 7:30; 'ins Restaurant' = in das Restaurant; 'Bis dann!'"
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She knows that the exhibition is free on Sunday.",
+      "solution": "Sie weiß, dass die Ausstellung am Sonntag frei / geöffnet ist.",
+      "explanation": "sie weiß (er/sie/es form); dass-clause verb to end; die Ausstellung (fem.); am Sonntag."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Kino ist sehr schön.",
+      "solution": "Das Kino ist sehr schön.",
+      "explanation": "das Kino — neuter, not masculine. Correct article: das."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich wissen nicht, wann das Museum öffnet.",
+      "solution": "Ich weiß nicht, wann das Museum öffnet.",
+      "explanation": "ich-form of wissen is weiß, not wissen. 'wissen' is infinitive/wir/sie/Sie form."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Film beginnt am halb neun.",
+      "solution": "Der Film beginnt um halb neun.",
+      "explanation": "Clock times use 'um': 'um halb neun'. 'am' is for days and parts of the day."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Bist du am Donnerstag spät? Ich habe eine Idee! (meaning: are you free?)",
+      "solution": "Bist du am Donnerstag frei? Ich habe eine Idee!",
+      "explanation": "'frei' = available/free. 'spät' = late (a time description, not availability)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Museum ist am Dienstag geöffnet.",
+      "solution": "Das Museum ist am Dienstag geöffnet.",
+      "explanation": "das Museum — neuter, not feminine. Correct article: das."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe gewissen, dass das Café am Sonntag geschlossen ist.",
+      "solution": "Ich habe gewusst, dass das Café am Sonntag geschlossen ist.",
+      "explanation": "Partizip II of wissen is gewusst, not gewissen. The stem changes to -wuss- in the past."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Tut mir leid, aber heute Abend habe ich kein Lust.",
+      "solution": "Tut mir leid, aber heute Abend habe ich keine Lust.",
+      "explanation": "'keine Lust' — die Lust is feminine, so 'keine' (not 'kein')."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'spät' ist ___. (antonym)",
+      "solution": "früh",
+      "explanation": "früh (early) is the direct antonym of spät (late)."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ ihr, wann die Ausstellung beginnt? (do you all know?)",
+      "solution": "Wisst",
+      "explanation": "ihr-form of wissen: Wisst. In questions, verb moves to first position."
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Bist du am Sonntag ___?",
+      "options": ["frei", "spät", "gut"],
+      "solution": "frei",
+      "explanation": "'frei' = free/available. The question asks about availability on Sunday."
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "When are you free? Today or tomorrow?",
+      "solution": "Wann bist du frei? Heute oder morgen?",
+      "explanation": "Wann (question adverb); frei sein; heute (today) oder morgen (tomorrow)."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wann bist du ___? Am ___ oder am ___? Gehen wir ins ___! (free / Thursday / Friday / theatre)",
+      "solution": "frei / Donnerstag / Freitag / Theater",
+      "explanation": "frei (adj.); am Donnerstag / am Freitag (days with am); das Theater (neut. loanword)."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "'Halb acht' heißt 8:30 auf Deutsch.",
+      "solution": "'Halb acht' heißt 7:30 auf Deutsch (NICHT 8:30!).",
+      "explanation": "'halb acht' = half BEFORE eight = 7:30. This is the most important time-telling rule in Lektion 8."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I don't know if the bar is open on Sunday evening.",
+      "solution": "Ich weiß nicht, ob die Bar am Sonntagabend geöffnet ist.",
+      "explanation": "ich weiß; ob-clause (verb to end); die Bar (fem.); am Sonntagabend (compound)."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ auf die ___ ist: Das Museum öffnet um 9 Uhr. (answer / question)",
+      "solution": "Antwort / Frage",
+      "explanation": "die Antwort (fem.), die Frage (fem.) — both are feminine."
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich ___ noch nicht, ob wir am Freitag oder am Samstag ins Restaurant gehen.",
+      "options": ["weiß", "weißt", "wisst"],
+      "solution": "weiß",
+      "explanation": "ich weiß — irregular ich-form. 'weißt' is du-form; 'wisst' is ihr-form."
+    },
+    {
+      "id": 43,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The exhibition in the museum is free on Tuesdays.",
+      "solution": "Die Ausstellung im Museum ist am Dienstag frei / geöffnet.",
+      "explanation": "die Ausstellung (fem.); das Museum → im Museum (dative); am Dienstag; frei = free/available."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Am Dienstag gehen wir um die Disco, oder am Mittwoch ins Kino?",
+      "solution": "Am Dienstag gehen wir in die Disco, oder am Mittwoch ins Kino?",
+      "explanation": "'in die Disco' (accusative, movement) — not 'um die Disco'. 'um' is for clock times or 'around' something."
+    },
+    {
+      "id": 45,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ dann! Ich bin ___ halb acht ___ dem Café. (See you / at / in front of)",
+      "solution": "Bis / um / vor",
+      "explanation": "'Bis dann!' = see you then; 'um halb acht' = at 7:30; 'vor dem Café' = in front of the café (dative after vor)."
+    }
+  ]
+}

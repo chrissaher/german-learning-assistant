@@ -1,0 +1,720 @@
+{
+  "lektion": 4,
+  "focus": "nouns",
+  "file_slug": "lektion04_nouns",
+  "generated_at": "2026-03-10T01:22:27",
+  "vocabulary": [
+    {
+      "german": "das Geschäft",
+      "base_form": "Geschäft",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Geschäfte",
+      "english": "shop",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "die Möbel",
+      "base_form": "Möbel",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Möbel (Pl. only)",
+      "english": "furniture",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Bild",
+      "base_form": "Bild",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Bilder",
+      "english": "picture",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Stuhl",
+      "base_form": "Stuhl",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Stühle",
+      "english": "chair",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Euro",
+      "base_form": "Euro",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Euro",
+      "english": "euro",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Sonderangebot",
+      "base_form": "Sonderangebot",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Sonderangebote",
+      "english": "special offer",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Bett",
+      "base_form": "Bett",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-en",
+      "plural_full": "Betten",
+      "english": "bed",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "die Lampe",
+      "base_form": "Lampe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Lampen",
+      "english": "lamp",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Sessel",
+      "base_form": "Sessel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Sessel",
+      "english": "armchair",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Sofa",
+      "base_form": "Sofa",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Sofas",
+      "english": "sofa",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Tisch",
+      "base_form": "Tisch",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Tische",
+      "english": "table",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Schrank",
+      "base_form": "Schrank",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Schränke",
+      "english": "wardrobe",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Teppich",
+      "base_form": "Teppich",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Teppiche",
+      "english": "carpet",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Regal",
+      "base_form": "Regal",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Regale",
+      "english": "shelf",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Spiegel",
+      "base_form": "Spiegel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Spiegel",
+      "english": "mirror",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "die Million",
+      "base_form": "Million",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Millionen",
+      "english": "million",
+      "word_type": "noun",
+      "pattern_hint": "-tion / -sion ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Preis",
+      "base_form": "Preis",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Preise",
+      "english": "price",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Cent",
+      "base_form": "Cent",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(-s)",
+      "plural_full": "Cents",
+      "english": "cent",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Zimmer",
+      "base_form": "Zimmer",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Zimmer",
+      "english": "room",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Hotel",
+      "base_form": "Hotel",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Hotels",
+      "english": "hotel",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Stern",
+      "base_form": "Stern",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Sterne",
+      "english": "star",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Glück",
+      "base_form": "Glück",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "— (singular only)",
+      "english": "luck",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Sofa ist sehr bequem und das Zimmer ist auch schön.",
+      "english": "The sofa is very comfortable and the room is also nice.",
+      "level": "medium",
+      "note": "Uses: das Sofa, das Zimmer (Lektion 4 nouns); schön (Lektion 4 adjective)"
+    },
+    {
+      "id": 2,
+      "german": "Der Tisch und die Stühle sind aus dem Geschäft.",
+      "english": "The table and the chairs are from the shop.",
+      "level": "medium",
+      "note": "Uses: der Tisch, die Stühle (plural of Stuhl), das Geschäft (Lektion 4 nouns)"
+    },
+    {
+      "id": 3,
+      "german": "Das Bett kostet nur 200 Euro – das ist ein Sonderangebot!",
+      "english": "The bed costs only 200 euros – that is a special offer!",
+      "level": "medium",
+      "note": "Uses: das Bett, der Euro, das Sonderangebot (Lektion 4 nouns); kosten (Lektion 4 verb)"
+    },
+    {
+      "id": 4,
+      "german": "Der Schrank ist groß und der Spiegel hängt an der Wand.",
+      "english": "The wardrobe is big and the mirror hangs on the wall.",
+      "level": "medium",
+      "note": "Uses: der Schrank, der Spiegel (Lektion 4 nouns); groß (Lektion 4 adjective)"
+    },
+    {
+      "id": 5,
+      "german": "Das Hotel hat fünf Sterne und das Zimmer ist sehr modern.",
+      "english": "The hotel has five stars and the room is very modern.",
+      "level": "medium",
+      "note": "Uses: das Hotel, der Stern, das Zimmer (Lektion 4 nouns); modern (Lektion 4 adjective)"
+    },
+    {
+      "id": 6,
+      "german": "Ich finde das Regal günstig, aber der Preis für den Teppich ist zu teuer.",
+      "english": "I find the shelf cheap, but the price for the carpet is too expensive.",
+      "level": "complex",
+      "note": "Uses: das Regal, der Preis, der Teppich (Lektion 4 nouns); günstig, teuer (Lektion 4 adjectives); finden (Lektion 4 verb)"
+    },
+    {
+      "id": 7,
+      "german": "Die Lampe und der Sessel stehen im Wohnzimmer – die Möbel sind alle neu.",
+      "english": "The lamp and the armchair are in the living room – all the furniture is new.",
+      "level": "complex",
+      "note": "Uses: die Lampe, der Sessel, die Möbel (Lektion 4 nouns); neu (Lektion 4 adjective)"
+    },
+    {
+      "id": 8,
+      "german": "Das Sofa kostet 350 Euro und 99 Cent – das ist wirklich ein Glück!",
+      "english": "The sofa costs 350 euros and 99 cents – that is really lucky!",
+      "level": "complex",
+      "note": "Uses: das Sofa, der Euro, der Cent, das Glück (Lektion 4 nouns); wirklich (Lektion 4 adverb)"
+    },
+    {
+      "id": 9,
+      "german": "Im Geschäft gibt es ein Sonderangebot: das Bild kostet nur zehn Euro.",
+      "english": "In the shop there is a special offer: the picture costs only ten euros.",
+      "level": "complex",
+      "note": "Uses: das Geschäft, das Sonderangebot, das Bild, der Euro (Lektion 4 nouns)"
+    },
+    {
+      "id": 10,
+      "german": "Die Möbel für das Zimmer sind günstig: der Tisch, zwei Stühle und ein Regal.",
+      "english": "The furniture for the room is cheap: the table, two chairs and a shelf.",
+      "level": "complex",
+      "note": "Uses: die Möbel, das Zimmer, der Tisch, Stühle (pl. of Stuhl), das Regal (Lektion 4 nouns); günstig (Lektion 4 adjective)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Tisch ist groß. (the table)",
+      "solution": "Der",
+      "explanation": "der Tisch is masculine, so the definite article in Nominativ is 'Der'."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Lampe ist schön. (the lamp)",
+      "solution": "Die",
+      "explanation": "die Lampe is feminine, so the definite article in Nominativ is 'Die'."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Sofa ist neu. (the sofa)",
+      "solution": "Das",
+      "explanation": "das Sofa is neuter (borrowed word), so the definite article in Nominativ is 'Das'."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Bett ist sehr bequem. (the bed)",
+      "solution": "Das",
+      "explanation": "das Bett is neuter, so the definite article is 'Das'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Spiegel hängt an der Wand. (the mirror)",
+      "solution": "Der",
+      "explanation": "der Spiegel is masculine, so the definite article in Nominativ is 'Der'."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ kostet nur 150 Euro. (special offer / shelf)",
+      "solution": "Sonderangebot",
+      "explanation": "das Sonderangebot means 'special offer'. The sentence says it costs only 150 euros."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Hotel hat vier ___. (stars)",
+      "solution": "Sterne",
+      "explanation": "The plural of der Stern is Sterne (add -e). Stars in the context of hotel ratings."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich kaufe die ___ für das Wohnzimmer im Geschäft. (furniture)",
+      "solution": "Möbel",
+      "explanation": "die Möbel is a plural-only noun meaning 'furniture'. No article change needed here."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der ___ für das Sofa ist sehr günstig. (price)",
+      "solution": "Preis",
+      "explanation": "der Preis means 'price'. Must memorize — masculine with no reliable pattern."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Im ___ gibt es viele schöne Möbel. (shop)",
+      "solution": "Geschäft",
+      "explanation": "das Geschäft means 'shop'. The preposition 'im' = 'in dem', contracting with neuter dative."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ___ hat drei Zimmer und ein schönes Bad. (room → hint: apartment context)",
+      "solution": "Zimmer",
+      "explanation": "das Zimmer means 'room'. Plural is also Zimmer (no change). Neuter noun."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der Teppich und ___ Regal kosten zusammen 80 Euro. (the shelf)",
+      "solution": "das",
+      "explanation": "das Regal is neuter. In Nominativ, the article is 'das'."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Stuhl ist günstig.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Der",
+      "explanation": "der Stuhl is masculine. Must memorize the gender; no reliable pattern from the ending."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Schrank ist groß.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Der",
+      "explanation": "der Schrank is masculine. Must memorize — the ending does not indicate gender."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Bild an der Wand ist sehr schön.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "das Bild is neuter. Must memorize — the short -d ending is not a reliable pattern."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Hotel kostet 200 ___ pro Nacht.",
+      "options": ["Euros", "Euro", "Euren"],
+      "solution": "Euro",
+      "explanation": "der Euro has an invariant plural: Euro (no -s in formal contexts, though 'Euros' is colloquial). The correct standard form after numbers is 'Euro'."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die ___ kostet nur 25 Euro. (lamp)",
+      "options": ["Lampen", "Lampe", "Lamp"],
+      "solution": "Lampe",
+      "explanation": "die Lampe is the singular. 'Lampen' is the plural. 'Lamp' is English, not German."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das ist ein tolles ___! Der Preis ist sehr günstig.",
+      "options": ["Sonderangebote", "Sonderangebot", "Sonderangebots"],
+      "solution": "Sonderangebot",
+      "explanation": "das Sonderangebot is a neuter noun. After 'ein' (Nominativ), the noun takes no ending."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich kaufe ___ Sessel für mein Wohnzimmer.",
+      "options": ["ein", "eine", "einen"],
+      "solution": "einen",
+      "explanation": "der Sessel is masculine. In Akkusativ (direct object after kaufen), masculine 'ein' becomes 'einen'."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Million Euro ist sehr viel Geld.",
+      "options": ["Ein", "Eine", "Einen"],
+      "solution": "Eine",
+      "explanation": "die Million is feminine (-tion ending → always die). The indefinite article for feminine in Nominativ is 'eine'."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The mirror is in the room.",
+      "solution": "Der Spiegel ist im Zimmer.",
+      "explanation": "der Spiegel (masc.) = Der Spiegel; das Zimmer (neut.) → im Zimmer (in + dem = im, dative after location)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The carpet is cheap.",
+      "solution": "Der Teppich ist günstig.",
+      "explanation": "der Teppich (masc.) = Der Teppich; günstig = cheap/affordable."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The bed is very big.",
+      "solution": "Das Bett ist sehr groß.",
+      "explanation": "das Bett (neut.) = Das Bett; sehr = very; groß = big."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I find the shop very nice.",
+      "solution": "Ich finde das Geschäft sehr schön.",
+      "explanation": "das Geschäft is the direct object (Akkusativ) after finden → 'das Geschäft' (neuter, no change in Akkusativ)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The hotel has five stars and the price is very cheap.",
+      "solution": "Das Hotel hat fünf Sterne und der Preis ist sehr günstig.",
+      "explanation": "das Hotel (neut.), Sterne (plural of Stern), der Preis (masc.), günstig = cheap."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The wardrobe and the shelf are from the shop.",
+      "solution": "Der Schrank und das Regal sind aus dem Geschäft.",
+      "explanation": "der Schrank (masc.), das Regal (neut.), aus dem Geschäft (aus + Dative: dem for neuter)."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The armchair costs 150 euros — that is a special offer!",
+      "solution": "Der Sessel kostet 150 Euro – das ist ein Sonderangebot!",
+      "explanation": "der Sessel (masc.); Euro (invariant plural after numbers); das Sonderangebot (neut.)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Tisch ist sehr groß.",
+      "solution": "Der Tisch ist sehr groß.",
+      "explanation": "der Tisch is masculine. The correct article is 'der', not 'die' (which is feminine)."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Sofa ist neu.",
+      "solution": "Das Sofa ist neu.",
+      "explanation": "das Sofa is neuter (borrowed word). The correct article is 'das', not 'der'."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Lampe kostet 30 Euro.",
+      "solution": "Die Lampe kostet 30 Euro.",
+      "explanation": "die Lampe is feminine. The correct article is 'die', not 'das'."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich kaufe ein Sessel für das Wohnzimmer.",
+      "solution": "Ich kaufe einen Sessel für das Wohnzimmer.",
+      "explanation": "der Sessel is masculine. In Akkusativ (after kaufen), masculine 'ein' → 'einen'."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Die Möbel in das Zimmer sind sehr schön.",
+      "solution": "Die Möbel in dem Zimmer (im Zimmer) sind sehr schön.",
+      "explanation": "Static location uses Dative: 'in dem Zimmer' or contracted 'im Zimmer'. 'in das' implies movement (Akkusativ direction)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Hotel hat vier Sterns.",
+      "solution": "Das Hotel hat vier Sterne.",
+      "explanation": "The plural of der Stern is Sterne (add -e, no umlaut). 'Sterns' is not a valid German plural form."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Stuhl",
+      "solution": "die Stühle",
+      "explanation": "der Stuhl → Plural with umlaut + e: die Stühle (pattern: ..e)."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: das Zimmer",
+      "solution": "die Zimmer",
+      "explanation": "das Zimmer → Plural same as singular: die Zimmer (pattern: -)."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: das Bild",
+      "solution": "die Bilder",
+      "explanation": "das Bild → Plural adds -er: die Bilder (pattern: -er)."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Schrank",
+      "solution": "die Schränke",
+      "explanation": "der Schrank → Plural with umlaut + e: die Schränke (pattern: ..e)."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Sofa",
+      "solution": "die Sofas",
+      "explanation": "das Sofa → Plural adds -s: die Sofas. Many borrowed words take -s in the plural."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Hotel",
+      "solution": "die Hotels",
+      "explanation": "das Hotel → Plural adds -s: die Hotels. Borrowed word with -s plural."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Give the plural: die Lampe",
+      "solution": "die Lampen",
+      "explanation": "die Lampe → Plural adds -n: die Lampen (pattern: -n). Many feminine nouns ending in -e take -n."
+    },
+    {
+      "id": 41,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Give the plural: der Spiegel",
+      "solution": "die Spiegel",
+      "explanation": "der Spiegel → Plural same as singular: die Spiegel (pattern: -). Nouns ending in -el/-en/-er often have no plural change."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ___ hat ein Zimmer mit einem großen Bett und einem Sofa. (hotel)",
+      "solution": "Hotel",
+      "explanation": "das Hotel — borrowed word, neuter gender. A hotel room often contains a bed (das Bett) and sofa (das Sofa)."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der ___ kostet nur 5 Euro und 50 Cent. (price)",
+      "solution": "Preis",
+      "explanation": "der Preis means 'price'. Masculine noun — must memorize the gender."
+    }
+  ]
+}

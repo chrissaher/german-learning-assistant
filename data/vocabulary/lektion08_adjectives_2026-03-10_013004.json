@@ -1,0 +1,454 @@
+{
+  "lektion": 8,
+  "focus": "adjectives",
+  "file_slug": "lektion08_adjectives",
+  "generated_at": "2026-03-10T01:30:04",
+  "vocabulary": [
+    {
+      "german": "spät",
+      "base_form": "spät",
+      "english": "late",
+      "word_type": "adjective",
+      "antonym": "früh",
+      "cognate_note": "English 'late' — no direct cognate, but English 'span' has different roots. Spanish 'tarde' is a false friend in usage (tarde = afternoon/late).",
+      "lektion_source": 8
+    },
+    {
+      "german": "frei",
+      "base_form": "frei",
+      "english": "free / off (not working)",
+      "word_type": "adjective",
+      "antonym": "besetzt / beschäftigt",
+      "cognate_note": "English 'free' — direct cognate! Same meaning: 'I am free on Friday' = 'Ich bin am Freitag frei'. Note: in German 'frei' also means 'available' (table is free = Tisch ist frei).",
+      "lektion_source": 8
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Am Donnerstag bin ich frei — gehen wir ins Kino!",
+      "english": "On Thursday I am free — let's go to the cinema!",
+      "level": "medium",
+      "note": "Uses: frei; der Donnerstag, das Kino from Lektion 8 nouns."
+    },
+    {
+      "id": 2,
+      "german": "Es ist schon sehr spät — das Museum ist jetzt geschlossen.",
+      "english": "It is already very late — the museum is closed now.",
+      "level": "medium",
+      "note": "Uses: spät; das Museum from Lektion 8 nouns; jetzt from earlier lektionen."
+    },
+    {
+      "id": 3,
+      "german": "Bist du am Freitagnachmittag frei oder hast du einen Termin?",
+      "english": "Are you free on Friday afternoon or do you have an appointment?",
+      "level": "medium",
+      "note": "Uses: frei; der Freitag, der Nachmittag, der Termin from Lektion 8."
+    },
+    {
+      "id": 4,
+      "german": "Es ist schon halb neun — warum kommst du so spät?",
+      "english": "It is already half past eight — why are you coming so late?",
+      "level": "medium",
+      "note": "Uses: spät; halb (Lektion 8 time expression)."
+    },
+    {
+      "id": 5,
+      "german": "Am Sonntag bin ich frei und habe keine Lust zu arbeiten.",
+      "english": "On Sunday I am free and have no desire to work.",
+      "level": "complex",
+      "note": "Uses: frei; der Sonntag, die Lust from Lektion 8; arbeiten from Lektion 2."
+    },
+    {
+      "id": 6,
+      "german": "Es wird zu spät sein — das Café schließt um 22 Uhr.",
+      "english": "It will be too late — the café closes at 10 pm.",
+      "level": "complex",
+      "note": "Uses: spät; das Café from Lektion 8; 'um' + time expression."
+    },
+    {
+      "id": 7,
+      "german": "Ich bin am Wochenende frei, aber meine Schwester ist sehr beschäftigt.",
+      "english": "I am free at the weekend, but my sister is very busy.",
+      "level": "complex",
+      "note": "Uses: frei (antonym: beschäftigt); das Wochenende from Lektion 8; meine Schwester from Lektion 3."
+    },
+    {
+      "id": 8,
+      "german": "Wann bist du frei? Es ist schon sehr spät und das Restaurant schließt bald.",
+      "english": "When are you free? It is already very late and the restaurant closes soon.",
+      "level": "complex",
+      "note": "Uses: both frei and spät together; das Restaurant from Lektion 8."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Am Samstag bin ich ___. (free / off work)",
+      "solution": "frei",
+      "explanation": "'frei sein' = to be free/off work. Used predicatively after 'sein'. No article or inflection needed."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Es ist schon sehr ___. Wir müssen gehen! (late)",
+      "solution": "spät",
+      "explanation": "'spät' = late. Used predicatively here with 'ist'. Antonym: früh (early)."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von spät ist ___. (antonym of late)",
+      "solution": "früh",
+      "explanation": "früh = early, the antonym of spät = late. Both are A1-level adjectives."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von frei ist ___ (for a table/seat: occupied).",
+      "solution": "besetzt",
+      "explanation": "'besetzt' = occupied (for a table, seat, or phone line). 'beschäftigt' = busy (for a person)."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Bist du am Freitag ___? Ich habe eine Idee für den Abend! (free)",
+      "solution": "frei",
+      "explanation": "'frei sein' = to be free/available. 'Bist du frei?' is a common A1 question to arrange plans."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Es ist schon ___ — das Museum schließt in zehn Minuten. (late)",
+      "solution": "spät",
+      "explanation": "'Es ist spät' = It is late. Common usage when referring to closing times."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Am Wochenende bin ich ___ und gehe ins Schwimmbad. (free)",
+      "solution": "frei",
+      "explanation": "'Am Wochenende bin ich frei' — standard expression for being off on the weekend."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Warum kommst du so ___? Der Film beginnt schon! (late)",
+      "solution": "spät",
+      "explanation": "'so spät' = so late. 'spät kommen' = to come late / to arrive late."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich bin am Dienstag und am Mittwoch ___, aber am Donnerstag habe ich einen Termin. (free)",
+      "solution": "frei",
+      "explanation": "'frei sein' used twice with different days. 'Termin haben' = to have an appointment."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Es ist zu ___ für das Kino — die letzte Vorstellung beginnt um 20 Uhr. (late)",
+      "solution": "spät",
+      "explanation": "'zu spät' = too late. Common expression when missing a time slot."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Bist du am Montagvormittag ___? Ich habe eine ___ Idee! (free / good [gute])",
+      "solution": "frei / gute",
+      "explanation": "'frei sein' predicative; 'gute Idee' — adjective inflection: gute before feminine noun Idee."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Es ist schon ___. Gehen wir schnell ins Café!",
+      "options": ["spät", "früh", "frei"],
+      "solution": "spät",
+      "explanation": "'Es ist schon spät' = It is already late. 'früh' = early; 'frei' = free — neither fits the urgency here."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Bist du am Sonntag ___?",
+      "options": ["frei", "spät", "früh"],
+      "solution": "frei",
+      "explanation": "'Bist du frei?' = Are you free? Used to ask if someone is available. 'spät' and 'früh' don't answer an availability question."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Gegenteil von 'spät' ist ___.",
+      "options": ["früh", "frei", "gut"],
+      "solution": "früh",
+      "explanation": "früh (early) is the direct antonym of spät (late). 'frei' means free; 'gut' means good."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Warum bist du so ___? Das Theater beginnt in fünf Minuten!",
+      "options": ["spät", "frei", "schön"],
+      "solution": "spät",
+      "explanation": "'so spät' = so late. The sentence implies someone is arriving later than expected."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Am Wochenende bin ich immer ___ — ich arbeite nur von Montag bis Freitag.",
+      "options": ["frei", "spät", "beschäftigt"],
+      "solution": "frei",
+      "explanation": "'frei sein' = to be off/free. The context (not working on weekends) confirms frei. 'beschäftigt' would contradict the sentence."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Es ist schon ___ — die Bar schließt in zehn Minuten.",
+      "options": ["spät", "frei", "gut"],
+      "solution": "spät",
+      "explanation": "'Es ist spät' = It is late. The closing-time context confirms spät is the right choice."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Are you free on Thursday afternoon?",
+      "solution": "Bist du am Donnerstagnachmittag frei?",
+      "explanation": "'frei sein' = to be free. 'Am Donnerstagnachmittag' = on Thursday afternoon (compound noun with 'am')."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "It is already very late — the museum is closed.",
+      "solution": "Es ist schon sehr spät — das Museum ist geschlossen.",
+      "explanation": "'sehr spät' = very late; das Museum (neut.); 'geschlossen' = closed (from earlier lektionen)."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I am free on Monday and Tuesday.",
+      "solution": "Am Montag und am Dienstag bin ich frei.",
+      "explanation": "'frei sein' = to be free. 'Am Montag und am Dienstag' — days of the week with 'am'."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "On Sunday I am free and want to go to the cinema.",
+      "solution": "Am Sonntag bin ich frei und möchte ins Kino gehen.",
+      "explanation": "'frei sein'; 'möchte' (Lektion 9 preview — or use 'will'); 'ins Kino gehen' = to go to the cinema."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "It is too late for the restaurant — it closes at ten o'clock.",
+      "solution": "Es ist zu spät für das Restaurant — es schließt um zehn Uhr.",
+      "explanation": "'zu spät' = too late; 'für das Restaurant' (accusative neuter); 'um zehn Uhr' = at ten o'clock."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Are you free at the weekend? I have a good idea!",
+      "solution": "Bist du am Wochenende frei? Ich habe eine gute Idee!",
+      "explanation": "'frei sein'; 'am Wochenende'; 'eine gute Idee' — adjective inflection: gute (fem. nominative)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich bin am Freitag früh — ich kann ins Theater gehen. (meaning: I am free on Friday)",
+      "solution": "Ich bin am Freitag frei — ich kann ins Theater gehen.",
+      "explanation": "'frei' = free/off work. 'früh' = early. To say you are available, use 'frei', not 'früh'."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Warum kommst du so frei? Der Film beginnt schon! (meaning: so late)",
+      "solution": "Warum kommst du so spät? Der Film beginnt schon!",
+      "explanation": "'spät' = late (describing time of arrival). 'frei' = free — the wrong adjective in this context."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Am Wochenende ist der Tisch im Restaurant spät — wir können essen gehen.",
+      "solution": "Am Wochenende ist der Tisch im Restaurant frei — wir können essen gehen.",
+      "explanation": "A table being 'available' uses 'frei' (= free/unoccupied), not 'spät' (= late)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Bist du am Donnerstag spät? Ich habe eine Idee für den Abend.",
+      "solution": "Bist du am Donnerstag frei? Ich habe eine Idee für den Abend.",
+      "explanation": "To ask about availability, use 'frei'. 'Bist du spät?' does not make sense in this context."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Es ist schon frei — das Café schließt in fünf Minuten.",
+      "solution": "Es ist schon spät — das Café schließt in fünf Minuten.",
+      "explanation": "'spät' = late; used when referring to the time being advanced. 'frei' means free, not late."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich bin am Samstag und Sonntag spät, also gehen wir am Wochenende aus.",
+      "solution": "Ich bin am Samstag und Sonntag frei, also gehen wir am Wochenende aus.",
+      "explanation": "'frei sein' = to be off/available. 'spät sein' refers to time, not availability."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Es ist schon ___ Abend — die Disco ist jetzt offen. (late in the evening — use spät)",
+      "solution": "spät",
+      "explanation": "'Es ist spät' — it is late. Common when indicating an advanced time of day."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wann bist du ___? Am Montag oder am Dienstag? (free)",
+      "solution": "frei",
+      "explanation": "'Wann bist du frei?' = When are you free? Standard scheduling question in A1."
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Bar ist am Wochenende bis zwei Uhr ___, aber unter der Woche schließt sie früher.",
+      "options": ["offen / geöffnet", "spät", "frei"],
+      "solution": "offen / geöffnet",
+      "explanation": "A bar being 'open until 2am' uses 'offen' or 'geöffnet'. 'spät' describes time, not opening status. 'frei' means free/available."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Why are you coming so late? The show starts soon.",
+      "solution": "Warum kommst du so spät? Die Vorstellung beginnt bald.",
+      "explanation": "'so spät' = so late; 'bald' = soon (from earlier vocabulary)."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich bin am Dienstag nicht ___. Ich habe einen Termin. (free)",
+      "solution": "frei",
+      "explanation": "'nicht frei sein' = to not be free/available. 'Einen Termin haben' = to have an appointment."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She is free on Wednesday evening and wants to go to the theatre.",
+      "solution": "Sie ist am Mittwochabend frei und möchte ins Theater gehen.",
+      "explanation": "'frei sein'; 'am Mittwochabend' = on Wednesday evening; 'ins Theater gehen'."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ist das Café am Montag frei? Ich möchte dort essen. (meaning: is it open?)",
+      "solution": "Ist das Café am Montag geöffnet / offen? Ich möchte dort essen.",
+      "explanation": "For a business being 'open', use 'geöffnet' or 'offen', not 'frei'. 'Frei' for a café would mean 'available/unoccupied' (e.g., a table is free)."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Es ist schon ___ — wir können nicht mehr ins Schwimmbad gehen. (too late)",
+      "solution": "zu spät",
+      "explanation": "'zu spät' = too late. 'zu' intensifies the adjective: zu spät = too late, zu früh = too early."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Are you free on Monday morning?",
+      "solution": "Bist du am Montagvormittag frei?",
+      "explanation": "'frei sein'; 'am Montagvormittag' = on Monday morning (before noon)."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'frei' (available) ist ___.",
+      "options": ["besetzt", "spät", "groß"],
+      "solution": "besetzt",
+      "explanation": "'besetzt' = occupied/taken — direct antonym of 'frei' when referring to seats, tables, or phone lines."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Bist du morgen ___? Das Museum ist nur am Nachmittag geöffnet, und es ist ___ zu schließen wenn wir spät kommen. (free / too late)",
+      "solution": "frei / zu spät",
+      "explanation": "'frei sein' = to be free; 'zu spät' = too late. Both adjectives used in realistic context."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er kommt schon wieder spät und jetzt ist der Tisch im Restaurant frei gegangen.",
+      "solution": "Er kommt schon wieder spät und jetzt ist der Tisch im Restaurant weggegangen / nicht mehr frei.",
+      "explanation": "In German, 'frei gehen' (as a V2 compound) is not standard. The table being 'taken/gone' would be expressed as 'nicht mehr frei' or a different construction."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I am free on Friday and Saturday.",
+      "solution": "Am Freitag und am Samstag bin ich frei.",
+      "explanation": "'frei sein'; days in time-first word order (adverbial): Am Freitag und am Samstag bin ich …"
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Es ist schon Viertel nach neun — das ist zu ___! (late)",
+      "solution": "spät",
+      "explanation": "'zu spät' = too late. 'Viertel nach neun' = quarter past nine (Lektion 8 time expression)."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich bin am Sonntag frei und am Montag auch frei, aber am Dienstag bin ich sehr spät.",
+      "solution": "Ich bin am Sonntag frei und am Montag auch frei, aber am Dienstag bin ich sehr beschäftigt.",
+      "explanation": "'sehr spät sein' does not mean 'very busy'. 'Sehr beschäftigt sein' = to be very busy (the intended antonym of frei in this context)."
+    },
+    {
+      "id": 45,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We are free on the weekend and want to visit the exhibition.",
+      "solution": "Wir sind am Wochenende frei und möchten die Ausstellung besuchen.",
+      "explanation": "'frei sein'; 'am Wochenende'; 'die Ausstellung besuchen' = to visit the exhibition (die Ausstellung from Lektion 8)."
+    }
+  ]
+}

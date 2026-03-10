@@ -1,0 +1,937 @@
+{
+  "lektion": 5,
+  "focus": "all",
+  "file_slug": "lektion05_all",
+  "generated_at": "2026-03-10T01:36:20",
+  "vocabulary": [
+    {
+      "german": "die Uhr",
+      "base_form": "Uhr",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Uhren",
+      "english": "clock / watch",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Auto",
+      "base_form": "Auto",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Autos",
+      "english": "car",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Handy",
+      "base_form": "Handy",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Handys",
+      "english": "mobile phone",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Buch",
+      "base_form": "Buch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Bücher",
+      "english": "book",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Bleistift",
+      "base_form": "Bleistift",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Bleistifte",
+      "english": "pencil",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Brille",
+      "base_form": "Brille",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Brillen",
+      "english": "glasses",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Tasche",
+      "base_form": "Tasche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Taschen",
+      "english": "bag",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Schlüssel",
+      "base_form": "Schlüssel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Schlüssel",
+      "english": "key",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Flasche",
+      "base_form": "Flasche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Flaschen",
+      "english": "bottle",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Holz",
+      "base_form": "Holz",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(Sg. only)",
+      "english": "wood",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Glas",
+      "base_form": "Glas",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Gläser",
+      "english": "glass",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Farbe",
+      "base_form": "Farbe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Farben",
+      "english": "colour / color",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Regenschirm",
+      "base_form": "Regenschirm",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Regenschirme",
+      "english": "umbrella",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Problem",
+      "base_form": "Problem",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Probleme",
+      "english": "problem",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Jacke",
+      "base_form": "Jacke",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Jacken",
+      "english": "jacket",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Handtuch",
+      "base_form": "Handtuch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Handtücher",
+      "english": "towel",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "zeichnen",
+      "base_form": "zeichnen",
+      "english": "to draw",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "zeichne",
+        "du": "zeichnest",
+        "er/sie/es": "zeichnet",
+        "wir": "zeichnen",
+        "ihr": "zeichnet",
+        "sie/Sie": "zeichnen"
+      },
+      "perfekt": "hat gezeichnet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 5
+    },
+    {
+      "german": "sehen",
+      "base_form": "sehen",
+      "english": "to see",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "sehe",
+        "du": "siehst",
+        "er/sie/es": "sieht",
+        "wir": "sehen",
+        "ihr": "seht",
+        "sie/Sie": "sehen"
+      },
+      "perfekt": "hat gesehen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change e→ie in du/er forms.",
+      "lektion_source": 5
+    },
+    {
+      "german": "sagen",
+      "base_form": "sagen",
+      "english": "to say",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "sage",
+        "du": "sagst",
+        "er/sie/es": "sagt",
+        "wir": "sagen",
+        "ihr": "sagt",
+        "sie/Sie": "sagen"
+      },
+      "perfekt": "hat gesagt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 5
+    },
+    {
+      "german": "fragen",
+      "base_form": "fragen",
+      "english": "to ask",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "frage",
+        "du": "fragst",
+        "er/sie/es": "fragt",
+        "wir": "fragen",
+        "ihr": "fragt",
+        "sie/Sie": "fragen"
+      },
+      "perfekt": "hat gefragt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 5
+    },
+    {
+      "german": "antworten",
+      "base_form": "antworten",
+      "english": "to answer",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "antworte",
+        "du": "antwortest",
+        "er/sie/es": "antwortet",
+        "wir": "antworten",
+        "ihr": "antwortet",
+        "sie/Sie": "antworten"
+      },
+      "perfekt": "hat geantwortet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb; extra -e- before -st/-t because stem ends in -t.",
+      "lektion_source": 5
+    },
+    {
+      "german": "schreiben",
+      "base_form": "schreiben",
+      "english": "to write / to spell",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schreibe",
+        "du": "schreibst",
+        "er/sie/es": "schreibt",
+        "wir": "schreiben",
+        "ihr": "schreibt",
+        "sie/Sie": "schreiben"
+      },
+      "perfekt": "hat geschrieben",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: Partizip II is geschrieben.",
+      "lektion_source": 5
+    },
+    {
+      "german": "bestellen",
+      "base_form": "bestellen",
+      "english": "to order",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bestelle",
+        "du": "bestellst",
+        "er/sie/es": "bestellt",
+        "wir": "bestellen",
+        "ihr": "bestellt",
+        "sie/Sie": "bestellen"
+      },
+      "perfekt": "hat bestellt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Inseparable prefix be-; no ge- in Partizip II.",
+      "lektion_source": 5
+    },
+    {
+      "german": "weiß",
+      "base_form": "weiß",
+      "english": "white",
+      "word_type": "adjective",
+      "antonym": "schwarz",
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "gelb",
+      "base_form": "gelb",
+      "english": "yellow",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "rot",
+      "base_form": "rot",
+      "english": "red",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "grün",
+      "base_form": "grün",
+      "english": "green",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "blau",
+      "base_form": "blau",
+      "english": "blue",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "braun",
+      "base_form": "braun",
+      "english": "brown",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "schwarz",
+      "base_form": "schwarz",
+      "english": "black",
+      "word_type": "adjective",
+      "antonym": "weiß",
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "orange",
+      "base_form": "orange",
+      "english": "orange",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "Spanish: 'naranja' — false friend for the colour adjective.",
+      "lektion_source": 5
+    },
+    {
+      "german": "auf Deutsch",
+      "base_form": "auf Deutsch",
+      "english": "in German",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "auf + language (capitalized): auf Deutsch, auf Englisch, auf Spanisch.",
+      "lektion_source": 5
+    },
+    {
+      "german": "bitte",
+      "base_form": "bitte",
+      "english": "please / you're welcome / pardon?",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Multi-use: please in requests, you're welcome after thanks, pardon? for repetition.",
+      "lektion_source": 5
+    },
+    {
+      "german": "etwas",
+      "base_form": "etwas",
+      "english": "something",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Indefinite pronoun for unknown or unspecified things: Siehst du etwas?",
+      "lektion_source": 5
+    },
+    {
+      "german": "viele",
+      "base_form": "viele",
+      "english": "many",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Before plural nouns: viele Farben, viele Wörter.",
+      "lektion_source": 5
+    },
+    {
+      "german": "man",
+      "base_form": "man",
+      "english": "one / you (impersonal)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Impersonal; always uses er/sie/es verb form: Wie schreibt man das?",
+      "lektion_source": 5
+    },
+    {
+      "german": "Noch einmal, bitte.",
+      "base_form": "Noch einmal, bitte.",
+      "english": "Once again, please.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Classroom phrase to ask for repetition.",
+      "lektion_source": 5
+    },
+    {
+      "german": "Wie schreibt man …?",
+      "base_form": "Wie schreibt man …?",
+      "english": "How do you spell/write …?",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Impersonal question with man + er-form verb.",
+      "lektion_source": 5
+    },
+    {
+      "german": "Kein Problem.",
+      "base_form": "Kein Problem.",
+      "english": "No problem.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Casual reassurance phrase.",
+      "lektion_source": 5
+    },
+    {
+      "german": "online",
+      "base_form": "online",
+      "english": "online",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Adverb for where: online bestellen.",
+      "lektion_source": 5
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich sehe viele Farben in dem Laden: rot, blau, grün und so weiter.",
+      "english": "I see many colours in the shop: red, blue, green, and so on.",
+      "level": "medium",
+      "note": "Nouns: die Farbe; Verbs: sehen (e→ie); Adjectives: rot, blau, grün; Others: viele, und so weiter"
+    },
+    {
+      "id": 2,
+      "german": "Kannst du das Wort auf Deutsch schreiben, bitte?",
+      "english": "Can you write the word in German, please?",
+      "level": "medium",
+      "note": "Nouns: das Wort; Verbs: schreiben; Others: auf Deutsch, bitte — classroom language"
+    },
+    {
+      "id": 3,
+      "german": "Die blaue Tasche und der schwarze Schlüssel sind auf dem Tisch.",
+      "english": "The blue bag and the black key are on the table.",
+      "level": "medium",
+      "note": "Nouns: die Tasche, der Schlüssel; Adjectives: blau (+ -e), schwarz (+ -e) — attributive with definite article"
+    },
+    {
+      "id": 4,
+      "german": "Man kann etwas online bestellen — kein Problem!",
+      "english": "One can order something online — no problem!",
+      "level": "medium",
+      "note": "Verbs: bestellen; Others: man, etwas, online, Kein Problem"
+    },
+    {
+      "id": 5,
+      "german": "Ich habe ein weißes Handy und eine rote Jacke online bestellt.",
+      "english": "I ordered a white mobile phone and a red jacket online.",
+      "level": "complex",
+      "note": "Nouns: das Handy, die Jacke; Verbs: bestellen (Perfekt); Adjectives: weiß (weißes), rot (rote)"
+    },
+    {
+      "id": 6,
+      "german": "Er sagt: 'Die Flasche ist aus Glas und die Tasche ist aus Plastik.'",
+      "english": "He says: 'The bottle is made of glass and the bag is made of plastic.'",
+      "level": "medium",
+      "note": "Nouns: die Flasche, das Glas, die Tasche; Verbs: sagen — materials vocabulary"
+    },
+    {
+      "id": 7,
+      "german": "Wie schreibt man 'Regenschirm' auf Deutsch? — Ich weiß nicht, aber es ist dunkelblau.",
+      "english": "How do you spell 'Regenschirm' in German? — I don't know, but it is dark blue.",
+      "level": "complex",
+      "note": "Others: Wie schreibt man, auf Deutsch, Ich weiß nicht; Nouns: der Regenschirm; Adjectives: dunkelblau"
+    },
+    {
+      "id": 8,
+      "german": "Noch einmal, bitte — welche Farbe hat die Brille?",
+      "english": "Once again, please — what colour is the glasses?",
+      "level": "medium",
+      "note": "Others: Noch einmal bitte; Nouns: die Farbe, die Brille; Verbs: haben"
+    },
+    {
+      "id": 9,
+      "german": "Sie zeichnet ein rotes Auto und fragt: 'Wie heißt das auf Deutsch?'",
+      "english": "She draws a red car and asks: 'What is this called in German?'",
+      "level": "complex",
+      "note": "Verbs: zeichnen, fragen; Nouns: das Auto; Adjectives: rot; Others: auf Deutsch"
+    },
+    {
+      "id": 10,
+      "german": "Das Handtuch ist gelb, der Föhn ist schwarz und die Seife ist weiß.",
+      "english": "The towel is yellow, the hairdryer is black and the soap is white.",
+      "level": "medium",
+      "note": "Nouns: das Handtuch, der Föhn, die Seife; Adjectives: gelb, schwarz, weiß — predicate position"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Tasche ist rot. (the bag — which article?)",
+      "solution": "Die",
+      "explanation": "die Tasche — feminine noun. Definite article in nominative: die."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Auto ist ___. (black)",
+      "solution": "schwarz",
+      "explanation": "schwarz = black. Predicate adjective — no ending needed."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ ein Bild. (zeichnen – ich form)",
+      "solution": "zeichne",
+      "explanation": "zeichnen: ich zeichne. Regular weak verb."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ Handy. (a mobile phone)",
+      "solution": "ein",
+      "explanation": "das Handy — neuter. Indefinite article for neuter is 'ein'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ das Wort auf Deutsch. (sehen – er form; stem change!)",
+      "solution": "sieht",
+      "explanation": "sehen: e→ie in du/er forms. er sieht."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe eine ___ Jacke. (blue)",
+      "solution": "blaue",
+      "explanation": "blau + -e ending after 'eine' (feminine indefinite): eine blaue Jacke."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie schreibt ___ das auf Deutsch? (impersonal pronoun)",
+      "solution": "man",
+      "explanation": "'man' is the impersonal pronoun for general questions. Uses er/sie/es verb form."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Flasche ist aus ___. (glass — material noun)",
+      "solution": "Glas",
+      "explanation": "das Glas = glass. No article needed when saying what something is made of: aus Glas."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe ___ Regenschirm online ___. (an umbrella / ordered — Perfekt)",
+      "solution": "einen / bestellt",
+      "explanation": "der Regenschirm — masc. acc.: einen; bestellen Perfekt: hat bestellt (inseparable prefix be-)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ auf die Frage und ___ : 'Das ist ___blau.' (answers / says / dark)",
+      "solution": "antwortet / sagt / dunkel",
+      "explanation": "antworten er-form: antwortet; sagen er-form: sagt; dunkel- = dark colour prefix."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Buch ist grün.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "das Buch — neuter noun. Definite article: das."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr gut.",
+      "options": ["siehst", "sehst", "sieht"],
+      "solution": "siehst",
+      "explanation": "sehen: e→ie in du form: du siehst."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ Schlüssel verloren.",
+      "options": ["ein", "eine", "einen"],
+      "solution": "einen",
+      "explanation": "der Schlüssel — masculine. Accusative indefinite article: einen."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Tasche ist ___.",
+      "options": ["schwarze", "schwarz", "schwarzen"],
+      "solution": "schwarz",
+      "explanation": "Predicate adjective after 'ist': no ending — schwarz."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat das Buch ___.",
+      "options": ["geschrieben", "schrieben", "geSchreibt"],
+      "solution": "geschrieben",
+      "explanation": "schreiben is strong: Partizip II is geschrieben (not geschreibt)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das ist ein ___ Handy.",
+      "options": ["weißes", "weiße", "weißer"],
+      "solution": "weißes",
+      "explanation": "das Handy — neuter. After 'ein' (neuter nom./acc.), adjective takes -es."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ kann man das Wort online suchen.",
+      "options": ["Wie", "Was", "Wer"],
+      "solution": "Wie",
+      "explanation": "Wie = how. 'Wie kann man…?' = How can one…? Asking about method."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er ___ die Frage nicht.",
+      "options": ["antwortet auf", "antwortet", "fragt auf"],
+      "solution": "antwortet auf",
+      "explanation": "antworten takes 'auf + accusative': Er antwortet auf die Frage. Not just 'antworten + accusative'."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The bag is black and the bottle is green.",
+      "solution": "Die Tasche ist schwarz und die Flasche ist grün.",
+      "explanation": "Predicate adjectives: no endings. die Tasche, die Flasche — both feminine."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I see a white mobile phone on the table.",
+      "solution": "Ich sehe ein weißes Handy auf dem Tisch.",
+      "explanation": "sehen: ich sehe (no change in ich form). ein weißes Handy (neuter acc.). auf dem Tisch (dative location)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She asks: How do you write 'umbrella' in German?",
+      "solution": "Sie fragt: Wie schreibt man 'Regenschirm' auf Deutsch?",
+      "explanation": "fragen: sie fragt; Wie schreibt man…? + auf Deutsch — key Lektion 5 phrases."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I ordered a blue jacket and a black bag online.",
+      "solution": "Ich habe eine blaue Jacke und eine schwarze Tasche online bestellt.",
+      "explanation": "bestellen Perfekt: hat bestellt; eine blaue Jacke / eine schwarze Tasche (fem. acc. → -e)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Once again, please — what colour is the glass?",
+      "solution": "Noch einmal, bitte — welche Farbe hat das Glas?",
+      "explanation": "Noch einmal bitte (fixed phrase); welche Farbe hat…? (noun die Farbe; das Glas neuter)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He says the key is brown.",
+      "solution": "Er sagt, der Schlüssel ist braun.",
+      "explanation": "sagen: er sagt. der Schlüssel (masc. nom.). braun = predicate adjective, no ending."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you have something in your bag?",
+      "solution": "Hast du etwas in deiner Tasche?",
+      "explanation": "etwas = something; in deiner Tasche (dative after in for location: die Tasche → deiner Tasche)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Brille ist neu.",
+      "solution": "Die Brille ist neu.",
+      "explanation": "die Brille — feminine. Article must be 'die', not 'das'."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Tasche ist schwarze.",
+      "solution": "Die Tasche ist schwarz.",
+      "explanation": "Predicate adjectives (after ist) do NOT take endings: schwarz, not schwarze."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Du sieht das Auto.",
+      "solution": "Du siehst das Auto.",
+      "explanation": "sehen du-form: du siehst (not sieht — that is the er/sie/es form)."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe eine Schlüssel.",
+      "solution": "Ich habe einen Schlüssel.",
+      "explanation": "der Schlüssel — masculine. Accusative indefinite article: einen (not eine)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat das Buch gebestellt.",
+      "solution": "Sie hat das Buch bestellt.",
+      "explanation": "bestellen has inseparable prefix be-; no ge- in Partizip II: bestellt (not gebestellt)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er ist das Wort geschrieben.",
+      "solution": "Er hat das Wort geschrieben.",
+      "explanation": "schreiben takes haben (not sein) in Perfekt: er hat geschrieben."
+    },
+    {
+      "id": 32,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: die Tasche",
+      "solution": "die Taschen",
+      "explanation": "die Tasche adds -n in the plural: die Taschen."
+    },
+    {
+      "id": 33,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: das Buch",
+      "solution": "die Bücher",
+      "explanation": "das Buch takes umlaut + -er: die Bücher."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: der Schlüssel",
+      "solution": "die Schlüssel",
+      "explanation": "der Schlüssel has no change in plural (-): die Schlüssel."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: die Farbe",
+      "solution": "die Farben",
+      "explanation": "die Farbe adds -n in plural: die Farben."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ das Wort geschrieben.",
+      "solution": "hat",
+      "explanation": "schreiben is transitive → takes haben in Perfekt."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Sie ___ die Jacke online bestellt.",
+      "solution": "hat",
+      "explanation": "bestellen is transitive → takes haben: sie hat bestellt."
+    },
+    {
+      "id": 38,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Ich ___ das Bild gezeichnet.",
+      "solution": "habe",
+      "explanation": "zeichnen is transitive → takes haben: ich habe gezeichnet."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ die Frage und er ___: 'Das Problem ist ___blau.' (asks / answers / light)",
+      "solution": "fragt / antwortet / hell",
+      "explanation": "fragen er-form: fragt; antworten er-form: antwortet; hell- = light colour prefix."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Many things are made of plastic: the bottle, the hairdryer, and so on.",
+      "solution": "Viele Dinge sind aus Plastik: die Flasche, der Föhn und so weiter.",
+      "explanation": "viele Dinge (many things); aus Plastik (no article with material); und so weiter (and so on)."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wie ___ man das auf Deutsch?",
+      "options": ["schreibt", "schreibst", "schreiben"],
+      "solution": "schreibt",
+      "explanation": "man + er/sie/es form: man schreibt. Not schreibst (du) or schreiben (wir/sie)."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe eine rote Tasche und einen schwarze Schlüssel.",
+      "solution": "Ich habe eine rote Tasche und einen schwarzen Schlüssel.",
+      "explanation": "der Schlüssel — masculine. After 'einen' (masc. acc. indefinite), adjective takes -en: schwarzen."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ___ Jacke. (a — feminine)",
+      "solution": "eine",
+      "explanation": "die Jacke — feminine. Indefinite article: eine."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Once again, please — how do you say 'key' in German?",
+      "solution": "Noch einmal, bitte — wie sagt man 'key' auf Deutsch? / Wie heißt 'key' auf Deutsch?",
+      "explanation": "Noch einmal bitte (fixed phrase); wie sagt man…/wie heißt… auf Deutsch? (standard question for translation)."
+    }
+  ]
+}

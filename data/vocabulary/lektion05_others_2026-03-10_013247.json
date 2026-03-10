@@ -1,0 +1,558 @@
+{
+  "lektion": 5,
+  "focus": "others",
+  "file_slug": "lektion05_others",
+  "generated_at": "2026-03-10T01:32:47",
+  "vocabulary": [
+    {
+      "german": "ein/eine",
+      "base_form": "ein",
+      "english": "a / an (indefinite article)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Indefinite article: ein (masc./neut.), eine (fem.). Used to introduce a noun for the first time: Das ist ein Tisch.",
+      "lektion_source": 5
+    },
+    {
+      "german": "etwas",
+      "base_form": "etwas",
+      "english": "something",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Indefinite pronoun meaning 'something'. Used in questions and statements: Siehst du etwas?",
+      "lektion_source": 5
+    },
+    {
+      "german": "viele",
+      "base_form": "viele",
+      "english": "many",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before plural nouns to mean 'many': viele Wörter, viele Farben.",
+      "lektion_source": 5
+    },
+    {
+      "german": "und so weiter",
+      "base_form": "und so weiter",
+      "english": "and so on / etc.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Abbreviation: usw. (= und so weiter). Used to indicate continuation of a list: rot, blau, grün und so weiter.",
+      "lektion_source": 5
+    },
+    {
+      "german": "auf Deutsch",
+      "base_form": "auf Deutsch",
+      "english": "in German",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed phrase for 'in German'. Pattern: auf + language (capitalized): auf Deutsch, auf Englisch, auf Spanisch.",
+      "lektion_source": 5
+    },
+    {
+      "german": "bitte",
+      "base_form": "bitte",
+      "english": "please / you're welcome / pardon?",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Very versatile: 'please' in requests (Noch einmal, bitte.), 'you're welcome' after thanks (Bitte schön.), or 'pardon?' when asking someone to repeat.",
+      "lektion_source": 5
+    },
+    {
+      "german": "Noch einmal, bitte.",
+      "base_form": "Noch einmal, bitte.",
+      "english": "Once again, please.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Classroom phrase used to ask someone to repeat something. noch einmal = once more.",
+      "lektion_source": 5
+    },
+    {
+      "german": "Wie schreibt man …?",
+      "base_form": "Wie schreibt man …?",
+      "english": "How do you spell/write …?",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Use 'man' (impersonal) to ask how something is spelled or written. Very common in language learning contexts.",
+      "lektion_source": 5
+    },
+    {
+      "german": "danke schön",
+      "base_form": "danke schön",
+      "english": "thank you (very much)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "A polite way to say thank you. Stronger than just 'danke'. Response: Bitte schön.",
+      "lektion_source": 5
+    },
+    {
+      "german": "Bitte schön.",
+      "base_form": "Bitte schön.",
+      "english": "You are welcome. / Here you go.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used as a response to 'Danke schön' (you're welcome), or when handing something to someone (here you go).",
+      "lektion_source": 5
+    },
+    {
+      "german": "Kein Problem.",
+      "base_form": "Kein Problem.",
+      "english": "No problem.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Casual reassurance phrase. Also note: 'kein' (no / not a) is the negative counterpart of 'ein'.",
+      "lektion_source": 5
+    },
+    {
+      "german": "man",
+      "base_form": "man",
+      "english": "one / you (impersonal)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Impersonal pronoun used instead of naming a specific person: Wie schreibt man das? (How does one write that?). Always uses the er/sie/es verb form.",
+      "lektion_source": 5
+    },
+    {
+      "german": "online",
+      "base_form": "online",
+      "english": "online",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used as an adverb to describe where an action takes place: online bestellen (to order online).",
+      "lektion_source": 5
+    },
+    {
+      "german": "dunkel-",
+      "base_form": "dunkel-",
+      "english": "dark (prefix for colours)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Prefix attached to colour adjectives to mean 'dark': dunkelblau (dark blue), dunkelgrün (dark green), dunkelbraun (dark brown).",
+      "lektion_source": 5
+    },
+    {
+      "german": "hell-",
+      "base_form": "hell-",
+      "english": "light (prefix for colours)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Prefix attached to colour adjectives to mean 'light': hellblau (light blue), hellgrün (light green), hellbraun (light brown).",
+      "lektion_source": 5
+    },
+    {
+      "german": "Ich weiß nicht.",
+      "base_form": "Ich weiß nicht.",
+      "english": "I do not know.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Common response when you don't know something. Note: 'weiß' here is from the irregular verb 'wissen' (to know facts), not to be confused with 'weiß' (white).",
+      "lektion_source": 5
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Wie schreibt man 'Schlüssel' auf Deutsch?",
+      "english": "How do you spell 'Schlüssel' in German?",
+      "level": "medium",
+      "note": "Uses: Wie schreibt man …?, auf Deutsch — classroom phrases from Lektion 5"
+    },
+    {
+      "id": 2,
+      "german": "Ich sehe viele Farben: rot, blau, grün, gelb und so weiter.",
+      "english": "I see many colours: red, blue, green, yellow, and so on.",
+      "level": "medium",
+      "note": "Uses: viele, und so weiter — listing phrases; colour vocabulary from Lektion 5"
+    },
+    {
+      "id": 3,
+      "german": "Bitte schön! — Danke schön! — Kein Problem.",
+      "english": "Here you are! — Thank you very much! — No problem.",
+      "level": "medium",
+      "note": "Uses: Bitte schön, danke schön, Kein Problem — a complete polite exchange"
+    },
+    {
+      "id": 4,
+      "german": "Ich habe etwas in meiner Tasche, aber ich weiß nicht, was es ist.",
+      "english": "I have something in my bag, but I don't know what it is.",
+      "level": "complex",
+      "note": "Uses: etwas, Ich weiß nicht — both Lektion 5 'others'; die Tasche from noun vocabulary"
+    },
+    {
+      "id": 5,
+      "german": "Man kann das Handy online bestellen — kein Problem!",
+      "english": "You can order the mobile phone online — no problem!",
+      "level": "medium",
+      "note": "Uses: man, online, Kein Problem — three 'others' in one sentence; das Handy, bestellen from Lektion 5"
+    },
+    {
+      "id": 6,
+      "german": "Die Jacke ist dunkelblau und die Tasche ist hellbraun.",
+      "english": "The jacket is dark blue and the bag is light brown.",
+      "level": "medium",
+      "note": "Uses: dunkel-, hell- — colour prefixes from Lektion 5; die Jacke, die Tasche from noun vocabulary"
+    },
+    {
+      "id": 7,
+      "german": "Noch einmal, bitte — ich verstehe das Wort nicht.",
+      "english": "Once again, please — I don't understand the word.",
+      "level": "medium",
+      "note": "Uses: Noch einmal bitte — classroom phrase; das Wort from Lektion 5 nouns"
+    },
+    {
+      "id": 8,
+      "german": "Das ist ein rotes Auto — was ist das auf Deutsch?",
+      "english": "That is a red car — what is that in German?",
+      "level": "complex",
+      "note": "Uses: ein/eine (indefinite article), auf Deutsch — both key 'others' from Lektion 5; das Auto"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ Tisch. (a table)",
+      "solution": "ein",
+      "explanation": "'ein' is the indefinite article for masculine and neuter nouns in nominative: der Tisch (masc.) → ein Tisch."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ Tasche. (a bag)",
+      "solution": "eine",
+      "explanation": "'eine' is the indefinite article for feminine nouns: die Tasche (fem.) → eine Tasche."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich sehe ___. Ich weiß nicht, was es ist. (something)",
+      "solution": "etwas",
+      "explanation": "etwas = something. Indefinite pronoun used for unknown or unspecified things."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Farben gibt es: rot, blau, grün ___ ___ ___. (many / and so on)",
+      "solution": "Viele / und so weiter",
+      "explanation": "viele = many (before plural noun); und so weiter = and so on (abbreviation: usw.)."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie schreibt ___ das auf Deutsch? (impersonal pronoun)",
+      "solution": "man",
+      "explanation": "'man' is the impersonal pronoun (like English 'one' or 'you' in general): Wie schreibt man das?"
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich kann die Kamera ___ bestellen. (online)",
+      "solution": "online",
+      "explanation": "online = adverb meaning 'on the internet/online'. Placed after the object in German."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Jacke ist ___blau. (dark)",
+      "solution": "dunkel",
+      "explanation": "dunkel- is a prefix for colours meaning 'dark': dunkelblau = dark blue."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Tasche ist ___braun. (light)",
+      "solution": "hell",
+      "explanation": "hell- is a prefix for colours meaning 'light': hellbraun = light brown."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Danke schön! — ___ ___! (You're welcome)",
+      "solution": "Bitte schön",
+      "explanation": "'Bitte schön' is the standard response to 'Danke schön' — meaning 'you're welcome'."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich verstehe das nicht. ___ ___, bitte! (Once again)",
+      "solution": "Noch einmal",
+      "explanation": "'Noch einmal, bitte' = Once again, please. Used to ask someone to repeat something."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ Buch.",
+      "options": ["ein", "eine", "einen"],
+      "solution": "ein",
+      "explanation": "das Buch — neuter. Indefinite article for neuter in nominative is 'ein'."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ Kamera.",
+      "options": ["ein", "eine", "einer"],
+      "solution": "eine",
+      "explanation": "die Kamera — feminine. Indefinite article for feminine in nominative is 'eine'."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wie schreibt ___ 'Schlüssel'?",
+      "options": ["man", "du", "ich"],
+      "solution": "man",
+      "explanation": "'man' is the impersonal pronoun for general statements/questions: Wie schreibt man…?"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ in der Tasche — ich weiß nicht, was es ist.",
+      "options": ["etwas", "viele", "man"],
+      "solution": "etwas",
+      "explanation": "etwas = something. Used for an unknown or unspecified thing."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das ist ___blau — sehr dunkel.",
+      "options": ["dunkel", "hell", "schwarz"],
+      "solution": "dunkel",
+      "explanation": "dunkel- = dark prefix. dunkelblau = dark blue. hell- would mean light blue."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Was bedeutet 'usw.'?",
+      "options": ["und so weiter", "und so weit", "und so wie"],
+      "solution": "und so weiter",
+      "explanation": "'usw.' is the abbreviation for 'und so weiter' (and so on / etc.)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wie sagt man 'in German' auf Deutsch?",
+      "options": ["auf Deutsch", "in Deutsch", "auf deutsch"],
+      "solution": "auf Deutsch",
+      "explanation": "'auf Deutsch' = in German. Note the capital D — languages are always capitalized in German."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Danke schön! — ___!",
+      "options": ["Bitte schön", "Kein Problem", "both are correct"],
+      "solution": "both are correct",
+      "explanation": "Both 'Bitte schön' and 'Kein Problem' are valid responses to 'Danke schön' in informal A1 contexts."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How do you write 'camera' in German?",
+      "solution": "Wie schreibt man 'Kamera' auf Deutsch?",
+      "explanation": "'Wie schreibt man…?' + 'auf Deutsch' — combines both Lektion 5 phrases. man uses er/sie/es form."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I see something on the table.",
+      "solution": "Ich sehe etwas auf dem Tisch.",
+      "explanation": "etwas = something; auf dem Tisch (dative after 'auf' for location)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Once again, please — I don't understand.",
+      "solution": "Noch einmal, bitte — ich verstehe das nicht.",
+      "explanation": "'Noch einmal, bitte' — fixed classroom phrase. 'Ich verstehe das nicht' uses verstehen (Lektion 10 verb, but natural here)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "There are many colours: red, blue, green, and so on.",
+      "solution": "Es gibt viele Farben: rot, blau, grün und so weiter.",
+      "explanation": "viele = many (before plural noun die Farben); und so weiter = and so on."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I don't know if this is a bag or a jacket.",
+      "solution": "Ich weiß nicht, ob das eine Tasche oder eine Jacke ist.",
+      "explanation": "'Ich weiß nicht' + ob-clause (verb moves to end in subordinate clause). eine Tasche / eine Jacke (fem.)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "You can order it online — no problem.",
+      "solution": "Man kann es online bestellen — kein Problem.",
+      "explanation": "man = impersonal; online = adverb; Kein Problem = fixed phrase."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Is that a light blue or dark blue jacket?",
+      "solution": "Ist das eine hellblaue oder eine dunkelblaue Jacke?",
+      "explanation": "hell- and dunkel- prefixes + blaue (adjective ending -e after eine, feminine); die Jacke."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das ist eine Tisch.",
+      "solution": "Das ist ein Tisch.",
+      "explanation": "der Tisch — masculine. Indefinite article is 'ein', not 'eine' (eine is for feminine nouns)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wie schreibt du 'Schlüssel'?",
+      "solution": "Wie schreibt man 'Schlüssel'?",
+      "explanation": "For impersonal 'how does one...' questions, use 'man', not 'du'. 'Wie schreibst du' is possible but changes the meaning to 'how do you (specifically) write'."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Tasche ist auf deutsch beschrieben.",
+      "solution": "Die Tasche ist auf Deutsch beschrieben.",
+      "explanation": "Languages used with 'auf' must be capitalized: auf Deutsch (capital D), not 'auf deutsch'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich sehe etwas — Ich nicht weiß, was es ist.",
+      "solution": "Ich sehe etwas — Ich weiß nicht, was es ist.",
+      "explanation": "Word order: 'nicht' comes after the verb, not between subject and verb: ich weiß nicht (not ich nicht weiß)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Man können das online kaufen.",
+      "solution": "Man kann das online kaufen.",
+      "explanation": "'man' always uses the er/sie/es verb form: man kann (not können). Treat 'man' like 'er'."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Handy ist ___grün — sehr hell. (light green — use the correct prefix)",
+      "solution": "hell",
+      "explanation": "hell- = light (prefix for colours): hellgrün = light green."
+    },
+    {
+      "id": 32,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Thank you very much! — You're welcome, no problem!",
+      "solution": "Danke schön! — Bitte schön, kein Problem!",
+      "explanation": "danke schön = thank you very much; Bitte schön = you're welcome; kein Problem = no problem."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ___ Bleistift und das ist ___ Kamera. (a — use correct article for each)",
+      "solution": "ein / eine",
+      "explanation": "der Bleistift (masc.) → ein; die Kamera (fem.) → eine."
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "In diesem Laden gibt es ___ Farben — rot, blau, grün, schwarz und so weiter.",
+      "options": ["viele", "viel", "vielen"],
+      "solution": "viele",
+      "explanation": "viele + plural noun: es gibt viele Farben. 'viel' is used with uncountable nouns; 'vielen' is dative plural."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "A: Danke schön für die Tasche!\nB: ___ ___ — ___ ___! (You're welcome — no problem!)",
+      "solution": "Bitte schön — Kein Problem",
+      "explanation": "'Bitte schön' = you're welcome; 'Kein Problem' = no problem. Both are natural responses."
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I don't know. Once again, please.",
+      "solution": "Ich weiß nicht. Noch einmal, bitte.",
+      "explanation": "Two common classroom phrases: 'Ich weiß nicht' (I don't know) and 'Noch einmal, bitte' (Once again, please)."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie heißt das ___ Deutsch? (in German — which preposition?)",
+      "solution": "auf",
+      "explanation": "auf Deutsch = in German. The preposition is 'auf', not 'in': auf Deutsch, auf Englisch."
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das ist ein Brille.",
+      "solution": "Das ist eine Brille.",
+      "explanation": "die Brille — feminine. Indefinite article for feminine is 'eine', not 'ein'."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Tasche ist ___blau — sehr dunkel.",
+      "options": ["dunkel", "hell", "blau"],
+      "solution": "dunkel",
+      "explanation": "When described as 'very dark', the prefix is 'dunkel-': dunkelblau (dark blue)."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "One can say many things in German: hello, thank you, no problem, and so on.",
+      "solution": "Man kann viele Dinge auf Deutsch sagen: Hallo, Danke, Kein Problem und so weiter.",
+      "explanation": "man (impersonal); viele Dinge (many things); auf Deutsch; und so weiter — multiple 'others' vocabulary."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe ___ in der Tasche: einen Schlüssel, einen Kugelschreiber und so weiter. (something / many things)",
+      "solution": "etwas / viele Dinge",
+      "explanation": "Both 'etwas' (something) and 'viele Dinge' (many things) work contextually; 'etwas' if unknown, 'viele Dinge' if listing."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Buch gibt es online — Man kann es auf der Internet kaufen.",
+      "solution": "Das Buch gibt es online — Man kann es im Internet kaufen.",
+      "explanation": "'im Internet' (not 'auf der Internet'): das Internet requires 'im' (= in dem). 'auf' is not used with Internet in German."
+    }
+  ]
+}

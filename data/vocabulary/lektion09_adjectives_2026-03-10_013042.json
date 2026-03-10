@@ -1,0 +1,506 @@
+{
+  "lektion": 9,
+  "focus": "adjectives",
+  "file_slug": "lektion09_adjectives",
+  "generated_at": "2026-03-10T01:30:42",
+  "vocabulary": [
+    {
+      "german": "lecker",
+      "base_form": "lecker",
+      "english": "delicious / tasty",
+      "word_type": "adjective",
+      "antonym": "ekelhaft",
+      "cognate_note": "Spanish: rico/a (delicious) is similar in meaning but different word. English: 'lecker' has become informal slang in British English meaning 'great'.",
+      "lektion_source": 9
+    },
+    {
+      "german": "fit",
+      "base_form": "fit",
+      "english": "fit / in good shape",
+      "word_type": "adjective",
+      "antonym": "unfit",
+      "cognate_note": "Near-identical to English 'fit'. Spanish: en forma. Note: in German, 'fit' is used predicatively (Ich bin fit) and rarely as an attributive adjective at A1.",
+      "lektion_source": 9
+    },
+    {
+      "german": "intelligent",
+      "base_form": "intelligent",
+      "english": "intelligent",
+      "word_type": "adjective",
+      "antonym": "dumm",
+      "cognate_note": "Identical to English 'intelligent' and Spanish 'inteligente'. Easy cognate — but note German pronunciation: in-te-li-GENT (stress on last syllable).",
+      "lektion_source": 9
+    },
+    {
+      "german": "prima",
+      "base_form": "prima",
+      "english": "great / excellent",
+      "word_type": "adjective",
+      "antonym": "schlecht",
+      "cognate_note": "From Italian/Latin 'prima' (first). Spanish speakers note: 'prima' in Spanish = female cousin — false friend! In German it is an adjective/exclamation meaning 'great'.",
+      "lektion_source": 9
+    },
+    {
+      "german": "perfekt",
+      "base_form": "perfekt",
+      "english": "perfect",
+      "word_type": "adjective",
+      "antonym": "unperfekt / mangelhaft",
+      "cognate_note": "Similar to English 'perfect' and Spanish 'perfecto'. German spelling uses 'k' not 'ct'. Used both predicatively and as an exclamation.",
+      "lektion_source": 9
+    },
+    {
+      "german": "besonders",
+      "base_form": "besonders",
+      "english": "especially / particularly",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "Can function as both adjective and adverb. As adjective: ein besonderes Essen (a special meal). As adverb: Ich mag Schokolade besonders gern.",
+      "lektion_source": 9
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Die Suppe ist sehr lecker — ich mag sie besonders gern.",
+      "english": "The soup is very tasty — I especially like it.",
+      "level": "medium",
+      "note": "Uses lecker and besonders together; sie refers back to die Suppe"
+    },
+    {
+      "id": 2,
+      "german": "Das Frühstück im Hotel ist prima — alles ist frisch und lecker.",
+      "english": "The breakfast at the hotel is great — everything is fresh and tasty.",
+      "level": "medium",
+      "note": "Uses prima and lecker as predicative adjectives"
+    },
+    {
+      "id": 3,
+      "german": "Du bist fit und intelligent — du isst immer gesundes Obst und Gemüse.",
+      "english": "You are fit and intelligent — you always eat healthy fruit and vegetables.",
+      "level": "complex",
+      "note": "Uses fit and intelligent predicatively; gesundes is attributive adjective"
+    },
+    {
+      "id": 4,
+      "german": "Das Dessert mit Erdbeeren und Sahne ist einfach perfekt!",
+      "english": "The dessert with strawberries and cream is simply perfect!",
+      "level": "medium",
+      "note": "Uses perfekt as predicative adjective; einfach (simply) from earlier lektionen"
+    },
+    {
+      "id": 5,
+      "german": "Dieser Kuchen ist besonders lecker — ich nehme noch ein Stück.",
+      "english": "This cake is especially delicious — I'll have another piece.",
+      "level": "complex",
+      "note": "Uses besonders + lecker; dieser (this) + das Stück from Lektion 9 nouns"
+    },
+    {
+      "id": 6,
+      "german": "Das Restaurant ist prima — das Essen ist lecker und nicht zu teuer.",
+      "english": "The restaurant is great — the food is tasty and not too expensive.",
+      "level": "complex",
+      "note": "Uses prima and lecker; teuer from Lektion 4"
+    },
+    {
+      "id": 7,
+      "german": "Bist du fit? — Ja, ich esse besonders viel Obst und trinke viel Wasser.",
+      "english": "Are you fit? — Yes, I especially eat a lot of fruit and drink a lot of water.",
+      "level": "complex",
+      "note": "Uses fit and besonders; question-answer structure"
+    },
+    {
+      "id": 8,
+      "german": "Der Kellner ist sehr intelligent und erklärt die Speisekarte perfekt.",
+      "english": "The waiter is very intelligent and explains the menu perfectly.",
+      "level": "complex",
+      "note": "Uses intelligent and perfekt predicatively; die Speisekarte from Lektion 9 nouns"
+    },
+    {
+      "id": 9,
+      "german": "Das Hamburger-Restaurant ist prima — die Hamburger sind besonders lecker.",
+      "english": "The hamburger restaurant is great — the hamburgers are especially tasty.",
+      "level": "medium",
+      "note": "Uses prima, besonders, and lecker; combines multiple adjectives"
+    },
+    {
+      "id": 10,
+      "german": "Dieses Menü ist perfekt für das Mittagessen — lecker und nicht zu teuer.",
+      "english": "This set meal is perfect for lunch — tasty and not too expensive.",
+      "level": "complex",
+      "note": "Uses perfekt, lecker, and das Mittagessen from Lektion 9 nouns"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Die Suppe ist sehr ___. (tasty)",
+      "solution": "lecker",
+      "explanation": "lecker = delicious/tasty. Used predicatively after 'ist'."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Dessert ist ___! (perfect)",
+      "solution": "perfekt",
+      "explanation": "perfekt = perfect. Used as predicative adjective after 'ist'. Cognate with English and Spanish."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er isst viel Obst und ist sehr ___. (fit)",
+      "solution": "fit",
+      "explanation": "fit = in good shape. Predicative use after 'ist'."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Restaurant ist ___! (great — use informal word)",
+      "solution": "prima",
+      "explanation": "prima = great/excellent. Often used as an exclamation or predicative adjective."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich mag Schokolade ___ gern. (especially)",
+      "solution": "besonders",
+      "explanation": "besonders = especially. Used as an adverb before 'gern' to intensify."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du bist sehr ___ — du sprichst vier Sprachen! (intelligent)",
+      "solution": "intelligent",
+      "explanation": "intelligent = intelligent. Easy cognate with English and Spanish 'inteligente'."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Kuchen ist ___ — ich möchte noch ein Stück. (especially delicious)",
+      "solution": "besonders lecker",
+      "explanation": "besonders modifies lecker: besonders lecker = especially delicious."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Essen im Restaurant war ___ — ich gehe da gern hin. (perfect)",
+      "solution": "perfekt",
+      "explanation": "perfekt used predicatively. Note: 'war' is Präteritum of sein (past tense, used for this expression)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Dieser Salat ist ___ — er ist frisch und ___. (great / especially tasty)",
+      "solution": "prima / besonders lecker",
+      "explanation": "prima = great; besonders lecker = especially tasty."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie ist sehr ___ und arbeitet als Ärztin. (intelligent)",
+      "solution": "intelligent",
+      "explanation": "intelligent = intelligent, predicative use. The feminine form is the same as the base form in predicative position."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Brötchen ist sehr ___.",
+      "options": ["lecker", "leider", "lesen"],
+      "solution": "lecker",
+      "explanation": "lecker = tasty/delicious. The other options are not adjectives meaning tasty."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Essen im Hotel ist ___!",
+      "options": ["prima", "primal", "primus"],
+      "solution": "prima",
+      "explanation": "prima = great. Watch out: Spanish speakers — 'prima' in Spanish means female cousin, not 'great'!"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er isst jeden Tag Obst und ist sehr ___.",
+      "options": ["fit", "fett", "fest"],
+      "solution": "fit",
+      "explanation": "fit = in good shape. 'fett' means fat; 'fest' means solid/firm — different meanings."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Dessert mit Sahne ist ___!",
+      "options": ["perfekt", "perfect", "perfektisch"],
+      "solution": "perfekt",
+      "explanation": "German spelling uses 'k': perfekt (not 'perfect' as in English)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich mag ___ Schokolade — sie ist meine Lieblingsschokolade.",
+      "options": ["besonders", "besondert", "besonderst"],
+      "solution": "besonders",
+      "explanation": "besonders = especially. It does not inflect when used as an adverb."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie ist ___ — sie hat drei Doktortitel.",
+      "options": ["intelligent", "intelligente", "intelligenten"],
+      "solution": "intelligent",
+      "explanation": "Predicative adjectives (after ist/sind) do NOT inflect in German — always use base form."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das ist ein ___ Essen — lecker, günstig und frisch.",
+      "options": ["prima", "primas", "primem"],
+      "solution": "prima",
+      "explanation": "prima is an indeclinable adjective — it never changes form, even in attributive position."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The soup is very tasty today.",
+      "solution": "Die Suppe ist heute sehr lecker.",
+      "explanation": "lecker = tasty. Predicative adjective after 'ist' — no inflection needed."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I especially like orange juice.",
+      "solution": "Ich mag Orangensaft besonders gern.",
+      "explanation": "besonders = especially, placed before 'gern' to intensify the preference."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The dessert is simply perfect!",
+      "solution": "Das Dessert ist einfach perfekt!",
+      "explanation": "perfekt = perfect. Note German spelling with 'k'. einfach = simply (intensifier)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The breakfast at this hotel is great — especially the bread rolls are very tasty.",
+      "solution": "Das Frühstück in diesem Hotel ist prima — besonders die Brötchen sind sehr lecker.",
+      "explanation": "prima = great; besonders = especially; lecker = tasty. Note: 'besonders' can also introduce a clause."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She is fit and eats a lot of fruit.",
+      "solution": "Sie ist fit und isst viel Obst.",
+      "explanation": "fit = fit/in shape; essen → sie isst (e→i stem change)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Are you (informal) fit? I eat especially healthy food.",
+      "solution": "Bist du fit? Ich esse besonders gesundes Essen.",
+      "explanation": "fit predicative; besonders before adjective; gesundes Essen = healthy food (attributive, neuter accusative)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Suppe ist sehr leckere.",
+      "solution": "Die Suppe ist sehr lecker.",
+      "explanation": "Predicative adjectives in German do NOT add endings. After 'ist', always use the base form: lecker, not leckere."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Essen ist perfects.",
+      "solution": "Das Essen ist perfekt.",
+      "explanation": "German spelling: perfekt (with k, no 's'). Predicative adjectives never take endings."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er isst viel Obst und ist sehr fitt.",
+      "solution": "Er isst viel Obst und ist sehr fit.",
+      "explanation": "fit is spelled with one 't' in German, not two."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Restaurant ist primas — das Essen ist besonders leckers.",
+      "solution": "Das Restaurant ist prima — das Essen ist besonders lecker.",
+      "explanation": "prima never inflects (always 'prima'). lecker as predicative adjective takes no ending."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie ist sehr intelligente und erklärt alles gut.",
+      "solution": "Sie ist sehr intelligent und erklärt alles gut.",
+      "explanation": "Predicative adjectives do not inflect: 'intelligent', not 'intelligente'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Frühstück ist besondert lecker — ich nehme noch ein Brötchen.",
+      "solution": "Das Frühstück ist besonders lecker — ich nehme noch ein Brötchen.",
+      "explanation": "besonders (especially) is invariable — it does not inflect. 'besondert' does not exist."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Kuchen hier ist ___. Ich esse ihn jeden Tag! (so tasty)",
+      "solution": "so lecker",
+      "explanation": "lecker = tasty. 'so lecker' = so tasty — 'so' functions like 'so' in English here."
+    },
+    {
+      "id": 31,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "This restaurant is great — I especially like the fish.",
+      "solution": "Dieses Restaurant ist prima — ich mag den Fisch besonders gern.",
+      "explanation": "prima = great; besonders gern = especially; den Fisch (accusative masculine)."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Menü ist ___ für Touristen — ___, günstig und ___. (perfect / tasty / especially good)",
+      "solution": "perfekt / lecker / besonders gut",
+      "explanation": "perfekt, lecker as predicative adjectives; besonders gut = especially good."
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ist sehr ___. Er kann fünf Sprachen sprechen.",
+      "options": ["intelligent", "lecker", "prima"],
+      "solution": "intelligent",
+      "explanation": "intelligent = intelligent. The sentence is about language ability, not food quality."
+    },
+    {
+      "id": 34,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The tomato salad is especially tasty — perfect as a starter.",
+      "solution": "Der Tomatensalat ist besonders lecker — perfekt als Vorspeise.",
+      "explanation": "besonders lecker; perfekt als Vorspeise — 'als' = as (in comparisons/descriptions)."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Essen ist besondert gut hier.",
+      "solution": "Das Essen ist besonders gut hier.",
+      "explanation": "besonders never changes form. 'besondert' does not exist in German."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___! Alles war sehr gut. (perfect / great — exclamation)",
+      "solution": "prima! / perfekt!",
+      "explanation": "Both prima and perfekt can be used as standalone exclamations meaning 'great' or 'perfect'."
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich mag diese Küche ___.",
+      "options": ["besonders", "besondert", "besonderlich"],
+      "solution": "besonders",
+      "explanation": "besonders = especially. The other forms do not exist in standard German."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Are you fit? Do you eat a lot of fruit?",
+      "solution": "Bist du fit? Isst du viel Obst?",
+      "explanation": "fit predicative; essen → du isst (e→i stem change, verb in first position for question)."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Huhn mit Kartoffeln ist leckerst und perfectt.",
+      "solution": "Das Huhn mit Kartoffeln ist sehr lecker und perfekt.",
+      "explanation": "lecker does not have a superlative form in this context; use 'sehr lecker' instead. perfekt has one 't' not two."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Zum Abendessen gibt es etwas ___: Fisch mit Zitrone und Soße. (especially tasty)",
+      "solution": "besonders Leckeres",
+      "explanation": "besonders + nominalized adjective: etwas Leckeres (something tasty). Capitalized as a noun."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The muesli is not especially tasty, but it is healthy.",
+      "solution": "Das Müsli ist nicht besonders lecker, aber es ist gesund.",
+      "explanation": "nicht besonders lecker = not especially tasty; gesund = healthy (known from earlier context)."
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Brötchen mit Marmelade ist ___!",
+      "options": ["lecker", "leckerlich", "leckert"],
+      "solution": "lecker",
+      "explanation": "lecker = tasty. Predicative adjective — no inflection. 'leckerlich' and 'leckert' do not exist."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er spricht sehr gut Deutsch. Er ist ___. (intelligent)",
+      "solution": "intelligent",
+      "explanation": "intelligent = intelligent. Predicative adjective after 'ist' — no ending."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The hotel breakfast is especially great — perfect for tourists.",
+      "solution": "Das Hotelfrühstück ist besonders prima — perfekt für Touristen.",
+      "explanation": "besonders prima = especially great; perfekt für Touristen — perfekt predicative."
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Essen hier ist intelligentem gemacht und besondert leckeres.",
+      "solution": "Das Essen hier ist intelligent gemacht und besonders lecker.",
+      "explanation": "Two errors: predicative adjectives do not inflect ('intelligent' not 'intelligentem'); 'besonders' not 'besondert'; 'lecker' not 'leckeres' in predicative position."
+    }
+  ]
+}

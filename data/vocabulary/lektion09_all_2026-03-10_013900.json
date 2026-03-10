@@ -1,0 +1,1232 @@
+{
+  "lektion": 9,
+  "focus": "all",
+  "file_slug": "lektion09_all",
+  "generated_at": "2026-03-10T01:39:00",
+  "vocabulary": [
+    {
+      "german": "der Hamburger",
+      "base_form": "Hamburger",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Hamburger",
+      "english": "hamburger",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Schokolade",
+      "base_form": "Schokolade",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "chocolate",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Käse",
+      "base_form": "Käse",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "cheese",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Salat",
+      "base_form": "Salat",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Salate",
+      "english": "salad",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Kuchen",
+      "base_form": "Kuchen",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kuchen",
+      "english": "cake",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Suppe",
+      "base_form": "Suppe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Suppen",
+      "english": "soup",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Apfel",
+      "base_form": "Apfel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Äpfel",
+      "english": "apple",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Tee",
+      "base_form": "Tee",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Tees",
+      "english": "tea",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Orange",
+      "base_form": "Orange",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Orangen",
+      "english": "orange",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Fisch",
+      "base_form": "Fisch",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Fische",
+      "english": "fish",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Tomate",
+      "base_form": "Tomate",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Tomaten",
+      "english": "tomato",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Brot",
+      "base_form": "Brot",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Brote",
+      "english": "bread",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Brötchen",
+      "base_form": "Brötchen",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Brötchen",
+      "english": "(bread) roll",
+      "word_type": "noun",
+      "pattern_hint": "-chen / -lein ending → always das (neuter)",
+      "pattern_reliability": "high",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Marmelade",
+      "base_form": "Marmelade",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Marmeladen",
+      "english": "jam",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Saft",
+      "base_form": "Saft",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Säfte",
+      "english": "juice",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Frühstück",
+      "base_form": "Frühstück",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "breakfast",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Mittagessen",
+      "base_form": "Mittagessen",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Mittagessen",
+      "english": "lunch",
+      "word_type": "noun",
+      "pattern_hint": "Infinitive as noun → always das (neuter)",
+      "pattern_reliability": "high",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Abendessen",
+      "base_form": "Abendessen",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Abendessen",
+      "english": "dinner",
+      "word_type": "noun",
+      "pattern_hint": "Infinitive as noun → always das (neuter)",
+      "pattern_reliability": "high",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Getränk",
+      "base_form": "Getränk",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Getränke",
+      "english": "drink",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Essen",
+      "base_form": "Essen",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Essen",
+      "english": "food / meal",
+      "word_type": "noun",
+      "pattern_hint": "Infinitive as noun → always das (neuter)",
+      "pattern_reliability": "high",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Butter",
+      "base_form": "Butter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "butter",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Schinken",
+      "base_form": "Schinken",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Schinken",
+      "english": "ham",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Ei",
+      "base_form": "Ei",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Eier",
+      "english": "egg",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Milch",
+      "base_form": "Milch",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "milk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Tasse",
+      "base_form": "Tasse",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Tassen",
+      "english": "cup",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Gast",
+      "base_form": "Gast",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Gäste",
+      "english": "guest",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Speisekarte",
+      "base_form": "Speisekarte",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Speisekarten",
+      "english": "menu",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Kartoffel",
+      "base_form": "Kartoffel",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Kartoffeln",
+      "english": "potato",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Würstchen",
+      "base_form": "Würstchen",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Würstchen",
+      "english": "sausage",
+      "word_type": "noun",
+      "pattern_hint": "-chen / -lein ending → always das (neuter)",
+      "pattern_reliability": "high",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Hauptgericht",
+      "base_form": "Hauptgericht",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Hauptgerichte",
+      "english": "main course",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Nudel",
+      "base_form": "Nudel",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Nudeln",
+      "english": "noodle / pasta",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Soße",
+      "base_form": "Soße",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Soßen",
+      "english": "sauce",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Huhn",
+      "base_form": "Huhn",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Hühner",
+      "english": "chicken",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "der Reis",
+      "base_form": "Reis",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "rice",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Dessert",
+      "base_form": "Dessert",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Desserts",
+      "english": "dessert",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Eis",
+      "base_form": "Eis",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "ice cream",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Erdbeere",
+      "base_form": "Erdbeere",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Erdbeeren",
+      "english": "strawberry",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Portion",
+      "base_form": "Portion",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Portionen",
+      "english": "portion",
+      "word_type": "noun",
+      "pattern_hint": "-tion / -sion ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 9
+    },
+    {
+      "german": "die Sahne",
+      "base_form": "Sahne",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "cream",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Obst",
+      "base_form": "Obst",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "fruit",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Stück",
+      "base_form": "Stück",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Stücke",
+      "english": "piece",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 9
+    },
+    {
+      "german": "das Menü",
+      "base_form": "Menü",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Menüs",
+      "english": "menu / set meal",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 9
+    },
+    {
+      "german": "mögen",
+      "base_form": "mögen",
+      "english": "to like",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "mag",
+        "du": "magst",
+        "er/sie/es": "mag",
+        "wir": "mögen",
+        "ihr": "mögt",
+        "sie/Sie": "mögen"
+      },
+      "perfekt": "hat gemocht",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel ö→a in ich/du/er forms. Often used without infinitive: Ich mag Käse.",
+      "lektion_source": 9
+    },
+    {
+      "german": "essen",
+      "base_form": "essen",
+      "english": "to eat",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "esse",
+        "du": "isst",
+        "er/sie/es": "isst",
+        "wir": "essen",
+        "ihr": "esst",
+        "sie/Sie": "essen"
+      },
+      "perfekt": "hat gegessen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: stem vowel e→i in du/er forms.",
+      "lektion_source": 9
+    },
+    {
+      "german": "trinken",
+      "base_form": "trinken",
+      "english": "to drink",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "trinke",
+        "du": "trinkst",
+        "er/sie/es": "trinkt",
+        "wir": "trinken",
+        "ihr": "trinkt",
+        "sie/Sie": "trinken"
+      },
+      "perfekt": "hat getrunken",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II (getrunken).",
+      "lektion_source": 9
+    },
+    {
+      "german": "wünschen",
+      "base_form": "wünschen",
+      "english": "to wish",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wünsche",
+        "du": "wünschst",
+        "er/sie/es": "wünscht",
+        "wir": "wünschen",
+        "ihr": "wünscht",
+        "sie/Sie": "wünschen"
+      },
+      "perfekt": "hat gewünscht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Common phrase: Was wünschen Sie? (What would you like?)",
+      "lektion_source": 9
+    },
+    {
+      "german": "möchten",
+      "base_form": "möchten",
+      "english": "to want / would like",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "möchte",
+        "du": "möchtest",
+        "er/sie/es": "möchte",
+        "wir": "möchten",
+        "ihr": "möchtet",
+        "sie/Sie": "möchten"
+      },
+      "perfekt": "hat gewollt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Polite modal (Konjunktiv II of mögen). ich möchte = er möchte. Infinitive follows at end of clause.",
+      "lektion_source": 9
+    },
+    {
+      "german": "nehmen",
+      "base_form": "nehmen",
+      "english": "to take / to have (food)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "nehme",
+        "du": "nimmst",
+        "er/sie/es": "nimmt",
+        "wir": "nehmen",
+        "ihr": "nehmt",
+        "sie/Sie": "nehmen"
+      },
+      "perfekt": "hat genommen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: e→i in du/er (nimmst, nimmt). Standard restaurant phrase: Ich nehme …",
+      "lektion_source": 9
+    },
+    {
+      "german": "lecker",
+      "base_form": "lecker",
+      "english": "delicious / tasty",
+      "word_type": "adjective",
+      "antonym": "ekelhaft",
+      "cognate_note": null,
+      "lektion_source": 9
+    },
+    {
+      "german": "fit",
+      "base_form": "fit",
+      "english": "fit / in good shape",
+      "word_type": "adjective",
+      "antonym": "unfit",
+      "cognate_note": "English cognate: 'fit'. Predicative use at A1: Ich bin fit.",
+      "lektion_source": 9
+    },
+    {
+      "german": "intelligent",
+      "base_form": "intelligent",
+      "english": "intelligent",
+      "word_type": "adjective",
+      "antonym": "dumm",
+      "cognate_note": "Cognate with English and Spanish 'inteligente'. Stress on last syllable: in-te-li-GENT.",
+      "lektion_source": 9
+    },
+    {
+      "german": "prima",
+      "base_form": "prima",
+      "english": "great / excellent",
+      "word_type": "adjective",
+      "antonym": "schlecht",
+      "cognate_note": "Spanish false friend: 'prima' in Spanish = female cousin. In German = great/excellent. Indeclinable.",
+      "lektion_source": 9
+    },
+    {
+      "german": "perfekt",
+      "base_form": "perfekt",
+      "english": "perfect",
+      "word_type": "adjective",
+      "antonym": "mangelhaft",
+      "cognate_note": "Cognate with English 'perfect'. German spelling: perfekt (with k).",
+      "lektion_source": 9
+    },
+    {
+      "german": "zum Frühstück",
+      "base_form": "zum Frühstück",
+      "english": "for breakfast",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "zum = zu + dem (dative). Fixed expression used for time of eating.",
+      "lektion_source": 9
+    },
+    {
+      "german": "Guten Appetit!",
+      "base_form": "Guten Appetit",
+      "english": "Enjoy your meal!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed greeting said before a meal. Always accusative: guten. Response: Danke, gleichfalls!",
+      "lektion_source": 9
+    },
+    {
+      "german": "hier bitte",
+      "base_form": "hier bitte",
+      "english": "there you are / here you go",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used when handing something over in restaurants and shops.",
+      "lektion_source": 9
+    },
+    {
+      "german": "schade",
+      "base_form": "schade",
+      "english": "what a pity / too bad",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Expresses mild disappointment. Standalone: Schade! or: Das ist schade.",
+      "lektion_source": 9
+    },
+    {
+      "german": "na gut",
+      "base_form": "na gut",
+      "english": "all right then / oh well",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Expresses reluctant acceptance. Less enthusiastic than 'okay'.",
+      "lektion_source": 9
+    },
+    {
+      "german": "unser",
+      "base_form": "unser",
+      "english": "our",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive adjective for 'we'. Inflects like ein-words.",
+      "lektion_source": 9
+    },
+    {
+      "german": "besonders",
+      "base_form": "besonders",
+      "english": "especially",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifying adverb before adjectives and 'gern'. Never inflects.",
+      "lektion_source": 9
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Zum Frühstück esse ich ein Brötchen mit Marmelade und trinke eine Tasse Tee.",
+      "english": "For breakfast I eat a bread roll with jam and drink a cup of tea.",
+      "level": "complex",
+      "note": "Nouns: das Brötchen, die Marmelade, die Tasse, der Tee; Verb: essen (esse), trinken (trinke); Phrase: zum Frühstück"
+    },
+    {
+      "id": 2,
+      "german": "Was möchten Sie trinken — Orangensaft, Wasser oder Milch?",
+      "english": "What would you like to drink — orange juice, water or milk?",
+      "level": "medium",
+      "note": "Verbs: möchten, trinken; Nouns: der Orangensaft, das Wasser, die Milch"
+    },
+    {
+      "id": 3,
+      "german": "Der Kellner bringt die Speisekarte und sagt: 'Hier bitte — Guten Appetit!'",
+      "english": "The waiter brings the menu and says: 'There you are — enjoy your meal!'",
+      "level": "complex",
+      "note": "Noun: die Speisekarte; Phrases: hier bitte, Guten Appetit!"
+    },
+    {
+      "id": 4,
+      "german": "Als Vorspeise nehme ich den Tomatensalat — der Salat ist hier besonders lecker.",
+      "english": "As a starter I'll have the tomato salad — the salad is especially tasty here.",
+      "level": "complex",
+      "note": "Verb: nehmen (nehme); Nouns: die Vorspeise, der Tomatensalat, der Salat; Adjective: lecker; Adverb: besonders"
+    },
+    {
+      "id": 5,
+      "german": "Das Hauptgericht ist Huhn mit Reis und Kartoffeln — prima und nicht zu teuer.",
+      "english": "The main course is chicken with rice and potatoes — great and not too expensive.",
+      "level": "complex",
+      "note": "Nouns: das Hauptgericht, das Huhn, der Reis, die Kartoffel; Adjective: prima"
+    },
+    {
+      "id": 6,
+      "german": "Schade — das Eis ist aus. Na gut, ich nehme dann ein Stück Kuchen mit Sahne.",
+      "english": "What a pity — the ice cream is sold out. All right then, I'll have a piece of cake with cream.",
+      "level": "complex",
+      "note": "Phrases: schade, na gut; Verb: nehmen; Nouns: das Eis, das Stück, der Kuchen, die Sahne"
+    },
+    {
+      "id": 7,
+      "german": "Zum Abendessen isst unser Team besonders gern Fisch mit Nudeln und Soße.",
+      "english": "For dinner our team especially likes to eat fish with pasta and sauce.",
+      "level": "complex",
+      "note": "Noun phrase: das Abendessen; Pronoun: unser; Adverb: besonders; Verb: essen (isst); Nouns: der Fisch, die Nudel, die Soße"
+    },
+    {
+      "id": 8,
+      "german": "Als Nachtisch möchte ich zwei Kugeln Eis mit Erdbeeren — perfekt!",
+      "english": "For dessert I would like two scoops of ice cream with strawberries — perfect!",
+      "level": "medium",
+      "note": "Verb: möchten; Nouns: der Nachtisch, die Kugel, das Eis, die Erdbeere; Adjective as exclamation: perfekt"
+    },
+    {
+      "id": 9,
+      "german": "Das Müsli mit Milch und frischen Äpfeln ist fit und lecker.",
+      "english": "The muesli with milk and fresh apples is healthy and tasty.",
+      "level": "medium",
+      "note": "Nouns: das Müsli, die Milch, der Apfel (plural Äpfel); Adjectives: fit, lecker"
+    },
+    {
+      "id": 10,
+      "german": "Ich mag die Speisekarte hier — besonders der Fisch und das Dessert sind sehr lecker.",
+      "english": "I like the menu here — especially the fish and the dessert are very tasty.",
+      "level": "complex",
+      "note": "Verb: mögen (mag); Nouns: die Speisekarte, der Fisch, das Dessert; Adjective: lecker; Adverb: besonders"
+    },
+    {
+      "id": 11,
+      "german": "Magst du Schokoladenkuchen? — Ja, ich mag ihn sehr gern, er ist prima!",
+      "english": "Do you like chocolate cake? — Yes, I like it very much, it's great!",
+      "level": "medium",
+      "note": "Verb: mögen (magst / mag); Noun: der Schokoladenkuchen; Adjective: prima"
+    },
+    {
+      "id": 12,
+      "german": "Wünschen Sie uns einen guten Appetit! Hier bitte — Ihr Hauptgericht.",
+      "english": "Wish us a good appetite! There you are — your main course.",
+      "level": "medium",
+      "note": "Verb: wünschen; Phrase: hier bitte; Noun: das Hauptgericht; Phrase: Guten Appetit implied"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Hamburger ist lecker. (the)",
+      "solution": "Der",
+      "explanation": "der Hamburger — masculine. Must memorize."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Brötchen ist frisch. (the)",
+      "solution": "Das",
+      "explanation": "das Brötchen — neuter. -chen ending → always das."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ Hamburger sehr gern. (mögen)",
+      "solution": "mag",
+      "explanation": "mögen → ich mag. Stem vowel ö→a in ich form."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Essen ist sehr ___. (tasty)",
+      "solution": "lecker",
+      "explanation": "lecker = tasty/delicious. Predicative adjective — no inflection."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Frühstück essen wir Brötchen. (for breakfast)",
+      "solution": "Zum",
+      "explanation": "zum Frühstück = for breakfast. zum = zu + dem (dative)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Kellner sagt: '___!' (enjoy your meal)",
+      "solution": "Guten Appetit",
+      "explanation": "Guten Appetit! is a fixed phrase. Always accusative: guten."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ einen Apfelsaft. (trinken — er)",
+      "solution": "trinkt",
+      "explanation": "trinken → er trinkt. Regular -t ending."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___, das Eis ist heute aus. (what a pity)",
+      "solution": "Schade",
+      "explanation": "Schade = what a pity. Invariable interjection."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Was ___ du gern essen? (möchten — du)",
+      "solution": "möchtest",
+      "explanation": "möchten → du möchtest. Polite modal verb."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___ die Suppe als Vorspeise. (nehmen — ich)",
+      "solution": "nehme",
+      "explanation": "nehmen → ich nehme. Regular -e ending; no stem change in ich form."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Restaurant ist ___! (great — informal)",
+      "solution": "prima",
+      "explanation": "prima = great. Indeclinable — never changes form."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___, ich nehme dann den Salat. (all right then)",
+      "solution": "Na gut",
+      "explanation": "na gut = all right then. Expresses reluctant agreement."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Speisekarte liegt ___ ___. (on the table)",
+      "solution": "auf dem Tisch",
+      "explanation": "auf + Dativ for location. der Tisch → dem Tisch."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich mag Erdbeeren ___ gern. (especially)",
+      "solution": "besonders",
+      "explanation": "besonders = especially. Invariable adverb before 'gern'."
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Frühstück ist prima. (our — das Frühstück)",
+      "solution": "Unser",
+      "explanation": "unser + das Frühstück (neuter nominative) → Unser."
+    },
+    {
+      "id": 16,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Als Vorspeise ___ ich ___ Tomatensalat, bitte. (nehmen / the — accusative)",
+      "solution": "nehme / den",
+      "explanation": "nehmen → ich nehme; der Tomatensalat → accusative: den."
+    },
+    {
+      "id": 17,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Zum Abendessen ___ er Huhn mit Reis ___ und trinkt Orangensaft. (essen / especially)",
+      "solution": "isst / besonders",
+      "explanation": "essen → er isst (e→i); besonders = especially, here modifying the adverb 'gern' (implied)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Suppe ist sehr lecker.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Die",
+      "explanation": "die Suppe — feminine. Must memorize."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr schnell. (essen)",
+      "options": ["isst", "esst", "essen"],
+      "solution": "isst",
+      "explanation": "essen → du isst. Stem vowel e→i in du form."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Würstchen ist frisch.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "das Würstchen — -chen ending → always neuter."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich möchte ___ Tomatensalat als Vorspeise.",
+      "options": ["den", "die", "das"],
+      "solution": "den",
+      "explanation": "der Tomatensalat — masculine. Accusative: den."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat Fisch mit Kartoffeln ___.",
+      "options": ["gegessen", "geessen", "geesst"],
+      "solution": "gegessen",
+      "explanation": "essen → Partizip II: gegessen (strong verb, irregular)."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Essen ist ___!",
+      "options": ["perfekt", "perfect", "perfekts"],
+      "solution": "perfekt",
+      "explanation": "German spelling: perfekt with 'k'."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir haben Orangensaft ___.",
+      "options": ["getrunken", "getrunkt", "trinkt"],
+      "solution": "getrunken",
+      "explanation": "trinken → Partizip II: getrunken (strong verb)."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ gern Schokolade. (mögen)",
+      "options": ["mag", "magst", "mögen"],
+      "solution": "mag",
+      "explanation": "mögen → er mag. Stem vowel ö→a in er form."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "For breakfast I drink milk and eat a bread roll.",
+      "solution": "Zum Frühstück trinke ich Milch und esse ein Brötchen.",
+      "explanation": "zum Frühstück; trinken → ich trinke; essen → ich esse; ein Brötchen (neuter)."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What would you (formal) like to eat?",
+      "solution": "Was möchten Sie essen?",
+      "explanation": "möchten → Sie möchten; essen as infinitive after modal."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The tomato salad is especially tasty.",
+      "solution": "Der Tomatensalat ist besonders lecker.",
+      "explanation": "der Tomatensalat (masculine nominative); besonders lecker."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "What a pity — no ice cream today. All right then, I'll have a piece of cake.",
+      "solution": "Schade — heute kein Eis. Na gut, ich nehme ein Stück Kuchen.",
+      "explanation": "Schade; na gut; nehmen → ich nehme; ein Stück Kuchen."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Our guests ate chicken with potatoes and drank apple juice.",
+      "solution": "Unsere Gäste haben Huhn mit Kartoffeln gegessen und Apfelsaft getrunken.",
+      "explanation": "unsere Gäste (plural nominative); essen → haben gegessen; trinken → haben getrunken."
+    },
+    {
+      "id": 31,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "There you are — enjoy your meal!",
+      "solution": "Hier bitte — Guten Appetit!",
+      "explanation": "hier bitte = there you are; Guten Appetit! always accusative."
+    },
+    {
+      "id": 32,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "As a main course I would like fish with sauce — perfect!",
+      "solution": "Als Hauptgericht möchte ich Fisch mit Soße — perfekt!",
+      "explanation": "möchten → ich möchte; das Hauptgericht; der Fisch; die Soße; perfekt as exclamation."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Hamburger ist groß.",
+      "solution": "Der Hamburger ist groß.",
+      "explanation": "der Hamburger — masculine. Article must be Der."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du esst jeden Tag Salat.",
+      "solution": "Du isst jeden Tag Salat.",
+      "explanation": "essen → du isst. Stem vowel change e→i in du form."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Kellner sagt 'Guter Appetit!'",
+      "solution": "Der Kellner sagt 'Guten Appetit!'",
+      "explanation": "Guten Appetit! is fixed in accusative: guten (not guter)."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich möchte die Suppe nehmen und dann ein Dessert essen möchte.",
+      "solution": "Ich möchte die Suppe nehmen und dann ein Dessert essen.",
+      "explanation": "Modal verb (möchte) appears once in second position; infinitives (nehmen, essen) go to the end. No repeated 'möchte'."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Brötchen ist frisch und leckere.",
+      "solution": "Das Brötchen ist frisch und lecker.",
+      "explanation": "Two errors: das Brötchen (neuter, -chen); predicative adjective lecker has no ending."
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben Orangensaft ist getrunken und Suppe gegessen.",
+      "solution": "Wir haben Orangensaft getrunken und Suppe gegessen.",
+      "explanation": "trinken uses haben in Perfekt — not 'ist'. Remove 'ist': wir haben getrunken."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Salz liegt auf der Tisch und unser Brot liegt neben die Butter.",
+      "solution": "Das Salz liegt auf dem Tisch und unser Brot liegt neben der Butter.",
+      "explanation": "auf + dative: dem Tisch (not 'der' which is dative feminine). neben + dative: der Butter (die Butter → dative: der)."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ Fisch gegessen.",
+      "solution": "hat",
+      "explanation": "essen uses haben in Perfekt: er hat gegessen."
+    },
+    {
+      "id": 41,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ Milch getrunken.",
+      "solution": "hat",
+      "explanation": "trinken uses haben in Perfekt: sie hat getrunken."
+    },
+    {
+      "id": 42,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ heute Abend im Restaurant gegessen und Wein getrunken.",
+      "solution": "haben",
+      "explanation": "Both essen and trinken use haben. wir haben gegessen / getrunken."
+    },
+    {
+      "id": 43,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "der Apfel → die ___",
+      "solution": "Äpfel",
+      "explanation": "der Apfel: plural marker '..' = umlaut only → Äpfel."
+    },
+    {
+      "id": 44,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "der Gast → die ___",
+      "solution": "Gäste",
+      "explanation": "der Gast: plural marker '..e' = umlaut + e → Gäste."
+    },
+    {
+      "id": 45,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "die Portion → die ___",
+      "solution": "Portionen",
+      "explanation": "die Portion: plural marker '-en' (-tion ending) → Portionen."
+    }
+  ]
+}

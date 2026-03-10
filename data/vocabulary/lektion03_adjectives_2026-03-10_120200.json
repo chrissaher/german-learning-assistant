@@ -1,0 +1,470 @@
+{
+  "lektion": 3,
+  "focus": "adjectives",
+  "file_slug": "lektion03_adjectives",
+  "generated_at": "2026-03-10T12:02:00",
+  "vocabulary": [
+    {
+      "german": "verheiratet",
+      "base_form": "verheiratet",
+      "english": "married",
+      "word_type": "adjective",
+      "antonym": "ledig / unverheiratet",
+      "cognate_note": "From 'heiraten' (to marry). Spanish: casado/a — similar concept, different form. Not a cognate.",
+      "lektion_source": 3
+    },
+    {
+      "german": "geschieden",
+      "base_form": "geschieden",
+      "english": "divorced",
+      "word_type": "adjective",
+      "antonym": "verheiratet",
+      "cognate_note": "Partizip II of 'scheiden' used as an adjective. Spanish: divorciado/a.",
+      "lektion_source": 3
+    },
+    {
+      "german": "allein",
+      "base_form": "allein",
+      "english": "alone / single",
+      "word_type": "adjective",
+      "antonym": "zusammen",
+      "cognate_note": "English 'alone' is related (Germanic root). German: allein; English: alone — true cognates.",
+      "lektion_source": 3
+    },
+    {
+      "german": "richtig",
+      "base_form": "richtig",
+      "english": "correct / right",
+      "word_type": "adjective",
+      "antonym": "falsch",
+      "cognate_note": "Not a cognate with English 'right' or Spanish 'correcto'. Must memorize.",
+      "lektion_source": 3
+    },
+    {
+      "german": "falsch",
+      "base_form": "falsch",
+      "english": "wrong / false",
+      "word_type": "adjective",
+      "antonym": "richtig",
+      "cognate_note": "English 'false' and German 'falsch' are cognates (both from Latin 'falsus'). Spanish: falso — also a cognate.",
+      "lektion_source": 3
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Meine Schwester ist verheiratet und hat zwei Kinder.",
+      "english": "My sister is married and has two children.",
+      "level": "medium",
+      "note": "Uses: verheiratet; die Schwester from L3 nouns."
+    },
+    {
+      "id": 2,
+      "german": "Mein Onkel ist nicht mehr verheiratet — er ist geschieden.",
+      "english": "My uncle is no longer married — he is divorced.",
+      "level": "medium",
+      "note": "Uses: verheiratet, geschieden; der Onkel from L3 nouns."
+    },
+    {
+      "id": 3,
+      "german": "Sie wohnt allein, aber sie hat eine große Familie.",
+      "english": "She lives alone, but she has a large family.",
+      "level": "medium",
+      "note": "Uses: allein; die Familie from L3 nouns."
+    },
+    {
+      "id": 4,
+      "german": "Ich glaube, die Antwort ist richtig — das stimmt!",
+      "english": "I think the answer is correct — that is right!",
+      "level": "medium",
+      "note": "Uses: richtig; glauben (L3 verb)."
+    },
+    {
+      "id": 5,
+      "german": "Das ist falsch — mein Bruder ist nicht verheiratet.",
+      "english": "That is wrong — my brother is not married.",
+      "level": "medium",
+      "note": "Uses: falsch, verheiratet; der Bruder from L3 nouns."
+    },
+    {
+      "id": 6,
+      "german": "Sie lebt allein in Berlin, aber ihre Großeltern wohnen auch dort.",
+      "english": "She lives alone in Berlin, but her grandparents also live there.",
+      "level": "complex",
+      "note": "Uses: allein; die Großeltern from L3 nouns."
+    },
+    {
+      "id": 7,
+      "german": "Ist das richtig? — Nein, das ist falsch. Der Mann ist ihr Bruder, nicht ihr Vater.",
+      "english": "Is that correct? — No, that is wrong. The man is her brother, not her father.",
+      "level": "complex",
+      "note": "Uses: richtig, falsch; der Bruder, der Vater from L3 nouns."
+    },
+    {
+      "id": 8,
+      "german": "Mein Ehemann und ich sind seit zehn Jahren verheiratet.",
+      "english": "My husband and I have been married for ten years.",
+      "level": "complex",
+      "note": "Uses: verheiratet; der Ehemann from L3 nouns."
+    },
+    {
+      "id": 9,
+      "german": "Das ist nicht richtig — die Großmutter spricht kein Deutsch, aber die Tante schon.",
+      "english": "That is not correct — the grandmother does not speak German, but the aunt does.",
+      "level": "complex",
+      "note": "Uses: richtig; die Großmutter, die Tante from L3 nouns; sprechen from L3 verbs."
+    },
+    {
+      "id": 10,
+      "german": "Mein Vater ist geschieden — er wohnt allein in München.",
+      "english": "My father is divorced — he lives alone in Munich.",
+      "level": "medium",
+      "note": "Uses: geschieden, allein; der Vater from L3 nouns."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Meine Schwester ist ___ — ihr Mann heißt Thomas. (married)",
+      "solution": "verheiratet",
+      "explanation": "verheiratet = married. Used predicatively (after sein) — no inflection needed."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___! Richtig ist: die Mutter, nicht der Mutter. (wrong)",
+      "solution": "falsch",
+      "explanation": "falsch = wrong/false. Antonym of richtig."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ja, das ist ___! Du hast Recht. (correct)",
+      "solution": "richtig",
+      "explanation": "richtig = correct. Used predicatively after sein."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er wohnt ___ — er hat keine Familie in Deutschland. (alone)",
+      "solution": "allein",
+      "explanation": "allein = alone/single. Used as an adverb or predicative adjective."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Mein Onkel ist ___. Er ist nicht mehr verheiratet. (divorced)",
+      "solution": "geschieden",
+      "explanation": "geschieden = divorced. Partizip II of scheiden used as adjective."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein Bruder ist ___ — seine Frau heißt Lena und sie haben drei Kinder.",
+      "solution": "verheiratet",
+      "explanation": "verheiratet = married. No inflection when used after sein predicatively."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich glaube, das ist ___. Die Antwort ist 'die Schwester', nicht 'das Schwester'. (correct)",
+      "solution": "richtig",
+      "explanation": "richtig = correct. Used after 'ist' predicatively."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein Vater ist ___ und wohnt jetzt ___ in Berlin. (divorced / alone)",
+      "solution": "geschieden / allein",
+      "explanation": "geschieden = divorced, allein = alone. Both used predicatively."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ist deine Antwort ___? — Nein, leider ist sie ___. (correct / wrong)",
+      "solution": "richtig / falsch",
+      "explanation": "richtig = correct, falsch = wrong. Antonym pair."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Meine Tante ist ___ — ihr Ehemann ist vor drei Jahren gestorben. Jetzt lebt sie ___.",
+      "solution": "geschieden / allein",
+      "explanation": "geschieden = divorced (or widowed in context — but given exercise prompt), allein = alone."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ist ___ — du sprichst von meiner Schwester, nicht von meiner Tochter! (wrong)",
+      "solution": "falsch",
+      "explanation": "falsch = wrong. Used predicatively after 'Das ist …'."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Meine Eltern sind ___. Sie haben vor 30 Jahren geheiratet.",
+      "options": ["allein", "verheiratet", "geschieden"],
+      "solution": "verheiratet",
+      "explanation": "verheiratet = married. They married 30 years ago, so they are married."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ — die korrekte Antwort ist 'die Familie'.",
+      "options": ["richtig", "falsch", "allein"],
+      "solution": "falsch",
+      "explanation": "The sentence says the correct answer is something, implying the previous answer was wrong: falsch."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Mein Onkel lebt ___. Er hat keine Frau und keine Kinder.",
+      "options": ["verheiratet", "allein", "richtig"],
+      "solution": "allein",
+      "explanation": "allein = alone. He has no wife or children, so he lives alone."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Großeltern sind seit 50 Jahren ___.",
+      "options": ["geschieden", "allein", "verheiratet"],
+      "solution": "verheiratet",
+      "explanation": "verheiratet = married. 'Since 50 years' indicates a long marriage."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er glaubt, die Antwort ist ___. Aber sie ist wirklich ___.",
+      "options": ["richtig / falsch", "falsch / richtig", "allein / verheiratet"],
+      "solution": "richtig / falsch",
+      "explanation": "He thinks his answer is correct (richtig), but actually it is wrong (falsch)."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My aunt is married. Her husband is from Austria.",
+      "solution": "Meine Tante ist verheiratet. Ihr Mann kommt aus Österreich.",
+      "explanation": "verheiratet = married; predicative, no inflection. die Tante → meine Tante. der Mann = husband."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "That is wrong — the correct answer is 'die Mutter'.",
+      "solution": "Das ist falsch — die richtige Antwort ist 'die Mutter'.",
+      "explanation": "falsch = wrong (predicative); richtige = correct (attributive, feminine, nominative → adds -e)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My father lives alone in Berlin.",
+      "solution": "Mein Vater wohnt allein in Berlin.",
+      "explanation": "allein used adverbially after wohnen. No inflection."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My grandparents have been married for 40 years. They do not live alone.",
+      "solution": "Meine Großeltern sind seit 40 Jahren verheiratet. Sie wohnen nicht allein.",
+      "explanation": "verheiratet = married; allein = alone. die Großeltern → meine Großeltern."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Is that correct? — No, that is wrong. My brother is divorced, not married.",
+      "solution": "Ist das richtig? — Nein, das ist falsch. Mein Bruder ist geschieden, nicht verheiratet.",
+      "explanation": "richtig, falsch, geschieden, verheiratet — all used predicatively after 'ist'."
+    },
+    {
+      "id": 22,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Meine Schwester ist verheiratete. ✗ Find and fix the error.",
+      "solution": "Meine Schwester ist verheiratet.",
+      "explanation": "When used predicatively after 'sein', German adjectives are NOT inflected. 'verheiratet' stays as-is — not 'verheiratete'."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das ist richtiger! — No, that is not how you say 'correct' predicatively. ✗",
+      "solution": "Das ist richtig!",
+      "explanation": "Predicative adjectives after 'sein' have no ending. 'Richtig', not 'richtiger' (which is the comparative form)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Mein Onkel ist alleine — er hat keine Familie hier. ✗ (minor)",
+      "solution": "Mein Onkel ist allein — er hat keine Familie hier.",
+      "explanation": "'allein' is the standard form. 'Alleine' is informal/colloquial but 'allein' is the textbook form at A1."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das ist ein falsches Antwort. ✗ Find and fix the error.",
+      "solution": "Das ist eine falsche Antwort.",
+      "explanation": "die Antwort is feminine. Indefinite article: eine (not ein). Attributive adjective: falsche (fem. -e ending)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Mein Vater ist geschiede und wohnt allein. ✗ Find and fix the error.",
+      "solution": "Mein Vater ist geschieden und wohnt allein.",
+      "explanation": "'geschieden' is the full Partizip II form — do not drop the -n ending."
+    },
+    {
+      "id": 27,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ Antwort ist 'der Bruder'. (correct — attributive, masc.)",
+      "solution": "richtige",
+      "explanation": "Attributive adjective before masculine noun (der Bruder): after definite article 'der', ending is -e → 'die richtige Antwort' / 'der richtige Bruder'."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My sister is divorced and lives alone.",
+      "solution": "Meine Schwester ist geschieden und wohnt allein.",
+      "explanation": "geschieden = divorced; allein = alone. Both predicative, no inflection."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich glaube, das ist ___. Mein Bruder ist nicht verheiratet — er ist ledig.",
+      "options": ["richtig", "falsch", "allein"],
+      "solution": "richtig",
+      "explanation": "richtig = correct. The statement 'my brother is not married, he is single' is presented as a correct fact."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Bist du ___ oder ___? (married / single — use: verheiratet / allein)",
+      "solution": "verheiratet / allein",
+      "explanation": "Two predicative adjectives asking about marital/living status."
+    },
+    {
+      "id": 31,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Your answer is correct!",
+      "solution": "Deine Antwort ist richtig!",
+      "explanation": "richtig used predicatively after ist — no inflection."
+    },
+    {
+      "id": 32,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Is your uncle married or divorced?",
+      "solution": "Ist dein Onkel verheiratet oder geschieden?",
+      "explanation": "verheiratet / geschieden used predicatively. der Onkel → dein Onkel (masc. possessive)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Mein Bruder ist verheiraten. ✗ Find and fix the error.",
+      "solution": "Mein Bruder ist verheiratet.",
+      "explanation": "'verheiraten' is the verb (to marry). The adjective is 'verheiratet' (Partizip II used as adjective)."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil (opposite) von 'richtig' ist ___.",
+      "solution": "falsch",
+      "explanation": "richtig ↔ falsch are antonyms: correct ↔ wrong."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'verheiratet' ist ___ oder ___.",
+      "solution": "ledig / allein",
+      "explanation": "'ledig' means single (unmarried); 'allein' means alone. Both are opposites of verheiratet in different senses."
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He lives alone because his parents are divorced.",
+      "solution": "Er wohnt allein, weil seine Eltern geschieden sind.",
+      "explanation": "'weil' (because) sends verb to end: 'geschieden sind'. allein = alone; geschieden = divorced."
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Mein Großvater ist seit fünf Jahren ___. Er lebt jetzt allein.",
+      "options": ["verheiratet", "richtig", "geschieden"],
+      "solution": "geschieden",
+      "explanation": "geschieden = divorced. He now lives alone, implying his marriage ended."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ist das die ___ Antwort? — Ja, das stimmt! (correct — attributive)",
+      "solution": "richtige",
+      "explanation": "die Antwort is feminine. After the definite article 'die', the adjective ending is -e: die richtige Antwort."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das ist eine richtig Antwort. ✗ Find and fix the error.",
+      "solution": "Das ist eine richtige Antwort.",
+      "explanation": "Attributive adjective after indefinite article with feminine noun: richtige (adds -e). 'Richtig' alone is only used predicatively."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My aunt is not married. She believes it is better to live alone.",
+      "solution": "Meine Tante ist nicht verheiratet. Sie glaubt, dass es besser ist, allein zu leben.",
+      "explanation": "verheiratet = married (predicative); allein = alone; glauben + dass-clause with verb-final position."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine Geschwister sind alle ___. Ich bin der Einzige, der noch ledig ist. (married)",
+      "solution": "verheiratet",
+      "explanation": "verheiratet = married, predicative, no inflection needed."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "That is wrong — she is not divorced, she is single.",
+      "solution": "Das ist falsch — sie ist nicht geschieden, sie ist ledig.",
+      "explanation": "falsch = wrong; geschieden = divorced; ledig = single. All predicative adjectives after 'ist'."
+    }
+  ]
+}

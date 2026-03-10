@@ -1,0 +1,658 @@
+{
+  "lektion": 7,
+  "focus": "nouns",
+  "file_slug": "lektion07_nouns",
+  "generated_at": "2026-03-10T01:22:54",
+  "vocabulary": [
+    {
+      "german": "die Minute",
+      "base_form": "Minute",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Minuten",
+      "english": "minute",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Hobby",
+      "base_form": "Hobby",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Hobbys",
+      "english": "hobby",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "der DJ",
+      "base_form": "DJ",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "DJs",
+      "english": "DJ",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Kickboxen",
+      "base_form": "Kickboxen",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "kick-boxing",
+      "word_type": "noun",
+      "pattern_hint": "Infinitive as noun → always das (neuter)",
+      "pattern_reliability": "high",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Seniorenheim",
+      "base_form": "Seniorenheim",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Seniorenheime",
+      "english": "old people's home",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "die Versicherung",
+      "base_form": "Versicherung",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Versicherungen",
+      "english": "insurance",
+      "word_type": "noun",
+      "pattern_hint": "-ung ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 7
+    },
+    {
+      "german": "die Freizeit",
+      "base_form": "Freizeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "leisure time, free time",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Klub",
+      "base_form": "Klub",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Klubs",
+      "english": "club",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Konzert",
+      "base_form": "Konzert",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Konzerte",
+      "english": "concert",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "die Fitness",
+      "base_form": "Fitness",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "fitness",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Studio",
+      "base_form": "Studio",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Studios",
+      "english": "studio, centre",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Fitnessstudio",
+      "base_form": "Fitnessstudio",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Fitnessstudios",
+      "english": "gym, fitness centre",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Freund",
+      "base_form": "Freund",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Freunde",
+      "english": "friend (male) / boyfriend",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "die Freundin",
+      "base_form": "Freundin",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-nen",
+      "plural_full": "Freundinnen",
+      "english": "friend (female) / girlfriend",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Ausflug",
+      "base_form": "Ausflug",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Ausflüge",
+      "english": "trip, excursion",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Radio",
+      "base_form": "Radio",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Radios",
+      "english": "radio",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Internet",
+      "base_form": "Internet",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "internet",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Spaß",
+      "base_form": "Spaß",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "fun",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "In meiner Freizeit gehe ich ins Fitnessstudio.",
+      "english": "In my free time I go to the gym.",
+      "level": "medium",
+      "note": "Uses: die Freizeit, das Fitnessstudio; ins = in + das"
+    },
+    {
+      "id": 2,
+      "german": "Mein Hobby ist Fotografieren — das macht wirklich viel Spaß.",
+      "english": "My hobby is photography — it is really a lot of fun.",
+      "level": "complex",
+      "note": "Uses: das Hobby, der Spaß; infinitive as noun (das Fotografieren)"
+    },
+    {
+      "id": 3,
+      "german": "Am Wochenende machen wir einen Ausflug ins Konzert.",
+      "english": "At the weekend we go on a trip to a concert.",
+      "level": "medium",
+      "note": "Uses: der Ausflug, das Konzert; am Wochenende from Lektion 8"
+    },
+    {
+      "id": 4,
+      "german": "Der DJ spielt tolle Musik und alle tanzen im Klub.",
+      "english": "The DJ plays great music and everyone dances in the club.",
+      "level": "complex",
+      "note": "Uses: der DJ, der Klub; alle from Lektion 7"
+    },
+    {
+      "id": 5,
+      "german": "Ich höre das Radio immer beim Kochen.",
+      "english": "I always listen to the radio while cooking.",
+      "level": "medium",
+      "note": "Uses: das Radio; immer from Lektion 7"
+    },
+    {
+      "id": 6,
+      "german": "Meine Freundin hat eine Versicherung für ihr Auto.",
+      "english": "My (female) friend has insurance for her car.",
+      "level": "complex",
+      "note": "Uses: die Freundin, die Versicherung; -ung ending always feminine"
+    },
+    {
+      "id": 7,
+      "german": "Das Seniorenheim hat ein Fitnessstudio und ein Studio für Yoga.",
+      "english": "The old people's home has a gym and a studio for yoga.",
+      "level": "complex",
+      "note": "Uses: das Seniorenheim, das Fitnessstudio, das Studio; three neuter borrowed-word nouns"
+    },
+    {
+      "id": 8,
+      "german": "Wir haben nur fünf Minuten Zeit — das Konzert beginnt gleich!",
+      "english": "We only have five minutes — the concert starts right away!",
+      "level": "complex",
+      "note": "Uses: die Minute, das Konzert; plural Minuten; beginnt from earlier vocabulary"
+    },
+    {
+      "id": 9,
+      "german": "Mein Freund geht manchmal in den Klub und hört Musik.",
+      "english": "My friend sometimes goes to the club and listens to music.",
+      "level": "medium",
+      "note": "Uses: der Freund, der Klub; manchmal from Lektion 7"
+    },
+    {
+      "id": 10,
+      "german": "Das Internet macht den Ausflug einfacher — wir suchen alles online.",
+      "english": "The internet makes the trip easier — we find everything online.",
+      "level": "complex",
+      "note": "Uses: das Internet, der Ausflug; online from Lektion 5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Hobby macht Spaß. (neuter article)",
+      "solution": "Das",
+      "explanation": "das Hobby — neuter. Borrowed English word; most loanwords are neuter in German."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe keine ___. (free time — feminine noun, accusative)",
+      "solution": "Freizeit",
+      "explanation": "die Freizeit — feminine, singular only. Must memorize this noun's gender."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Versicherung ist teuer. (feminine article)",
+      "solution": "Die",
+      "explanation": "die Versicherung — feminine. All nouns ending in -ung are feminine — a reliable pattern!"
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er geht ins ___. (fitness centre — neuter noun)",
+      "solution": "Fitnessstudio",
+      "explanation": "das Fitnessstudio — neuter. Borrowed compound word; das Studio → das Fitnessstudio."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "In meiner ___ lese ich viel und höre ___. (free time / radio)",
+      "solution": "Freizeit / Radio",
+      "explanation": "die Freizeit (leisure time) and das Radio (radio) are both core Lektion 7 nouns."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ beginnt um acht Uhr. (concert)",
+      "solution": "Konzert",
+      "explanation": "das Konzert — neuter, plural Konzerte. Must memorize the gender."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein ___ heißt Thomas und wohnt in Berlin. (male friend)",
+      "solution": "Freund",
+      "explanation": "der Freund — masculine. Note: Freund can mean friend or boyfriend depending on context."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir machen morgen einen ___ nach Wien. (trip / excursion)",
+      "solution": "Ausflug",
+      "explanation": "der Ausflug — masculine, plural Ausflüge (umlaut + e). Must memorize."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Kochen macht mir viel ___ — ich koche jeden Tag. (fun)",
+      "solution": "Spaß",
+      "explanation": "der Spaß — masculine, used mainly in singular. Common phrase: Spaß machen = to be fun."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er arbeitet als ___ in einem Tanzklub und legt jedes Wochenende auf. (DJ)",
+      "solution": "DJ",
+      "explanation": "der DJ — masculine, plural DJs. Borrowed abbreviation; gender must be memorized."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Ausflug war sehr schön.",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "a) Der",
+      "explanation": "der Ausflug — masculine. Must memorize; no reliable ending pattern for this noun."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ Hobby von Maria.",
+      "options": ["a) der", "b) das", "c) die"],
+      "solution": "b) das",
+      "explanation": "das Hobby — neuter. Borrowed English word; loanwords are commonly neuter."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir gehen ins ___.",
+      "options": ["a) Fitnessstudio", "b) Fitnessstudium", "c) Fitnessstudios"],
+      "solution": "a) Fitnessstudio",
+      "explanation": "das Fitnessstudio — neuter singular. Fitnessstudium does not exist; Fitnessstudios is the plural form."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Meine ___ kommt aus Spanien.",
+      "options": ["a) Freund", "b) Freundin", "c) Freunde"],
+      "solution": "b) Freundin",
+      "explanation": "die Freundin — feminine form for a female friend. Freund is masculine; Freunde is the plural."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die ___ dauert fünf Minuten.",
+      "options": ["a) Versicherung", "b) Minute", "c) Freizeit"],
+      "solution": "b) Minute",
+      "explanation": "die Minute — duration is expressed with Minute/Minuten. Versicherung means insurance; Freizeit means free time."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "In meiner Freizeit gehe ich in ___ Klub.",
+      "options": ["a) dem", "b) das", "c) den"],
+      "solution": "c) den",
+      "explanation": "der Klub — masculine; after in + direction/movement, accusative is used: in den Klub (into the club)."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My hobby is swimming. (use: das Hobby / schwimmen)",
+      "solution": "Mein Hobby ist Schwimmen.",
+      "explanation": "das Hobby (neuter) → mein Hobby. Schwimmen used as infinitive noun (capitalized, neuter)."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The concert is great! (use: das Konzert / toll)",
+      "solution": "Das Konzert ist toll!",
+      "explanation": "das Konzert — neuter, nominative: Das Konzert. Toll is an adjective from Lektion 7."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We go on a trip every weekend. (use: der Ausflug / Wochenende)",
+      "solution": "Wir machen jedes Wochenende einen Ausflug.",
+      "explanation": "der Ausflug — masculine accusative: einen Ausflug. Machen + Ausflug = to go on a trip."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "In my free time I listen to the radio and sometimes go to the club. (use: die Freizeit / das Radio / der Klub)",
+      "solution": "In meiner Freizeit höre ich Radio und gehe manchmal in den Klub.",
+      "explanation": "die Freizeit → in meiner Freizeit (dative). Radio hören (no article needed). in den Klub (accusative, movement)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My girlfriend works at an insurance company and loves the gym. (use: die Freundin / die Versicherung / das Fitnessstudio)",
+      "solution": "Meine Freundin arbeitet bei einer Versicherung und liebt das Fitnessstudio.",
+      "explanation": "die Freundin → meine Freundin (nominative). bei einer Versicherung (dative). das Fitnessstudio (accusative after liebt)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The DJ plays for five minutes and then the concert begins. (use: der DJ / die Minute / das Konzert)",
+      "solution": "Der DJ spielt fünf Minuten und dann beginnt das Konzert.",
+      "explanation": "der DJ (nominative). fünf Minuten (accusative, duration). das Konzert (nominative subject of second clause)."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Ausflug war wunderschön.",
+      "solution": "Der Ausflug war wunderschön.",
+      "explanation": "der Ausflug — masculine. Wrong article: die (feminine) should be der (masculine)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Versicherung ist sehr teuer.",
+      "solution": "Die Versicherung ist sehr teuer.",
+      "explanation": "die Versicherung — feminine (-ung ending always gives die). Wrong article: das should be die."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er geht ins Fitnessstudium jeden Tag.",
+      "solution": "Er geht jeden Tag ins Fitnessstudio.",
+      "explanation": "Two errors: 'Fitnessstudium' does not exist (correct: Fitnessstudio); word order: time adverb 'jeden Tag' before verb is possible but 'ins Fitnessstudio jeden Tag' is wrong — adverb should follow the verb or come at sentence start."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Konzerte war toll!",
+      "solution": "Das Konzert war toll!",
+      "explanation": "das Konzert — neuter singular. Konzerte is the plural form; here it should be singular to match Das."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Mein Freundin kommt um acht Uhr in den Klub.",
+      "solution": "Meine Freundin kommt um acht Uhr in den Klub.",
+      "explanation": "die Freundin — feminine. Possessive adjective mein must agree: mein → meine before a feminine nominative noun."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "In meiner Freizeit höre ich das Radio und gehe in die Klub.",
+      "solution": "In meiner Freizeit höre ich Radio und gehe in den Klub.",
+      "explanation": "Radio hören does not take an article in German. der Klub is masculine: in den Klub (accusative, not die)."
+    },
+    {
+      "id": 29,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural form: die Minute",
+      "solution": "die Minuten",
+      "explanation": "die Minute adds -n in the plural: Minute → Minuten. Plural article is always die."
+    },
+    {
+      "id": 30,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural form: der Ausflug",
+      "solution": "die Ausflüge",
+      "explanation": "der Ausflug adds umlaut + e: Ausflug → Ausflüge. The u gets an umlaut (ü). Plural article is die."
+    },
+    {
+      "id": 31,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural form: das Konzert",
+      "solution": "die Konzerte",
+      "explanation": "das Konzert adds -e: Konzert → Konzerte. No umlaut. Plural article is die."
+    },
+    {
+      "id": 32,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural form: das Hobby",
+      "solution": "die Hobbys",
+      "explanation": "das Hobby adds -s: Hobby → Hobbys. English loanwords often take -s in the plural."
+    },
+    {
+      "id": 33,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural form: der Freund",
+      "solution": "die Freunde",
+      "explanation": "der Freund adds -e: Freund → Freunde. Common masculine pattern with -e plural ending."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural form: die Freundin",
+      "solution": "die Freundinnen",
+      "explanation": "die Freundin adds -nen: Freundin → Freundinnen. Standard feminine -in suffix doubles n in plural."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural form: das Fitnessstudio",
+      "solution": "die Fitnessstudios",
+      "explanation": "das Fitnessstudio adds -s: Fitnessstudio → Fitnessstudios. Borrowed words ending in a vowel typically take -s."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural form: die Versicherung",
+      "solution": "die Versicherungen",
+      "explanation": "die Versicherung adds -en: Versicherung → Versicherungen. All -ung nouns form plural with -en."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural form: das Seniorenheim",
+      "solution": "die Seniorenheime",
+      "explanation": "das Seniorenheim adds -e: Seniorenheim → Seniorenheime. Compound noun; plural follows the base word Heim."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural form: der Klub",
+      "solution": "die Klubs",
+      "explanation": "der Klub adds -s: Klub → Klubs. Borrowed word ending in a consonant; takes -s plural."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich surfe im ___ und finde Informationen für unseren nächsten ___. (internet / trip)",
+      "solution": "Internet / Ausflug",
+      "explanation": "das Internet (neuter, im = in + dem, dative of location). der Ausflug (masculine accusative after für)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Kickboxen und das Yoga sind seine ___. (hobbies — plural)",
+      "solution": "Hobbys",
+      "explanation": "das Hobby → plural Hobbys (-s ending for English loanwords). Used here as predicate nominative."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have no free time today. (use: die Freizeit)",
+      "solution": "Ich habe heute keine Freizeit.",
+      "explanation": "keine + noun (accusative, negation). die Freizeit — singular only (Sg.)."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Radio macht viel Spaß, aber das Konzerte war langweilig.",
+      "solution": "Das Radio macht viel Spaß, aber das Konzert war langweilig.",
+      "explanation": "das Konzert is singular here; Konzerte is the plural. The sentence refers to one specific concert."
+    }
+  ]
+}

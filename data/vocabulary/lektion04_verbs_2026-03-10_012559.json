@@ -1,0 +1,508 @@
+{
+  "lektion": 4,
+  "focus": "verbs",
+  "file_slug": "lektion04_verbs",
+  "generated_at": "2026-03-10T01:25:59",
+  "vocabulary": [
+    {
+      "german": "kosten",
+      "base_form": "kosten",
+      "english": "to cost",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "koste",
+        "du": "kostest",
+        "er/sie/es": "kostet",
+        "wir": "kosten",
+        "ihr": "kostet",
+        "sie/Sie": "kosten"
+      },
+      "perfekt": "hat gekostet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Note: 'kostet' for er/sie/es — same as ihr form (both add -et due to -t stem).",
+      "lektion_source": 4
+    },
+    {
+      "german": "finden",
+      "base_form": "finden",
+      "english": "to find / to think (opinion)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "finde",
+        "du": "findest",
+        "er/sie/es": "findet",
+        "wir": "finden",
+        "ihr": "findet",
+        "sie/Sie": "finden"
+      },
+      "perfekt": "hat gefunden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II 'gefunden' (not 'gefind-t'). In A1 context used for expressing opinions: Ich finde das schön.",
+      "lektion_source": 4
+    },
+    {
+      "german": "schauen",
+      "base_form": "schauen",
+      "english": "to look",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schaue",
+        "du": "schaust",
+        "er/sie/es": "schaut",
+        "wir": "schauen",
+        "ihr": "schaut",
+        "sie/Sie": "schauen"
+      },
+      "perfekt": "hat geschaut",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Common in commands: Schau! (Look!). Often appears with 'mal': Schau mal! (Just look!)",
+      "lektion_source": 4
+    },
+    {
+      "german": "kennen",
+      "base_form": "kennen",
+      "english": "to know (a person/place)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kenne",
+        "du": "kennst",
+        "er/sie/es": "kennt",
+        "wir": "kennen",
+        "ihr": "kennt",
+        "sie/Sie": "kennen"
+      },
+      "perfekt": "hat gekannt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Mixed verb: irregular Partizip II 'gekannt'. Distinguish from 'wissen' (to know facts): kennen = to be familiar with a person/place.",
+      "lektion_source": 4
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Sofa kostet nur 200 Euro – das ist sehr günstig.",
+      "english": "The sofa costs only 200 euros – that is very cheap.",
+      "level": "medium",
+      "note": "Uses: kosten (Lektion 4 verb); das Sofa, der Euro (Lektion 4 nouns); günstig (Lektion 4 adjective)"
+    },
+    {
+      "id": 2,
+      "german": "Ich finde das Bild sehr schön, aber es kostet zu viel.",
+      "english": "I find the picture very nice, but it costs too much.",
+      "level": "medium",
+      "note": "Uses: finden, kosten (Lektion 4 verbs); das Bild (Lektion 4 noun); schön, teuer concept"
+    },
+    {
+      "id": 3,
+      "german": "Schau mal, da! Der Tisch kostet nur 50 Euro.",
+      "english": "Just look over there! The table costs only 50 euros.",
+      "level": "medium",
+      "note": "Uses: schauen (imperative), kosten (Lektion 4 verbs); der Tisch, der Euro (Lektion 4 nouns)"
+    },
+    {
+      "id": 4,
+      "german": "Kennst du dieses Geschäft? Die Möbel sind sehr günstig.",
+      "english": "Do you know this shop? The furniture is very cheap.",
+      "level": "medium",
+      "note": "Uses: kennen (Lektion 4 verb); das Geschäft, die Möbel (Lektion 4 nouns); günstig (Lektion 4 adjective)"
+    },
+    {
+      "id": 5,
+      "german": "Wie viel kostet das Bett? Ich finde den Preis sehr gut.",
+      "english": "How much does the bed cost? I find the price very good.",
+      "level": "medium",
+      "note": "Uses: kosten, finden (Lektion 4 verbs); das Bett, der Preis (Lektion 4 nouns)"
+    },
+    {
+      "id": 6,
+      "german": "Er findet das Hotel sehr schön und kennt den Besitzer persönlich.",
+      "english": "He finds the hotel very nice and knows the owner personally.",
+      "level": "complex",
+      "note": "Uses: finden (er/sie/es: findet), kennen (Lektion 4 verbs); das Hotel (Lektion 4 noun)"
+    },
+    {
+      "id": 7,
+      "german": "Das Sonderangebot hat nur 99 Euro gekostet – ich finde das fantastisch!",
+      "english": "The special offer cost only 99 euros – I find that fantastic!",
+      "level": "complex",
+      "note": "Uses: kosten (Perfekt: hat gekostet), finden (Lektion 4 verbs); das Sonderangebot, der Euro (Lektion 4 nouns)"
+    },
+    {
+      "id": 8,
+      "german": "Schau mal das Regal an! Es kostet wenig und ist sehr praktisch.",
+      "english": "Just look at that shelf! It costs little and is very practical.",
+      "level": "complex",
+      "note": "Uses: schauen, kosten (Lektion 4 verbs); das Regal (Lektion 4 noun); praktisch (Lektion 4 adjective)"
+    },
+    {
+      "id": 9,
+      "german": "Ich kenne diesen Laden – die Möbel kosten hier immer wenig.",
+      "english": "I know this shop – the furniture always costs little here.",
+      "level": "complex",
+      "note": "Uses: kennen, kosten (Lektion 4 verbs); die Möbel (Lektion 4 noun)"
+    },
+    {
+      "id": 10,
+      "german": "Meine Mutter findet die Lampe zu teuer, aber ich finde den Preis günstig.",
+      "english": "My mother finds the lamp too expensive, but I find the price cheap.",
+      "level": "complex",
+      "note": "Uses: finden (two conjugations: findet / finde — Lektion 4 verb); die Lampe, der Preis (Lektion 4 nouns)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Stuhl ___ 45 Euro. (kosten — er/sie/es)",
+      "solution": "kostet",
+      "explanation": "kosten is a regular verb. For er/sie/es, add -et to the stem 'kost-' → kostet."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ das Sofa sehr schön. (finden)",
+      "solution": "finde",
+      "explanation": "finden: ich finde (drop -en, add -e). Used to express an opinion."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ mal, da! Das ist ein Sonderangebot! (schauen — imperative du-form)",
+      "solution": "Schau",
+      "explanation": "Imperative du-form of schauen: drop -en, drop -st → Schau! (= Look!)"
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ dieses Hotel. Es ist sehr schön. (kennen)",
+      "solution": "kenne",
+      "explanation": "kennen: ich kenne. Used for familiarity with a place or person."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie viel ___ die Lampe? (kosten — sie/3rd person sg.)",
+      "solution": "kostet",
+      "explanation": "die Lampe is 3rd person singular (sie/es) → kostet."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ das Geschäft gut – wir kaufen hier immer Möbel. (kennen)",
+      "solution": "kennen",
+      "explanation": "kennen: wir kennen (infinitive form = wir/sie/Sie form). We are familiar with the shop."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du ___ den Tisch sehr günstig, aber ich finde ihn hässlich. (finden)",
+      "solution": "findest",
+      "explanation": "finden: du findest (add -est to stem 'find-'). You find it cheap."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Sofa hat 300 Euro ___. (kosten — Perfekt)",
+      "solution": "gekostet",
+      "explanation": "Perfekt of kosten: hat gekostet (regular: ge- + stem kost- + -et). Auxiliary: haben."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er ___ das Bild sehr schön und möchte es kaufen. (finden — er-form)",
+      "solution": "findet",
+      "explanation": "finden: er findet (add -et to stem 'find-'). Strong verb in Präsens is regular; only Partizip II is irregular."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Stühle ___ zusammen nur 80 Euro. (kosten — sie Pl.)",
+      "solution": "kosten",
+      "explanation": "kosten: sie (Plural) kosten — same as infinitive/wir form."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe das Sonderangebot gut ___. Der Preis war sehr günstig. (finden — Perfekt)",
+      "solution": "gefunden",
+      "explanation": "Perfekt of finden: hat gefunden. Irregular Partizip II — strong verb."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ ihr dieses Geschäft? Hier kosten die Möbel sehr wenig. (kennen — ihr-form)",
+      "solution": "Kennt",
+      "explanation": "kennen: ihr kennt (stem kenn- + -t). Do you (plural) know this shop?"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Bett ___ 150 Euro.",
+      "options": ["koste", "kostet", "kosten"],
+      "solution": "kostet",
+      "explanation": "das Bett is 3rd person singular → er/sie/es form: kostet."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ den Teppich sehr schön.",
+      "options": ["finde", "findet", "findest"],
+      "solution": "finde",
+      "explanation": "ich-form of finden: ich finde (stem find- + -e)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ du das Sofa? Es ist im Sonderangebot!",
+      "options": ["Kennst", "Kennt", "Kenne"],
+      "solution": "Kennst",
+      "explanation": "du-form of kennen: kennst (stem kenn- + -st)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Sofa hat 200 Euro ___.",
+      "options": ["gekostet", "gekosten", "kostet"],
+      "solution": "gekostet",
+      "explanation": "Partizip II of kosten: ge- + kost- + -et = gekostet (regular verb)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir haben das Geschäft gut ___. Die Möbel sind sehr günstig.",
+      "options": ["gefunden", "gefinde", "finden"],
+      "solution": "gefunden",
+      "explanation": "Partizip II of finden: gefunden (strong/irregular verb — must memorize)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ihr ___ das Hotel — ihr wart schon einmal dort.",
+      "options": ["kennen", "kennt", "kenne"],
+      "solution": "kennt",
+      "explanation": "ihr-form of kennen: ihr kennt (stem kenn- + -t)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How much does the chair cost?",
+      "solution": "Wie viel kostet der Stuhl?",
+      "explanation": "Wie viel kostet...? — standard question for price. der Stuhl (masc.) as subject."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I find the wardrobe very ugly.",
+      "solution": "Ich finde den Schrank sehr hässlich.",
+      "explanation": "finden + Akkusativ: den Schrank (masculine, Akkusativ → 'den'). hässlich = ugly."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you (du) know this shop?",
+      "solution": "Kennst du dieses Geschäft?",
+      "explanation": "kennen: du kennst → kennst du (inversion for question). dieses Geschäft (neuter Akkusativ)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Look! The carpet is only 30 euros.",
+      "solution": "Schau! Der Teppich kostet nur 30 Euro.",
+      "explanation": "Imperative of schauen: Schau! kosten: er/sie/es kostet. der Teppich (masc.)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She finds the picture nice but the price is too expensive.",
+      "solution": "Sie findet das Bild schön, aber der Preis ist zu teuer.",
+      "explanation": "finden: sie findet (3rd person sg.). das Bild (Akkusativ, neuter unchanged). zu teuer = too expensive."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The bed cost 200 euros — that was a special offer.",
+      "solution": "Das Bett hat 200 Euro gekostet – das war ein Sonderangebot.",
+      "explanation": "Perfekt: hat gekostet (kosten + haben auxiliary). das Sonderangebot (neut.)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We know this hotel — the rooms are always very nice.",
+      "solution": "Wir kennen dieses Hotel – die Zimmer sind immer sehr schön.",
+      "explanation": "kennen: wir kennen. dieses Hotel (neuter Akkusativ). die Zimmer (pl. of Zimmer)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Sofa kosten 250 Euro.",
+      "solution": "Das Sofa kostet 250 Euro.",
+      "explanation": "das Sofa is 3rd person singular → kostet (not kosten, which is plural/infinitive)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich findet das Bild sehr schön.",
+      "solution": "Ich finde das Bild sehr schön.",
+      "explanation": "ich-form of finden is 'finde', not 'findet' (which is the er/sie/es form)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat das Hotel gut gefinde.",
+      "solution": "Sie hat das Hotel gut gefunden.",
+      "explanation": "Partizip II of finden is 'gefunden' (irregular strong verb), not 'gefinde'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich kenne dieses Geschäft nicht — ich bin hier neu.",
+      "solution": "Correct — no error.",
+      "explanation": "kenne (ich-form of kennen) is correct. The sentence is grammatically sound."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Bett hat 150 Euro gekosten.",
+      "solution": "Das Bett hat 150 Euro gekostet.",
+      "explanation": "Partizip II of kosten is 'gekostet' (regular: ge- + kost- + -et). 'Gekosten' does not exist."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er schaut das Regal an und findet es sehr praktisch.",
+      "solution": "Correct — no error.",
+      "explanation": "schaut (er-form of schauen) and findet (er-form of finden) are both correctly conjugated."
+    },
+    {
+      "id": 32,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Das Sofa ___ 300 Euro gekostet.",
+      "solution": "hat",
+      "explanation": "kosten uses 'haben' as auxiliary in Perfekt. Kosten is a transitive verb of change without movement → hat."
+    },
+    {
+      "id": 33,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ das Bild sehr schön gefunden.",
+      "solution": "hat",
+      "explanation": "finden uses 'haben' as auxiliary in Perfekt. All transitive verbs (taking a direct object) use haben."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ das Geschäft gut gekannt.",
+      "solution": "haben",
+      "explanation": "kennen uses 'haben' as auxiliary in Perfekt. Wir form: wir haben gekannt."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ ins Geschäft geschaut.",
+      "solution": "hat",
+      "explanation": "schauen uses 'haben' as auxiliary in Perfekt. All non-movement/non-change-of-state verbs use haben."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Die Möbel ___ zusammen 500 Euro gekostet.",
+      "solution": "haben",
+      "explanation": "kosten uses 'haben'. Plural subject (die Möbel) → haben (not hat)."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du ___ den Spiegel günstig — nur 20 Euro! (finden — Perfekt)",
+      "solution": "hast … gefunden",
+      "explanation": "Perfekt of finden with du: du hast gefunden. Irregular Partizip II."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie (formal) ___ dieses Hotel, oder? (kennen — Sie formal)",
+      "solution": "kennen",
+      "explanation": "Sie (formal) kennen — same form as infinitive. Polite form matches wir/sie(Pl.)/Sie conjugation."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Just look at the picture! It is so beautiful.",
+      "solution": "Schau mal das Bild an! Es ist so schön.",
+      "explanation": "Schau (imperative), mal (softens the command), schön = beautiful/lovely (key adjective from Lektion 4 title)."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My sister knows the shop — the furniture there is always cheap.",
+      "solution": "Meine Schwester kennt das Geschäft – die Möbel dort sind immer günstig.",
+      "explanation": "kennen: sie (3rd sg.) kennt. das Geschäft (Akkusativ, neut.); die Möbel (pl.); günstig = cheap."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Was ___ das Bett in diesem Hotel? Ich ___ es sehr teuer. (kosten, finden)",
+      "solution": "kostet / finde",
+      "explanation": "kostet (er/sie/es form of kosten); finde (ich form of finden)."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Kennt ihr die Möbel in diesem Geschäft? Sie kosten sehr günstig.",
+      "solution": "Kennt ihr die Möbel in diesem Geschäft? Sie sind sehr günstig. (kosten → sind)",
+      "explanation": "Prices 'cost' (kosten), but adjectives describing them use 'sein'. 'Sie kosten sehr günstig' is incorrect — use 'sind günstig'."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie (she) ___ die Möbel sehr schön. (finden — sie 3rd sg.)",
+      "solution": "findet",
+      "explanation": "finden: sie (3rd person singular) findet. Used to express an opinion."
+    }
+  ]
+}

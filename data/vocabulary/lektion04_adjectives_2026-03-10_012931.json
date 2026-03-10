@@ -1,0 +1,514 @@
+{
+  "lektion": 4,
+  "focus": "adjectives",
+  "file_slug": "lektion04_adjectives",
+  "generated_at": "2026-03-10T01:29:31",
+  "vocabulary": [
+    {
+      "german": "schön",
+      "base_form": "schön",
+      "english": "beautiful / lovely / nice",
+      "word_type": "adjective",
+      "antonym": "hässlich",
+      "cognate_note": "False friend for English speakers: 'schön' does NOT mean 'shown'. Spanish: 'bonito/a' — similar meaning.",
+      "lektion_source": 4
+    },
+    {
+      "german": "teuer",
+      "base_form": "teuer",
+      "english": "expensive",
+      "word_type": "adjective",
+      "antonym": "günstig / billig",
+      "cognate_note": "No direct cognate in English or Spanish. Note: adjective loses the inner 'e' before endings: ein teures Sofa (not teueres).",
+      "lektion_source": 4
+    },
+    {
+      "german": "hässlich",
+      "base_form": "hässlich",
+      "english": "ugly",
+      "word_type": "adjective",
+      "antonym": "schön",
+      "cognate_note": "No direct cognate. The -lich ending is a common German adjective-forming suffix (like English -ly/-ish).",
+      "lektion_source": 4
+    },
+    {
+      "german": "günstig",
+      "base_form": "günstig",
+      "english": "cheap / affordable / favorable",
+      "word_type": "adjective",
+      "antonym": "teuer",
+      "cognate_note": "No direct cognate. More polite than 'billig' (which can imply low quality). The -ig suffix is common in German adjectives.",
+      "lektion_source": 4
+    },
+    {
+      "german": "modern",
+      "base_form": "modern",
+      "english": "modern",
+      "word_type": "adjective",
+      "antonym": "altmodisch",
+      "cognate_note": "True cognate with English 'modern' and Spanish 'moderno'. Easy to recognize!",
+      "lektion_source": 4
+    },
+    {
+      "german": "praktisch",
+      "base_form": "praktisch",
+      "english": "practical / handy",
+      "word_type": "adjective",
+      "antonym": "unpraktisch",
+      "cognate_note": "Cognate with English 'practical' and Spanish 'práctico'. Note: in German also means 'handy/convenient'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "neu",
+      "base_form": "neu",
+      "english": "new",
+      "word_type": "adjective",
+      "antonym": "alt",
+      "cognate_note": "No strong English/Spanish cognate. Compare English 'new' — very different sound. Spanish: 'nuevo/a'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "klein",
+      "base_form": "klein",
+      "english": "small",
+      "word_type": "adjective",
+      "antonym": "groß",
+      "cognate_note": "No direct English/Spanish cognate. Compare 'klein' in names like 'Kleingarten'. Spanish: 'pequeño/a'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "groß",
+      "base_form": "groß",
+      "english": "big / tall",
+      "word_type": "adjective",
+      "antonym": "klein",
+      "cognate_note": "No English cognate. Used for both size (big) and height (tall). Spanish: 'grande'.",
+      "lektion_source": 4
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Sofa ist sehr schön, aber es ist auch sehr teuer.",
+      "english": "The sofa is very beautiful, but it is also very expensive.",
+      "level": "medium",
+      "note": "Uses: schön, teuer (Lektion 4 adjectives) — classic contrast; das Sofa (Lektion 4 noun)"
+    },
+    {
+      "id": 2,
+      "german": "Ich finde den Tisch hässlich, aber meine Frau findet ihn schön.",
+      "english": "I find the table ugly, but my wife finds it beautiful.",
+      "level": "medium",
+      "note": "Uses: hässlich, schön (Lektion 4 adjectives) as antonyms; finden (Lektion 4 verb)"
+    },
+    {
+      "id": 3,
+      "german": "Das Regal ist günstig und sehr praktisch – ich kaufe es!",
+      "english": "The shelf is cheap and very practical – I'll buy it!",
+      "level": "medium",
+      "note": "Uses: günstig, praktisch (Lektion 4 adjectives); das Regal (Lektion 4 noun)"
+    },
+    {
+      "id": 4,
+      "german": "Das Zimmer ist modern und groß – das Hotel hat fünf Sterne.",
+      "english": "The room is modern and big – the hotel has five stars.",
+      "level": "medium",
+      "note": "Uses: modern, groß (Lektion 4 adjectives); das Zimmer, das Hotel, der Stern (Lektion 4 nouns)"
+    },
+    {
+      "id": 5,
+      "german": "Die neue Lampe ist sehr schön, aber leider auch sehr teuer.",
+      "english": "The new lamp is very beautiful, but unfortunately also very expensive.",
+      "level": "medium",
+      "note": "Uses: neu (adjective with article ending: neue), schön, teuer (Lektion 4 adjectives)"
+    },
+    {
+      "id": 6,
+      "german": "Das kleine Zimmer im Hotel ist nicht sehr günstig, aber es ist sauber und modern.",
+      "english": "The small room in the hotel is not very cheap, but it is clean and modern.",
+      "level": "complex",
+      "note": "Uses: klein (das kleine Zimmer — with ending), günstig, modern (Lektion 4 adjectives)"
+    },
+    {
+      "id": 7,
+      "german": "Mein Vater findet das Sofa hässlich, aber es ist sehr praktisch und günstig.",
+      "english": "My father finds the sofa ugly, but it is very practical and cheap.",
+      "level": "complex",
+      "note": "Uses: hässlich, praktisch, günstig (Lektion 4 adjectives); finden (Lektion 4 verb)"
+    },
+    {
+      "id": 8,
+      "german": "Die neuen Möbel sind sehr schön: der große Tisch und die kleinen Stühle.",
+      "english": "The new furniture is very beautiful: the big table and the small chairs.",
+      "level": "complex",
+      "note": "Uses: neu (pl. ending: neuen), schön, groß (with ending: große), klein (pl. ending: kleinen) — adjective endings with articles"
+    },
+    {
+      "id": 9,
+      "german": "Das Geschäft hat ein Sonderangebot: ein großes Sofa für einen günstigen Preis!",
+      "english": "The shop has a special offer: a big sofa for a cheap price!",
+      "level": "complex",
+      "note": "Uses: groß (with ending: großes), günstig (with ending: günstigen) — adjective declension in Akkusativ"
+    },
+    {
+      "id": 10,
+      "german": "Das Hotel ist teuer, aber das Zimmer ist groß, modern und sehr schön.",
+      "english": "The hotel is expensive, but the room is big, modern and very beautiful.",
+      "level": "complex",
+      "note": "Uses: teuer, groß, modern, schön (four Lektion 4 adjectives in one sentence); das Hotel, das Zimmer (Lektion 4 nouns)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Sofa ist sehr ___. (beautiful)",
+      "solution": "schön",
+      "explanation": "schön = beautiful/lovely/nice. Key adjective from the Lektion 4 title: 'Das Bild ist so schön.'"
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Bett ist sehr ___. Ich kaufe es nicht. (expensive)",
+      "solution": "teuer",
+      "explanation": "teuer = expensive. Opposite of günstig. Must memorize — no English/Spanish cognate."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich finde den Teppich ___. Er ist nicht schön. (ugly)",
+      "solution": "hässlich",
+      "explanation": "hässlich = ugly. Direct antonym of schön."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Regal kostet nur 20 Euro. Es ist sehr ___. (cheap/affordable)",
+      "solution": "günstig",
+      "explanation": "günstig = cheap/affordable. More polite register than 'billig'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Hotel ist sehr ___. Es hat neues Design. (modern)",
+      "solution": "modern",
+      "explanation": "modern = modern. True cognate with English and Spanish."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Sofa ist sehr ___: es ist auch ein Bett! (practical/handy)",
+      "solution": "praktisch",
+      "explanation": "praktisch = practical/handy. Cognate with English 'practical'."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Möbel sind alle ___. Ich habe sie gestern gekauft. (new)",
+      "solution": "neu",
+      "explanation": "neu = new. Antonym: alt (old)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Zimmer ist sehr ___. Es hat nur ein Bett. (small)",
+      "solution": "klein",
+      "explanation": "klein = small. Antonym: groß (big)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Schrank ist sehr ___. Er hat viel Platz. (big)",
+      "solution": "groß",
+      "explanation": "groß = big/large. Antonym: klein."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich finde das Sofa zu ___. Es kostet 2.000 Euro! (expensive)",
+      "solution": "teuer",
+      "explanation": "teuer = expensive. 'zu teuer' = too expensive."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die ___ Lampe kostet nur 15 Euro. (new — with feminine adjective ending after die)",
+      "solution": "neue",
+      "explanation": "After the definite article 'die', adjectives take the weak ending -e: die neue Lampe."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich kaufe ein ___ Sofa für mein Zimmer. (big — with neuter indefinite article)",
+      "solution": "großes",
+      "explanation": "After 'ein' (indefinite article, neuter Nominativ), adjectives take the strong ending -es: ein großes Sofa."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Bild ist so ___! Ich möchte es kaufen.",
+      "options": ["schön", "hässlich", "klein"],
+      "solution": "schön",
+      "explanation": "schön = beautiful/lovely. Context: wanting to buy something means you like it → schön."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Sofa kostet 3.000 Euro. Es ist sehr ___.",
+      "options": ["günstig", "teuer", "praktisch"],
+      "solution": "teuer",
+      "explanation": "3.000 Euro for a sofa is very expensive → teuer."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich finde das Zimmer zu ___. Ein Bett, ein Tisch, kein Platz mehr!",
+      "options": ["groß", "schön", "klein"],
+      "solution": "klein",
+      "explanation": "No space left (kein Platz mehr) → the room is too small → klein."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der Tisch kostet nur 30 Euro. Das ist sehr ___.",
+      "options": ["teuer", "günstig", "hässlich"],
+      "solution": "günstig",
+      "explanation": "Only 30 euros for a table is affordable → günstig (cheap/affordable)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Hotel hat ein ___ Design. Es ist sehr modern.",
+      "options": ["altes", "modernes", "kleines"],
+      "solution": "modernes",
+      "explanation": "After 'ein' (neuter, Nominativ/Akkusativ), adjective takes -es: ein modernes Design. Context: 'sehr modern' confirms the answer."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich finde das Sofa ___. Es ist so altmodisch und kaputt.",
+      "options": ["schön", "modern", "hässlich"],
+      "solution": "hässlich",
+      "explanation": "Something old-fashioned and broken → ugly → hässlich."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The picture is very beautiful.",
+      "solution": "Das Bild ist sehr schön.",
+      "explanation": "schön = beautiful. das Bild (neut.) → Das Bild; sehr = very. The Lektion 4 title phrase!"
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The carpet is cheap.",
+      "solution": "Der Teppich ist günstig.",
+      "explanation": "günstig = cheap/affordable. der Teppich (masc.) → Der Teppich."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The wardrobe is big and new.",
+      "solution": "Der Schrank ist groß und neu.",
+      "explanation": "groß = big, neu = new. der Schrank (masc.) → Der Schrank. Predicate adjectives take no ending."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I find this sofa ugly.",
+      "solution": "Ich finde das Sofa hässlich.",
+      "explanation": "hässlich = ugly. das Sofa (Akkusativ, neuter unchanged). finden = to find/think."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The small room in the hotel is not cheap.",
+      "solution": "Das kleine Zimmer im Hotel ist nicht günstig.",
+      "explanation": "klein → kleine (weak adjective ending after 'das': -e). im Hotel = in dem Hotel (dative). günstig = cheap."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The hotel is expensive but the room is modern and beautiful.",
+      "solution": "Das Hotel ist teuer, aber das Zimmer ist modern und schön.",
+      "explanation": "teuer, modern, schön — all predicate adjectives (no endings needed after sein)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I find the new furniture very practical.",
+      "solution": "Ich finde die neuen Möbel sehr praktisch.",
+      "explanation": "die neuen Möbel — weak plural adjective ending: -en. praktisch = practical."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Sofa ist sehr beauty.",
+      "solution": "Das Sofa ist sehr schön.",
+      "explanation": "'Beauty' is English. The German adjective is 'schön' (beautiful/lovely)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Tisch ist zu günstig. Ich kaufe ihn nicht. (context: the table costs 500 euros)",
+      "solution": "Der Tisch ist zu teuer. (günstig → teuer)",
+      "explanation": "günstig = cheap/affordable; at 500 euros the table is too expensive → teuer."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich finde die Lampe sehr schöne.",
+      "solution": "Ich finde die Lampe sehr schön.",
+      "explanation": "Predicate adjectives after finden + accusative do NOT take an ending: 'schön' not 'schöne'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Zimmer ist sehr kleine.",
+      "solution": "Das Zimmer ist sehr klein.",
+      "explanation": "Predicate adjectives (after 'ist') take no endings: 'klein' not 'kleine'."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich kaufe ein teures Sofa. Nein – ich kaufe ein günstig Sofa!",
+      "solution": "Ich kaufe ein günstiges Sofa.",
+      "explanation": "Attributive adjective before 'Sofa' (neuter, after 'ein'): günstig + -es → günstiges."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Die neue Möbel sind sehr schön.",
+      "solution": "Die neuen Möbel sind sehr schön.",
+      "explanation": "die Möbel is plural. After 'die' (plural), adjective ending is -en: die neuen Möbel."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil (opposite) von 'schön' ist ___.",
+      "solution": "hässlich",
+      "explanation": "schön ↔ hässlich (beautiful ↔ ugly). Direct antonym pair from Lektion 4."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'teuer' ist ___.",
+      "solution": "günstig (or billig)",
+      "explanation": "teuer ↔ günstig/billig (expensive ↔ cheap). 'günstig' is more polite; 'billig' can imply low quality."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'groß' ist ___.",
+      "solution": "klein",
+      "explanation": "groß ↔ klein (big ↔ small). Both are Lektion 4 adjectives."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Gegenteil von 'alt' (old) ist ___.",
+      "solution": "neu",
+      "explanation": "neu ↔ alt (new ↔ old). neu is a Lektion 4 adjective."
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "This is a practical and affordable sofa.",
+      "solution": "Das ist ein praktisches und günstiges Sofa.",
+      "explanation": "After 'ein' (neuter, Nominativ): adjective + -es: praktisches, günstiges. Both adjectives take the same ending."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der ___ Preis für das Sofa überrascht mich. (cheap — with masculine adjective ending after 'der')",
+      "solution": "günstige",
+      "explanation": "After 'der' (masculine Nominativ), adjective takes weak ending -e: der günstige Preis."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er wohnt in einem ___ Zimmer. (small — with neuter adjective ending after 'einem')",
+      "solution": "kleinen",
+      "explanation": "After 'einem' (neuter Dative), adjective takes weak ending -en: einem kleinen Zimmer."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Zimmer ist ___ und ___. Es hat viel Platz und ein neues Design.",
+      "options": ["klein und altmodisch", "groß und modern", "hässlich und teuer"],
+      "solution": "groß und modern",
+      "explanation": "Context says 'viel Platz' (lots of space = groß) and 'neues Design' (new design = modern)."
+    },
+    {
+      "id": 40,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Hotel kostet 200 Euro – es ist sehr günstige.",
+      "solution": "Das Hotel kostet 200 Euro – es ist sehr günstig.",
+      "explanation": "Predicate adjective after 'ist' takes no ending: 'günstig' not 'günstige'."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I think the shop is very beautiful.",
+      "solution": "Ich finde das Geschäft sehr schön.",
+      "explanation": "finden is used for opinions in German. das Geschäft (Akkusativ, neuter unchanged). schön = beautiful."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Sofa ist ___. Ich mag kein großes Sofa. (small)",
+      "solution": "klein",
+      "explanation": "klein = small. Predicate adjective after 'ist' — no ending."
+    },
+    {
+      "id": 43,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The new, modern hotel has big rooms and cheap prices.",
+      "solution": "Das neue, moderne Hotel hat große Zimmer und günstige Preise.",
+      "explanation": "neue, moderne (after 'das': -e endings), große (after 'hat': strong -e with pl. Zimmer), günstige (pl. -e). groß → große (predicate adj + pl.)."
+    }
+  ]
+}

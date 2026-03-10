@@ -1,0 +1,533 @@
+{
+  "lektion": 9,
+  "focus": "others",
+  "file_slug": "lektion09_others",
+  "generated_at": "2026-03-10T01:33:57",
+  "vocabulary": [
+    {
+      "german": "zum Frühstück",
+      "base_form": "zum Frühstück",
+      "english": "for breakfast",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed prepositional phrase: zum = zu + dem (dative). Use it at the start of a sentence or after the verb: Zum Frühstück esse ich Brötchen. / Ich esse zum Frühstück Brötchen.",
+      "lektion_source": 9
+    },
+    {
+      "german": "Guten Appetit!",
+      "base_form": "Guten Appetit",
+      "english": "Enjoy your meal!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed greeting said before a meal — equivalent to French 'Bon appétit'. Always in accusative form (guten not guter). Response: Danke, gleichfalls! (Thank you, likewise!).",
+      "lektion_source": 9
+    },
+    {
+      "german": "hier bitte",
+      "base_form": "hier bitte",
+      "english": "there you are / here it is",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used by waiters or anyone handing something over. Equivalent to English 'here you go' or 'there you are'. Very common in restaurants and shops.",
+      "lektion_source": 9
+    },
+    {
+      "german": "schade",
+      "base_form": "schade",
+      "english": "what a pity / too bad",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Expresses mild disappointment. Used as a standalone reaction: Schade! or in a sentence: Das ist schade.",
+      "lektion_source": 9
+    },
+    {
+      "german": "na gut",
+      "base_form": "na gut",
+      "english": "all right then / oh well",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Expresses reluctant acceptance or agreement. Often said with a slight sigh: Na gut, ich nehme den Salat. Less enthusiastic than 'gut' or 'okay'.",
+      "lektion_source": 9
+    },
+    {
+      "german": "unser",
+      "base_form": "unser",
+      "english": "our",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive pronoun/adjective for 'we/our'. Inflects like ein-words: unser (masc./neut. nom.), unsere (fem./pl.), unseren (masc. acc.), etc. Example: unser Tisch (our table).",
+      "lektion_source": 9
+    },
+    {
+      "german": "auf dem Tisch",
+      "base_form": "auf dem Tisch",
+      "english": "on the table",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Locational phrase: auf + Dativ for position (where something is). auf + dem (dative of der). Example: Das Brot liegt auf dem Tisch.",
+      "lektion_source": 9
+    },
+    {
+      "german": "besonders",
+      "base_form": "besonders",
+      "english": "especially",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifying adverb used before adjectives and 'gern': besonders lecker (especially tasty), besonders gern (especially like). Does not inflect.",
+      "lektion_source": 9
+    },
+    {
+      "german": "perfekt",
+      "base_form": "perfekt",
+      "english": "perfect (as exclamation)",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used as a standalone exclamation of approval: Perfekt! Also used as an adjective. Common in restaurants and service situations.",
+      "lektion_source": 9
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Zum Frühstück esse ich ein Brötchen mit Marmelade und trinke Kaffee.",
+      "english": "For breakfast I eat a bread roll with jam and drink coffee.",
+      "level": "complex",
+      "note": "Uses zum Frühstück as sentence opener; essen and trinken from Lektion 9 verbs"
+    },
+    {
+      "id": 2,
+      "german": "Der Kellner bringt das Essen und sagt: 'Hier bitte — Guten Appetit!'",
+      "english": "The waiter brings the food and says: 'There you are — enjoy your meal!'",
+      "level": "complex",
+      "note": "Uses hier bitte and Guten Appetit! in natural restaurant context"
+    },
+    {
+      "id": 3,
+      "german": "Schade, der Kuchen ist heute nicht auf der Speisekarte.",
+      "english": "What a pity, the cake is not on the menu today.",
+      "level": "medium",
+      "note": "Uses schade as an opener expressing disappointment"
+    },
+    {
+      "id": 4,
+      "german": "Na gut, ich nehme dann die Suppe als Vorspeise.",
+      "english": "All right then, I'll take the soup as a starter.",
+      "level": "medium",
+      "note": "Uses na gut to express reluctant acceptance; nehmen from Lektion 9 verbs"
+    },
+    {
+      "id": 5,
+      "german": "Das Salz steht auf dem Tisch neben unserem Brot.",
+      "english": "The salt is on the table next to our bread.",
+      "level": "complex",
+      "note": "Uses auf dem Tisch (dative) and unser with correct inflection (unserem)"
+    },
+    {
+      "id": 6,
+      "german": "Unser Frühstück ist besonders gut in diesem Hotel.",
+      "english": "Our breakfast is especially good in this hotel.",
+      "level": "medium",
+      "note": "Uses unser (possessive, neuter nominative) and besonders"
+    },
+    {
+      "id": 7,
+      "german": "Schade — das Eis ist leider heute aus. Na gut, ich nehme dann Kuchen.",
+      "english": "What a pity — the ice cream is unfortunately sold out today. All right then, I'll have cake.",
+      "level": "complex",
+      "note": "Uses schade and na gut together in a natural disappointment-and-resolution sequence"
+    },
+    {
+      "id": 8,
+      "german": "Hier bitte — Ihr Tomatensalat als Vorspeise. Guten Appetit!",
+      "english": "There you are — your tomato salad as a starter. Enjoy your meal!",
+      "level": "medium",
+      "note": "Uses hier bitte and Guten Appetit! as a waiter serving a dish"
+    },
+    {
+      "id": 9,
+      "german": "Zum Frühstück isst unser Team besonders gern frisches Obst.",
+      "english": "For breakfast our team especially likes to eat fresh fruit.",
+      "level": "complex",
+      "note": "Uses zum Frühstück, unser, besonders gern together"
+    },
+    {
+      "id": 10,
+      "german": "Die Speisekarte liegt auf dem Tisch — kannst du sie mir geben?",
+      "english": "The menu is lying on the table — can you give it to me?",
+      "level": "complex",
+      "note": "Uses auf dem Tisch (dative location); können from Lektion 7"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Frühstück trinke ich Milch. (for breakfast)",
+      "solution": "Zum",
+      "explanation": "zum Frühstück = for breakfast. 'zum' is a contraction of 'zu + dem' (dative)."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Kellner sagt: '___!' (enjoy your meal)",
+      "solution": "Guten Appetit",
+      "explanation": "Guten Appetit! is the fixed greeting before a meal. Always accusative: guten (not guter)."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___, der Kuchen ist heute nicht da. (what a pity)",
+      "solution": "Schade",
+      "explanation": "Schade = what a pity. Used as a standalone interjection or at the start of a sentence."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Brot liegt ___ ___. (on the table)",
+      "solution": "auf dem Tisch",
+      "explanation": "auf + Dativ for location. der Tisch → dative: dem Tisch."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Hier ist ___ Tisch. (our)",
+      "solution": "unser",
+      "explanation": "unser = our. der Tisch is masculine nominative → unser Tisch (no ending in nominative masculine)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___, ich nehme dann den Salat. (all right then / reluctant acceptance)",
+      "solution": "Na gut",
+      "explanation": "na gut = all right then. Expresses reluctant agreement, a step down from enthusiastic acceptance."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "'___ — Ihr Hauptgericht!' sagt der Kellner. (there you are)",
+      "solution": "Hier bitte",
+      "explanation": "hier bitte = there you are / here you go. Used when handing something over in a restaurant."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich mag Schokolade ___ gern. (especially)",
+      "solution": "besonders",
+      "explanation": "besonders = especially. Placed before 'gern' to intensify the preference."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Frühstück ist prima hier. (our)",
+      "solution": "Unser",
+      "explanation": "unser + das Frühstück (neuter nominative) → Unser Frühstück. Neuter nominative has no extra ending."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Frühstück isst ___ Familie besonders gern frisches Obst. (for breakfast / our)",
+      "solution": "Zum / unsere",
+      "explanation": "zum Frühstück; unser + die Familie (feminine nominative) → unsere Familie."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Speisekarte liegt ___ ___. Kannst du sie nehmen? (on the table)",
+      "solution": "auf dem Tisch",
+      "explanation": "auf + dative for location. der Tisch → dem Tisch."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ — das Eis ist aus. ___, dann nehme ich Erdbeeren. (what a pity / all right then)",
+      "solution": "Schade / Na gut",
+      "explanation": "Schade = what a pity; na gut = all right then — a natural disappointment-then-acceptance sequence."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Frühstück esse ich immer Brötchen.",
+      "options": ["Zum", "Zur", "Zu"],
+      "solution": "Zum",
+      "explanation": "zum = zu + dem (dative of das). das Frühstück → dative: dem → zum Frühstück."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Brot liegt ___ Tisch.",
+      "options": ["auf dem", "auf der", "auf das"],
+      "solution": "auf dem",
+      "explanation": "auf + dative for location. der Tisch → dative: dem Tisch."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Tisch ist sehr groß.",
+      "options": ["Unser", "Unsere", "Unserer"],
+      "solution": "Unser",
+      "explanation": "unser + der Tisch (masculine nominative) → Unser. No ending added in masc. nominative."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der Kellner legt die Gabel ___ Tisch.",
+      "options": ["auf den", "auf dem", "auf der"],
+      "solution": "auf den",
+      "explanation": "auf + Akkusativ for direction/movement. der Tisch → accusative: den Tisch → auf den Tisch."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Menü ist ___! Die Suppe und der Fisch sind sehr lecker.",
+      "options": ["perfekt", "perfect", "perfectt"],
+      "solution": "perfekt",
+      "explanation": "German spelling: perfekt with 'k'. Used as exclamation/predicative adjective."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich möchte ___ Speisekarte sehen. (our menu)",
+      "options": ["unsere", "unser", "unserem"],
+      "solution": "unsere",
+      "explanation": "unser + die Speisekarte (feminine accusative) → unsere."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ — kein Schokoladenkuchen heute. Na gut, ich nehme Apfelkuchen.",
+      "options": ["Schade", "Schadet", "Schaden"],
+      "solution": "Schade",
+      "explanation": "Schade = what a pity. Used as a standalone interjection — invariable form."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er isst ___ gern Käse zum Frühstück.",
+      "options": ["besonders", "besondert", "besonderst"],
+      "solution": "besonders",
+      "explanation": "besonders = especially. Adverb — invariable form."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "For breakfast we drink orange juice.",
+      "solution": "Zum Frühstück trinken wir Orangensaft.",
+      "explanation": "zum Frühstück as sentence opener; trinken → wir trinken."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What a pity — the restaurant is closed today.",
+      "solution": "Schade — das Restaurant ist heute geschlossen.",
+      "explanation": "Schade = what a pity; geschlossen = closed (from Lektion 11 but recognizable)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "There you are — enjoy your meal!",
+      "solution": "Hier bitte — Guten Appetit!",
+      "explanation": "hier bitte = there you are; Guten Appetit! = enjoy your meal (always accusative: guten)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Our table is on the right. The menu is on the table.",
+      "solution": "Unser Tisch ist rechts. Die Speisekarte liegt auf dem Tisch.",
+      "explanation": "unser Tisch (masculine nominative); auf dem Tisch (dative location)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "All right then, I'll have the tomato salad. — Enjoy your meal!",
+      "solution": "Na gut, ich nehme den Tomatensalat. — Guten Appetit!",
+      "explanation": "na gut = all right then; nehmen → ich nehme; den Tomatensalat (accusative masculine)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I especially like coffee for breakfast.",
+      "solution": "Zum Frühstück mag ich Kaffee besonders gern.",
+      "explanation": "zum Frühstück; mögen → ich mag; besonders gern = especially like."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Zur Frühstück esse ich ein Brötchen.",
+      "solution": "Zum Frühstück esse ich ein Brötchen.",
+      "explanation": "zum (zu + dem) is used because das Frühstück is neuter. 'zur' = zu + der (feminine only)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Kellner sagt 'Guter Appetit!'",
+      "solution": "Der Kellner sagt 'Guten Appetit!'",
+      "explanation": "Guten Appetit! is a fixed phrase in accusative: guten (not guter). It never changes."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Salz ist auf der Tisch.",
+      "solution": "Das Salz ist auf dem Tisch.",
+      "explanation": "auf + Dativ for location. der Tisch → dative: dem Tisch (not 'der', which would be dative feminine)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Unseren Frühstück ist sehr gut hier.",
+      "solution": "Unser Frühstück ist sehr gut hier.",
+      "explanation": "unser + das Frühstück (neuter nominative) → Unser. No ending in masculine/neuter nominative."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Schaden — der Kuchen ist aus.",
+      "solution": "Schade — der Kuchen ist aus.",
+      "explanation": "Schade is an invariable interjection. 'Schaden' is a noun (damage) or verb, not the interjection."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Zum Frühstück trinken wir unseres Kaffee auf den Tisch.",
+      "solution": "Zum Frühstück trinken wir unseren Kaffee an unserem Tisch.",
+      "explanation": "Two errors: unser + der Kaffee (masculine accusative) → unseren; auf den Tisch = direction (movement), but for sitting at a table use 'an unserem Tisch' (dative location)."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er stellt das Glas ___ ___. (on the table — movement/placing)",
+      "solution": "auf den Tisch",
+      "explanation": "auf + Akkusativ for movement/direction (stellen = to place). der Tisch → accusative: den Tisch."
+    },
+    {
+      "id": 34,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Our starter is especially tasty today. There you are — enjoy your meal!",
+      "solution": "Unsere Vorspeise ist heute besonders lecker. Hier bitte — Guten Appetit!",
+      "explanation": "unsere Vorspeise (feminine nominative); besonders lecker; hier bitte; Guten Appetit!"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ — der Nachtisch ist heute leider aus.",
+      "options": ["Schade", "Schaden", "Schad"],
+      "solution": "Schade",
+      "explanation": "Schade = what a pity. Invariable interjection."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Tasse steht ___ ___. (on the table)",
+      "solution": "auf dem Tisch",
+      "explanation": "stehen (to stand/be located) + auf + Dativ = static location."
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "All right then, I'll take the fish. There you are — enjoy your meal!",
+      "solution": "Na gut, ich nehme den Fisch. Hier bitte — Guten Appetit!",
+      "explanation": "na gut; nehmen → ich nehme; den Fisch (accusative masculine); hier bitte; Guten Appetit!"
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Unsere Kaffee ist auf der Tisch.",
+      "solution": "Unser Kaffee ist auf dem Tisch.",
+      "explanation": "unser + der Kaffee (masculine nominative) → Unser (no ending). auf + dative: dem Tisch."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___! (perfect — exclamation)",
+      "solution": "perfekt",
+      "explanation": "perfekt used as an exclamation of approval."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What a pity — no soup today. All right then, I'll have the salad.",
+      "solution": "Schade — heute keine Suppe. Na gut, ich nehme den Salat.",
+      "explanation": "Schade = what a pity; na gut = all right then; nehmen → ich nehme."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Wasser steht auf dem Tisch.",
+      "options": ["Unser", "Unsere", "Unserem"],
+      "solution": "Unser",
+      "explanation": "unser + das Wasser (neuter nominative) → Unser. No ending in neuter nominative."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Na gutem, ich nehme dann die Suppe.",
+      "solution": "Na gut, ich nehme dann die Suppe.",
+      "explanation": "na gut is a fixed phrase — 'gut' here is invariable. 'Na gutem' does not exist."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Unsere Gäste essen ___ Frühstück ___ gern frische Brötchen. (for breakfast / especially)",
+      "solution": "zum / besonders",
+      "explanation": "zum Frühstück = for breakfast; besonders gern = especially like."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Our main course is on the table — enjoy your meal!",
+      "solution": "Unser Hauptgericht ist auf dem Tisch — Guten Appetit!",
+      "explanation": "unser Hauptgericht (neuter nominative); auf dem Tisch (dative); Guten Appetit!"
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Gutem Appetit! Unser Essen liegt auf der Tisch.",
+      "solution": "Guten Appetit! Unser Essen liegt auf dem Tisch.",
+      "explanation": "Two errors: Guten Appetit (accusative, always 'guten'); auf dem Tisch (der Tisch → dative dem, not der which is dative feminine)."
+    }
+  ]
+}

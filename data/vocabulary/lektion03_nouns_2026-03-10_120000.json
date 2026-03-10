@@ -1,0 +1,750 @@
+{
+  "lektion": 3,
+  "focus": "nouns",
+  "file_slug": "lektion03_nouns",
+  "generated_at": "2026-03-10T12:00:00",
+  "vocabulary": [
+    {
+      "german": "die Familie",
+      "base_form": "Familie",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Familien",
+      "english": "family",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Mutter",
+      "base_form": "Mutter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..",
+      "plural_full": "Mütter",
+      "english": "mother",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Vater",
+      "base_form": "Vater",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Väter",
+      "english": "father",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Schwester",
+      "base_form": "Schwester",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Schwestern",
+      "english": "sister",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Onkel",
+      "base_form": "Onkel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Onkel",
+      "english": "uncle",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Oma",
+      "base_form": "Oma",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-s",
+      "plural_full": "Omas",
+      "english": "grandma",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "das Enkelkind",
+      "base_form": "Enkelkind",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Enkelkinder",
+      "english": "grandchild",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Eltern",
+      "base_form": "Eltern",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Eltern",
+      "english": "parents",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Sohn",
+      "base_form": "Sohn",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Söhne",
+      "english": "son",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Tochter",
+      "base_form": "Tochter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..",
+      "plural_full": "Töchter",
+      "english": "daughter",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Bruder",
+      "base_form": "Bruder",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Brüder",
+      "english": "brother",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Geschwister",
+      "base_form": "Geschwister",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Geschwister",
+      "english": "siblings",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Großvater",
+      "base_form": "Großvater",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Großväter",
+      "english": "grandfather",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Großmutter",
+      "base_form": "Großmutter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..",
+      "plural_full": "Großmütter",
+      "english": "grandmother",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Großeltern",
+      "base_form": "Großeltern",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Großeltern",
+      "english": "grandparents",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Enkel",
+      "base_form": "Enkel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Enkel",
+      "english": "grandson / grandchild (m.)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Ehemann",
+      "base_form": "Ehemann",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..er",
+      "plural_full": "Ehemänner",
+      "english": "husband",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Ehefrau",
+      "base_form": "Ehefrau",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Ehefrauen",
+      "english": "wife",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Verwandte",
+      "base_form": "Verwandte",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Verwandten",
+      "english": "relative (m.)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Tante",
+      "base_form": "Tante",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Tanten",
+      "english": "aunt",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "das Fest",
+      "base_form": "Fest",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Feste",
+      "english": "celebration / festival",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Liste",
+      "base_form": "Liste",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Listen",
+      "english": "list",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Mann",
+      "base_form": "Mann",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..er",
+      "plural_full": "Männer",
+      "english": "man / husband",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "das Mitglied",
+      "base_form": "Mitglied",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Mitglieder",
+      "english": "member",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Sprache",
+      "base_form": "Sprache",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Sprachen",
+      "english": "language",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Meine Familie ist sehr groß — ich habe drei Schwestern und zwei Brüder.",
+      "english": "My family is very large — I have three sisters and two brothers.",
+      "level": "complex",
+      "note": "Uses: die Familie, die Schwestern (pl. of Schwester), die Brüder (pl. of Bruder)"
+    },
+    {
+      "id": 2,
+      "german": "Mein Vater kommt aus Deutschland, aber meine Mutter kommt aus Spanien.",
+      "english": "My father is from Germany, but my mother is from Spain.",
+      "level": "complex",
+      "note": "Uses: der Vater, die Mutter; contrast with 'aber' (from Lektion 2)"
+    },
+    {
+      "id": 3,
+      "german": "Meine Oma wohnt in Wien und besucht uns oft.",
+      "english": "My grandma lives in Vienna and visits us often.",
+      "level": "medium",
+      "note": "Uses: die Oma; combines wohnen (L2) and a time adverb"
+    },
+    {
+      "id": 4,
+      "german": "Der Onkel und die Tante haben zwei Enkelkinder.",
+      "english": "The uncle and the aunt have two grandchildren.",
+      "level": "medium",
+      "note": "Uses: der Onkel, die Tante, das Enkelkind (pl. Enkelkinder)"
+    },
+    {
+      "id": 5,
+      "german": "Mein Bruder und meine Schwester sind meine Geschwister.",
+      "english": "My brother and my sister are my siblings.",
+      "level": "medium",
+      "note": "Uses: der Bruder, die Schwester, die Geschwister (plural-only noun)"
+    },
+    {
+      "id": 6,
+      "german": "Die Großeltern feiern ihr Fest mit der ganzen Familie.",
+      "english": "The grandparents celebrate their party with the whole family.",
+      "level": "complex",
+      "note": "Uses: die Großeltern (pl.-only), das Fest, die Familie"
+    },
+    {
+      "id": 7,
+      "german": "Mein Sohn spricht Deutsch und meine Tochter lernt Spanisch.",
+      "english": "My son speaks German and my daughter is learning Spanish.",
+      "level": "complex",
+      "note": "Uses: der Sohn, die Tochter; sprechen / lernen from earlier lektions"
+    },
+    {
+      "id": 8,
+      "german": "Der Ehemann von meiner Tante ist ein Mitglied des Vereins.",
+      "english": "The husband of my aunt is a member of the club.",
+      "level": "complex",
+      "note": "Uses: der Ehemann, die Tante, das Mitglied"
+    },
+    {
+      "id": 9,
+      "german": "Die Verwandten kommen aus Polen und sprechen zwei Sprachen.",
+      "english": "The relatives come from Poland and speak two languages.",
+      "level": "complex",
+      "note": "Uses: der/die Verwandte (pl. Verwandten), die Sprache (pl. Sprachen)"
+    },
+    {
+      "id": 10,
+      "german": "Die Ehefrau macht eine Liste mit den Namen aller Familienmitglieder.",
+      "english": "The wife makes a list with the names of all family members.",
+      "level": "complex",
+      "note": "Uses: die Ehefrau, die Liste, die Familie; der Name from Lektion 1"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Familie ist groß. (family — feminine)",
+      "solution": "Die",
+      "explanation": "die Familie is feminine. Must memorize the gender."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ Vater. (my father)",
+      "solution": "mein",
+      "explanation": "Vater is masculine (der), so the possessive is 'mein' in nominative."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Mutter heißt Maria. (the mother)",
+      "solution": "Die",
+      "explanation": "die Mutter is feminine. The article 'die' is used in nominative."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe einen ___. (brother)",
+      "solution": "Bruder",
+      "explanation": "der Bruder — masculine. In accusative after 'einen', still 'Bruder'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Onkel wohnt in Berlin. (the uncle)",
+      "solution": "Der",
+      "explanation": "der Onkel is masculine. Use 'Der' in nominative."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine ___ und mein ___ sind meine Eltern. (mother / father)",
+      "solution": "Mutter / Vater",
+      "explanation": "die Mutter (fem.) and der Vater (masc.); die Eltern is plural-only for both parents together."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir feiern ein ___. Das ___ ist sehr schön. (celebration)",
+      "solution": "Fest / Fest",
+      "explanation": "das Fest is neuter. Use 'ein Fest' (indefinite) and 'Das Fest' (definite nominative)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ von meinem Bruder heißt Anna. (wife)",
+      "solution": "Ehefrau",
+      "explanation": "die Ehefrau — feminine compound (Ehe + Frau). Plural: Ehefrauen."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein ___ und meine Tante kommen aus Österreich. (uncle)",
+      "solution": "Onkel",
+      "explanation": "der Onkel — masculine. With possessive 'mein' (masc., nominative)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich mache eine ___ mit allen Namen. (list)",
+      "solution": "Liste",
+      "explanation": "die Liste — feminine. 'eine Liste' with indefinite article."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Meine ___ spricht Deutsch, und mein ___ spricht Türkisch. (daughter / son)",
+      "solution": "Tochter / Sohn",
+      "explanation": "die Tochter (fem.) and der Sohn (masc.). Both take 'meine/mein' accordingly."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die ___ kommen aus Polen und sprechen drei ___. (relatives / languages)",
+      "solution": "Verwandten / Sprachen",
+      "explanation": "die Verwandten (pl. of Verwandte) and die Sprachen (pl. of Sprache)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Schwester heißt Lena.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Die",
+      "explanation": "die Schwester is feminine — always use 'die' as the definite article."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich habe eine ___.",
+      "options": ["Bruder", "Schwester", "Sohn"],
+      "solution": "Schwester",
+      "explanation": "'eine' is the feminine indefinite article. Only 'Schwester' is feminine; Bruder and Sohn are masculine."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Großvater wohnt in München.",
+      "options": ["Die", "Das", "Der"],
+      "solution": "Der",
+      "explanation": "der Großvater is masculine. Use 'Der' in nominative."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Meine Eltern haben ein ___.",
+      "options": ["Fest", "Feste", "Festen"],
+      "solution": "Fest",
+      "explanation": "das Fest is neuter; indefinite accusative 'ein Fest' — no change to the noun."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das sind meine ___. (siblings)",
+      "options": ["Geschwistern", "Geschwister", "Geschwistere"],
+      "solution": "Geschwister",
+      "explanation": "die Geschwister is a plural-only noun. No ending is added — 'Geschwister' is both the dictionary form and the plural."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die ___ von meinem Onkel heißt Klara.",
+      "options": ["Ehefrau", "Ehemann", "Enkelin"],
+      "solution": "Ehefrau",
+      "explanation": "'Die' signals a feminine noun. 'Ehefrau' (wife) is feminine; 'Ehemann' is masculine; 'Enkelin' means granddaughter — context says 'wife of my uncle'."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Mein ___ und meine ___ sind meine Großeltern.",
+      "options": ["Großvater / Großmutter", "Vater / Mutter", "Onkel / Tante"],
+      "solution": "Großvater / Großmutter",
+      "explanation": "die Großeltern = die Großmutter + der Großvater. The other pairs are parents or aunt/uncle."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My grandmother lives in Germany.",
+      "solution": "Meine Großmutter wohnt in Deutschland.",
+      "explanation": "die Großmutter → 'meine Großmutter' (feminine possessive). wohnen = to live/reside."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have one brother and two sisters.",
+      "solution": "Ich habe einen Bruder und zwei Schwestern.",
+      "explanation": "einen Bruder (masc. accusative); zwei Schwestern (pl. of Schwester, add -n)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The aunt is from Austria.",
+      "solution": "Die Tante kommt aus Österreich.",
+      "explanation": "die Tante — feminine. kommen aus = to be from."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My parents and my grandparents are coming to the celebration.",
+      "solution": "Meine Eltern und meine Großeltern kommen zum Fest.",
+      "explanation": "die Eltern and die Großeltern are plural-only nouns (Pl.). das Fest — neuter. zum = zu + dem (dative)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The relatives speak three languages.",
+      "solution": "Die Verwandten sprechen drei Sprachen.",
+      "explanation": "die Verwandten (adjective-noun, always with ending in plural). die Sprachen = pl. of Sprache."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "His wife is a member of the family.",
+      "solution": "Seine Ehefrau ist ein Mitglied der Familie.",
+      "explanation": "die Ehefrau → 'seine Ehefrau' (masc. possessive for 'his'). das Mitglied — neuter."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Mutter heißt Petra.",
+      "solution": "Die Mutter heißt Petra.",
+      "explanation": "die Mutter is feminine — use 'Die', not 'Der'."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich habe eine Bruder.",
+      "solution": "Ich habe einen Bruder.",
+      "explanation": "der Bruder is masculine. In accusative, use 'einen' (not 'eine', which is feminine)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Mein Schwester kommt aus Berlin.",
+      "solution": "Meine Schwester kommt aus Berlin.",
+      "explanation": "die Schwester is feminine — the possessive must be 'meine', not 'mein'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Großvater wohnt in München.",
+      "solution": "Der Großvater wohnt in München.",
+      "explanation": "der Großvater is masculine — use 'Der', not 'Die'."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Meine Eltern und meine Geschwistern kommen zum Fest.",
+      "solution": "Meine Eltern und meine Geschwister kommen zum Fest.",
+      "explanation": "die Geschwister is already plural with no added ending. 'Geschwistern' is a dative plural form — wrong here (nominative subject)."
+    },
+    {
+      "id": 31,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Mutter",
+      "solution": "die Mütter",
+      "explanation": "Plural marker '..' = umlaut only (no ending added). Mutter → Mütter."
+    },
+    {
+      "id": 32,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Vater",
+      "solution": "die Väter",
+      "explanation": "Plural marker '..' = umlaut only. Vater → Väter. Plural article is always 'die'."
+    },
+    {
+      "id": 33,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Schwester",
+      "solution": "die Schwestern",
+      "explanation": "Plural marker '-n' = add -n. Schwester → Schwestern."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Sohn",
+      "solution": "die Söhne",
+      "explanation": "Plural marker '..e' = umlaut + e. Sohn → Söhne."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Bruder",
+      "solution": "die Brüder",
+      "explanation": "Plural marker '..' = umlaut only. Bruder → Brüder."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: die Tochter",
+      "solution": "die Töchter",
+      "explanation": "Plural marker '..' = umlaut only. Tochter → Töchter."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Ehemann",
+      "solution": "die Ehemänner",
+      "explanation": "Plural marker '..er' = umlaut + er. Ehemann → Ehemänner."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: die Sprache",
+      "solution": "die Sprachen",
+      "explanation": "Plural marker '-n' = add -n. Sprache → Sprachen."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Fest",
+      "solution": "die Feste",
+      "explanation": "Plural marker '-e' = add -e. Fest → Feste."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: die Tante",
+      "solution": "die Tanten",
+      "explanation": "Plural marker '-n' = add -n. Tante → Tanten."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ hat viele Mitglieder. (family)",
+      "solution": "Die Familie",
+      "explanation": "die Familie is feminine; use 'Die Familie' as the subject."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My son and my daughter are siblings.",
+      "solution": "Mein Sohn und meine Tochter sind Geschwister.",
+      "explanation": "der Sohn → 'mein Sohn'; die Tochter → 'meine Tochter'; die Geschwister is plural-only."
+    }
+  ]
+}

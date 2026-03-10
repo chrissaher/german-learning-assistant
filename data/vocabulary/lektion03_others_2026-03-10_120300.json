@@ -1,0 +1,480 @@
+{
+  "lektion": 3,
+  "focus": "others",
+  "file_slug": "lektion03_others",
+  "generated_at": "2026-03-10T12:03:00",
+  "vocabulary": [
+    {
+      "german": "dein",
+      "base_form": "dein",
+      "english": "your (informal singular)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive pronoun for 'du'. Agrees with noun gender: dein Vater (masc.), deine Mutter (fem.), dein Kind (neut.).",
+      "lektion_source": 3
+    },
+    {
+      "german": "nein",
+      "base_form": "nein",
+      "english": "no",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to disagree or refuse. Opposite of 'ja'. In German, word order can follow: Nein, das ist nicht richtig.",
+      "lektion_source": 3
+    },
+    {
+      "german": "doch",
+      "base_form": "doch",
+      "english": "yes (contradicting a negative statement) / but / after all",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to contradict a negative statement. If someone says 'Du sprichst kein Deutsch', you reply 'Doch!' (= Yes, I do!). Very common A1 word. Spanish speakers: no direct equivalent — must memorize.",
+      "lektion_source": 3
+    },
+    {
+      "german": "welche",
+      "base_form": "welch-",
+      "english": "which / what (plural or feminine)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Interrogative pronoun/adjective. 'Welche Sprachen sprichst du?' = Which languages do you speak? Agrees with the noun: welcher (masc.), welche (fem./pl.), welches (neut.).",
+      "lektion_source": 3
+    },
+    {
+      "german": "ein bisschen",
+      "base_form": "ein bisschen",
+      "english": "a little bit",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before adjectives or verbs to indicate a small degree: Ich spreche ein bisschen Deutsch. Nicht inflected — always stays as 'ein bisschen'.",
+      "lektion_source": 3
+    },
+    {
+      "german": "gar nicht",
+      "base_form": "gar nicht",
+      "english": "not at all",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensified negation. 'Ich spreche gar kein Spanisch' = I speak no Spanish at all. 'gar' reinforces 'nicht/kein'. Spanish transfer: 'para nada' is a similar intensified negation.",
+      "lektion_source": 3
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Wie heißt dein Vater? — Mein Vater heißt Klaus.",
+      "english": "What is your father's name? — My father's name is Klaus.",
+      "level": "medium",
+      "note": "Uses: dein (possessive pronoun, masc. → dein Vater); der Vater from L3 nouns."
+    },
+    {
+      "id": 2,
+      "german": "Deine Schwester spricht sehr gut Englisch, oder?",
+      "english": "Your sister speaks English very well, doesn't she?",
+      "level": "medium",
+      "note": "Uses: dein (feminine → deine Schwester); sprechen from L3 verbs."
+    },
+    {
+      "id": 3,
+      "german": "Kommst du nicht aus Deutschland? — Doch, ich komme aus Berlin!",
+      "english": "Are you not from Germany? — Yes, I am (from Berlin)!",
+      "level": "medium",
+      "note": "Uses: doch to contradict a negative question — key use of 'doch'. Contrast with 'ja' which only answers positive questions."
+    },
+    {
+      "id": 4,
+      "german": "Hast du keine Geschwister? — Doch, ich habe einen Bruder und eine Schwester.",
+      "english": "Don't you have any siblings? — Yes, I do — I have a brother and a sister.",
+      "level": "complex",
+      "note": "Uses: doch to contradict negative assumption; die Geschwister, der Bruder, die Schwester from L3 nouns."
+    },
+    {
+      "id": 5,
+      "german": "Welche Sprachen sprichst du? — Ich spreche Spanisch und ein bisschen Deutsch.",
+      "english": "Which languages do you speak? — I speak Spanish and a little bit of German.",
+      "level": "medium",
+      "note": "Uses: welche (pl.), ein bisschen; sprechen from L3 verbs."
+    },
+    {
+      "id": 6,
+      "german": "Welchen Beruf hat dein Vater? — Er ist Lehrer.",
+      "english": "What profession does your father have? — He is a teacher.",
+      "level": "medium",
+      "note": "Uses: welch- (masc. accusative → welchen), dein; der Vater from L3."
+    },
+    {
+      "id": 7,
+      "german": "Ich spreche ein bisschen Deutsch, aber noch nicht sehr gut.",
+      "english": "I speak a little bit of German, but not very well yet.",
+      "level": "medium",
+      "note": "Uses: ein bisschen; sprechen from L3 verbs."
+    },
+    {
+      "id": 8,
+      "german": "Er versteht gar nicht, was ich sage — er spricht kein Deutsch.",
+      "english": "He does not understand at all what I am saying — he speaks no German.",
+      "level": "complex",
+      "note": "Uses: gar nicht (intensified negation); sprechen from L3 verbs."
+    },
+    {
+      "id": 9,
+      "german": "Nein, das ist nicht richtig — mein Onkel ist nicht verheiratet.",
+      "english": "No, that is not correct — my uncle is not married.",
+      "level": "medium",
+      "note": "Uses: nein; der Onkel from L3 nouns; richtig, verheiratet from L3 adjectives."
+    },
+    {
+      "id": 10,
+      "german": "Welche Familie kommt heute zum Fest? Deine oder meine?",
+      "english": "Which family is coming to the party today? Yours or mine?",
+      "level": "complex",
+      "note": "Uses: welche (singular fem. — die Familie), dein; das Fest, die Familie from L3."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wie heißt ___ Mutter? (your — informal, feminine noun)",
+      "solution": "deine",
+      "explanation": "dein + feminine noun (die Mutter) → deine. Possessive pronoun agrees with noun gender."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ja oder ___? — ___, ich komme nicht aus Deutschland. (no)",
+      "solution": "nein / Nein",
+      "explanation": "nein = no. Used to disagree."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich spreche ___ Deutsch, nicht sehr viel. (a little bit)",
+      "solution": "ein bisschen",
+      "explanation": "ein bisschen = a little bit. Not inflected, always stays the same."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er spricht ___ Spanisch — kein Wort! (not at all)",
+      "solution": "gar kein / gar nicht",
+      "explanation": "gar nicht / gar kein = not at all. Used to intensify negation."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Sprachen sprichst du? (which)",
+      "solution": "Welche",
+      "explanation": "welche = which (plural, or before feminine noun). Sprachen is plural."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie heißt ___ Vater? (your — masculine noun)",
+      "solution": "dein",
+      "explanation": "dein + masculine noun (der Vater) → dein (no ending in nominative for masc.)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sprichst du kein Deutsch? — ___, ich spreche ein bisschen! (yes, contradicting)",
+      "solution": "Doch",
+      "explanation": "'doch' contradicts a negative question or statement. 'Ja' cannot be used here."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Verwandten kommen zum Fest? — Meine Großeltern, mein Onkel und meine Tante. (which)",
+      "solution": "Welche",
+      "explanation": "welche = which (plural — die Verwandten). Interrogative before plural noun."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er versteht mich ___ — er spricht kein Deutsch. (not at all)",
+      "solution": "gar nicht",
+      "explanation": "gar nicht = not at all. Intensifies negation after a verb."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ist ___ Großmutter auch verheiratet? — ___, sie ist geschieden. (your / no)",
+      "solution": "deine / Nein",
+      "explanation": "deine (fem. possessive before Großmutter); Nein = no (answering affirmatively a negative — wait, here it's a straight no: she is divorced)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Hast du keine Familie in Deutschland? — ___, meine Großeltern wohnen in Berlin! (yes, contradicting negative)",
+      "solution": "Doch",
+      "explanation": "'doch' contradicts the assumption embedded in 'keine Familie'. Reply: 'Yes I do!'."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich spreche ___ Japanisch — das ist zu schwer für mich. (not at all)",
+      "solution": "gar kein",
+      "explanation": "gar kein + noun = not any at all. 'Gar kein Japanisch' = no Japanese at all."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wie heißt ___ Bruder?",
+      "options": ["dein", "deine", "deinen"],
+      "solution": "dein",
+      "explanation": "dein + masculine noun (der Bruder) in nominative → dein (no ending)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Sprichst du kein Spanisch? — ___, ich spreche ein bisschen!",
+      "options": ["Ja", "Nein", "Doch"],
+      "solution": "Doch",
+      "explanation": "'doch' is used specifically to contradict a negative question or statement. 'Ja' is wrong here."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Sprache lernst du gerade?",
+      "options": ["Welcher", "Welche", "Welches"],
+      "solution": "Welche",
+      "explanation": "die Sprache is feminine → welche (fem. nominative)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich spreche ___ Englisch — nur Deutsch und Spanisch.",
+      "options": ["ein bisschen", "gar kein", "doch"],
+      "solution": "gar kein",
+      "explanation": "gar kein + noun = not any ... at all. Context: only speaks German and Spanish, so no English whatsoever."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ist ___ Ehemann auch aus Deutschland?",
+      "options": ["dein", "deine", "deiner"],
+      "solution": "dein",
+      "explanation": "dein + masculine noun (der Ehemann) → dein (nominative, masc.)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Hast du keine Geschwister? — ___, ich habe zwei Schwestern!",
+      "options": ["Nein", "Ja", "Doch"],
+      "solution": "Doch",
+      "explanation": "'doch' = 'yes I do!' in response to a negative question. 'Ja' cannot follow a negative question to affirm."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What is your mother's name?",
+      "solution": "Wie heißt deine Mutter?",
+      "explanation": "dein + feminine noun (die Mutter) → deine. 'Wie heißt …?' = What is … called/named?"
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Which languages do you speak?",
+      "solution": "Welche Sprachen sprichst du?",
+      "explanation": "welche = which (plural: die Sprachen → pl.). sprechen → du sprichst (stem change e→i)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I speak a little bit of German.",
+      "solution": "Ich spreche ein bisschen Deutsch.",
+      "explanation": "ein bisschen = a little bit. Not inflected. sprechen → ich spreche."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Don't you have any relatives in Germany? — Yes, I do! My grandparents live in Berlin.",
+      "solution": "Hast du keine Verwandten in Deutschland? — Doch! Meine Großeltern wohnen in Berlin.",
+      "explanation": "'doch' replies to the negative question with affirmation. die Verwandten (pl.), die Großeltern from L3."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He does not speak Spanish at all — not even a little bit.",
+      "solution": "Er spricht gar kein Spanisch — nicht einmal ein bisschen.",
+      "explanation": "gar kein + noun for 'not any at all'; ein bisschen = a little bit. sprechen → er spricht."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "No, that is not my brother — that is my uncle.",
+      "solution": "Nein, das ist nicht mein Bruder — das ist mein Onkel.",
+      "explanation": "nein = no; der Bruder → mein Bruder (masc.); der Onkel → mein Onkel (masc.)."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Wie heißt dein Schwester? ✗ Find and fix the error.",
+      "solution": "Wie heißt deine Schwester?",
+      "explanation": "die Schwester is feminine. dein + feminine → deine (adds -e in nominative)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Sprichst du kein Deutsch? — Ja, ich spreche ein bisschen! ✗ Find and fix the error.",
+      "solution": "Sprichst du kein Deutsch? — Doch, ich spreche ein bisschen!",
+      "explanation": "'Ja' cannot be used to contradict a negative question in German. Use 'Doch'."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Welcher Sprachen sprichst du? ✗ Find and fix the error.",
+      "solution": "Welche Sprachen sprichst du?",
+      "explanation": "Sprachen is plural. The plural form of welch- is welche, not welcher (which is masculine singular)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er spricht ein bisschen nicht Deutsch. ✗ Find and fix the error.",
+      "solution": "Er spricht gar nicht Deutsch. / Er spricht kein Deutsch.",
+      "explanation": "'ein bisschen nicht' is not a valid German phrase. Use 'gar nicht' for 'not at all' or 'kein' for negating a noun."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Hast du keine Familie? — Ja, ich habe eine große Familie! ✗ Find and fix the error.",
+      "solution": "Hast du keine Familie? — Doch, ich habe eine große Familie!",
+      "explanation": "'doch' is required when answering 'yes' to a negative question. 'Ja' is incorrect here."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wie heißt deine Vater? ✗ Find and fix the error.",
+      "solution": "Wie heißt dein Vater?",
+      "explanation": "der Vater is masculine. dein + masculine (nominative) → dein (no ending). 'deine' is for feminine nouns."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ___ Bruder — mein Bruder heißt Tobias. (your — masc.)",
+      "solution": "dein",
+      "explanation": "dein + masculine noun (der Bruder) → dein in nominative."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Mitglied ist dein Vater in dem Verein? (which — neut. noun)",
+      "solution": "Welches",
+      "explanation": "das Mitglied is neuter. welch- + neuter → welches."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Your grandparents speak German very well.",
+      "solution": "Deine Großeltern sprechen sehr gut Deutsch.",
+      "explanation": "dein + plural (Großeltern) → deine. sprechen → sie sprechen (3rd pl.)."
+    },
+    {
+      "id": 34,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Which of your relatives speak Spanish? — Not at all — none of them speak Spanish.",
+      "solution": "Welche von deinen Verwandten sprechen Spanisch? — Gar nicht — keiner von ihnen spricht Spanisch.",
+      "explanation": "welche (pl.), dein (pl. → deinen in dative), gar nicht; die Verwandten from L3."
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich verstehe ___ — bitte sprechen Sie langsamer! (not at all)",
+      "options": ["ein bisschen", "gar nichts", "nein"],
+      "solution": "gar nichts",
+      "explanation": "gar nichts = nothing at all (gar + nichts). When referring to understanding nothing, use gar nichts."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Hat ___ Ehemann auch Verwandte in Deutschland? (your — masc. noun)",
+      "solution": "dein",
+      "explanation": "dein + masculine noun (der Ehemann) → dein in nominative."
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "No, my sister does not speak Russian.",
+      "solution": "Nein, meine Schwester spricht kein Russisch.",
+      "explanation": "nein = no; sprechen → sie spricht; kein = negating noun."
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Welche ist dein Onkel? (meaning: Which one is your uncle?) ✗ Find and fix the error.",
+      "solution": "Welcher ist dein Onkel?",
+      "explanation": "der Onkel is masculine. welch- + masculine nominative → welcher."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Your relatives speak a little bit of Spanish but not at all French.",
+      "solution": "Deine Verwandten sprechen ein bisschen Spanisch, aber gar kein Französisch.",
+      "explanation": "deine (pl.), ein bisschen = a little bit, gar kein = not at all (before noun)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich spreche nur ___ Deutsch. Kannst du mir helfen? (a little bit)",
+      "solution": "ein bisschen",
+      "explanation": "ein bisschen = a little bit. Invariable — never changes form."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Bist du nicht aus Deutschland? — ___, ich komme aus Berlin.",
+      "options": ["Nein", "Ja", "Doch"],
+      "solution": "Doch",
+      "explanation": "'doch' contradicts the negative assumption in the question. The speaker IS from Germany."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Which language does your uncle speak?",
+      "solution": "Welche Sprache spricht dein Onkel?",
+      "explanation": "welche (fem. sing. — die Sprache); dein (masc. — der Onkel); sprechen → er spricht (e→i)."
+    }
+  ]
+}

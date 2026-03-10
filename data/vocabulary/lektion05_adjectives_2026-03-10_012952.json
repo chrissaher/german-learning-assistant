@@ -1,0 +1,486 @@
+{
+  "lektion": 5,
+  "focus": "adjectives",
+  "file_slug": "lektion05_adjectives",
+  "generated_at": "2026-03-10T01:29:52",
+  "vocabulary": [
+    {
+      "german": "weiß",
+      "base_form": "weiß",
+      "english": "white",
+      "word_type": "adjective",
+      "antonym": "schwarz",
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "gelb",
+      "base_form": "gelb",
+      "english": "yellow",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "orange",
+      "base_form": "orange",
+      "english": "orange",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "Looks identical to English 'orange' and Spanish 'naranja' (false friend — different word!). The adjective is 'orange', the fruit is 'die Orange'.",
+      "lektion_source": 5
+    },
+    {
+      "german": "rot",
+      "base_form": "rot",
+      "english": "red",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "grün",
+      "base_form": "grün",
+      "english": "green",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "blau",
+      "base_form": "blau",
+      "english": "blue",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "braun",
+      "base_form": "braun",
+      "english": "brown",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": null,
+      "lektion_source": 5
+    },
+    {
+      "german": "schwarz",
+      "base_form": "schwarz",
+      "english": "black",
+      "word_type": "adjective",
+      "antonym": "weiß",
+      "cognate_note": null,
+      "lektion_source": 5
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Die Tasche ist schwarz und die Brille ist braun.",
+      "english": "The bag is black and the glasses are brown.",
+      "level": "medium",
+      "note": "Uses: schwarz, braun — colour adjectives in predicate position; die Tasche, die Brille from Lektion 5"
+    },
+    {
+      "id": 2,
+      "german": "Mein Auto ist rot, aber meine Tasche ist blau.",
+      "english": "My car is red, but my bag is blue.",
+      "level": "medium",
+      "note": "Uses: rot, blau — contrasting colours; das Auto, die Tasche from Lektion 5"
+    },
+    {
+      "id": 3,
+      "german": "Das Handy hat ein weißes Display und einen schwarzen Rahmen.",
+      "english": "The mobile phone has a white display and a black frame.",
+      "level": "complex",
+      "note": "Uses: weiß, schwarz — adjectives with endings in attributive position; das Handy from Lektion 5"
+    },
+    {
+      "id": 4,
+      "german": "Ich suche eine grüne Jacke oder eine orange Jacke.",
+      "english": "I am looking for a green jacket or an orange jacket.",
+      "level": "medium",
+      "note": "Uses: grün, orange — with adjective endings; die Jacke from Lektion 5"
+    },
+    {
+      "id": 5,
+      "german": "Der Bleistift ist gelb und der Kugelschreiber ist blau.",
+      "english": "The pencil is yellow and the pen is blue.",
+      "level": "medium",
+      "note": "Uses: gelb, blau — predicate adjectives; der Bleistift, der Kugelschreiber from Lektion 5"
+    },
+    {
+      "id": 6,
+      "german": "Welche Farbe hat das Feuerzeug? Es ist orange.",
+      "english": "What colour is the lighter? It is orange.",
+      "level": "medium",
+      "note": "Uses: orange — predicate adjective; das Feuerzeug from Lektion 5"
+    },
+    {
+      "id": 7,
+      "german": "Ich finde den braunen Schlüssel sehr schön, aber der schwarze ist billiger.",
+      "english": "I find the brown key very nice, but the black one is cheaper.",
+      "level": "complex",
+      "note": "Uses: braun, schwarz — attributive adjective endings (accusative masc., nominative masc.)"
+    },
+    {
+      "id": 8,
+      "german": "Die Flasche ist grün und das Glas ist weiß.",
+      "english": "The bottle is green and the glass is white.",
+      "level": "medium",
+      "note": "Uses: grün, weiß — predicate adjectives; die Flasche, das Glas from Lektion 5"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Die Tasche ist ___. (black)",
+      "solution": "schwarz",
+      "explanation": "schwarz = black. Predicate adjective (after 'ist') — no ending needed."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Bleistift ist ___. (yellow)",
+      "solution": "gelb",
+      "explanation": "gelb = yellow. Predicate adjective — no ending needed."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Auto ist ___. (red)",
+      "solution": "rot",
+      "explanation": "rot = red. Predicate adjective — no ending needed."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Die Brille ist ___. (brown)",
+      "solution": "braun",
+      "explanation": "braun = brown. Predicate adjective — no ending needed."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe eine ___ Jacke. (blue)",
+      "solution": "blaue",
+      "explanation": "blau + -e ending after 'eine' (feminine indefinite article): eine blaue Jacke."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er trägt einen ___ Rucksack. (green)",
+      "solution": "grünen",
+      "explanation": "grün + -en ending after 'einen' (masculine indefinite accusative): einen grünen Rucksack."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ein ___ Handy. (white)",
+      "solution": "weißes",
+      "explanation": "weiß + -es ending after 'ein' for neuter nominative: ein weißes Handy."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ Tasche kostet viel. (black – the definite article)",
+      "solution": "schwarze",
+      "explanation": "schwarz + -e after definite article 'die' (feminine nom.): die schwarze Tasche."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich kaufe das ___ Auto, nicht das ___. (white / red)",
+      "solution": "weiße / rote",
+      "explanation": "After definite article 'das' (neuter acc./nom.), adjective takes -e ending: das weiße, das rote."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Welche Farbe hat der Kugelschreiber? Er ist ___ und ___ . (blue and white)",
+      "solution": "blau und weiß",
+      "explanation": "After 'ist', predicate adjectives take no ending: blau, weiß."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Feuerzeug ist ___.",
+      "options": ["orange", "orangen", "oranges"],
+      "solution": "orange",
+      "explanation": "Predicate position (after ist) — adjective takes no ending: ist orange."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat eine ___ Kette.",
+      "options": ["goldene", "golden", "goldes"],
+      "solution": "goldene",
+      "explanation": "After indefinite article 'eine' (feminine nom./acc.), adjective takes -e: eine goldene Kette."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich sehe einen ___ Regenschirm.",
+      "options": ["roten", "roter", "rotes"],
+      "solution": "roten",
+      "explanation": "After 'einen' (masc. accusative indefinite), adjective takes -en: einen roten Regenschirm."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Tasche ist ___.",
+      "options": ["braun", "braune", "braunen"],
+      "solution": "braun",
+      "explanation": "Predicate adjective (after ist): no ending needed — braun."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das ist ein ___ Buch.",
+      "options": ["grünes", "grüne", "grünen"],
+      "solution": "grünes",
+      "explanation": "After 'ein' for neuter nominative, adjective takes -es: ein grünes Buch."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der ___ Schlüssel ist neu.",
+      "options": ["gelbe", "gelben", "gelber"],
+      "solution": "gelbe",
+      "explanation": "After definite article 'der' (masculine nominative), adjective takes -e: der gelbe Schlüssel."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Gegenteil (opposite) von 'weiß' ist ___.",
+      "options": ["schwarz", "blau", "rot"],
+      "solution": "schwarz",
+      "explanation": "weiß ↔ schwarz are the standard antonym pair for white/black."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ein ___ Handy.",
+      "options": ["schwarzes", "schwarze", "schwarzer"],
+      "solution": "schwarzes",
+      "explanation": "After 'ein' for neuter (das Handy) in nominative/accusative, adjective takes -es: ein schwarzes Handy."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The jacket is blue and the bag is black.",
+      "solution": "Die Jacke ist blau und die Tasche ist schwarz.",
+      "explanation": "Predicate adjectives: no ending after 'ist'. die Jacke, die Tasche — both feminine."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have a white pencil.",
+      "solution": "Ich habe einen weißen Bleistift.",
+      "explanation": "der Bleistift — masculine accusative after haben → einen; adjective: -en ending after einen."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The green bottle is made of glass.",
+      "solution": "Die grüne Flasche ist aus Glas.",
+      "explanation": "die Flasche — feminine; after 'die' (definite, fem. nom.), adjective takes -e: die grüne Flasche."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am looking for a red bag and a brown wallet.",
+      "solution": "Ich suche eine rote Tasche und einen braunen Geldbeutel.",
+      "explanation": "eine rote Tasche (fem. acc.); einen braunen Geldbeutel (masc. acc. → -en)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She bought a yellow umbrella and an orange jacket.",
+      "solution": "Sie hat einen gelben Regenschirm und eine orange Jacke gekauft.",
+      "explanation": "Perfekt: hat gekauft. einen gelben Regenschirm (masc. acc.); eine orange Jacke (fem. acc. — 'orange' is typically uninflected)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What colour is the book? It is blue.",
+      "solution": "Welche Farbe hat das Buch? Es ist blau.",
+      "explanation": "Welche Farbe hat...? = What colour is...? Predicate adjective: es ist blau (no ending)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The mobile phone is white and small.",
+      "solution": "Das Handy ist weiß und klein.",
+      "explanation": "Predicate adjectives after 'ist': weiß and klein — no endings needed."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Tasche ist schwarze.",
+      "solution": "Die Tasche ist schwarz.",
+      "explanation": "Predicate adjectives (after ist) do NOT take endings: schwarz, not schwarze."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe eine blauer Jacke.",
+      "solution": "Ich habe eine blaue Jacke.",
+      "explanation": "After 'eine' (feminine nominative/accusative), adjective takes -e: eine blaue Jacke, not blauer."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er kauft ein grüne Handy.",
+      "solution": "Er kauft ein grünes Handy.",
+      "explanation": "das Handy — neuter. After 'ein' (neuter nom./acc.), adjective takes -es: ein grünes Handy."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das ist ein rotes Auto, aber ich finde den roten besser.",
+      "solution": "Das ist ein rotes Auto, aber ich finde das rote besser.",
+      "explanation": "das Auto — neuter. As a standalone pronoun replacement: das rote (with definite article 'das'); 'den roten' would be masculine accusative."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich suche einen schwarz Schlüssel.",
+      "solution": "Ich suche einen schwarzen Schlüssel.",
+      "explanation": "After 'einen' (masc. acc. indefinite), adjective needs -en ending: schwarzen."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Gegenteil von 'schwarz' ist ___, und das Gegenteil von 'rot' ist (approximately) ___.",
+      "solution": "weiß / grün",
+      "explanation": "schwarz ↔ weiß (black ↔ white); rot ↔ grün (red ↔ green, e.g., traffic lights)."
+    },
+    {
+      "id": 32,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The brown bag is on the table and the red bottle is in the bag.",
+      "solution": "Die braune Tasche ist auf dem Tisch und die rote Flasche ist in der Tasche.",
+      "explanation": "die braune Tasche / die rote Flasche (def. art. + fem. nom. → -e); auf dem Tisch / in der Tasche (dative locations)."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Regenschirm ist ___. Der ___ Regenschirm ist neu. (orange — predicate then attributive)",
+      "solution": "orange / orange",
+      "explanation": "'orange' is typically uninflected in German (stays 'orange' even as attributive adjective)."
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich sehe die ___ Brille auf dem Tisch.",
+      "options": ["schwarze", "schwarzen", "schwarz"],
+      "solution": "schwarze",
+      "explanation": "After 'die' (definite, feminine nominative/accusative), adjective takes -e: die schwarze Brille."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Is the bag green or blue?",
+      "solution": "Ist die Tasche grün oder blau?",
+      "explanation": "Predicate adjectives in a question: no endings. Verb-first in yes/no questions."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gras ist ___. (green)",
+      "solution": "grün",
+      "explanation": "grün = green. Predicate adjective — no ending needed."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Wasser ist ___. (blue)",
+      "solution": "blau",
+      "explanation": "blau = blue. Predicate adjective — no ending needed."
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie hat die weißen Handtuch gekauft.",
+      "solution": "Sie hat das weiße Handtuch gekauft.",
+      "explanation": "das Handtuch — neuter. After 'das' (neuter accusative), adjective takes -e: das weiße Handtuch, not 'die weißen'."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He has a black hairdryer and a white brush.",
+      "solution": "Er hat einen schwarzen Föhn und eine weiße Bürste.",
+      "explanation": "einen schwarzen Föhn (masc. acc. → -en); eine weiße Bürste (fem. acc. → -e)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der Kugelschreiber ist ___ und die Tasche ist ___ und das Handy ist ___. (red / black / white)",
+      "solution": "rot / schwarz / weiß",
+      "explanation": "All predicate adjectives (after ist): no endings needed."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir sehen ein ___ Auto und einen ___ Bus.",
+      "options": ["gelbes / roten", "gelbe / rote", "gelber / roter"],
+      "solution": "gelbes / roten",
+      "explanation": "ein gelbes Auto (neuter nom./acc. → -es); einen roten Bus (masc. acc. → -en)."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Seife ist ___ und das Handtuch ist ___. (white / yellow)",
+      "solution": "weiß / gelb",
+      "explanation": "Predicate adjectives after 'ist': no endings for weiß or gelb."
+    }
+  ]
+}

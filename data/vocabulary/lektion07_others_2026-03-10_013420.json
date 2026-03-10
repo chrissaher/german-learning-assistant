@@ -1,0 +1,537 @@
+{
+  "lektion": 7,
+  "focus": "others",
+  "file_slug": "lektion07_others",
+  "generated_at": "2026-03-10T01:34:20",
+  "vocabulary": [
+    {
+      "german": "überall",
+      "base_form": "überall",
+      "english": "everywhere, anywhere",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Placed after the verb or at the start of a clause: Man kann überall Musik hören. / Überall tanzen die Leute.",
+      "lektion_source": 7
+    },
+    {
+      "german": "zurzeit",
+      "base_form": "zurzeit",
+      "english": "currently, at the moment",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb placed at the start or after the verb: Zurzeit lerne ich Deutsch. / Ich lerne zurzeit Deutsch.",
+      "lektion_source": 7
+    },
+    {
+      "german": "immer",
+      "base_form": "immer",
+      "english": "always",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency adverb, placed after the conjugated verb or before an adjective: Er kocht immer. / Das ist immer gut.",
+      "lektion_source": 7
+    },
+    {
+      "german": "oft",
+      "base_form": "oft",
+      "english": "often",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency adverb placed after the verb: Ich höre oft Musik. Between immer (always) and manchmal (sometimes) in frequency.",
+      "lektion_source": 7
+    },
+    {
+      "german": "manchmal",
+      "base_form": "manchmal",
+      "english": "sometimes",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency adverb placed after the verb: Sie kocht manchmal. Less frequent than oft, more frequent than nie.",
+      "lektion_source": 7
+    },
+    {
+      "german": "nie",
+      "base_form": "nie",
+      "english": "never",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Negation adverb placed after the verb: Er tanzt nie. Opposite of immer (always). Note: nie vs. nicht — nie = never (frequency), nicht = not (negation).",
+      "lektion_source": 7
+    },
+    {
+      "german": "lange",
+      "base_form": "lange",
+      "english": "long, for a long time",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Duration adverb placed after the verb: Ich schlafe lange. / Wie lange dauert das?",
+      "lektion_source": 7
+    },
+    {
+      "german": "alle",
+      "base_form": "alle",
+      "english": "all, everyone",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Can function as a pronoun (alle tanzen = everyone dances) or as a determiner before plural nouns (alle Freunde = all friends).",
+      "lektion_source": 7
+    },
+    {
+      "german": "beide",
+      "base_form": "beide",
+      "english": "both",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Used for exactly two items/people: Beide können gut tanzen (Both can dance well). Always refers to a previously mentioned pair.",
+      "lektion_source": 7
+    },
+    {
+      "german": "auch nicht",
+      "base_form": "auch nicht",
+      "english": "not either, neither",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used to add a negative: Ich kann nicht singen. — Ich auch nicht! (I can't sing. — Neither can I!)",
+      "lektion_source": 7
+    },
+    {
+      "german": "in der Freizeit",
+      "base_form": "in der Freizeit",
+      "english": "in one's free time",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed prepositional phrase: in + dative. In meiner Freizeit lese ich. / Was machst du in deiner Freizeit?",
+      "lektion_source": 7
+    },
+    {
+      "german": "gern",
+      "base_form": "gern",
+      "english": "gladly, with pleasure (to like doing)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Placed after the verb to express liking: Ich tanze gern (I like dancing). Also: gern + haben = to like someone: Ich habe dich gern.",
+      "lektion_source": 7
+    },
+    {
+      "german": "Herzlichen Dank!",
+      "base_form": "Herzlichen Dank",
+      "english": "Thank you very much! Heartfelt thanks!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Formal/warm expression of thanks. More emphatic than Danke. Herzlichen is accusative (herzlich + -en) modifying Dank.",
+      "lektion_source": 7
+    },
+    {
+      "german": "wirklich",
+      "base_form": "wirklich",
+      "english": "really, truly",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier placed before adjectives or verbs: Das ist wirklich toll. / Er kann wirklich gut tanzen.",
+      "lektion_source": 7
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Überall in der Stadt kann man tolle Musik hören — ich liebe das!",
+      "english": "Everywhere in the city you can hear great music — I love it!",
+      "level": "medium",
+      "note": "Uses: überall, immer implied; können + infinitive hören"
+    },
+    {
+      "id": 2,
+      "german": "Er tanzt immer, wenn er Musik hört — manchmal sogar auf der Straße!",
+      "english": "He always dances when he hears music — sometimes even in the street!",
+      "level": "complex",
+      "note": "Uses: immer, manchmal; wenn-clause (subordinating conjunction)"
+    },
+    {
+      "id": 3,
+      "german": "Ich tanze oft, aber mein Freund tanzt nie — er findet es blöd.",
+      "english": "I often dance, but my friend never dances — he finds it stupid.",
+      "level": "complex",
+      "note": "Uses: oft, nie; contrast between two frequency adverbs"
+    },
+    {
+      "id": 4,
+      "german": "Zurzeit lerne ich Deutsch und gehe manchmal ins Konzert.",
+      "english": "Currently I am learning German and sometimes go to concerts.",
+      "level": "medium",
+      "note": "Uses: zurzeit, manchmal; ins Konzert gehen"
+    },
+    {
+      "id": 5,
+      "german": "Alle tanzen gern im Klub — beide DJs sind wirklich toll!",
+      "english": "Everyone likes dancing at the club — both DJs are really great!",
+      "level": "medium",
+      "note": "Uses: alle, beide, gern, wirklich; toll from Lektion 7 adjectives"
+    },
+    {
+      "id": 6,
+      "german": "In meiner Freizeit koche ich gern und lese lange — das macht mir viel Spaß.",
+      "english": "In my free time I like cooking and read for a long time — that is a lot of fun.",
+      "level": "complex",
+      "note": "Uses: in der Freizeit, gern, lange, Spaß; multiple Lektion 7 words in one sentence"
+    },
+    {
+      "id": 7,
+      "german": "Er kann nicht singen und ich auch nicht — aber wir tanzen beide gern!",
+      "english": "He can't sing and neither can I — but we both like dancing!",
+      "level": "complex",
+      "note": "Uses: auch nicht, beide, gern; auch nicht in a response context"
+    },
+    {
+      "id": 8,
+      "german": "Herzlichen Dank! Das Konzert war wirklich toll und hat lange gedauert.",
+      "english": "Thank you very much! The concert was really great and lasted a long time.",
+      "level": "medium",
+      "note": "Uses: Herzlichen Dank!, wirklich, lange; toll from adjectives"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich tanze ___. (always)",
+      "solution": "immer",
+      "explanation": "immer = always. Frequency adverb placed after the conjugated verb."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er kocht ___. Vielleicht einmal pro Woche. (sometimes)",
+      "solution": "manchmal",
+      "explanation": "manchmal = sometimes. Less frequent than oft, more frequent than nie."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie geht ___ ins Fitnessstudio. Sie hasst Sport. (never)",
+      "solution": "nie",
+      "explanation": "nie = never. Opposite of immer. Note: nie = never (frequency), nicht = not (simple negation)."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich höre ___ Musik — das ist mein Lieblingshobbby! (often)",
+      "solution": "oft",
+      "explanation": "oft = often. Placed after the verb: Ich höre oft Musik."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Man kann ___ tanzen — in der Stadt, zu Hause, im Klub. (everywhere)",
+      "solution": "überall",
+      "explanation": "überall = everywhere/anywhere. Placed after the verb or at sentence start."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ lerne ich Gitarre spielen. (currently / at the moment)",
+      "solution": "Zurzeit",
+      "explanation": "zurzeit = currently/at the moment. Placed at sentence start (inverts subject and verb: Zurzeit lerne ich...)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich tanze ___. Das macht mir Spaß! (gladly / with pleasure)",
+      "solution": "gern",
+      "explanation": "gern after the verb expresses liking the activity: Ich tanze gern = I like dancing."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Konzert hat ___ gedauert — fast drei Stunden! (for a long time)",
+      "solution": "lange",
+      "explanation": "lange = for a long time. Duration adverb placed after the verb."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ im Klub tanzen gern — es ist ein tolles Hobby! (everyone)",
+      "solution": "Alle",
+      "explanation": "alle = all/everyone. Used as pronoun subject (alle tanzen) or before plural nouns (alle Freunde)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine Freundin und ich können ___ gut singen. (both)",
+      "solution": "beide",
+      "explanation": "beide = both. Used for exactly two people/things."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "In ___ Freizeit malt er und surft im Internet. (his — possessive for in der Freizeit)",
+      "solution": "seiner",
+      "explanation": "in seiner Freizeit (in his free time) — die Freizeit is feminine; nach in (dative): in seiner Freizeit."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich kann nicht tanzen — mein Freund ___ ___. (neither can — also nicht)",
+      "solution": "auch nicht",
+      "explanation": "auch nicht = not either / neither. Response pattern: A: Ich kann nicht tanzen. B: Ich auch nicht."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das war ___ toll! Die Musik hat mich ___ begeistert. (really / really — wirklich x2)",
+      "solution": "wirklich / wirklich",
+      "explanation": "wirklich = really/truly. Placed before adjectives (wirklich toll) or before verbs (hat mich wirklich begeistert)."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___! Das Konzert war fantastisch. (Thank you very much! — formal phrase)",
+      "solution": "Herzlichen Dank!",
+      "explanation": "Herzlichen Dank! = Thank you very much! / Heartfelt thanks! More emphatic than just Danke."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er hört ___ Musik — jeden Tag, den ganzen Tag.",
+      "options": ["a) manchmal", "b) immer", "c) nie"],
+      "solution": "b) immer",
+      "explanation": "immer = always. Context (every day, all day) indicates always, not sometimes or never."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Sie geht ___ ins Fitnessstudio — einmal pro Woche.",
+      "options": ["a) immer", "b) oft", "c) nie"],
+      "solution": "b) oft",
+      "explanation": "oft = often. Once a week is frequent but not 'always'. nie = never contradicts the sentence."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich lerne ___ Gitarre — ich habe erst letzte Woche angefangen.",
+      "options": ["a) immer", "b) zurzeit", "c) lange"],
+      "solution": "b) zurzeit",
+      "explanation": "zurzeit = currently. The context (just started last week) indicates a current/recent activity."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Freunde können gut tanzen — Max und Lena.",
+      "options": ["a) Alle", "b) Beide", "c) Immer"],
+      "solution": "b) Beide",
+      "explanation": "beide = both — appropriate for exactly two people (Max und Lena). alle = all (for a group). immer = always (not applicable)."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Man kann ___ kochen — zu Hause, im Restaurant, auf einem Ausflug.",
+      "options": ["a) überall", "b) manchmal", "c) lange"],
+      "solution": "a) überall",
+      "explanation": "überall = everywhere — fitting the context of many different locations listed."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er geht ___ tanzen — er hasst Musik und Clubs.",
+      "options": ["a) immer", "b) oft", "c) nie"],
+      "solution": "c) nie",
+      "explanation": "nie = never — fitting the context of hating music and clubs."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I sometimes go to concerts. (use: manchmal / Konzert)",
+      "solution": "Ich gehe manchmal ins Konzert.",
+      "explanation": "manchmal placed after the verb. ins Konzert gehen = to go to a concert (in + das → ins)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Currently I am learning to cook. (use: zurzeit / kochen / lernen)",
+      "solution": "Zurzeit lerne ich kochen.",
+      "explanation": "zurzeit at sentence start triggers verb-second: Zurzeit lerne ich... lernen + infinitive = to learn to do something."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Everyone likes to dance in the club. (use: alle / gern / tanzen / Klub)",
+      "solution": "Alle tanzen gern im Klub.",
+      "explanation": "alle as subject (nominative). gern after the verb (tanzen gern). im Klub (in + dem, dative of location)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I can't swim. — Neither can I! (use: können / schwimmen / auch nicht)",
+      "solution": "Ich kann nicht schwimmen. — Ich auch nicht!",
+      "explanation": "auch nicht = neither / not either. In the response, ich comes first (emphasis), then auch nicht."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "In my free time I often read and sometimes paint. (use: in der Freizeit / oft / manchmal / lesen / malen)",
+      "solution": "In meiner Freizeit lese ich oft und male manchmal.",
+      "explanation": "in meiner Freizeit (dative, possessive). oft after lese. manchmal after male. Verb-second rule applies."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Both can dance really well — they practice every day. (use: beide / wirklich / tanzen / immer)",
+      "solution": "Beide können wirklich gut tanzen — sie üben immer.",
+      "explanation": "beide as subject. wirklich before gut (intensifier). immer after the verb (üben immer)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er nie tanzt im Klub.",
+      "solution": "Er tanzt nie im Klub.",
+      "explanation": "nie is a frequency adverb and should be placed after the conjugated verb, not before it. Correct: Er tanzt nie im Klub."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich gern koche jeden Abend.",
+      "solution": "Ich koche gern jeden Abend.",
+      "explanation": "gern should follow the conjugated verb, not precede it. Correct word order: Ich koche gern jeden Abend."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Zurzeit ich lerne Gitarre spielen.",
+      "solution": "Zurzeit lerne ich Gitarre spielen.",
+      "explanation": "Verb-second rule: when an adverb (Zurzeit) starts the sentence, the verb must come second: Zurzeit lerne ich..."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Beide meine Freunde können gut tanzen.",
+      "solution": "Beide Freunde können gut tanzen. / Meine beiden Freunde können gut tanzen.",
+      "explanation": "beide and meine cannot both precede the noun directly in the same way. Either beide Freunde or meine beiden Freunde is correct."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich kann nicht singen — er nicht auch.",
+      "solution": "Ich kann nicht singen — er auch nicht.",
+      "explanation": "The phrase for 'neither can he' is: er auch nicht (not: er nicht auch). auch nicht is a fixed phrase."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Überall man kann Musik hören in der Stadt.",
+      "solution": "Überall in der Stadt kann man Musik hören.",
+      "explanation": "Two corrections: verb-second rule (überall → verb must follow). Better word order: Überall in der Stadt kann man..."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Was machst du ___ Freizeit? (in your — in der Freizeit with possessive)",
+      "solution": "in deiner",
+      "explanation": "in deiner Freizeit (in your free time) — die Freizeit is feminine; dative after in: in deiner Freizeit."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er kocht ___, aber er singt ___. (sometimes / never)",
+      "solution": "manchmal / nie",
+      "explanation": "manchmal = sometimes; nie = never. Both are frequency adverbs placed after the conjugated verb."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Thank you very much! The concert was fantastic. (use: Herzlichen Dank / wirklich / toll)",
+      "solution": "Herzlichen Dank! Das Konzert war wirklich toll.",
+      "explanation": "Herzlichen Dank! = Thank you very much! wirklich intensifies toll."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du kannst ___ gut singen — ich bin beeindruckt! (really — intensifier)",
+      "solution": "wirklich",
+      "explanation": "wirklich = really/truly. Placed before the adjective/adverb it intensifies: wirklich gut."
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hört ___ gern Musik — er ist DJ.",
+      "options": ["a) nie", "b) manchmal", "c) immer"],
+      "solution": "c) immer",
+      "explanation": "immer = always. A DJ who plays music for a living would always love listening to music — immer fits best."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Everyone likes to read and both friends often go to concerts. (use: alle / beide / oft / gern / lesen / Konzert)",
+      "solution": "Alle lesen gern und beide Freunde gehen oft ins Konzert.",
+      "explanation": "alle as pronoun subject. gern after lesen. beide Freunde as subject. oft after gehen. ins Konzert = in + das Konzert."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ interessant — ich lerne so viel! (really)",
+      "solution": "wirklich",
+      "explanation": "wirklich = really. Placed before interessant to intensify the adjective."
+    },
+    {
+      "id": 40,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "In seiner Freizeit er hört immer Musik und tanzt manchmal.",
+      "solution": "In seiner Freizeit hört er immer Musik und tanzt manchmal.",
+      "explanation": "Verb-second rule: In seiner Freizeit occupies first position, so hört (verb) must come second, then er (subject)."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She never goes to the gym, but she always dances at home. (use: nie / immer / tanzen / Fitnessstudio)",
+      "solution": "Sie geht nie ins Fitnessstudio, aber sie tanzt immer zu Hause.",
+      "explanation": "nie after geht (never goes). immer after tanzt (always dances). ins = in + das."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich koche nicht gut — mein Partner ___. Wir gehen ___ ins Restaurant! (auch nicht / manchmal)",
+      "solution": "auch nicht / manchmal",
+      "explanation": "auch nicht = neither does my partner. manchmal = sometimes (we go to restaurants as a result)."
+    }
+  ]
+}

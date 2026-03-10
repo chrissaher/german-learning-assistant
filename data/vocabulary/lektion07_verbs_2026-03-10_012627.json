@@ -1,0 +1,728 @@
+{
+  "lektion": 7,
+  "focus": "verbs",
+  "file_slug": "lektion07_verbs",
+  "generated_at": "2026-03-10T01:26:27",
+  "vocabulary": [
+    {
+      "german": "können",
+      "base_form": "können",
+      "english": "to be able to, can",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kann",
+        "du": "kannst",
+        "er/sie/es": "kann",
+        "wir": "können",
+        "ihr": "könnt",
+        "sie/Sie": "können"
+      },
+      "perfekt": "hat gekonnt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Modal verb. In sentences with another verb, that verb goes to end as infinitive: Ich kann tanzen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "tanzen",
+      "base_form": "tanzen",
+      "english": "to dance",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "tanze",
+        "du": "tanzt",
+        "er/sie/es": "tanzt",
+        "wir": "tanzen",
+        "ihr": "tanzt",
+        "sie/Sie": "tanzen"
+      },
+      "perfekt": "hat getanzt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "hören",
+      "base_form": "hören",
+      "english": "to listen, to hear",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "höre",
+        "du": "hörst",
+        "er/sie/es": "hört",
+        "wir": "hören",
+        "ihr": "hört",
+        "sie/Sie": "hören"
+      },
+      "perfekt": "hat gehört",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "kochen",
+      "base_form": "kochen",
+      "english": "to cook",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "koche",
+        "du": "kochst",
+        "er/sie/es": "kocht",
+        "wir": "kochen",
+        "ihr": "kocht",
+        "sie/Sie": "kochen"
+      },
+      "perfekt": "hat gekocht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "singen",
+      "base_form": "singen",
+      "english": "to sing",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "singe",
+        "du": "singst",
+        "er/sie/es": "singt",
+        "wir": "singen",
+        "ihr": "singt",
+        "sie/Sie": "singen"
+      },
+      "perfekt": "hat gesungen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II (gesungen, not gesing-t).",
+      "lektion_source": 7
+    },
+    {
+      "german": "schwimmen",
+      "base_form": "schwimmen",
+      "english": "to swim",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schwimme",
+        "du": "schwimmst",
+        "er/sie/es": "schwimmt",
+        "wir": "schwimmen",
+        "ihr": "schwimmt",
+        "sie/Sie": "schwimmen"
+      },
+      "perfekt": "ist geschwommen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb with sein auxiliary (movement through water). Partizip II: geschwommen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "fotografieren",
+      "base_form": "fotografieren",
+      "english": "to take photographs",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "fotografiere",
+        "du": "fotografierst",
+        "er/sie/es": "fotografiert",
+        "wir": "fotografieren",
+        "ihr": "fotografiert",
+        "sie/Sie": "fotografieren"
+      },
+      "perfekt": "hat fotografiert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Loanword verb (from French/Greek). No ge- prefix in Partizip II for verbs ending in -ieren.",
+      "lektion_source": 7
+    },
+    {
+      "german": "malen",
+      "base_form": "malen",
+      "english": "to paint, to draw",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "male",
+        "du": "malst",
+        "er/sie/es": "malt",
+        "wir": "malen",
+        "ihr": "malt",
+        "sie/Sie": "malen"
+      },
+      "perfekt": "hat gemalt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "backen",
+      "base_form": "backen",
+      "english": "to bake",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "backe",
+        "du": "bäckst",
+        "er/sie/es": "bäckt",
+        "wir": "backen",
+        "ihr": "backt",
+        "sie/Sie": "backen"
+      },
+      "perfekt": "hat gebacken",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change a→ä in du/er forms (du bäckst, er bäckt). Irregular Partizip II: gebacken.",
+      "lektion_source": 7
+    },
+    {
+      "german": "reiten",
+      "base_form": "reiten",
+      "english": "to ride (a horse)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "reite",
+        "du": "reitest",
+        "er/sie/es": "reitet",
+        "wir": "reiten",
+        "ihr": "reitet",
+        "sie/Sie": "reiten"
+      },
+      "perfekt": "ist geritten",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb using sein auxiliary (movement on horseback). Partizip II: geritten.",
+      "lektion_source": 7
+    },
+    {
+      "german": "lesen",
+      "base_form": "lesen",
+      "english": "to read",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lese",
+        "du": "liest",
+        "er/sie/es": "liest",
+        "wir": "lesen",
+        "ihr": "lest",
+        "sie/Sie": "lesen"
+      },
+      "perfekt": "hat gelesen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change e→ie in du/er forms (du liest, er liest). Irregular Partizip II: gelesen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "treffen",
+      "base_form": "treffen",
+      "english": "to meet",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "treffe",
+        "du": "triffst",
+        "er/sie/es": "trifft",
+        "wir": "treffen",
+        "ihr": "trefft",
+        "sie/Sie": "treffen"
+      },
+      "perfekt": "hat getroffen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change e→i in du/er forms (du triffst, er trifft). Irregular Partizip II: getroffen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "surfen",
+      "base_form": "surfen",
+      "english": "to browse (the internet), to surf",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "surfe",
+        "du": "surfst",
+        "er/sie/es": "surft",
+        "wir": "surfen",
+        "ihr": "surft",
+        "sie/Sie": "surfen"
+      },
+      "perfekt": "hat gesurft",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Loanword verb. im Internet surfen = to browse the internet.",
+      "lektion_source": 7
+    },
+    {
+      "german": "lieben",
+      "base_form": "lieben",
+      "english": "to love",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "liebe",
+        "du": "liebst",
+        "er/sie/es": "liebt",
+        "wir": "lieben",
+        "ihr": "liebt",
+        "sie/Sie": "lieben"
+      },
+      "perfekt": "hat geliebt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "auf|legen",
+      "base_form": "auflegen",
+      "english": "to deejay, to play records",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lege auf",
+        "du": "legst auf",
+        "er/sie/es": "legt auf",
+        "wir": "legen auf",
+        "ihr": "legt auf",
+        "sie/Sie": "legen auf"
+      },
+      "perfekt": "hat aufgelegt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb: prefix auf- splits to end of clause in Präsens. Partizip II: aufgelegt (ge- inserted between auf and legt).",
+      "lektion_source": 7
+    },
+    {
+      "german": "gehen",
+      "base_form": "gehen",
+      "english": "to go, to walk",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "gehe",
+        "du": "gehst",
+        "er/sie/es": "geht",
+        "wir": "gehen",
+        "ihr": "geht",
+        "sie/Sie": "gehen"
+      },
+      "perfekt": "ist gegangen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb using sein auxiliary (movement on foot). Partizip II: gegangen (irregular).",
+      "lektion_source": 7
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Sie kann super tanzen und singt auch sehr schön.",
+      "english": "She can dance brilliantly and also sings very beautifully.",
+      "level": "medium",
+      "note": "Uses: können (modal + infinitive tanzen), singen; modal verb sends infinitive to end"
+    },
+    {
+      "id": 2,
+      "german": "Ich koche gern und backe manchmal Kuchen für meine Freunde.",
+      "english": "I like cooking and sometimes bake cake for my friends.",
+      "level": "medium",
+      "note": "Uses: kochen, backen; gern + verb = to like doing something"
+    },
+    {
+      "id": 3,
+      "german": "Er hat gestern mit seinen Freunden getanzt und Musik gehört.",
+      "english": "He danced with his friends yesterday and listened to music.",
+      "level": "complex",
+      "note": "Uses: tanzen (Perfekt: hat getanzt), hören (Perfekt: hat gehört); two Perfekt verbs in one sentence"
+    },
+    {
+      "id": 4,
+      "german": "Kannst du gut schwimmen oder reiten?",
+      "english": "Can you swim well or ride horses?",
+      "level": "medium",
+      "note": "Uses: können (du-form: kannst), schwimmen, reiten; modal + infinitive at end"
+    },
+    {
+      "id": 5,
+      "german": "In seiner Freizeit liest er Bücher und surft im Internet.",
+      "english": "In his free time he reads books and browses the internet.",
+      "level": "medium",
+      "note": "Uses: lesen (er liest — stem change e→ie), surfen; im Internet surfen"
+    },
+    {
+      "id": 6,
+      "german": "Sie fotografiert gern auf Ausflügen und malt zu Hause.",
+      "english": "She likes taking photos on trips and paints at home.",
+      "level": "medium",
+      "note": "Uses: fotografieren (no ge- in Perfekt), malen; gern + verb"
+    },
+    {
+      "id": 7,
+      "german": "Der DJ legt jeden Freitag im Klub auf — wir treffen uns dort um acht.",
+      "english": "The DJ deejays at the club every Friday — we meet there at eight.",
+      "level": "complex",
+      "note": "Uses: auflegen (separable: legt … auf), treffen (Reflexiv: treffen uns); separable verb word order"
+    },
+    {
+      "id": 8,
+      "german": "Er ist früher viel geritten, aber jetzt geht er lieber ins Fitnessstudio.",
+      "english": "He used to ride a lot, but now he prefers going to the gym.",
+      "level": "complex",
+      "note": "Uses: reiten (Perfekt: ist geritten — sein), gehen (Perfekt: ist gegangen — sein); both motion verbs use sein"
+    },
+    {
+      "id": 9,
+      "german": "Ich liebe es, Musik zu hören und dabei zu kochen.",
+      "english": "I love listening to music and cooking at the same time.",
+      "level": "complex",
+      "note": "Uses: lieben, hören, kochen; lieben + zu-Infinitiv construction"
+    },
+    {
+      "id": 10,
+      "german": "Wir haben nach dem Konzert Freunde getroffen und zusammen gegessen.",
+      "english": "After the concert we met friends and ate together.",
+      "level": "complex",
+      "note": "Uses: treffen (Perfekt: hat getroffen), essen (hat gegessen); two Perfekt verbs"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ gut kochen. (können — ich-form)",
+      "solution": "kann",
+      "explanation": "können is a modal verb; ich-form is kann (same as er/sie/es form — typical for modals)."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ jeden Tag. (tanzen — er-form)",
+      "solution": "tanzt",
+      "explanation": "tanzen — regular verb; er-form adds -t: tanz + t = tanzt."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ gern Musik. (hören — du-form)",
+      "solution": "hörst",
+      "explanation": "hören — regular verb; du-form adds -st: hör + st = hörst."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie ___ jeden Sonntag. (schwimmen — sie-form)",
+      "solution": "schwimmt",
+      "explanation": "schwimmen — regular Präsens; sie-form adds -t: schwimm + t = schwimmt."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ ein Buch. (lesen — er-form, stem change!)",
+      "solution": "liest",
+      "explanation": "lesen — stem vowel change e→ie in du/er forms: er liest (not er lest)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du ___ wirklich gut ___! (können + tanzen)",
+      "solution": "kannst / tanzen",
+      "explanation": "Modal verb können: du-form is kannst. The second verb (tanzen) stays as infinitive at the end of the clause."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ morgen unsere Freunde. (treffen — wir-form)",
+      "solution": "treffen",
+      "explanation": "treffen — wir-form is treffen (same as infinitive). Stem change only in du/er forms (triffst/trifft)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ immer im Internet ___. (surfen — er-form, separable note: NOT separable — just fill in conjugation)",
+      "solution": "surft",
+      "explanation": "surfen is a regular verb; er-form: surft. im Internet surfen is a common fixed phrase."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der DJ ___ jeden Freitag im Klub ___. (auflegen — er-form, separable!)",
+      "solution": "legt / auf",
+      "explanation": "auflegen is separable: prefix auf- goes to end. Er legt auf (not: Er aufleget)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ schon als Kind gern ___. (backen — Perfekt: hat gebacken)",
+      "solution": "hat / gebacken",
+      "explanation": "backen forms Perfekt with haben. Partizip II: gebacken (strong/irregular, not gebackt)."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr gut singen.",
+      "options": ["a) kannst", "b) kann", "c) könnt"],
+      "solution": "a) kannst",
+      "explanation": "können — du-form is kannst. kann is ich/er; könnt is ihr-form."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ jeden Abend.",
+      "options": ["a) lesen", "b) liest", "c) lest"],
+      "solution": "b) liest",
+      "explanation": "lesen — er-form has stem change e→ie: liest. lesen is infinitive/wir-form; lest is ihr-form."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Maria ___ gestern im See ___.",
+      "options": ["a) hat / geschwommen", "b) ist / geschwommen", "c) hat / geschwimmt"],
+      "solution": "b) ist / geschwommen",
+      "explanation": "schwimmen uses sein in Perfekt (movement verb). Partizip II is geschwommen (irregular, not geschwimmt)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ gut backen.",
+      "options": ["a) kann", "b) kannst", "c) können"],
+      "solution": "a) kann",
+      "explanation": "können — er/sie/es form is kann (same as ich-form — typical for modal verbs)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie ___ letztes Jahr viel ___.",
+      "options": ["a) hat / geritten", "b) ist / geritten", "c) ist / gereitet"],
+      "solution": "b) ist / geritten",
+      "explanation": "reiten uses sein (movement on horseback). Partizip II: geritten (irregular, not gereitet)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich ___ gestern meine Freunde ___.",
+      "options": ["a) habe / getroffen", "b) bin / getroffen", "c) habe / getrefft"],
+      "solution": "a) habe / getroffen",
+      "explanation": "treffen uses haben in Perfekt. Partizip II: getroffen (irregular, not getrefft)."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She can sing very well. (use: können / singen)",
+      "solution": "Sie kann sehr gut singen.",
+      "explanation": "Modal können: sie-form is kann. singen goes as infinitive to the end of the clause."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He is cooking right now. (use: kochen / gerade)",
+      "solution": "Er kocht gerade.",
+      "explanation": "kochen — er-form: kocht. gerade (right now) follows the verb."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I like reading in my free time. (use: lesen / gern / Freizeit)",
+      "solution": "In meiner Freizeit lese ich gern.",
+      "explanation": "lesen — ich-form: lese. Note verb-second rule: In meiner Freizeit is the first element, so lese comes immediately after."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We met friends yesterday and listened to music together. (use: treffen / hören — Perfekt)",
+      "solution": "Wir haben gestern Freunde getroffen und zusammen Musik gehört.",
+      "explanation": "treffen → hat getroffen (haben). hören → hat gehört (haben). Both Partizip II go to end."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Can you bake a cake? My friend loves baking. (use: können / backen / lieben)",
+      "solution": "Kannst du einen Kuchen backen? Mein Freund liebt das Backen.",
+      "explanation": "Modal können: du-form kannst; backen as infinitive at end. liebt (er-form of lieben). das Backen = the baking (infinitive as noun)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She took photos on the trip and painted at home. (use: fotografieren / malen — Perfekt)",
+      "solution": "Sie hat auf dem Ausflug fotografiert und zu Hause gemalt.",
+      "explanation": "fotografieren → hat fotografiert (no ge- prefix for -ieren verbs). malen → hat gemalt (regular)."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er kann gut tanzen und singt sehr schönt.",
+      "solution": "Er kann gut tanzen und singt sehr schön.",
+      "explanation": "schön is already the correct adjective form here; schönt is not a word. The -t suffix belongs on verbs, not adjectives."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du lest jeden Abend ein Buch.",
+      "solution": "Du liest jeden Abend ein Buch.",
+      "explanation": "lesen — du-form has stem change e→ie: du liest (not du lest — that is ihr-form)."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat gestern geschwimmt.",
+      "solution": "Sie ist gestern geschwommen.",
+      "explanation": "Two errors: schwimmen uses sein (not hat), and Partizip II is geschwommen (not geschwimmt — irregular)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich treffe morgen meine Freunde — wir haben uns letzte Woche nicht getrefft.",
+      "solution": "Ich treffe morgen meine Freunde — wir haben uns letzte Woche nicht getroffen.",
+      "explanation": "treffen — Partizip II is getroffen (irregular), not getrefft."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Der DJ legt auf jeden Freitag im Klub.",
+      "solution": "Der DJ legt jeden Freitag im Klub auf.",
+      "explanation": "auflegen is a separable verb: the prefix auf- must go to the very end of the main clause, not after the verb."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er backt gern — er hat gestern einen Kuchen gebackt.",
+      "solution": "Er bäckt gern — er hat gestern einen Kuchen gebacken.",
+      "explanation": "Two errors: backen has stem change a→ä in er-form: er bäckt. Partizip II is gebacken (not gebackt — strong verb)."
+    },
+    {
+      "id": 29,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ gestern geschwommen.",
+      "solution": "ist",
+      "explanation": "schwimmen uses sein in Perfekt because it describes movement through water (change of location/state)."
+    },
+    {
+      "id": 30,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ Gitarre gespielt.",
+      "solution": "hat",
+      "explanation": "spielen uses haben in Perfekt. Playing an instrument is not a movement/change-of-state verb."
+    },
+    {
+      "id": 31,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Ich ___ ein Buch gelesen.",
+      "solution": "habe",
+      "explanation": "lesen uses haben in Perfekt. It is a transitive verb (takes an object: ein Buch)."
+    },
+    {
+      "id": 32,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ geritten und danach ___ er ins Fitnessstudio gegangen.",
+      "solution": "ist / ist",
+      "explanation": "Both reiten and gehen use sein: both describe physical movement (on horseback / on foot)."
+    },
+    {
+      "id": 33,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ Freunde getroffen und Musik gehört.",
+      "solution": "haben",
+      "explanation": "treffen and hören both use haben. treffen takes an object; hören is not a movement verb."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Sie ___ fotografiert und danach ___ sie nach Hause gegangen.",
+      "solution": "hat / ist",
+      "explanation": "fotografieren → hat (not movement). gehen → ist (movement on foot)."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Du ___ gestern super getanzt — du ___ wirklich gut tanzen gelernt!",
+      "solution": "hast / hast",
+      "explanation": "tanzen uses haben. lernen uses haben. Neither is a movement/change-of-state verb."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Du ___ sehr gut — ich liebe deine Stimme! (singen — du-form)",
+      "solution": "singst",
+      "explanation": "singen — du-form: sing + st = singst (regular Präsens conjugation; no stem change in Präsens)."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ wirklich gut — er ___ jedes Wochenende im Club. (tanzen / auflegen — Präsens)",
+      "solution": "tanzt / legt auf",
+      "explanation": "tanzen: er tanzt (regular). auflegen: separable verb, prefix goes to end — er legt auf."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you like to paint? (use: malen / gern)",
+      "solution": "Malst du gern?",
+      "explanation": "malen — du-form: malst. gern follows the verb to express liking."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She swam every day last year and rode on weekends. (use: schwimmen / reiten — Perfekt)",
+      "solution": "Letztes Jahr ist sie jeden Tag geschwommen und am Wochenende geritten.",
+      "explanation": "schwimmen → ist geschwommen (sein). reiten → ist geritten (sein). Both use sein."
+    },
+    {
+      "id": 40,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie kann kochen, backen und hat auch fotografiert sehr gut.",
+      "solution": "Sie kann kochen und backen, und sie fotografiert auch sehr gut.",
+      "explanation": "Modal können governs two infinitives (kochen, backen). fotografieren should be Präsens (fotografiert) here, not Perfekt, to match the context of ability."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich ___ gern im Internet ___. (surfen — ich-form / fixed phrase)",
+      "solution": "surfe / im Internet surfe ich gern",
+      "explanation": "surfen: ich surfe (regular). im Internet surfen is the fixed phrase for browsing the internet."
+    },
+    {
+      "id": 42,
+      "type": "have_vs_sein",
+      "level": "complex",
+      "prompt": "Er ___ aufgelegt und wir ___ bis drei Uhr morgens getanzt.",
+      "solution": "hat / haben",
+      "explanation": "auflegen → hat aufgelegt (haben; action verb, not movement). tanzen → haben getanzt (haben; tanzen is not a movement/change-of-state verb)."
+    }
+  ]
+}

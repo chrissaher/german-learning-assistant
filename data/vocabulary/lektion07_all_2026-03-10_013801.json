@@ -1,0 +1,809 @@
+{
+  "lektion": 7,
+  "focus": "all",
+  "file_slug": "lektion07_all",
+  "generated_at": "2026-03-10T01:38:01",
+  "vocabulary": [
+    {
+      "german": "die Minute",
+      "base_form": "Minute",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Minuten",
+      "english": "minute",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Hobby",
+      "base_form": "Hobby",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Hobbys",
+      "english": "hobby",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "die Freizeit",
+      "base_form": "Freizeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "leisure time, free time",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Klub",
+      "base_form": "Klub",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Klubs",
+      "english": "club",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Konzert",
+      "base_form": "Konzert",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Konzerte",
+      "english": "concert",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Fitnessstudio",
+      "base_form": "Fitnessstudio",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Fitnessstudios",
+      "english": "gym, fitness centre",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Freund",
+      "base_form": "Freund",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Freunde",
+      "english": "friend (male) / boyfriend",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Ausflug",
+      "base_form": "Ausflug",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Ausflüge",
+      "english": "trip, excursion",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "das Internet",
+      "base_form": "Internet",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "internet",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 7
+    },
+    {
+      "german": "der Spaß",
+      "base_form": "Spaß",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "fun",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 7
+    },
+    {
+      "german": "können",
+      "base_form": "können",
+      "english": "to be able to, can",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kann",
+        "du": "kannst",
+        "er/sie/es": "kann",
+        "wir": "können",
+        "ihr": "könnt",
+        "sie/Sie": "können"
+      },
+      "perfekt": "hat gekonnt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Modal verb. Second verb goes to end as infinitive.",
+      "lektion_source": 7
+    },
+    {
+      "german": "tanzen",
+      "base_form": "tanzen",
+      "english": "to dance",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "tanze",
+        "du": "tanzt",
+        "er/sie/es": "tanzt",
+        "wir": "tanzen",
+        "ihr": "tanzt",
+        "sie/Sie": "tanzen"
+      },
+      "perfekt": "hat getanzt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "singen",
+      "base_form": "singen",
+      "english": "to sing",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "singe",
+        "du": "singst",
+        "er/sie/es": "singt",
+        "wir": "singen",
+        "ihr": "singt",
+        "sie/Sie": "singen"
+      },
+      "perfekt": "hat gesungen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: Partizip II gesungen (irregular).",
+      "lektion_source": 7
+    },
+    {
+      "german": "schwimmen",
+      "base_form": "schwimmen",
+      "english": "to swim",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schwimme",
+        "du": "schwimmst",
+        "er/sie/es": "schwimmt",
+        "wir": "schwimmen",
+        "ihr": "schwimmt",
+        "sie/Sie": "schwimmen"
+      },
+      "perfekt": "ist geschwommen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb + sein auxiliary (movement). Partizip II: geschwommen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "kochen",
+      "base_form": "kochen",
+      "english": "to cook",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "koche",
+        "du": "kochst",
+        "er/sie/es": "kocht",
+        "wir": "kochen",
+        "ihr": "kocht",
+        "sie/Sie": "kochen"
+      },
+      "perfekt": "hat gekocht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "lesen",
+      "base_form": "lesen",
+      "english": "to read",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lese",
+        "du": "liest",
+        "er/sie/es": "liest",
+        "wir": "lesen",
+        "ihr": "lest",
+        "sie/Sie": "lesen"
+      },
+      "perfekt": "hat gelesen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem change e→ie in du/er forms.",
+      "lektion_source": 7
+    },
+    {
+      "german": "treffen",
+      "base_form": "treffen",
+      "english": "to meet",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "treffe",
+        "du": "triffst",
+        "er/sie/es": "trifft",
+        "wir": "treffen",
+        "ihr": "trefft",
+        "sie/Sie": "treffen"
+      },
+      "perfekt": "hat getroffen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem change e→i in du/er forms. Partizip II: getroffen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "surfen",
+      "base_form": "surfen",
+      "english": "to browse (internet), to surf",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "surfe",
+        "du": "surfst",
+        "er/sie/es": "surft",
+        "wir": "surfen",
+        "ihr": "surft",
+        "sie/Sie": "surfen"
+      },
+      "perfekt": "hat gesurft",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Loanword. im Internet surfen = to browse the internet.",
+      "lektion_source": 7
+    },
+    {
+      "german": "toll",
+      "base_form": "toll",
+      "english": "great, fantastic",
+      "word_type": "adjective",
+      "antonym": "schlecht",
+      "cognate_note": "False friend: English 'toll' = a fee. German toll = great/fantastic!",
+      "lektion_source": 7
+    },
+    {
+      "german": "komisch",
+      "base_form": "komisch",
+      "english": "strange, odd",
+      "word_type": "adjective",
+      "antonym": "normal",
+      "cognate_note": "False friend: Spanish 'cómico' / English 'comical' suggest humour. German komisch = strange/odd.",
+      "lektion_source": 7
+    },
+    {
+      "german": "interessant",
+      "base_form": "interessant",
+      "english": "interesting",
+      "word_type": "adjective",
+      "antonym": "langweilig",
+      "cognate_note": "True cognate: English 'interesting', Spanish 'interesante'.",
+      "lektion_source": 7
+    },
+    {
+      "german": "lustig",
+      "base_form": "lustig",
+      "english": "funny, amusing",
+      "word_type": "adjective",
+      "antonym": "traurig",
+      "cognate_note": "False friend: English 'lusty' means vigorous — not the same.",
+      "lektion_source": 7
+    },
+    {
+      "german": "blöd",
+      "base_form": "blöd",
+      "english": "stupid, annoying",
+      "word_type": "adjective",
+      "antonym": "toll",
+      "cognate_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "immer",
+      "base_form": "immer",
+      "english": "always",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency: highest. Placed after the conjugated verb. Opposite: nie.",
+      "lektion_source": 7
+    },
+    {
+      "german": "oft",
+      "base_form": "oft",
+      "english": "often",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency: high. Ich höre oft Musik. Between immer and manchmal.",
+      "lektion_source": 7
+    },
+    {
+      "german": "manchmal",
+      "base_form": "manchmal",
+      "english": "sometimes",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency: medium. Sie kocht manchmal. Less frequent than oft.",
+      "lektion_source": 7
+    },
+    {
+      "german": "nie",
+      "base_form": "nie",
+      "english": "never",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Frequency: lowest. Er tanzt nie. nie = never (frequency); nicht = not (general negation).",
+      "lektion_source": 7
+    },
+    {
+      "german": "gern",
+      "base_form": "gern",
+      "english": "gladly, to like doing",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Placed after the verb to express liking an activity: Ich tanze gern (I like dancing).",
+      "lektion_source": 7
+    },
+    {
+      "german": "wirklich",
+      "base_form": "wirklich",
+      "english": "really, truly",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier: Das ist wirklich toll. / Er kann wirklich gut tanzen.",
+      "lektion_source": 7
+    },
+    {
+      "german": "alle",
+      "base_form": "alle",
+      "english": "all, everyone",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Pronoun (alle tanzen = everyone dances) or determiner (alle Freunde = all friends).",
+      "lektion_source": 7
+    },
+    {
+      "german": "in der Freizeit",
+      "base_form": "in der Freizeit",
+      "english": "in one's free time",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed prepositional phrase (dative). In meiner Freizeit lese ich.",
+      "lektion_source": 7
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "In meiner Freizeit gehe ich oft ins Fitnessstudio — das macht wirklich Spaß!",
+      "english": "In my free time I often go to the gym — it is really fun!",
+      "level": "medium",
+      "note": "Nouns: die Freizeit, das Fitnessstudio, der Spaß. Others: oft, wirklich."
+    },
+    {
+      "id": 2,
+      "german": "Er kann toll tanzen und singt manchmal im Klub — alle lieben ihn!",
+      "english": "He can dance brilliantly and sometimes sings in the club — everyone loves him!",
+      "level": "medium",
+      "note": "Verbs: können, tanzen, singen. Nouns: der Klub. Adjective: toll. Others: manchmal, alle."
+    },
+    {
+      "id": 3,
+      "german": "Das Konzert war wirklich interessant — ich habe meinen Freund getroffen und wir haben zusammen gesungen.",
+      "english": "The concert was really interesting — I met my friend and we sang together.",
+      "level": "complex",
+      "note": "Nouns: das Konzert, der Freund. Verbs: treffen (hat getroffen), singen (hat gesungen). Adjective: interessant. Adverb: wirklich."
+    },
+    {
+      "id": 4,
+      "german": "Ich finde es komisch — er surft immer im Internet, aber liest nie ein Buch.",
+      "english": "I find it strange — he always browses the internet but never reads a book.",
+      "level": "complex",
+      "note": "Verbs: surfen, lesen. Adjective: komisch. Others: immer, nie; contrast of frequency adverbs."
+    },
+    {
+      "id": 5,
+      "german": "Was machst du gern in deiner Freizeit? — Ich koche gern und mache manchmal Ausflüge mit Freunden.",
+      "english": "What do you like to do in your free time? — I like cooking and sometimes go on trips with friends.",
+      "level": "complex",
+      "note": "Nouns: die Freizeit, der Ausflug, der Freund. Verbs: kochen, machen. Others: gern, manchmal, in der Freizeit."
+    },
+    {
+      "id": 6,
+      "german": "Beide Konzerte waren toll — alle haben getanzt und niemand wollte nach Hause.",
+      "english": "Both concerts were great — everyone danced and nobody wanted to go home.",
+      "level": "complex",
+      "note": "Nouns: das Konzert. Verb: tanzen (hat getanzt). Adjective: toll. Others: beide, alle."
+    },
+    {
+      "id": 7,
+      "german": "Sie schwimmt nie, aber sie geht gern in den Klub und tanzt die ganze Nacht.",
+      "english": "She never swims, but she likes going to the club and dancing all night.",
+      "level": "complex",
+      "note": "Verbs: schwimmen, gehen, tanzen. Noun: der Klub. Others: nie, gern."
+    },
+    {
+      "id": 8,
+      "german": "Das ist ein lustig-interessantes Hobby — ich male und fotografiere immer auf unseren Ausflügen.",
+      "english": "It is a funny and interesting hobby — I paint and take photos on all our trips.",
+      "level": "complex",
+      "note": "Nouns: das Hobby, der Ausflug. Verbs: malen, fotografieren. Adjectives: lustig, interessant. Adverb: immer."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Hobby ist toll! (neuter article)",
+      "solution": "Das",
+      "explanation": "das Hobby — neuter. Borrowed English word; most loanwords take das."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er kocht ___. (always)",
+      "solution": "immer",
+      "explanation": "immer = always. Frequency adverb placed after the conjugated verb."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie tanzt ___. (never)",
+      "solution": "nie",
+      "explanation": "nie = never. Frequency adverb, opposite of immer."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ sehr gut. (singen — er-form)",
+      "solution": "singt",
+      "explanation": "singen — er-form: singt. Regular Präsens conjugation in du/er; no stem change in Präsens."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ interessant! (really)",
+      "solution": "wirklich",
+      "explanation": "wirklich = really. Intensifier placed before the adjective."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Konzert war sehr ___! (great / fantastic)",
+      "solution": "toll",
+      "explanation": "toll = great/fantastic. Predicatively after war — no ending."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "In meiner ___ lese ich gern. (free time)",
+      "solution": "Freizeit",
+      "explanation": "die Freizeit — feminine, singular only. in meiner Freizeit = in my free time (dative)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___ gern. Das macht mir Spaß! (tanzen — ich-form)",
+      "solution": "tanze",
+      "explanation": "tanzen — ich-form: tanze. Regular verb."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ ein Buch. (lesen — er-form, stem change!)",
+      "solution": "liest",
+      "explanation": "lesen — stem vowel change e→ie in du/er forms: er liest."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir machen einen ___ nach Wien. (trip / excursion — masculine noun)",
+      "solution": "Ausflug",
+      "explanation": "der Ausflug — masculine, accusative after machen: einen Ausflug machen."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ beginnt um neun Uhr. (concert — neuter)",
+      "solution": "Konzert",
+      "explanation": "das Konzert — neuter. Must memorize the gender."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ gut tanzen — sie übt jeden Tag. (können — sie-form)",
+      "solution": "kann",
+      "explanation": "können — sie-form is kann (same as ich-form — typical for modal verbs)."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ tanzen gern im Klub — die Stimmung ist immer toll! (everyone)",
+      "solution": "Alle",
+      "explanation": "alle = everyone. Used as pronoun subject in nominative."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er surft immer im ___ und trifft manchmal Freunde online. (internet)",
+      "solution": "Internet",
+      "explanation": "das Internet — neuter. im Internet = in + dem Internet (dative of location)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Konzert war wirklich toll!",
+      "options": ["a) Der", "b) Die", "c) Das"],
+      "solution": "c) Das",
+      "explanation": "das Konzert — neuter. Must memorize; no reliable pattern."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr gut singen.",
+      "options": ["a) kann", "b) kannst", "c) können"],
+      "solution": "b) kannst",
+      "explanation": "können — du-form is kannst. kann is ich/er; können is wir/sie/Sie."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hört ___ Musik — jeden Tag.",
+      "options": ["a) nie", "b) manchmal", "c) immer"],
+      "solution": "c) immer",
+      "explanation": "immer = always. Context (every day) indicates always."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Buch ist langweilig. Das Gegenteil ist ___.",
+      "options": ["a) komisch", "b) interessant", "c) blöd"],
+      "solution": "b) interessant",
+      "explanation": "interessant (interesting) is the antonym of langweilig (boring)."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie ___ gestern im See ___.",
+      "options": ["a) hat / geschwommen", "b) ist / geschwommen", "c) hat / geschwimmt"],
+      "solution": "b) ist / geschwommen",
+      "explanation": "schwimmen uses sein. Partizip II: geschwommen (irregular)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "In meiner Freizeit gehe ich in ___ Klub.",
+      "options": ["a) dem", "b) den", "c) das"],
+      "solution": "b) den",
+      "explanation": "der Klub — masculine; in + accusative (movement): in den Klub."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My hobby is reading. I read every day. (use: das Hobby / lesen / immer)",
+      "solution": "Mein Hobby ist Lesen. Ich lese immer.",
+      "explanation": "das Hobby (neuter) → mein Hobby. Lesen as infinitive noun (capitalized). immer after lese."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She can dance very well and sometimes sings too. (use: können / tanzen / manchmal / singen)",
+      "solution": "Sie kann sehr gut tanzen und singt manchmal auch.",
+      "explanation": "Modal können: sie-form kann. tanzen as infinitive at end. manchmal after singt."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The concert was really funny! (use: das Konzert / wirklich / lustig)",
+      "solution": "Das Konzert war wirklich lustig!",
+      "explanation": "das Konzert (neuter). wirklich before the adjective. lustig predicatively after war."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "In my free time I often go to the gym and sometimes meet friends. (use: Freizeit / Fitnessstudio / Freunde / oft / manchmal)",
+      "solution": "In meiner Freizeit gehe ich oft ins Fitnessstudio und treffe manchmal Freunde.",
+      "explanation": "in meiner Freizeit (dative). ins = in + das Fitnessstudio. oft and manchmal after the respective verbs."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We met friends at the concert. It was great! (use: treffen / Konzert — Perfekt / toll)",
+      "solution": "Wir haben Freunde beim Konzert getroffen. Es war toll!",
+      "explanation": "treffen → hat getroffen (haben). beim Konzert (bei + dem). toll predicatively after war."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He finds swimming strange, but I think it's great. (use: schwimmen / komisch / toll / finden)",
+      "solution": "Er findet Schwimmen komisch, aber ich finde es toll.",
+      "explanation": "Schwimmen (infinitive as noun, object). komisch and toll used predicatively after finden. No endings."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Konzert war toll.",
+      "solution": "Das Konzert war toll.",
+      "explanation": "das Konzert — neuter. Wrong article: die (feminine) should be das (neuter)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du lest jeden Abend.",
+      "solution": "Du liest jeden Abend.",
+      "explanation": "lesen — du-form has stem change e→ie: du liest (not du lest — that is ihr-form)."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat gestern geschwimmt.",
+      "solution": "Sie ist gestern geschwommen.",
+      "explanation": "schwimmen uses sein (not hat). Partizip II is geschwommen (not geschwimmt — irregular)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Konzert war interessantes und toll.",
+      "solution": "Das Konzert war interessant und toll.",
+      "explanation": "Predicative adjectives (after war) take no ending. interessantes should be interessant."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Zurzeit ich lerne Deutsch und gehe manchmal ins Konzert.",
+      "solution": "Zurzeit lerne ich Deutsch und gehe manchmal ins Konzert.",
+      "explanation": "Verb-second rule: when Zurzeit starts the sentence, the verb (lerne) must come second, then the subject (ich)."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er nie tanzt, aber er liest immer gern.",
+      "solution": "Er tanzt nie, aber er liest immer gern.",
+      "explanation": "nie is a frequency adverb placed after the conjugated verb (tanzt), not before it."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich finde das Hobby toll und interessantes.",
+      "solution": "Ich finde das Hobby toll und interessant.",
+      "explanation": "Predicative adjective after finden takes no ending: interessantes should be interessant."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural: das Konzert",
+      "solution": "die Konzerte",
+      "explanation": "das Konzert → die Konzerte (-e ending, no umlaut)."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the full plural: der Ausflug",
+      "solution": "die Ausflüge",
+      "explanation": "der Ausflug → die Ausflüge (umlaut on u + e ending): Ausflug → Ausflüge."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural: das Hobby",
+      "solution": "die Hobbys",
+      "explanation": "das Hobby → die Hobbys (-s ending for borrowed English words)."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the full plural: der Freund",
+      "solution": "die Freunde",
+      "explanation": "der Freund → die Freunde (-e ending, common masculine pattern)."
+    },
+    {
+      "id": 38,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ gestern geschwommen.",
+      "solution": "ist",
+      "explanation": "schwimmen uses sein (movement verb). ist geschwommen."
+    },
+    {
+      "id": 39,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Wir ___ Freunde getroffen.",
+      "solution": "haben",
+      "explanation": "treffen uses haben. hat/haben getroffen."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Sie ___ gesungen und danach ___ sie ins Konzert gegangen.",
+      "solution": "hat / ist",
+      "explanation": "singen → hat gesungen (haben; not movement). gehen → ist gegangen (sein; movement on foot)."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Everyone sometimes reads and always likes meeting friends. (use: alle / manchmal / lesen / immer / gern / treffen)",
+      "solution": "Alle lesen manchmal und treffen immer gern Freunde.",
+      "explanation": "alle as subject. manchmal after lesen. immer and gern after treffen. Simple present tense throughout."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Kochen macht ___ Spaß — er kocht ___ und findet es ___! (viel / immer / toll)",
+      "solution": "viel / immer / toll",
+      "explanation": "viel Spaß = a lot of fun. immer after kocht (frequency). toll predicatively after findet es."
+    }
+  ]
+}

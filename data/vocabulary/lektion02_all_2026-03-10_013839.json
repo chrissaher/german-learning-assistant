@@ -1,0 +1,748 @@
+{
+  "lektion": 2,
+  "focus": "all",
+  "file_slug": "lektion02_all",
+  "generated_at": "2026-03-10T01:38:39",
+  "vocabulary": [
+    {
+      "german": "das Handy",
+      "base_form": "Handy",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Handys",
+      "english": "mobile phone",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Buch",
+      "base_form": "Buch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Bücher",
+      "english": "book",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Stift",
+      "base_form": "Stift",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Stifte",
+      "english": "pen / pencil",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Tasche",
+      "base_form": "Tasche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Taschen",
+      "english": "bag / pocket",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Schlüssel",
+      "base_form": "Schlüssel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Schlüssel",
+      "english": "key",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Sache",
+      "base_form": "Sache",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Sachen",
+      "english": "thing / item",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Wörterbuch",
+      "base_form": "Wörterbuch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Wörterbücher",
+      "english": "dictionary",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Uhr",
+      "base_form": "Uhr",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Uhren",
+      "english": "clock / watch",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "suchen",
+      "base_form": "suchen",
+      "english": "to look for / to search",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "suche",
+        "du": "suchst",
+        "er/sie/es": "sucht",
+        "wir": "suchen",
+        "ihr": "sucht",
+        "sie/Sie": "suchen"
+      },
+      "perfekt": "hat gesucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 2
+    },
+    {
+      "german": "kaufen",
+      "base_form": "kaufen",
+      "english": "to buy",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kaufe",
+        "du": "kaufst",
+        "er/sie/es": "kauft",
+        "wir": "kaufen",
+        "ihr": "kauft",
+        "sie/Sie": "kaufen"
+      },
+      "perfekt": "hat gekauft",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 2
+    },
+    {
+      "german": "finden",
+      "base_form": "finden",
+      "english": "to find",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "finde",
+        "du": "findest",
+        "er/sie/es": "findet",
+        "wir": "finden",
+        "ihr": "findet",
+        "sie/Sie": "finden"
+      },
+      "perfekt": "hat gefunden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II gefunden. Also means 'to think/find (opinion)'.",
+      "lektion_source": 2
+    },
+    {
+      "german": "nehmen",
+      "base_form": "nehmen",
+      "english": "to take",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "nehme",
+        "du": "nimmst",
+        "er/sie/es": "nimmt",
+        "wir": "nehmen",
+        "ihr": "nehmt",
+        "sie/Sie": "nehmen"
+      },
+      "perfekt": "hat genommen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: e→i stem change in du/er forms. Partizip II: genommen.",
+      "lektion_source": 2
+    },
+    {
+      "german": "liegen",
+      "base_form": "liegen",
+      "english": "to lie / to be located",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "liege",
+        "du": "liegst",
+        "er/sie/es": "liegt",
+        "wir": "liegen",
+        "ihr": "liegt",
+        "sie/Sie": "liegen"
+      },
+      "perfekt": "hat gelegen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: Partizip II gelegen. Horizontal position.",
+      "lektion_source": 2
+    },
+    {
+      "german": "neu",
+      "base_form": "neu",
+      "english": "new",
+      "word_type": "adjective",
+      "antonym": "alt",
+      "cognate_note": "English: 'new' — cognate (Germanic root).",
+      "lektion_source": 2
+    },
+    {
+      "german": "teuer",
+      "base_form": "teuer",
+      "english": "expensive",
+      "word_type": "adjective",
+      "antonym": "billig",
+      "cognate_note": "⚠️ False friend: does NOT mean 'dear'. Only means expensive/costly.",
+      "lektion_source": 2
+    },
+    {
+      "german": "kaputt",
+      "base_form": "kaputt",
+      "english": "broken / not working",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "From French 'capot'. Also means exhausted informally.",
+      "lektion_source": 2
+    },
+    {
+      "german": "toll",
+      "base_form": "toll",
+      "english": "great / fantastic",
+      "word_type": "adjective",
+      "antonym": "schrecklich",
+      "cognate_note": "⚠️ False friend: English 'toll' = Maut in German.",
+      "lektion_source": 2
+    },
+    {
+      "german": "praktisch",
+      "base_form": "praktisch",
+      "english": "practical / handy",
+      "word_type": "adjective",
+      "antonym": "unpraktisch",
+      "cognate_note": "Spanish: 'práctico' — direct cognate.",
+      "lektion_source": 2
+    },
+    {
+      "german": "nicht",
+      "base_form": "nicht",
+      "english": "not",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Standard negation: Das ist nicht richtig. Placed before adjectives/adverbs or after objects.",
+      "lektion_source": 2
+    },
+    {
+      "german": "sehr",
+      "base_form": "sehr",
+      "english": "very",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier before adjectives or adverbs: sehr gut, sehr schön.",
+      "lektion_source": 2
+    },
+    {
+      "german": "aber",
+      "base_form": "aber",
+      "english": "but",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction (contrast). Normal word order follows: Das Handy ist neu, aber teuer.",
+      "lektion_source": 2
+    },
+    {
+      "german": "weil",
+      "base_form": "weil",
+      "english": "because",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "⚠️ Subordinating conjunction — verb goes to END of clause: ..., weil ich Deutsch lerne.",
+      "lektion_source": 2
+    },
+    {
+      "german": "auf",
+      "base_form": "auf",
+      "english": "on / onto",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Two-way: Dativ for location (auf dem Tisch) vs. Akkusativ for movement (auf den Tisch legen).",
+      "lektion_source": 2
+    },
+    {
+      "german": "Entschuldigung!",
+      "base_form": "Entschuldigung",
+      "english": "Excuse me! / Sorry!",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Gets attention or apologizes. Essential travel phrase: Entschuldigung, wo ist das Hotel?",
+      "lektion_source": 2
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Handy liegt in der Tasche neben dem Schlüssel.",
+      "english": "The mobile phone is lying in the bag next to the key.",
+      "level": "medium",
+      "note": "NOUNS: das Handy, die Tasche, der Schlüssel. Dativ after in and neben (location)."
+    },
+    {
+      "id": 2,
+      "german": "Ich suche mein Wörterbuch — hast du es auf dem Tisch gesehen?",
+      "english": "I'm looking for my dictionary — have you seen it on the table?",
+      "level": "medium",
+      "note": "NOUNS: das Wörterbuch, der Tisch. VERB: suchen (ich suche); Perfekt: hast gesehen."
+    },
+    {
+      "id": 3,
+      "german": "Er nimmt immer seine Sachen in einen Rucksack.",
+      "english": "He always takes his things in a backpack.",
+      "level": "medium",
+      "note": "NOUNS: die Sache, der Rucksack. VERB: nehmen — er nimmt (stem change e→i)."
+    },
+    {
+      "id": 4,
+      "german": "Die Uhr ist kaputt — ich habe sie auf dem Tisch gefunden.",
+      "english": "The watch is broken — I found it on the table.",
+      "level": "medium",
+      "note": "NOUNS: die Uhr. VERB: finden (Perfekt: habe gefunden). ADJECTIVE: kaputt."
+    },
+    {
+      "id": 5,
+      "german": "Ich kaufe heute ein neues Handy, weil das alte kaputt ist.",
+      "english": "I'm buying a new mobile phone today because the old one is broken.",
+      "level": "complex",
+      "note": "NOUNS: das Handy. VERB: kaufen. ADJECTIVES: neu, alt, kaputt. CONJUNCTION: weil (verb to end)."
+    },
+    {
+      "id": 6,
+      "german": "Das Wörterbuch ist sehr teuer, aber sehr praktisch für die Reise.",
+      "english": "The dictionary is very expensive, but very practical for the trip.",
+      "level": "medium",
+      "note": "NOUNS: das Wörterbuch. ADJECTIVES: teuer, praktisch. OTHERS: sehr (intensifier), aber (contrast)."
+    },
+    {
+      "id": 7,
+      "german": "Ich finde das Handy toll — es ist nicht teuer und sehr praktisch.",
+      "english": "I find the mobile phone great — it's not expensive and very practical.",
+      "level": "complex",
+      "note": "VERB: finden (opinion). ADJECTIVES: toll, teuer, praktisch. OTHERS: nicht (negation), sehr (intensifier)."
+    },
+    {
+      "id": 8,
+      "german": "Entschuldigung, wo liegt das Hotel? Ich suche es schon lange.",
+      "english": "Excuse me, where is the hotel? I've been looking for it for a long time.",
+      "level": "complex",
+      "note": "OTHERS: Entschuldigung (interjection), sehr. VERB: suchen. Travel context."
+    },
+    {
+      "id": 9,
+      "german": "Die Sachen liegen auf dem Tisch, aber der Schlüssel ist nicht dabei.",
+      "english": "The things are on the table, but the key is not among them.",
+      "level": "complex",
+      "note": "NOUNS: die Sache, der Tisch, der Schlüssel. VERB: liegen. OTHERS: auf (location, Dativ), aber, nicht."
+    },
+    {
+      "id": 10,
+      "german": "Ich habe einen neuen Stift gekauft, weil mein alter kaputt war.",
+      "english": "I bought a new pen because my old one was broken.",
+      "level": "complex",
+      "note": "NOUNS: der Stift. VERB: kaufen (Perfekt). ADJECTIVES: neu, alt, kaputt. OTHERS: weil (verb-end rule)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Handy ist neu. (article)",
+      "solution": "Das",
+      "explanation": "das Handy — neuter (borrowed word). Article: das."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ meinen Schlüssel. (suchen — ich-form)",
+      "solution": "suche",
+      "explanation": "suchen: regular weak verb, ich-form: suche."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Handy ist ___. (broken — predicate adjective)",
+      "solution": "kaputt",
+      "explanation": "kaputt = broken. Predicate adjective after ist: no inflection."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Buch ist ___ teuer! (very)",
+      "solution": "sehr",
+      "explanation": "sehr = very. Intensifier placed directly before the adjective."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ Tasche, ___ das ist meine. (not... but: negation + contrast)",
+      "solution": "nicht meine / aber",
+      "explanation": "nicht for negation; aber for contrast (coordinating conjunction)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Wörterbuch liegt ___ dem Tisch. (on — location, Dativ)",
+      "solution": "auf",
+      "explanation": "auf + Dativ for location: auf dem Tisch."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ immer ein Buch mit in den Kurs. (nehmen — er-form)",
+      "solution": "nimmt",
+      "explanation": "nehmen: strong verb, stem change e→i in er-form: nimmt."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich lerne Deutsch, ___ ich nach Berlin reisen möchte. (because)",
+      "solution": "weil",
+      "explanation": "weil = because. Subordinating conjunction — verb goes to end: reisen möchte."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Tasche ist ___, aber sie ist sehr ___. (expensive / practical)",
+      "solution": "teuer / praktisch",
+      "explanation": "teuer = expensive; praktisch = practical. Both predicate adjectives — no inflection."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich ___ ein neues Handy ___, weil das alte kaputt ist. (kaufen — Perfekt)",
+      "solution": "habe / gekauft",
+      "explanation": "kaufen: Perfekt takes haben. Partizip II: gekauft (regular weak verb)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ ihr Wörterbuch in der Tasche ___. (finden — Perfekt)",
+      "solution": "hat / gefunden",
+      "explanation": "finden: strong verb. Partizip II: gefunden (irregular). Auxiliary: haben → hat."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___, wo ist der Bahnhof? Ich suche ihn schon lange! (Excuse me)",
+      "solution": "Entschuldigung",
+      "explanation": "Entschuldigung = excuse me. Essential travel interjection to get attention."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Schlüssel liegt auf dem Tisch.",
+      "options": ["a) Das", "b) Der", "c) Die"],
+      "solution": "b) Der",
+      "explanation": "der Schlüssel — masculine. Ends in -er (agent/tool noun pattern)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ das Buch sehr interessant.",
+      "options": ["a) findet", "b) kauft", "c) sucht"],
+      "solution": "a) findet",
+      "explanation": "finden (opinion): er findet = he finds/thinks (it interesting)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das ist ein ___ Foto!",
+      "options": ["a) toll", "b) tolles", "c) tolle"],
+      "solution": "b) tolles",
+      "explanation": "toll before das Foto (neuter Nominativ, indefinite ein): -es ending → tolles."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Uhr liegt ___ der Tasche.",
+      "options": ["a) auf", "b) in", "c) neben"],
+      "solution": "b) in",
+      "explanation": "in + Dativ for location (inside): in der Tasche (feminine Dativ)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ein neues Handy gekauft, ___ das alte kaputt war.",
+      "options": ["a) aber", "b) oder", "c) weil"],
+      "solution": "c) weil",
+      "explanation": "weil = because. Introduces reason. The verb (war) goes to the end of the clause."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er hat die Sachen auf ___ Tisch gelegt.",
+      "options": ["a) dem", "b) den", "c) des"],
+      "solution": "b) den",
+      "explanation": "legen (to lay/place) = movement → Akkusativ: auf den Tisch (masculine Akkusativ)."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Wörterbuch ist teuer, ___ es ist sehr praktisch.",
+      "options": ["a) weil", "b) aber", "c) oder"],
+      "solution": "b) aber",
+      "explanation": "aber = but (contrast). Coordinating — normal word order: aber es ist sehr praktisch."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich ___ meinen Stift. Hast du ihn gesehen?",
+      "options": ["a) kaufe", "b) suche", "c) finde"],
+      "solution": "b) suche",
+      "explanation": "suchen = to look for/search. Context 'Hast du ihn gesehen?' confirms something is being searched for."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The bag is not here. It is there.",
+      "solution": "Die Tasche ist nicht hier. Sie ist dort.",
+      "explanation": "nicht = not; hier = here; dort = there. die Tasche → sie (feminine pronoun)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The dictionary is very expensive but very practical.",
+      "solution": "Das Wörterbuch ist sehr teuer, aber sehr praktisch.",
+      "explanation": "sehr = very; aber = but (contrast). teuer and praktisch are predicates — no inflection."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I need a pen and a notebook.",
+      "solution": "Ich brauche einen Stift und ein Heft.",
+      "explanation": "der Stift → einen Stift (masculine Akkusativ). das Heft → ein Heft (neuter Akkusativ, no change)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He is looking for his key. Where is it?",
+      "solution": "Er sucht seinen Schlüssel. Wo ist er?",
+      "explanation": "suchen: er sucht. seinen Schlüssel: Akkusativ masculine possessive. wo = where; er (masculine pronoun)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She found her glasses in the bag. They were not broken.",
+      "solution": "Sie hat ihre Brille in der Tasche gefunden. Sie war nicht kaputt.",
+      "explanation": "finden: Perfekt hat gefunden. ihre Brille (fem Akkusativ). in der Tasche: Dativ. nicht kaputt: negation + predicate adjective."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I bought a new dictionary because the old one was very heavy.",
+      "solution": "Ich habe ein neues Wörterbuch gekauft, weil das alte sehr schwer war.",
+      "explanation": "kaufen: Perfekt habe gekauft. weil: verb to end (war). ein neues Wörterbuch: neuter Akkusativ indefinite. sehr schwer."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Excuse me, where is the hotel? I'm looking for it.",
+      "solution": "Entschuldigung, wo ist das Hotel? Ich suche es.",
+      "explanation": "Entschuldigung = excuse me (interjection). wo = where. suchen: ich suche. es = das Hotel (neuter pronoun)."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The watch is on the table next to the book.",
+      "solution": "Die Uhr liegt auf dem Tisch neben dem Buch.",
+      "explanation": "liegen = horizontal position. auf dem Tisch: Dativ after auf (location). neben dem Buch: Dativ after neben (location)."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Die Handy ist neu.",
+      "solution": "Das Handy ist neu.",
+      "explanation": "das Handy — neuter (borrowed word). Article must be das, not die."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Er nehmt das Buch.",
+      "solution": "Er nimmt das Buch.",
+      "explanation": "nehmen: strong verb, stem change e→i in er-form: nimmt (not nehmt)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Das ist ein toll Foto!",
+      "solution": "Das ist ein tolles Foto!",
+      "explanation": "toll before das Foto (neuter Nominativ, indefinite ein): must take -es ending → tolles."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Ich habe das Wörterbuch gefinden.",
+      "solution": "Ich habe das Wörterbuch gefunden.",
+      "explanation": "finden: strong verb. Partizip II is gefunden (not gefinden — that form doesn't exist)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Das Buch liegt auf den Tisch.",
+      "solution": "Das Buch liegt auf dem Tisch.",
+      "explanation": "liegen = location (no movement) → Dativ: auf dem Tisch (not Akkusativ auf den Tisch)."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ich kaufe ein neues Handy, weil das alte kaputt sein ist.",
+      "solution": "Ich kaufe ein neues Handy, weil das alte kaputt ist.",
+      "explanation": "kaputt sein does not need Perfekt here — simple present ist is sufficient. 'sein ist' is not a valid Perfekt form."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Mein alte Tasche ist kaputt.",
+      "solution": "Meine alte Tasche ist kaputt.",
+      "explanation": "die Tasche — feminine. Possessive: meine (not mein). alt before feminine noun Nominativ: alte."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form (with article): das Buch",
+      "solution": "die Bücher",
+      "explanation": "das Buch → die Bücher. Plural marker: ..er (umlaut + er ending)."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form (with article): die Tasche",
+      "solution": "die Taschen",
+      "explanation": "die Tasche → die Taschen. Plural marker: -n (add -n)."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form (with article): der Schlüssel",
+      "solution": "die Schlüssel",
+      "explanation": "der Schlüssel → die Schlüssel. Plural marker: - (no change in ending)."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form (with article): das Wörterbuch",
+      "solution": "die Wörterbücher",
+      "explanation": "das Wörterbuch → die Wörterbücher. Plural marker: ..er (umlaut + er ending)."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ das Handy gesucht. (suchen)",
+      "solution": "hat",
+      "explanation": "suchen uses haben as Perfekt auxiliary. Transitive verb with direct object."
+    },
+    {
+      "id": 41,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Ich ___ ein tolles Wörterbuch gefunden. (finden)",
+      "solution": "habe",
+      "explanation": "finden uses haben as Perfekt auxiliary. Partizip II: gefunden."
+    },
+    {
+      "id": 42,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ ein neues Handy gekauft. (kaufen)",
+      "solution": "hat",
+      "explanation": "kaufen uses haben as auxiliary. Transitive verb — takes haben."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Wörterbuch ist toll — ich ___ es sehr ___ für die Reise. (finden / praktisch)",
+      "solution": "finde / praktisch",
+      "explanation": "finden (opinion, ich-form): finde. praktisch is the predicate adjective — no inflection after finden + es."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I'm looking for a new bag because my old one is broken.",
+      "solution": "Ich suche eine neue Tasche, weil meine alte kaputt ist.",
+      "explanation": "suchen: ich suche. eine neue Tasche (fem Akkusativ, indefinite). weil: verb to end (ist). meine alte: possessive + adjective for feminine noun."
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ich lerne Deutsch, weil ich nach Wien reise möchte.",
+      "solution": "Ich lerne Deutsch, weil ich nach Wien reisen möchte.",
+      "explanation": "After weil, the finite verb (möchte) goes last: reisen möchte (infinitive before the modal auxiliary)."
+    }
+  ]
+}

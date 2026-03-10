@@ -1,0 +1,881 @@
+{
+  "lektion": 3,
+  "focus": "all",
+  "file_slug": "lektion03_all",
+  "generated_at": "2026-03-10T12:04:00",
+  "vocabulary": [
+    {
+      "german": "die Familie",
+      "base_form": "Familie",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Familien",
+      "english": "family",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Mutter",
+      "base_form": "Mutter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..",
+      "plural_full": "Mütter",
+      "english": "mother",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Vater",
+      "base_form": "Vater",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Väter",
+      "english": "father",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Schwester",
+      "base_form": "Schwester",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Schwestern",
+      "english": "sister",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Onkel",
+      "base_form": "Onkel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Onkel",
+      "english": "uncle",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Oma",
+      "base_form": "Oma",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-s",
+      "plural_full": "Omas",
+      "english": "grandma",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "das Enkelkind",
+      "base_form": "Enkelkind",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Enkelkinder",
+      "english": "grandchild",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Eltern",
+      "base_form": "Eltern",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Eltern",
+      "english": "parents",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Sohn",
+      "base_form": "Sohn",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Söhne",
+      "english": "son",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Tochter",
+      "base_form": "Tochter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..",
+      "plural_full": "Töchter",
+      "english": "daughter",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Bruder",
+      "base_form": "Bruder",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Brüder",
+      "english": "brother",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Geschwister",
+      "base_form": "Geschwister",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Geschwister",
+      "english": "siblings",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Großvater",
+      "base_form": "Großvater",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Großväter",
+      "english": "grandfather",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Großmutter",
+      "base_form": "Großmutter",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..",
+      "plural_full": "Großmütter",
+      "english": "grandmother",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Großeltern",
+      "base_form": "Großeltern",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Großeltern",
+      "english": "grandparents",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "der Ehemann",
+      "base_form": "Ehemann",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..er",
+      "plural_full": "Ehemänner",
+      "english": "husband",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Ehefrau",
+      "base_form": "Ehefrau",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Ehefrauen",
+      "english": "wife",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Tante",
+      "base_form": "Tante",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Tanten",
+      "english": "aunt",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "das Fest",
+      "base_form": "Fest",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Feste",
+      "english": "celebration / festival",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "die Sprache",
+      "base_form": "Sprache",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Sprachen",
+      "english": "language",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 3
+    },
+    {
+      "german": "glauben",
+      "base_form": "glauben",
+      "english": "to believe / to think",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "glaube",
+        "du": "glaubst",
+        "er/sie/es": "glaubt",
+        "wir": "glauben",
+        "ihr": "glaubt",
+        "sie/Sie": "glauben"
+      },
+      "perfekt": "hat geglaubt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Often followed by 'dass': Ich glaube, dass …",
+      "lektion_source": 3
+    },
+    {
+      "german": "planen",
+      "base_form": "planen",
+      "english": "to plan",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "plane",
+        "du": "planst",
+        "er/sie/es": "plant",
+        "wir": "planen",
+        "ihr": "plant",
+        "sie/Sie": "planen"
+      },
+      "perfekt": "hat geplant",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb.",
+      "lektion_source": 3
+    },
+    {
+      "german": "sprechen",
+      "base_form": "sprechen",
+      "english": "to speak",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "spreche",
+        "du": "sprichst",
+        "er/sie/es": "spricht",
+        "wir": "sprechen",
+        "ihr": "sprecht",
+        "sie/Sie": "sprechen"
+      },
+      "perfekt": "hat gesprochen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb. Stem vowel change e→i in du/er forms.",
+      "lektion_source": 3
+    },
+    {
+      "german": "erzählen",
+      "base_form": "erzählen",
+      "english": "to tell / to narrate",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "erzähle",
+        "du": "erzählst",
+        "er/sie/es": "erzählt",
+        "wir": "erzählen",
+        "ihr": "erzählt",
+        "sie/Sie": "erzählen"
+      },
+      "perfekt": "hat erzählt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Inseparable prefix er-. No ge- in Partizip II: erzählt (not *geerzählt).",
+      "lektion_source": 3
+    },
+    {
+      "german": "verheiratet",
+      "base_form": "verheiratet",
+      "english": "married",
+      "word_type": "adjective",
+      "antonym": "ledig / unverheiratet",
+      "cognate_note": null,
+      "lektion_source": 3
+    },
+    {
+      "german": "geschieden",
+      "base_form": "geschieden",
+      "english": "divorced",
+      "word_type": "adjective",
+      "antonym": "verheiratet",
+      "cognate_note": "Spanish: divorciado/a.",
+      "lektion_source": 3
+    },
+    {
+      "german": "richtig",
+      "base_form": "richtig",
+      "english": "correct / right",
+      "word_type": "adjective",
+      "antonym": "falsch",
+      "cognate_note": null,
+      "lektion_source": 3
+    },
+    {
+      "german": "falsch",
+      "base_form": "falsch",
+      "english": "wrong / false",
+      "word_type": "adjective",
+      "antonym": "richtig",
+      "cognate_note": "English 'false', Spanish 'falso' — all from Latin 'falsus'.",
+      "lektion_source": 3
+    },
+    {
+      "german": "dein",
+      "base_form": "dein",
+      "english": "your (informal singular)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive pronoun for 'du'. Agrees with noun gender: dein Vater (masc.), deine Mutter (fem.), dein Kind (neut.).",
+      "lektion_source": 3
+    },
+    {
+      "german": "nein",
+      "base_form": "nein",
+      "english": "no",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to disagree or refuse. Opposite of 'ja'.",
+      "lektion_source": 3
+    },
+    {
+      "german": "doch",
+      "base_form": "doch",
+      "english": "yes (contradicting a negative statement)",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Use 'doch' — NOT 'ja' — to answer 'yes' to a negative question. No direct Spanish equivalent.",
+      "lektion_source": 3
+    },
+    {
+      "german": "welche",
+      "base_form": "welch-",
+      "english": "which / what",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Interrogative. Agrees with noun: welcher (masc.), welche (fem./pl.), welches (neut.).",
+      "lektion_source": 3
+    },
+    {
+      "german": "ein bisschen",
+      "base_form": "ein bisschen",
+      "english": "a little bit",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Always invariable. Ich spreche ein bisschen Deutsch.",
+      "lektion_source": 3
+    },
+    {
+      "german": "gar nicht",
+      "base_form": "gar nicht",
+      "english": "not at all",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "'gar' intensifies negation: gar nicht (verb/adj.) vs. gar kein (noun). Spanish: para nada.",
+      "lektion_source": 3
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Meine Familie ist groß — ich habe drei Schwestern, zwei Brüder und viele Verwandte.",
+      "english": "My family is large — I have three sisters, two brothers and many relatives.",
+      "level": "complex",
+      "note": "Nouns: die Familie, die Schwestern (pl.), die Brüder (pl.) from L3."
+    },
+    {
+      "id": 2,
+      "german": "Meine Eltern sind verheiratet und wohnen zusammen in Wien.",
+      "english": "My parents are married and live together in Vienna.",
+      "level": "medium",
+      "note": "Nouns: die Eltern. Adjective: verheiratet (predicative)."
+    },
+    {
+      "id": 3,
+      "german": "Mein Bruder spricht drei Sprachen — Deutsch, Spanisch und Englisch.",
+      "english": "My brother speaks three languages — German, Spanish and English.",
+      "level": "medium",
+      "note": "Nouns: der Bruder, die Sprachen. Verb: sprechen (e→i: spricht)."
+    },
+    {
+      "id": 4,
+      "german": "Ich glaube, das ist falsch — meine Schwester ist nicht geschieden, sie ist ledig.",
+      "english": "I think that is wrong — my sister is not divorced, she is single.",
+      "level": "complex",
+      "note": "Verb: glauben. Adjectives: falsch, geschieden. Noun: die Schwester from L3."
+    },
+    {
+      "id": 5,
+      "german": "Welche Sprachen spricht dein Vater? — Er spricht ein bisschen Türkisch und gar kein Russisch.",
+      "english": "Which languages does your father speak? — He speaks a little Turkish and no Russian at all.",
+      "level": "complex",
+      "note": "Others: welche, dein, ein bisschen, gar kein. Verb: sprechen. Noun: die Sprachen, der Vater."
+    },
+    {
+      "id": 6,
+      "german": "Wir planen ein Fest für die ganze Familie — alle Onkel, Tanten und Großeltern kommen.",
+      "english": "We are planning a celebration for the whole family — all uncles, aunts and grandparents are coming.",
+      "level": "complex",
+      "note": "Verb: planen. Nouns: das Fest, die Familie, der Onkel (pl. Onkel), die Tante (pl. Tanten), die Großeltern."
+    },
+    {
+      "id": 7,
+      "german": "Hast du keine Geschwister? — Doch! Ich habe einen Bruder und eine Schwester.",
+      "english": "Don't you have any siblings? — Yes, I do! I have a brother and a sister.",
+      "level": "medium",
+      "note": "Other: doch (contradicting negative). Nouns: die Geschwister, der Bruder, die Schwester."
+    },
+    {
+      "id": 8,
+      "german": "Meine Großmutter erzählt immer Geschichten — sie spricht sehr gut Deutsch.",
+      "english": "My grandmother always tells stories — she speaks German very well.",
+      "level": "complex",
+      "note": "Verbs: erzählen, sprechen (spricht). Noun: die Großmutter from L3."
+    },
+    {
+      "id": 9,
+      "german": "Ist das richtig? — Nein, das ist falsch! Der Ehemann heißt Thomas, nicht Klaus.",
+      "english": "Is that correct? — No, that is wrong! The husband's name is Thomas, not Klaus.",
+      "level": "complex",
+      "note": "Adjectives: richtig, falsch. Other: nein. Noun: der Ehemann from L3."
+    },
+    {
+      "id": 10,
+      "german": "Mein Sohn und meine Tochter sind meine Kinder — sie sind meine Enkelkinder, glaubt meine Oma.",
+      "english": "My son and my daughter are my children — they are my grandchildren, my grandma thinks.",
+      "level": "complex",
+      "note": "Nouns: der Sohn, die Tochter, das Enkelkind (pl.), die Oma from L3. Verb: glauben."
+    },
+    {
+      "id": 11,
+      "german": "Welchen Beruf hat dein Ehemann? — Er ist Lehrer.",
+      "english": "What profession does your husband have? — He is a teacher.",
+      "level": "medium",
+      "note": "Others: welch- (masc. acc. → welchen), dein. Noun: der Ehemann from L3."
+    },
+    {
+      "id": 12,
+      "german": "Meine Tante ist geschieden und lebt allein, aber sie kommt zum Familienfest.",
+      "english": "My aunt is divorced and lives alone, but she comes to the family party.",
+      "level": "complex",
+      "note": "Adjective: geschieden. Others: allein. Nouns: die Tante, das Fest + Familie from L3."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Familie ist groß. (the family)",
+      "solution": "Die",
+      "explanation": "die Familie — feminine. Use 'Die' as definite article in nominative."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Mein Bruder ___ drei Sprachen. (to speak — er form)",
+      "solution": "spricht",
+      "explanation": "sprechen → er spricht. Stem vowel change e→i in 3rd person singular."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___! Richtig ist: die Mutter. (wrong)",
+      "solution": "falsch",
+      "explanation": "falsch = wrong. Predicative adjective after 'ist' — no inflection."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sprichst du kein Deutsch? — ___, ich spreche ein bisschen! (yes, contradicting)",
+      "solution": "Doch",
+      "explanation": "'doch' contradicts a negative question. 'Ja' is incorrect here."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Sprachen sprichst du? (which — plural)",
+      "solution": "Welche",
+      "explanation": "welche = which (plural — die Sprachen)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Meine Eltern sind ___ — sie heiraten nächste Woche! (getting married — future state)",
+      "solution": "bald verheiratet",
+      "explanation": "verheiratet = married; 'bald' = soon. Used predicatively after 'sind'."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie heißt ___ Mutter? (your — feminine noun)",
+      "solution": "deine",
+      "explanation": "dein + feminine noun (die Mutter) → deine."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ ein Fest für die ganze Familie. (to plan)",
+      "solution": "planen",
+      "explanation": "planen → wir planen (regular, 1st pl.)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine Oma ___ viel von ihrer Familie. (to tell)",
+      "solution": "erzählt",
+      "explanation": "erzählen → sie erzählt (3rd sg., inseparable prefix verb)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich spreche ___ Deutsch — ich brauche mehr Übung. (a little bit)",
+      "solution": "ein bisschen",
+      "explanation": "ein bisschen = a little bit. Invariable."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine ___ und mein ___ sind meine Eltern. (mother / father)",
+      "solution": "Mutter / Vater",
+      "explanation": "die Mutter (fem.) and der Vater (masc.). Together = die Eltern (plural-only)."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er ___, dass seine Schwester ___ Sprachen spricht. (to believe / which → use: drei)",
+      "solution": "glaubt / drei",
+      "explanation": "glauben → er glaubt; use 'drei' (three) or context answer. Point: 'dass' sends verb to end."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Mein Onkel ist ___ — er wohnt jetzt ___ in München. (divorced / alone)",
+      "solution": "geschieden / allein",
+      "explanation": "geschieden = divorced; allein = alone. Both predicative adjectives after 'ist'/'wohnt'."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Schwester heißt Lena.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Die",
+      "explanation": "die Schwester — feminine. Definite article in nominative: Die."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Mein Sohn ___ Deutsch in der Schule.",
+      "options": ["sprecht", "spricht", "spreche"],
+      "solution": "spricht",
+      "explanation": "sprechen → er/sie/es spricht. Stem vowel change e→i."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Meine Eltern sind seit 30 Jahren ___.",
+      "options": ["geschieden", "verheiratet", "allein"],
+      "solution": "verheiratet",
+      "explanation": "verheiratet = married. Since 30 years = long marriage."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Hast du keine Geschwister? — ___, ich habe zwei Schwestern!",
+      "options": ["Nein", "Ja", "Doch"],
+      "solution": "Doch",
+      "explanation": "'doch' replies 'yes I do!' to a negative question."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat die Geschichte gut ___. (Perfekt of erzählen)",
+      "options": ["geerzählt", "erzählt", "erzählen"],
+      "solution": "erzählt",
+      "explanation": "Inseparable prefix verbs: no ge- in Partizip II. erzählen → erzählt."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Sprache spricht dein Onkel am besten?",
+      "options": ["Welcher", "Welche", "Welches"],
+      "solution": "Welche",
+      "explanation": "die Sprache is feminine → welche (fem. nominative)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Meine Großmutter ___ uns immer Geschichten von früher.",
+      "options": ["erzähle", "erzählt", "erzählen"],
+      "solution": "erzählt",
+      "explanation": "erzählen → sie (3rd sg.) erzählt."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My grandmother lives in Germany and speaks German.",
+      "solution": "Meine Großmutter wohnt in Deutschland und spricht Deutsch.",
+      "explanation": "die Großmutter → meine Großmutter (fem.). sprechen → sie spricht (e→i)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have one brother and two sisters.",
+      "solution": "Ich habe einen Bruder und zwei Schwestern.",
+      "explanation": "einen Bruder (masc. accusative); zwei Schwestern (pl. -n)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Which languages do you speak? — A little bit of German.",
+      "solution": "Welche Sprachen sprichst du? — Ein bisschen Deutsch.",
+      "explanation": "welche (pl.), ein bisschen. sprechen → du sprichst (e→i)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We are planning a big celebration for the whole family.",
+      "solution": "Wir planen ein großes Fest für die ganze Familie.",
+      "explanation": "planen → wir planen. das Fest (neut.) → ein großes Fest. die Familie from L3."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Don't you have any siblings? — Yes, I do! I have a brother and a sister.",
+      "solution": "Hast du keine Geschwister? — Doch! Ich habe einen Bruder und eine Schwester.",
+      "explanation": "doch = yes (contradicting negative). die Geschwister, der Bruder (einen), die Schwester (eine)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My aunt is divorced and does not speak German at all.",
+      "solution": "Meine Tante ist geschieden und spricht gar kein Deutsch.",
+      "explanation": "geschieden = divorced; gar kein + noun = not at all. sprechen → sie spricht."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My father believes that the family is very large.",
+      "solution": "Mein Vater glaubt, dass die Familie sehr groß ist.",
+      "explanation": "glauben → er glaubt. dass-clause: verb goes to end (ist)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Mutter heißt Petra. ✗ Find and fix the error.",
+      "solution": "Die Mutter heißt Petra.",
+      "explanation": "die Mutter is feminine — use 'Die', not 'Der'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er sprecht Deutsch sehr gut. ✗ Find and fix the error.",
+      "solution": "Er spricht Deutsch sehr gut.",
+      "explanation": "sprechen: er/sie/es form = 'spricht' (e→i). NOT 'sprecht' (that is the ihr-form)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Mein Schwester kommt aus Berlin. ✗ Find and fix the error.",
+      "solution": "Meine Schwester kommt aus Berlin.",
+      "explanation": "die Schwester is feminine — possessive must be 'meine', not 'mein'."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sprichst du kein Deutsch? — Ja, ich spreche ein bisschen! ✗ Find and fix the error.",
+      "solution": "Sprichst du kein Deutsch? — Doch, ich spreche ein bisschen!",
+      "explanation": "'Ja' cannot contradict a negative question. Use 'Doch'."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Meine Schwester ist verheiratete. ✗ Find and fix the error.",
+      "solution": "Meine Schwester ist verheiratet.",
+      "explanation": "Predicative adjectives after 'sein' are NOT inflected in German."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben die Geschichte geerzählt. ✗ Find and fix the error.",
+      "solution": "Wir haben die Geschichte erzählt.",
+      "explanation": "erzählen has inseparable prefix er-. Partizip II = erzählt (NOT geerzählt)."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Welcher Sprachen sprichst du? ✗ Find and fix the error.",
+      "solution": "Welche Sprachen sprichst du?",
+      "explanation": "Sprachen is plural → welche (pl. form). Welcher is masc. singular."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Mutter → ___",
+      "solution": "die Mütter",
+      "explanation": "Plural marker '..' = umlaut only. Mutter → Mütter."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Sohn → ___",
+      "solution": "die Söhne",
+      "explanation": "Plural marker '..e' = umlaut + e. Sohn → Söhne."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Schwester → ___",
+      "solution": "die Schwestern",
+      "explanation": "Plural marker '-n' = add -n. Schwester → Schwestern."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: die Sprache → ___",
+      "solution": "die Sprachen",
+      "explanation": "Plural marker '-n' = add -n. Sprache → Sprachen."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Fest → ___",
+      "solution": "die Feste",
+      "explanation": "Plural marker '-e' = add -e. Fest → Feste."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ das Fest gut geplant. (hat / ist)",
+      "solution": "hat",
+      "explanation": "planen takes haben as auxiliary. Perfekt: hat geplant."
+    },
+    {
+      "id": 41,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Meine Oma ___ viel erzählt. (hat / ist)",
+      "solution": "hat",
+      "explanation": "erzählen takes haben. Perfekt: hat erzählt."
+    },
+    {
+      "id": 42,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ seiner Tochter von dem Fest erzählt. (hat / ist)",
+      "solution": "hat",
+      "explanation": "erzählen takes haben. Partizip II = erzählt (no ge-, inseparable prefix)."
+    },
+    {
+      "id": 43,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Wir ___ alle drei Sprachen gesprochen. (haben / sind)",
+      "solution": "haben",
+      "explanation": "sprechen takes haben. Perfekt: wir haben gesprochen."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My son speaks German and my daughter plans to learn Spanish.",
+      "solution": "Mein Sohn spricht Deutsch und meine Tochter plant, Spanisch zu lernen.",
+      "explanation": "sprechen → er spricht (e→i); planen → sie plant. der Sohn, die Tochter from L3."
+    }
+  ]
+}

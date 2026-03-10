@@ -1,0 +1,467 @@
+{
+  "lektion": 6,
+  "focus": "verbs",
+  "file_slug": "lektion06_verbs",
+  "generated_at": "2026-03-10T12:01:00",
+  "vocabulary": [
+    {
+      "german": "telefonieren",
+      "base_form": "telefonieren",
+      "english": "to talk on the phone",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "telefoniere",
+        "du": "telefonierst",
+        "er/sie/es": "telefoniert",
+        "wir": "telefonieren",
+        "ihr": "telefoniert",
+        "sie/Sie": "telefonieren"
+      },
+      "perfekt": "hat telefoniert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular -ieren verb. Perfekt drops the ge- prefix: hat telefoniert, not hat getelefoniert. Often used with 'mit' (telefonieren mit + Dativ).",
+      "lektion_source": 6
+    },
+    {
+      "german": "brauchen",
+      "base_form": "brauchen",
+      "english": "to need",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "brauche",
+        "du": "brauchst",
+        "er/sie/es": "braucht",
+        "wir": "brauchen",
+        "ihr": "braucht",
+        "sie/Sie": "brauchen"
+      },
+      "perfekt": "hat gebraucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Takes Akkusativ object: Ich brauche einen Stift. Spanish/English cognate: Spanish 'precisar/necesitar'; English 'require' — but brauchen is the most common everyday word for 'to need'.",
+      "lektion_source": 6
+    },
+    {
+      "german": "notieren",
+      "base_form": "notieren",
+      "english": "to note down / to write down",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "notiere",
+        "du": "notierst",
+        "er/sie/es": "notiert",
+        "wir": "notieren",
+        "ihr": "notiert",
+        "sie/Sie": "notieren"
+      },
+      "perfekt": "hat notiert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular -ieren verb. Perfekt drops ge-: hat notiert. English/Spanish cognate: 'to note' / 'anotar'. Takes Akkusativ: Ich notiere den Termin.",
+      "lektion_source": 6
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich telefoniere jeden Tag mit meiner Mutter aus Spanien.",
+      "english": "I talk on the phone every day with my mother from Spain.",
+      "level": "medium",
+      "note": "Uses: telefonieren + mit + Dativ; jeden Tag = every day."
+    },
+    {
+      "id": 2,
+      "german": "Er hat eine Stunde mit dem Büro telefoniert.",
+      "english": "He talked on the phone with the office for an hour.",
+      "level": "medium",
+      "note": "Uses: telefonieren in Perfekt (hat telefoniert); mit dem Büro (Dativ)."
+    },
+    {
+      "id": 3,
+      "german": "Ich brauche einen Stift, um den Termin zu notieren.",
+      "english": "I need a pen in order to note down the appointment.",
+      "level": "complex",
+      "note": "Uses: brauchen + Akkusativ; notieren + Akkusativ; um...zu infinitive construction."
+    },
+    {
+      "id": 4,
+      "german": "Sie braucht das Passwort für das WLAN im Hotel.",
+      "english": "She needs the password for the Wi-Fi at the hotel.",
+      "level": "medium",
+      "note": "Uses: brauchen + Akkusativ das Passwort; das WLAN."
+    },
+    {
+      "id": 5,
+      "german": "Er notiert alle Termine im Kalender auf seinem Laptop.",
+      "english": "He notes all appointments in the calendar on his laptop.",
+      "level": "medium",
+      "note": "Uses: notieren + Akkusativ alle Termine; im Kalender (Dativ); auf seinem Laptop."
+    },
+    {
+      "id": 6,
+      "german": "Wir haben den Termin notiert und dann mit dem Kollegen telefoniert.",
+      "english": "We noted the appointment and then called the colleague.",
+      "level": "complex",
+      "note": "Uses: notiert (Perfekt of notieren) and telefoniert (Perfekt of telefonieren) in sequence."
+    },
+    {
+      "id": 7,
+      "german": "Du brauchst heute keinen Laptop, weil wir im Café arbeiten.",
+      "english": "You don't need a laptop today, because we are working at the café.",
+      "level": "complex",
+      "note": "Uses: brauchen with negation keinen (Akkusativ masc.); weil-clause."
+    },
+    {
+      "id": 8,
+      "german": "Sie hat die Nachricht notiert und dann sofort telefoniert.",
+      "english": "She noted the message and then called immediately.",
+      "level": "complex",
+      "note": "Uses: notiert and telefoniert in Perfekt; sofort = immediately."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ jeden Tag mit meiner Chefin. (to talk on the phone)",
+      "solution": "telefoniere",
+      "explanation": "telefonieren: ich telefoniere. Regular -ieren verb."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ einen Stift für die Prüfung. (to need)",
+      "solution": "brauchst",
+      "explanation": "brauchen: du brauchst. Regular verb, add -st for du."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ den Termin im Kalender. (to note down)",
+      "solution": "notiert",
+      "explanation": "notieren: er/sie/es notiert. Regular -ieren verb."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir ___ das Passwort für das WLAN. (to need)",
+      "solution": "brauchen",
+      "explanation": "brauchen: wir brauchen. Same as infinitive."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie ___ gerade mit dem Kollegen. (to talk on the phone — she)",
+      "solution": "telefoniert",
+      "explanation": "telefonieren: sie telefoniert. Regular -ieren verb."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe gestern eine Stunde mit dem Büro ___. (Perfekt of telefonieren)",
+      "solution": "telefoniert",
+      "explanation": "Perfekt of telefonieren = hat telefoniert. -ieren verbs drop the ge- prefix."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er hat den Termin im Kalender ___. (Perfekt of notieren)",
+      "solution": "notiert",
+      "explanation": "Perfekt of notieren = hat notiert. -ieren verbs drop the ge- prefix."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ leider keine Zeit. Können wir morgen ___? (to have / to talk on the phone)",
+      "solution": "haben / telefonieren",
+      "explanation": "haben (wir haben); telefonieren as infinitive after können."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ihr ___ einen Laptop für das Projekt. (to need — ihr form)",
+      "solution": "braucht",
+      "explanation": "brauchen: ihr braucht. Regular verb."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ den Termin ___ und dann mit dem Chef ___. (to note / Perfekt / to talk on the phone / Perfekt)",
+      "solution": "hat / notiert / hat / telefoniert",
+      "explanation": "Both notieren and telefonieren form Perfekt with haben + Partizip II (no ge- for -ieren verbs)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Du ___ heute keinen Computer, weil du zu Hause arbeitest. (to need)",
+      "solution": "brauchst",
+      "explanation": "brauchen: du brauchst. keinen Computer = Akkusativ masculine negation."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ einen Kaffee.",
+      "options": ["brauche", "brauchst", "braucht"],
+      "solution": "brauche",
+      "explanation": "brauchen: ich brauche. First person singular ends in -e."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ mit dem Kollegen.",
+      "options": ["telefoniere", "telefonierst", "telefoniert"],
+      "solution": "telefoniert",
+      "explanation": "telefonieren: er/sie/es telefoniert. Third person singular ends in -t."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir haben gestern den Termin ___.",
+      "options": ["notiert", "genotiert", "notieren"],
+      "solution": "notiert",
+      "explanation": "-ieren verbs drop the ge- prefix in Partizip II. hat notiert, not hat genotiert."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat eine Stunde ___ telefoniert.",
+      "options": ["hat", "ist", "war"],
+      "solution": "hat",
+      "explanation": "telefonieren takes haben in Perfekt: hat telefoniert. It stays in one place — uses haben."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich ___ nicht telefonieren, weil ich keine Zeit habe.",
+      "options": ["kann", "brauche", "notiere"],
+      "solution": "kann",
+      "explanation": "Modal verb können + infinitive telefonieren. Ich kann nicht telefonieren = I cannot phone."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I need a pen and a calendar.",
+      "solution": "Ich brauche einen Stift und einen Kalender.",
+      "explanation": "brauchen + Akkusativ: einen Stift (masc.), einen Kalender (masc.)."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She is talking on the phone with her colleague.",
+      "solution": "Sie telefoniert mit ihrem Kollegen.",
+      "explanation": "telefonieren + mit + Dativ: ihrem Kollegen (Dativ masc.)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Please note the appointment.",
+      "solution": "Bitte notieren Sie den Termin.",
+      "explanation": "Imperativ formal: notieren Sie (polite form). den Termin = Akkusativ masc."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We needed the Wi-Fi password and called the office.",
+      "solution": "Wir haben das WLAN-Passwort gebraucht und mit dem Büro telefoniert.",
+      "explanation": "Perfekt: haben gebraucht (regular), haben telefoniert; mit dem Büro = Dativ."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Do you need to call? I can note the time for you.",
+      "solution": "Musst du telefonieren? Ich kann die Zeit für dich notieren.",
+      "explanation": "müssen + infinitive telefonieren; können + infinitive notieren."
+    },
+    {
+      "id": 22,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich telefoniert mit meiner Mutter.",
+      "solution": "Ich telefoniere mit meiner Mutter.",
+      "explanation": "telefonieren: ich telefoniere (ends in -e, not -t). -t is the er/sie/es form."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er brauchst einen Laptop.",
+      "solution": "Er braucht einen Laptop.",
+      "explanation": "brauchen: er/sie/es braucht (not brauchst — that is du brauchst)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir haben den Termin genotiert.",
+      "solution": "Wir haben den Termin notiert.",
+      "explanation": "-ieren verbs do NOT add ge- in Partizip II. Correct: hat notiert, not hat genotiert."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie ist mit dem Kollegen telefoniert.",
+      "solution": "Sie hat mit dem Kollegen telefoniert.",
+      "explanation": "telefonieren uses haben, not sein, in Perfekt. hat telefoniert."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe getelefoniert mit dem Chef.",
+      "solution": "Ich habe mit dem Chef telefoniert.",
+      "explanation": "Two errors: 1) -ieren verbs drop ge-: telefoniert not getelefoniert; 2) mit dem Chef should come before the Partizip II, or more naturally after the auxiliary."
+    },
+    {
+      "id": 27,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ mit dem Büro telefoniert.",
+      "solution": "hat",
+      "explanation": "telefonieren uses haben in Perfekt. hat telefoniert."
+    },
+    {
+      "id": 28,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Wir ___ den Termin notiert.",
+      "solution": "haben",
+      "explanation": "notieren uses haben in Perfekt. haben notiert."
+    },
+    {
+      "id": 29,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ das Passwort gebraucht.",
+      "solution": "hat",
+      "explanation": "brauchen uses haben in Perfekt. hat gebraucht."
+    },
+    {
+      "id": 30,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Ich ___ eine Stunde telefoniert.",
+      "solution": "habe",
+      "explanation": "telefonieren uses haben. ich habe telefoniert."
+    },
+    {
+      "id": 31,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Du ___ alle Adressen notiert und dann ___ du den Kollegen angerufen.",
+      "solution": "hast / hast",
+      "explanation": "Both notieren and anrufen use haben in Perfekt. du hast notiert / du hast angerufen."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie/Sie ___ täglich mit Kunden. (to talk on the phone — formal Sie)",
+      "solution": "telefonieren",
+      "explanation": "telefonieren: sie/Sie telefonieren. Plural/formal Sie is the same as the infinitive."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich ___ einen Kaffee, bevor ich mit dem Chef ___. (to need / to talk on the phone)",
+      "solution": "brauche / telefoniere",
+      "explanation": "brauchen: ich brauche; telefonieren: ich telefoniere."
+    },
+    {
+      "id": 34,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you (informal) need the computer?",
+      "solution": "Brauchst du den Computer?",
+      "explanation": "brauchen: du brauchst → question: Brauchst du...? den Computer = Akkusativ masc."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She noted all messages and then phoned the office.",
+      "solution": "Sie hat alle Nachrichten notiert und dann mit dem Büro telefoniert.",
+      "explanation": "Perfekt: hat notiert, hat telefoniert. alle Nachrichten = Akkusativ pl.; mit dem Büro = Dativ."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er notiert den Termin hat und dann telefoniert.",
+      "solution": "Er hat den Termin notiert und dann telefoniert.",
+      "explanation": "In Perfekt, the auxiliary hat comes in second position. The Partizip II goes to the end. Correct word order: Er hat den Termin notiert."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ihr ___ den Termin sofort! (to note down — command to a group)",
+      "solution": "notiert",
+      "explanation": "Imperativ ihr form = ihr notiert (same as Präsens conjugation)."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie (pl.) ___ das Passwort für den Computer. (to need)",
+      "solution": "brauchen",
+      "explanation": "brauchen: sie (plural) brauchen. Same as infinitive."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich ___ die Telefonnummer notiert.",
+      "options": ["habe", "bin", "hatte"],
+      "solution": "habe",
+      "explanation": "notieren uses haben in Perfekt: ich habe notiert."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We need to phone and note the new appointment.",
+      "solution": "Wir müssen telefonieren und den neuen Termin notieren.",
+      "explanation": "müssen + infinitive; telefonieren and notieren as infinitives at end with double infinitive structure."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Du notierst den Termin haben.",
+      "solution": "Du hast den Termin notiert.",
+      "explanation": "Perfekt requires: auxiliary (hast) in position 2 + Partizip II (notiert) at end."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir haben gestern lange ___. (Perfekt: to talk on the phone)",
+      "solution": "telefoniert",
+      "explanation": "Perfekt of telefonieren: haben + telefoniert. -ieren verbs drop ge-."
+    }
+  ]
+}

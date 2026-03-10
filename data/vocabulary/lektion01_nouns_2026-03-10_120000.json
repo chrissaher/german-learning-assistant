@@ -1,0 +1,611 @@
+{
+  "lektion": 1,
+  "focus": "nouns",
+  "file_slug": "lektion01_nouns",
+  "generated_at": "2026-03-10T12:00:00",
+  "vocabulary": [
+    {
+      "german": "der Name",
+      "base_form": "Name",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Namen",
+      "english": "name",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Vorname",
+      "base_form": "Vorname",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Vornamen",
+      "english": "first name",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Familienname",
+      "base_form": "Familienname",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Familiennamen",
+      "english": "last name / family name",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "das Alphabet",
+      "base_form": "Alphabet",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Alphabete",
+      "english": "alphabet",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Information",
+      "base_form": "Information",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Informationen",
+      "english": "information",
+      "word_type": "noun",
+      "pattern_hint": "-tion / -sion ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Persönlichkeit",
+      "base_form": "Persönlichkeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Persönlichkeiten",
+      "english": "personality / celebrity",
+      "word_type": "noun",
+      "pattern_hint": "-heit / -keit ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Herr",
+      "base_form": "Herr",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-en",
+      "plural_full": "Herren",
+      "english": "Mister / Mr (when addressing someone)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Frau",
+      "base_form": "Frau",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Frauen",
+      "english": "woman / Miss / Mrs (when addressing someone)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "das Gespräch",
+      "base_form": "Gespräch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Gespräche",
+      "english": "conversation",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Münze",
+      "base_form": "Münze",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Münzen",
+      "english": "coin",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Test",
+      "base_form": "Test",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Tests",
+      "english": "test",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Musik",
+      "base_form": "Musik",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(singular only)",
+      "english": "music",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "das Land",
+      "base_form": "Land",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Länder",
+      "english": "country / land",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Mein Vorname ist Thomas und mein Familienname ist Müller.",
+      "english": "My first name is Thomas and my last name is Müller.",
+      "level": "medium",
+      "note": "Uses: der Vorname, der Familienname. Possessive pronoun 'mein' with masculine nouns."
+    },
+    {
+      "id": 2,
+      "german": "Das Alphabet hat 26 Buchstaben auf Deutsch.",
+      "english": "The alphabet has 26 letters in German.",
+      "level": "medium",
+      "note": "Uses: das Alphabet (neuter, borrowed word → often das)."
+    },
+    {
+      "id": 3,
+      "german": "Wie ist Ihr Name, bitte? — Mein Name ist Schmidt.",
+      "english": "What is your name, please? — My name is Schmidt.",
+      "level": "medium",
+      "note": "Uses: der Name. Formal address with 'Ihr'."
+    },
+    {
+      "id": 4,
+      "german": "Die Information ist sehr wichtig für das Gespräch.",
+      "english": "The information is very important for the conversation.",
+      "level": "complex",
+      "note": "Uses: die Information (-tion → always die), das Gespräch. Demonstrates both nouns in one sentence."
+    },
+    {
+      "id": 5,
+      "german": "Herr Meier kommt aus Deutschland und lernt Musik.",
+      "english": "Mr. Meier comes from Germany and learns music.",
+      "level": "medium",
+      "note": "Uses: der Herr, die Musik (singular-only noun). Verb 'kommen' and 'lernen' from Lektion 1."
+    },
+    {
+      "id": 6,
+      "german": "Frau Fischer hat eine Münze in der Hand.",
+      "english": "Ms. Fischer has a coin in her hand.",
+      "level": "medium",
+      "note": "Uses: die Frau, die Münze. Introducing the concept of accusative with 'eine'."
+    },
+    {
+      "id": 7,
+      "german": "Das Land heißt Deutschland und die Hauptstadt ist Berlin.",
+      "english": "The country is called Germany and the capital is Berlin.",
+      "level": "complex",
+      "note": "Uses: das Land. Verb 'heißen' from Lektion 1 vocabulary."
+    },
+    {
+      "id": 8,
+      "german": "Der Test ist heute — buchstabieren Sie Ihren Namen, bitte.",
+      "english": "The test is today — please spell your name.",
+      "level": "complex",
+      "note": "Uses: der Test, der Name. Verb 'buchstabieren' from Lektion 1."
+    },
+    {
+      "id": 9,
+      "german": "Die Persönlichkeit aus Südafrika spricht Deutsch.",
+      "english": "The celebrity from South Africa speaks German.",
+      "level": "medium",
+      "note": "Uses: die Persönlichkeit (-keit → always die). Country reference from Lektion 1."
+    },
+    {
+      "id": 10,
+      "german": "Das Gespräch mit Herrn Müller ist sehr interessant.",
+      "english": "The conversation with Mr. Müller is very interesting.",
+      "level": "complex",
+      "note": "Uses: das Gespräch, der Herr (dative: Herrn). Formal address pattern."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Name ist Thomas. (the name)",
+      "solution": "Der",
+      "explanation": "'Name' is masculine (der Name). Must memorize — no reliable pattern."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wie ist ___ Vorname? (your formal)",
+      "solution": "Ihr",
+      "explanation": "Formal possessive 'Ihr' (your) is used with 'Vorname' (masculine). 'Ihr' stays unchanged in nominative."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Alphabet hat viele Buchstaben. (the alphabet)",
+      "solution": "Das",
+      "explanation": "'Alphabet' is neuter (das Alphabet). It is a borrowed word — often neuter."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Information ist klar. (the information)",
+      "solution": "Die",
+      "explanation": "'Information' ends in -tion → always feminine (die). High reliability pattern."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ Frau Schneider. (Ms.)",
+      "solution": "Frau",
+      "explanation": "'Frau' is used as a title of address for women. die Frau → used before surname."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Gespräch ist interessant. (the conversation)",
+      "solution": "Das",
+      "explanation": "'Gespräch' is neuter (das Gespräch). Must memorize."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Münze ist klein. (the coin)",
+      "solution": "Die",
+      "explanation": "'Münze' is feminine (die Münze). Must memorize."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Test ist heute. (the test)",
+      "solution": "Der",
+      "explanation": "'Test' is masculine (der Test), despite being a borrowed word. Must memorize."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein ___ ist Müller und mein ___ ist Klaus. (last name / first name)",
+      "solution": "Familienname / Vorname",
+      "explanation": "Both are masculine nouns. 'Familienname' = last name, 'Vorname' = first name."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Musik aus Deutschland ist sehr gut. (the music)",
+      "solution": "Die",
+      "explanation": "'Musik' is feminine (die Musik). It is a singular-only noun — no plural form."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Land heißt Österreich. (the country)",
+      "solution": "Das",
+      "explanation": "'Land' is neuter (das Land). Plural: die Länder (umlaut + -er)."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Herr Braun kommt aus ___. Das ist ein großes ___. (a country → Deutschland)",
+      "solution": "Deutschland / Land",
+      "explanation": "'Land' is neuter. Country names like Deutschland are not used with an article normally, but 'Land' as a common noun needs 'das'."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Name ist sehr schön.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Der",
+      "explanation": "'Name' is masculine (der Name). 'Die' is feminine, 'Das' is neuter — both wrong here."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Information kommt aus Berlin.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Die",
+      "explanation": "'Information' ends in -tion → always feminine (die). High reliability rule."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Gespräch ist kurz.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "'Gespräch' is neuter (das Gespräch). Must memorize."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Persönlichkeit___",
+      "options": ["-keiten (Persönlichkeiten)", "-ens (Persönlichkens)", "-s (Persönlichkeits)"],
+      "solution": "-keiten (Persönlichkeiten)",
+      "explanation": "Nouns ending in -keit/-heit form their plural with -en: die Persönlichkeit → die Persönlichkeiten."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Land hat viele ___. (countries)",
+      "options": ["Länder", "Lande", "Lands"],
+      "solution": "Länder",
+      "explanation": "'Land' forms its plural with umlaut + -er: das Land → die Länder."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ Münze gefunden.",
+      "options": ["eine", "ein", "einen"],
+      "solution": "eine",
+      "explanation": "'Münze' is feminine. The indefinite article in accusative for feminine nouns is 'eine'."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das ist ___ Herr Kaufmann. Er kommt aus der Schweiz.",
+      "options": ["Herr", "Der Herr", "Ein Herr"],
+      "solution": "Herr",
+      "explanation": "As a title of address before a surname, 'Herr' is used without an article."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich höre gern ___. (music)",
+      "options": ["die Musik", "das Musik", "der Musik"],
+      "solution": "die Musik",
+      "explanation": "'Musik' is feminine (die Musik). It has no plural form (Sg. only)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What is your first name?",
+      "solution": "Wie ist Ihr Vorname? / Wie heißt du? (informal)",
+      "explanation": "Use 'Vorname' for 'first name'. Formal: 'Ihr Vorname'. Informal: 'dein Vorname' or 'Wie heißt du?'"
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The test is today.",
+      "solution": "Der Test ist heute.",
+      "explanation": "'Test' is masculine (der Test). 'heute' = today."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The conversation is very interesting.",
+      "solution": "Das Gespräch ist sehr interessant.",
+      "explanation": "'Gespräch' is neuter (das Gespräch). 'sehr' intensifies the adjective."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Germany is a country.",
+      "solution": "Deutschland ist ein Land.",
+      "explanation": "'Land' is neuter → indefinite article 'ein'. No article before country names like Deutschland."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Mr. Braun comes from Germany. His last name is Braun and his first name is Thomas.",
+      "solution": "Herr Braun kommt aus Deutschland. Sein Familienname ist Braun und sein Vorname ist Thomas.",
+      "explanation": "Uses der Herr (title, no article before surname), der Familienname, der Vorname. Possessive 'sein' (his) for masculine nouns."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The information about the conversation is important.",
+      "solution": "Die Information über das Gespräch ist wichtig.",
+      "explanation": "die Information (-tion → die); das Gespräch (neuter). Preposition 'über' + accusative."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I like music very much.",
+      "solution": "Ich höre sehr gern Musik.",
+      "explanation": "'Musik' is feminine and used without article here (like English). 'sehr gern' = very much/gladly."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Name ist Müller.",
+      "solution": "Der Name ist Müller.",
+      "explanation": "'Name' is masculine (der Name), not feminine. Must memorize this gender."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Information kommt aus Berlin.",
+      "solution": "Die Information kommt aus Berlin.",
+      "explanation": "'Information' ends in -tion → always feminine (die). High reliability rule."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Gespräch ist kurz.",
+      "solution": "Das Gespräch ist kurz.",
+      "explanation": "'Gespräch' is neuter (das Gespräch). Must memorize."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Persönlichkeit ist sehr bekannt.",
+      "solution": "Die Persönlichkeit ist sehr bekannt.",
+      "explanation": "'Persönlichkeit' ends in -keit → always feminine (die). High reliability rule."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Land hat viele Lander.",
+      "solution": "Das Land hat viele Länder.",
+      "explanation": "Plural of 'Land' is 'Länder' (umlaut ä + er), not 'Lander'."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Herr Fischer kommt aus das Land Schweiz.",
+      "solution": "Herr Fischer kommt aus der Schweiz.",
+      "explanation": "'die Schweiz' is feminine. After 'aus', the dative is used: 'aus der Schweiz'. Country names that use an article require the dative form."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: der Name",
+      "solution": "die Namen",
+      "explanation": "'Name' adds -n in the plural: der Name → die Namen."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: die Frau",
+      "solution": "die Frauen",
+      "explanation": "'Frau' adds -en in the plural: die Frau → die Frauen."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: das Gespräch",
+      "solution": "die Gespräche",
+      "explanation": "'Gespräch' adds -e in the plural: das Gespräch → die Gespräche."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: das Land",
+      "solution": "die Länder",
+      "explanation": "'Land' uses umlaut + -er: das Land → die Länder."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: die Information",
+      "solution": "die Informationen",
+      "explanation": "'Information' adds -en: die Information → die Informationen."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: der Herr",
+      "solution": "die Herren",
+      "explanation": "'Herr' adds -en in the plural: der Herr → die Herren. Note the doubled 'r'."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: die Persönlichkeit",
+      "solution": "die Persönlichkeiten",
+      "explanation": "Nouns in -keit/-heit always form their plural with -en: die Persönlichkeit → die Persönlichkeiten."
+    },
+    {
+      "id": 41,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: der Test",
+      "solution": "die Tests",
+      "explanation": "'Test' is a borrowed word and adds -s in the plural: der Test → die Tests."
+    },
+    {
+      "id": 42,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: die Münze",
+      "solution": "die Münzen",
+      "explanation": "'Münze' adds -n in the plural: die Münze → die Münzen."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wie buchstabieren Sie Ihren ___? — Mein ___ ist K-A-U-F-M-A-N-N. (last name / last name)",
+      "solution": "Familiennamen / Familienname",
+      "explanation": "After 'Ihren' (accusative), 'Familiennamen' is the accusative form. After 'Mein' (nominative), 'Familienname' stays in nominative."
+    },
+    {
+      "id": 44,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ist ___ Herr Schmidt. Er ist eine bekannte ___. (Mr. / personality)",
+      "solution": "Herr / Persönlichkeit",
+      "explanation": "'Herr' as title of address needs no article before surname. 'Persönlichkeit' is feminine (-keit)."
+    }
+  ]
+}

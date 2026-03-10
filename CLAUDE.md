@@ -37,6 +37,7 @@ Skills will be created incrementally. Ideas in scope:
 | sentence-builder    | `sentence builder: [word]` or `sentence builder: [word] ([type])`  | Generates 10 A1-level example sentences for a given German word and saves them as JSON                                                |
 | sentence-renderer   | `render sentences`                                                  | Renders all unrendered sentence JSON files to styled HTML; skips already-rendered files; saves to `data/sentences-html/`              |
 | grammar-explainer   | `grammar: [topic]` or `grammar: [topic], focus: [specifics]`       | Generates a detailed grammar explanation with examples, exercises (4 types), and solutions; saves JSON + HTML output                  |
+| vocab-drill         | `vocab drill: lektion [N], [focus]`                                 | Extracts vocabulary from the Momente A1 glossary PDFs for a Lektion, generates reference section + 40+ exercises; saves JSON + HTML  |
 
 **Invocation examples:**
 - `sentence builder: Haus`
@@ -46,10 +47,14 @@ Skills will be created incrementally. Ideas in scope:
 - `grammar: Dativ`
 - `grammar: Perfekt, focus: haben vs. sein`
 - `grammar: lokale Präpositionen`
+- `vocab drill: lektion 5, nouns`
+- `vocab drill: lektion 3, verbs`
+- `vocab drill: lektion 7, all`
 
-Skill definitions: `.claude/skills/sentence-builder/SKILL.md`, `.claude/skills/sentence-renderer/SKILL.md`, `.claude/skills/grammar-explainer/SKILL.md`
+Skill definitions: `.claude/skills/sentence-builder/SKILL.md`, `.claude/skills/sentence-renderer/SKILL.md`, `.claude/skills/grammar-explainer/SKILL.md`, `.claude/skills/vocab-drill/SKILL.md`
 Generated sentence files saved to: `data/sentences/` (JSON) and `data/sentences-html/` (HTML)
 Generated grammar files saved to: `data/grammar/` (JSON) and `data/grammar-html/` (HTML)
+Generated vocabulary files saved to: `data/vocabulary/` (JSON) and `data/vocabulary-html/` (HTML)
 
 ---
 

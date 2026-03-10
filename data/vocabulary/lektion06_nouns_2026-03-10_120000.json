@@ -1,0 +1,776 @@
+{
+  "lektion": 6,
+  "focus": "nouns",
+  "file_slug": "lektion06_nouns",
+  "generated_at": "2026-03-10T12:00:00",
+  "vocabulary": [
+    {
+      "german": "der Gott",
+      "base_form": "Gott",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..er",
+      "plural_full": "Götter",
+      "english": "god",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Arbeit",
+      "base_form": "Arbeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(mostly singular)",
+      "english": "work",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "das Passwort",
+      "base_form": "Passwort",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Passwörter",
+      "english": "password",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Traum",
+      "base_form": "Traum",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Träume",
+      "english": "dream",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Albtraum",
+      "base_form": "Albtraum",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Albträume",
+      "english": "nightmare",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Person",
+      "base_form": "Person",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Personen",
+      "english": "person",
+      "word_type": "noun",
+      "pattern_hint": "-tion / -sion ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Hunger",
+      "base_form": "Hunger",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(singular only)",
+      "english": "hunger",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "das WLAN",
+      "base_form": "WLAN",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(singular only)",
+      "english": "Wi-Fi",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Stift",
+      "base_form": "Stift",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Stifte",
+      "english": "pen",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Kaffee",
+      "base_form": "Kaffee",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Kaffees",
+      "english": "coffee",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Nachricht",
+      "base_form": "Nachricht",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Nachrichten",
+      "english": "message",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "das Büro",
+      "base_form": "Büro",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Büros",
+      "english": "office",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Gruß",
+      "base_form": "Gruß",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Grüße",
+      "english": "greeting",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "das Yoga",
+      "base_form": "Yoga",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(singular only)",
+      "english": "yoga",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Zeit",
+      "base_form": "Zeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(mostly singular)",
+      "english": "time",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Termin",
+      "base_form": "Termin",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Termine",
+      "english": "appointment",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Laptop",
+      "base_form": "Laptop",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Laptops",
+      "english": "laptop",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Drucker",
+      "base_form": "Drucker",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Drucker",
+      "english": "printer",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Maus",
+      "base_form": "Maus",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "..e",
+      "plural_full": "Mäuse",
+      "english": "mouse (computer)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Computer",
+      "base_form": "Computer",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Computer",
+      "english": "computer",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Kalender",
+      "base_form": "Kalender",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kalender",
+      "english": "calendar",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Bildschirm",
+      "base_form": "Bildschirm",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Bildschirme",
+      "english": "monitor / screen",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "das Tablet",
+      "base_form": "Tablet",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Tablets",
+      "english": "tablet",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Visitenkarte",
+      "base_form": "Visitenkarte",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Visitenkarten",
+      "english": "business card",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "die Tastatur",
+      "base_form": "Tastatur",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Tastaturen",
+      "english": "keyboard",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Schreibtisch",
+      "base_form": "Schreibtisch",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Schreibtische",
+      "english": "desk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    },
+    {
+      "german": "der Arbeitsplatz",
+      "base_form": "Arbeitsplatz",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Arbeitsplätze",
+      "english": "workspace / workstation",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 6
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich habe heute einen wichtigen Termin im Büro.",
+      "english": "I have an important appointment at the office today.",
+      "level": "medium",
+      "note": "Uses: der Termin (key Lektion 6 noun), das Büro; Akkusativ einen Termin after haben."
+    },
+    {
+      "id": 2,
+      "german": "Der Drucker und der Computer stehen auf dem Schreibtisch.",
+      "english": "The printer and the computer are on the desk.",
+      "level": "medium",
+      "note": "Uses: der Drucker, der Computer, der Schreibtisch; stehen on + Dativ dem Schreibtisch."
+    },
+    {
+      "id": 3,
+      "german": "Ich brauche das Passwort für das WLAN im Hotel.",
+      "english": "I need the password for the Wi-Fi in the hotel.",
+      "level": "medium",
+      "note": "Uses: das Passwort, das WLAN; brauchen + Akkusativ."
+    },
+    {
+      "id": 4,
+      "german": "Sie schreibt eine Nachricht und notiert den Termin im Kalender.",
+      "english": "She writes a message and notes the appointment in the calendar.",
+      "level": "complex",
+      "note": "Uses: die Nachricht, der Termin, der Kalender; two verbs schreiben + notieren."
+    },
+    {
+      "id": 5,
+      "german": "Der Bildschirm ist kaputt und die Tastatur funktioniert auch nicht.",
+      "english": "The monitor is broken and the keyboard doesn't work either.",
+      "level": "medium",
+      "note": "Uses: der Bildschirm, die Tastatur; kaputt from Lektion 10 vocabulary."
+    },
+    {
+      "id": 6,
+      "german": "Er hat leider keine Zeit für einen Kaffee, weil er viel Arbeit hat.",
+      "english": "Unfortunately he has no time for a coffee because he has a lot of work.",
+      "level": "complex",
+      "note": "Uses: die Zeit, der Kaffee, die Arbeit; weil-clause with verb-final word order."
+    },
+    {
+      "id": 7,
+      "german": "Meine Visitenkarte liegt auf dem Schreibtisch neben dem Laptop.",
+      "english": "My business card is on the desk next to the laptop.",
+      "level": "medium",
+      "note": "Uses: die Visitenkarte, der Schreibtisch, der Laptop; spatial prepositions auf + neben + Dativ."
+    },
+    {
+      "id": 8,
+      "german": "Der Hunger war so groß, dass er drei Tassen Kaffee getrunken hat.",
+      "english": "He was so hungry that he drank three cups of coffee.",
+      "level": "complex",
+      "note": "Uses: der Hunger, der Kaffee; Perfekt getrunken; dass-clause."
+    },
+    {
+      "id": 9,
+      "german": "Das Tablet und die Maus liegen auf dem Arbeitsplatz.",
+      "english": "The tablet and the mouse are lying on the workstation.",
+      "level": "medium",
+      "note": "Uses: das Tablet, die Maus, der Arbeitsplatz; liegen + auf + Dativ."
+    },
+    {
+      "id": 10,
+      "german": "Ich habe einen Traum: Ich arbeite in einem kleinen Büro in Wien.",
+      "english": "I have a dream: I work in a small office in Vienna.",
+      "level": "complex",
+      "note": "Uses: der Traum, das Büro; Dativ einem kleinen Büro."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Termin ist um 10 Uhr. (the appointment)",
+      "solution": "Der",
+      "explanation": "der Termin — masculine. Must memorize the gender."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich brauche ___ Passwort für das WLAN. (the password)",
+      "solution": "das",
+      "explanation": "das Passwort — neuter. Borrowed word, often das."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Arbeit macht heute viel Spaß. (the work)",
+      "solution": "Die",
+      "explanation": "die Arbeit — feminine. Must memorize."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der ___ steht auf dem Schreibtisch. (printer)",
+      "solution": "Drucker",
+      "explanation": "der Drucker — masculine. The -er ending on agent/device nouns is often masculine."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Computer ist neu. (the computer)",
+      "solution": "Der",
+      "explanation": "der Computer — masculine. The -er ending is often masculine."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe einen ___ um 14 Uhr im ___. (appointment / office)",
+      "solution": "Termin / Büro",
+      "explanation": "der Termin (masc.) → einen Termin (Akkusativ); das Büro (neut.) → im Büro (Dativ)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie schreibt eine ___ an die Kollegin. (message)",
+      "solution": "Nachricht",
+      "explanation": "die Nachricht — feminine. Must memorize."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der ___ liegt auf dem Tisch. Ich kann nicht tippen! (keyboard)",
+      "solution": "Tastatur",
+      "explanation": "die Tastatur — feminine. 'Die Tastatur liegt auf dem Tisch.'"
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___ Hunger. Wann essen wir? (a lot of)",
+      "solution": "viel",
+      "explanation": "Hunger haben = to be hungry. viel Hunger = a lot of hunger."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ ist kaputt. Ich kann nichts drucken. (printer)",
+      "solution": "Drucker",
+      "explanation": "der Drucker — the device noun, masculine."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Mein ___ und mein ___ sind auf dem Schreibtisch. (laptop / calendar)",
+      "solution": "Laptop / Kalender",
+      "explanation": "der Laptop and der Kalender — both masculine. mein for masculine."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er hat keine ___, weil er viel ___ hat. (time / work)",
+      "solution": "Zeit / Arbeit",
+      "explanation": "die Zeit (feminine); die Arbeit (feminine). Both use keine in negation."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Büro ist sehr groß.",
+      "options": ["Der", "Das", "Die"],
+      "solution": "Das",
+      "explanation": "das Büro — neuter. Borrowed word from French bureau, neuter in German."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich brauche einen ___. (appointment)",
+      "options": ["Termin", "Traum", "Gruß"],
+      "solution": "Termin",
+      "explanation": "der Termin = appointment. einen Termin (Akkusativ, masculine)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der ___ ist kaputt. Ich kann die E-Mail nicht drucken.",
+      "options": ["Drucker", "Kalender", "Bildschirm"],
+      "solution": "Drucker",
+      "explanation": "der Drucker = printer. Drucken = to print, so the Drucker (printer) is broken."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat eine neue ___ bekommen. (message)",
+      "options": ["Nachricht", "Visitenkarte", "Tastatur"],
+      "solution": "Nachricht",
+      "explanation": "die Nachricht = message. The other options are business card and keyboard."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Yoga macht sie jeden Morgen. (the)",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "das Yoga — neuter. Borrowed word from Sanskrit/English, neuter in German."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe meinen ___ vergessen. Wann ist das Meeting? (calendar)",
+      "options": ["Kalender", "Computer", "Arbeitsplatz"],
+      "solution": "Kalender",
+      "explanation": "der Kalender = calendar — the tool for tracking appointments and meetings."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die ___ ist zu klein für diesen Text. Kannst du eine größere nehmen? (screen)",
+      "options": ["Maus", "Tastatur", "Bildschirm"],
+      "solution": "Bildschirm",
+      "explanation": "der Bildschirm = monitor/screen. Note: die Maus and die Tastatur are feminine; der Bildschirm is masculine."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have an appointment tomorrow at the office.",
+      "solution": "Ich habe morgen einen Termin im Büro.",
+      "explanation": "der Termin → einen Termin (Akkusativ masculine); das Büro → im Büro (Dativ)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The keyboard is new and the monitor is also new.",
+      "solution": "Die Tastatur ist neu und der Bildschirm ist auch neu.",
+      "explanation": "die Tastatur (fem.), der Bildschirm (masc.); also = also/too."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She sends a message to her colleague.",
+      "solution": "Sie schreibt eine Nachricht an ihren Kollegen.",
+      "explanation": "die Nachricht → eine Nachricht (Akkusativ fem.); schreiben/schicken both work."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I need the Wi-Fi password for my laptop.",
+      "solution": "Ich brauche das WLAN-Passwort für meinen Laptop.",
+      "explanation": "das Passwort / das WLAN (neuter); der Laptop → meinen Laptop (Akkusativ masc.)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The desk in the office has a computer, a keyboard, and a mouse.",
+      "solution": "Der Schreibtisch im Büro hat einen Computer, eine Tastatur und eine Maus.",
+      "explanation": "der Computer → einen Computer (Akkusativ masc.); die Tastatur → eine Tastatur (fem.); die Maus → eine Maus (fem.)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He has no time because he has a lot of work and two appointments today.",
+      "solution": "Er hat keine Zeit, weil er viel Arbeit und heute zwei Termine hat.",
+      "explanation": "die Zeit → keine Zeit (negation); die Arbeit → viel Arbeit; der Termin → zwei Termine (plural); weil sends verb to end."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Termin ist um drei Uhr.",
+      "solution": "Der Termin ist um drei Uhr.",
+      "explanation": "der Termin — masculine, not neuter. Must use Der, not Das."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich brauche der Stift.",
+      "solution": "Ich brauche den Stift.",
+      "explanation": "After brauchen (Akkusativ), masculine der becomes den."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat eine Nachricht an das Büro geschickt. Der Büro antwortet morgen.",
+      "solution": "Das Büro antwortet morgen.",
+      "explanation": "das Büro — neuter, not masculine. Das Büro, not Der Büro."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe keine Hunger. Danke.",
+      "solution": "Ich habe keinen Hunger. Danke.",
+      "explanation": "der Hunger — masculine. kein in Akkusativ masculine = keinen."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Laptop liegt auf dem Schreibtischen.",
+      "solution": "Der Laptop liegt auf dem Schreibtisch.",
+      "explanation": "auf + Dativ: der Schreibtisch (masc.) → dem Schreibtisch, not Schreibtischen (that would be plural Dativ)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er hat die Visitenkarte auf dem Büro gelegt.",
+      "solution": "Er hat die Visitenkarte auf das Büro gelegt.",
+      "explanation": "legen (movement/action) requires Akkusativ: auf das Büro. Dativ (dem) is for static position (liegen)."
+    },
+    {
+      "id": 32,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Termin",
+      "solution": "die Termine",
+      "explanation": "der Termin adds -e to form die Termine."
+    },
+    {
+      "id": 33,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Nachricht",
+      "solution": "die Nachrichten",
+      "explanation": "die Nachricht adds -en to form die Nachrichten."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Traum",
+      "solution": "die Träume",
+      "explanation": "der Traum takes umlaut + e: Träume."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Passwort",
+      "solution": "die Passwörter",
+      "explanation": "das Passwort takes umlaut + er: Passwörter."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Bildschirm",
+      "solution": "die Bildschirme",
+      "explanation": "der Bildschirm adds -e to form die Bildschirme."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: die Visitenkarte",
+      "solution": "die Visitenkarten",
+      "explanation": "die Visitenkarte adds -n to form die Visitenkarten."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Give the plural: der Arbeitsplatz",
+      "solution": "die Arbeitsplätze",
+      "explanation": "der Arbeitsplatz takes umlaut + e: Arbeitsplätze."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich trinke jeden Morgen einen ___. (coffee)",
+      "solution": "Kaffee",
+      "explanation": "der Kaffee — masculine. einen Kaffee (Akkusativ)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der ___ ist sehr groß und hat viele ___. (workspace / computers)",
+      "solution": "Arbeitsplatz / Computer",
+      "explanation": "der Arbeitsplatz (masc.); der Computer plural = Computer (no change)."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you have a business card?",
+      "solution": "Haben Sie eine Visitenkarte?",
+      "explanation": "die Visitenkarte → eine Visitenkarte (Akkusativ fem.); formal Sie form used in business context."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Die Maus und der Tastatur sind neu.",
+      "solution": "Die Maus und die Tastatur sind neu.",
+      "explanation": "die Tastatur — feminine, not masculine. Both die Maus and die Tastatur are feminine."
+    }
+  ]
+}

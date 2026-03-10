@@ -1,0 +1,501 @@
+{
+  "lektion": 3,
+  "focus": "verbs",
+  "file_slug": "lektion03_verbs",
+  "generated_at": "2026-03-10T12:01:00",
+  "vocabulary": [
+    {
+      "german": "glauben",
+      "base_form": "glauben",
+      "english": "to believe / to think",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "glaube",
+        "du": "glaubst",
+        "er/sie/es": "glaubt",
+        "wir": "glauben",
+        "ihr": "glaubt",
+        "sie/Sie": "glauben"
+      },
+      "perfekt": "hat geglaubt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Often followed by 'dass': Ich glaube, dass …",
+      "lektion_source": 3
+    },
+    {
+      "german": "planen",
+      "base_form": "planen",
+      "english": "to plan",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "plane",
+        "du": "planst",
+        "er/sie/es": "plant",
+        "wir": "planen",
+        "ihr": "plant",
+        "sie/Sie": "planen"
+      },
+      "perfekt": "hat geplant",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Spanish cognate: planear (similar meaning).",
+      "lektion_source": 3
+    },
+    {
+      "german": "sprechen",
+      "base_form": "sprechen",
+      "english": "to speak",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "spreche",
+        "du": "sprichst",
+        "er/sie/es": "spricht",
+        "wir": "sprechen",
+        "ihr": "sprecht",
+        "sie/Sie": "sprechen"
+      },
+      "perfekt": "hat gesprochen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb. Stem vowel change e→i in du/er forms: du sprichst, er spricht. Partizip II: gesprochen.",
+      "lektion_source": 3
+    },
+    {
+      "german": "erzählen",
+      "base_form": "erzählen",
+      "english": "to tell / to narrate",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "erzähle",
+        "du": "erzählst",
+        "er/sie/es": "erzählt",
+        "wir": "erzählen",
+        "ihr": "erzählt",
+        "sie/Sie": "erzählen"
+      },
+      "perfekt": "hat erzählt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb with inseparable prefix er-. No ge- in Partizip II because it starts with inseparable prefix: erzählt (not *geerzählt).",
+      "lektion_source": 3
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich glaube, meine Schwester kommt heute aus Wien.",
+      "english": "I think my sister is coming from Vienna today.",
+      "level": "medium",
+      "note": "Uses: glauben; followed by a subordinate clause. die Schwester from Lektion 3 nouns."
+    },
+    {
+      "id": 2,
+      "german": "Er glaubt, dass die Familie sehr groß ist.",
+      "english": "He believes that the family is very large.",
+      "level": "complex",
+      "note": "Uses: glauben with 'dass'-clause (word order: verb goes to end). die Familie from L3."
+    },
+    {
+      "id": 3,
+      "german": "Wir planen ein Fest für die ganze Familie.",
+      "english": "We are planning a celebration for the whole family.",
+      "level": "medium",
+      "note": "Uses: planen; das Fest, die Familie from L3 nouns."
+    },
+    {
+      "id": 4,
+      "german": "Meine Eltern planen eine Reise nach Deutschland.",
+      "english": "My parents are planning a trip to Germany.",
+      "level": "medium",
+      "note": "Uses: planen; die Eltern (L3), die Reise (later lektion used passively)."
+    },
+    {
+      "id": 5,
+      "german": "Mein Bruder spricht Deutsch und Englisch sehr gut.",
+      "english": "My brother speaks German and English very well.",
+      "level": "medium",
+      "note": "Uses: sprechen (e→i stem change in 3rd person); der Bruder from L3."
+    },
+    {
+      "id": 6,
+      "german": "Sprichst du auch Spanisch? — Ja, ein bisschen.",
+      "english": "Do you speak Spanish too? — Yes, a little bit.",
+      "level": "medium",
+      "note": "Uses: sprechen (du-form: sprichst); ein bisschen from L3 others."
+    },
+    {
+      "id": 7,
+      "german": "Sie spricht fünf Sprachen — das ist wirklich toll!",
+      "english": "She speaks five languages — that is really great!",
+      "level": "complex",
+      "note": "Uses: sprechen (er/sie/es → spricht); die Sprache (pl. Sprachen) from L3."
+    },
+    {
+      "id": 8,
+      "german": "Meine Oma erzählt immer Geschichten über die Familie.",
+      "english": "My grandma always tells stories about the family.",
+      "level": "complex",
+      "note": "Uses: erzählen (regular, inseparable prefix); die Oma, die Familie from L3."
+    },
+    {
+      "id": 9,
+      "german": "Er hat seiner Tochter von der Reise erzählt.",
+      "english": "He told his daughter about the trip.",
+      "level": "complex",
+      "note": "Uses: erzählen in Perfekt (hat erzählt); die Tochter from L3."
+    },
+    {
+      "id": 10,
+      "german": "Wir haben das Fest gut geplant — alle Verwandten kommen.",
+      "english": "We have planned the party well — all relatives are coming.",
+      "level": "complex",
+      "note": "Uses: planen in Perfekt (hat geplant); das Fest, die Verwandten from L3."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ Deutsch. (to speak — ich form)",
+      "solution": "spreche",
+      "explanation": "sprechen → ich spreche. No stem vowel change in ich-form."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ Englisch sehr gut. (to speak — du form)",
+      "solution": "sprichst",
+      "explanation": "sprechen → du sprichst. Stem vowel change e→i in du-form."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ immer viel. (to believe)",
+      "solution": "glaubt",
+      "explanation": "glauben → er glaubt. Regular weak verb, no stem change."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir ___ ein Fest. (to plan)",
+      "solution": "planen",
+      "explanation": "planen → wir planen. Infinitive form used for wir."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie ___ eine Geschichte. (she — to tell)",
+      "solution": "erzählt",
+      "explanation": "erzählen → sie (she) erzählt. Regular, inseparable prefix verb."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine Schwester ___ drei Sprachen — Deutsch, Spanisch und Englisch.",
+      "solution": "spricht",
+      "explanation": "sprechen → sie (she) spricht. Stem vowel change e→i in er/sie/es form."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___, dass mein Vater heute kommt. (to believe)",
+      "solution": "glaube",
+      "explanation": "glauben → ich glaube. Regular first-person form."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Eltern ___ eine Reise nach Österreich. (to plan)",
+      "solution": "planen",
+      "explanation": "planen → sie (they)/die Eltern planen. Third-person plural = infinitive form."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein Onkel ___ viel von seiner Familie. (to tell)",
+      "solution": "erzählt",
+      "explanation": "erzählen → er erzählt. Inseparable prefix er- so no stem change or ge- issues in Präsens."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er ___ seiner Tochter, dass die Familie ein Fest ___. (to tell / to plan)",
+      "solution": "erzählt / plant",
+      "explanation": "erzählen → er erzählt; planen → sie (family) plant (3rd sg.)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir ___ alle Verwandten zum Fest — das haben wir gut ___. (to plan — Präsens / Perfekt)",
+      "solution": "planen / geplant",
+      "explanation": "planen → wir planen (Präsens); hat/haben geplant (Perfekt with haben)."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Mein Sohn ___ Deutsch in der Schule.",
+      "options": ["sprecht", "spricht", "spreche"],
+      "solution": "spricht",
+      "explanation": "3rd person singular: er/sie/es spricht. Stem vowel change e→i."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___, dass du Recht hast. (to believe)",
+      "options": ["glaubst", "glaubt", "glaube"],
+      "solution": "glaube",
+      "explanation": "1st person singular ich: glaube. Regular weak verb."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie (plural) ___ ein großes Fest. (to plan)",
+      "options": ["plant", "planen", "plane"],
+      "solution": "planen",
+      "explanation": "3rd person plural sie/Sie: planen (same as infinitive)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Meine Oma ___ immer Geschichten. (to tell)",
+      "options": ["erzähle", "erzählen", "erzählt"],
+      "solution": "erzählt",
+      "explanation": "3rd person singular er/sie/es → erzählt. Inseparable prefix verb, regular in Präsens."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er hat die Geschichte gut ___. (Perfekt of erzählen)",
+      "options": ["geerzählt", "erzählt", "erzählen"],
+      "solution": "erzählt",
+      "explanation": "Inseparable prefix verbs do NOT add ge- in Partizip II. erzählen → hat erzählt (not *geerzählt)."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My brother speaks German and Spanish.",
+      "solution": "Mein Bruder spricht Deutsch und Spanisch.",
+      "explanation": "sprechen → er spricht (stem change e→i). der Bruder → mein Bruder (masc.)."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We are planning a big celebration.",
+      "solution": "Wir planen ein großes Fest.",
+      "explanation": "planen → wir planen (regular). das Fest (neuter) → ein großes Fest."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I believe my uncle is from Germany.",
+      "solution": "Ich glaube, mein Onkel kommt aus Deutschland.",
+      "explanation": "glauben → ich glaube. Followed by a comma then a clause (subject-verb order because no 'dass')."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She told her grandparents about the family celebration.",
+      "solution": "Sie hat ihren Großeltern von dem Fest der Familie erzählt.",
+      "explanation": "erzählen in Perfekt: hat erzählt. die Großeltern (pl.-only), das Fest."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Do you speak Spanish? — Yes, I speak a little bit.",
+      "solution": "Sprichst du Spanisch? — Ja, ich spreche ein bisschen.",
+      "explanation": "sprechen: du sprichst (stem change) / ich spreche (no change). ein bisschen from L3."
+    },
+    {
+      "id": 22,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er sprecht Deutsch sehr gut. ✗ Find and fix the error.",
+      "solution": "Er spricht Deutsch sehr gut.",
+      "explanation": "sprechen: er/sie/es form is 'spricht' (e→i stem change), NOT 'sprecht' (which is the ihr-form)."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du glaubst das nicht? — Ich glaube nicht. ✓  Sie glauben, oder? — Ja, er glaubet. ✗",
+      "solution": "er glaubt",
+      "explanation": "glauben → er/sie/es glaubt. The ending is just -t, never -et for this verb."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir haben das Fest geerzählt. ✗ Find and fix the error.",
+      "solution": "Wir haben das Fest erzählt. (Or better: Wir haben vom Fest erzählt.)",
+      "explanation": "erzählen starts with inseparable prefix er-. Partizip II does NOT take ge-: erzählt, NOT geerzählt."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Meine Schwester hat das Fest geplantet. ✗ Find and fix the error.",
+      "solution": "Meine Schwester hat das Fest geplant.",
+      "explanation": "Partizip II of planen = geplant (regular, no extra -et ending)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie hat ihrer Mutter von der Familie gespricht. ✗ Find and fix the error.",
+      "solution": "Sie hat ihrer Mutter von der Familie gesprochen.",
+      "explanation": "Partizip II of sprechen = gesprochen (strong verb). NOT 'gespricht'."
+    },
+    {
+      "id": 27,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ das Fest gut geplant. (hat / ist)",
+      "solution": "hat",
+      "explanation": "planen takes haben as auxiliary. Motion/change-of-state verbs take sein; planen stays with haben."
+    },
+    {
+      "id": 28,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Meine Oma ___ viel erzählt. (hat / ist)",
+      "solution": "hat",
+      "explanation": "erzählen takes haben. It describes an action without movement/change of state."
+    },
+    {
+      "id": 29,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ alle drei Sprachen gesprochen. (haben / sind)",
+      "solution": "haben",
+      "explanation": "sprechen takes haben as auxiliary. Perfekt: wir haben gesprochen."
+    },
+    {
+      "id": 30,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ geglaubt, dass die Familie kommt. (hat / ist)",
+      "solution": "hat",
+      "explanation": "glauben takes haben. Perfekt: er hat geglaubt."
+    },
+    {
+      "id": 31,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Sie ___ ihrer Schwester von dem Fest erzählt. (hat / ist)",
+      "solution": "hat",
+      "explanation": "erzählen takes haben. Partizip II = erzählt (no ge-, inseparable prefix)."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ihr ___ Deutsch? (to speak — ihr form)",
+      "solution": "sprecht",
+      "explanation": "sprechen → ihr sprecht. The ihr-form has the vowel e (no stem change)."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie (formal) ___ sehr gut Deutsch! (to speak)",
+      "solution": "sprechen",
+      "explanation": "sprechen → Sie sprechen (formal you = same as 3rd pl. = infinitive form)."
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Meine Verwandten ___ viel über die Familie. (to tell)",
+      "options": ["erzählen", "erzählt", "erzähle"],
+      "solution": "erzählen",
+      "explanation": "3rd person plural (sie/die Verwandten) → erzählen."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "They are planning a list of relatives.",
+      "solution": "Sie planen eine Liste von Verwandten.",
+      "explanation": "planen → sie planen. die Liste (fem.), der/die Verwandte → Verwandten (pl.)."
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My grandmother has always told us stories about our family.",
+      "solution": "Meine Großmutter hat uns immer Geschichten über unsere Familie erzählt.",
+      "explanation": "erzählen in Perfekt: hat erzählt. immer = always. die Großmutter from L3."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Du sprechst sehr gut Englisch. ✗ Find and fix the error.",
+      "solution": "Du sprichst sehr gut Englisch.",
+      "explanation": "sprechen: du-form is 'sprichst' (e→i stem change), NOT 'sprechst'."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Mein Sohn ___ uns von seinem Urlaub erzählt — er hat tolle Fotos gemacht. (Perfekt — erzählen)",
+      "solution": "hat",
+      "explanation": "erzählen Perfekt: hat erzählt. Auxiliary is haben; the full form here is 'hat ... erzählt'."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie hat ihren Eltern von dem Fest ___. (Perfekt of erzählen)",
+      "options": ["geerzählt", "erzählen", "erzählt"],
+      "solution": "erzählt",
+      "explanation": "Inseparable-prefix verbs: no ge- added. erzählen → erzählt (not geerzählt)."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He believes that his son speaks three languages.",
+      "solution": "Er glaubt, dass sein Sohn drei Sprachen spricht.",
+      "explanation": "glauben + dass-clause: verb goes to end of clause (spricht). der Sohn, die Sprache (pl. Sprachen) from L3."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein Vater ___ gern von seiner Kindheit. (to tell)",
+      "solution": "erzählt",
+      "explanation": "erzählen → er erzählt (3rd person singular)."
+    },
+    {
+      "id": 42,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ das Familienfest zusammen geplant. (haben / sind)",
+      "solution": "haben",
+      "explanation": "planen takes haben as auxiliary in Perfekt."
+    }
+  ]
+}

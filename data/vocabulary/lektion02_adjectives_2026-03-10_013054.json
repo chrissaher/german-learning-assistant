@@ -1,0 +1,544 @@
+{
+  "lektion": 2,
+  "focus": "adjectives",
+  "file_slug": "lektion02_adjectives",
+  "generated_at": "2026-03-10T01:30:54",
+  "vocabulary": [
+    {
+      "german": "neu",
+      "base_form": "neu",
+      "english": "new",
+      "word_type": "adjective",
+      "antonym": "alt",
+      "cognate_note": "English: 'new' is a cognate (both from Germanic root). Spanish 'nuevo' is not related.",
+      "lektion_source": 2
+    },
+    {
+      "german": "alt",
+      "base_form": "alt",
+      "english": "old",
+      "word_type": "adjective",
+      "antonym": "neu",
+      "cognate_note": "English: 'old' is distantly related. Spanish: 'viejo/antiguo' — different roots.",
+      "lektion_source": 2
+    },
+    {
+      "german": "groß",
+      "base_form": "groß",
+      "english": "big / large / tall",
+      "word_type": "adjective",
+      "antonym": "klein",
+      "cognate_note": null,
+      "lektion_source": 2
+    },
+    {
+      "german": "klein",
+      "base_form": "klein",
+      "english": "small / little",
+      "word_type": "adjective",
+      "antonym": "groß",
+      "cognate_note": null,
+      "lektion_source": 2
+    },
+    {
+      "german": "schön",
+      "base_form": "schön",
+      "english": "beautiful / nice / lovely",
+      "word_type": "adjective",
+      "antonym": "hässlich",
+      "cognate_note": null,
+      "lektion_source": 2
+    },
+    {
+      "german": "praktisch",
+      "base_form": "praktisch",
+      "english": "practical / handy",
+      "word_type": "adjective",
+      "antonym": "unpraktisch",
+      "cognate_note": "Spanish: 'práctico' — direct cognate. English: 'practical' — same root.",
+      "lektion_source": 2
+    },
+    {
+      "german": "billig",
+      "base_form": "billig",
+      "english": "cheap / inexpensive",
+      "word_type": "adjective",
+      "antonym": "teuer",
+      "cognate_note": null,
+      "lektion_source": 2
+    },
+    {
+      "german": "teuer",
+      "base_form": "teuer",
+      "english": "expensive",
+      "word_type": "adjective",
+      "antonym": "billig",
+      "cognate_note": "False friend alert: does NOT mean 'dear' (as in letters). In German, 'teuer' only means expensive/costly.",
+      "lektion_source": 2
+    },
+    {
+      "german": "schwer",
+      "base_form": "schwer",
+      "english": "heavy / difficult",
+      "word_type": "adjective",
+      "antonym": "leicht",
+      "cognate_note": "Has two meanings: heavy (physically) and difficult. Context determines meaning.",
+      "lektion_source": 2
+    },
+    {
+      "german": "leicht",
+      "base_form": "leicht",
+      "english": "light (not heavy) / easy",
+      "word_type": "adjective",
+      "antonym": "schwer",
+      "cognate_note": "Also means 'easy'. English: 'light' — cognate for physical weight meaning.",
+      "lektion_source": 2
+    },
+    {
+      "german": "kaputt",
+      "base_form": "kaputt",
+      "english": "broken / not working",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "From French 'capot'. Common colloquial word. Also means 'exhausted' informally.",
+      "lektion_source": 2
+    },
+    {
+      "german": "toll",
+      "base_form": "toll",
+      "english": "great / fantastic / awesome",
+      "word_type": "adjective",
+      "antonym": "schrecklich",
+      "cognate_note": "Colloquial/informal. Do NOT confuse with English 'toll' (which means Maut/Abgabe in German).",
+      "lektion_source": 2
+    },
+    {
+      "german": "richtig",
+      "base_form": "richtig",
+      "english": "correct / right / real",
+      "word_type": "adjective",
+      "antonym": "falsch",
+      "cognate_note": null,
+      "lektion_source": 2
+    },
+    {
+      "german": "falsch",
+      "base_form": "falsch",
+      "english": "wrong / incorrect / false",
+      "word_type": "adjective",
+      "antonym": "richtig",
+      "cognate_note": "English: 'false' — cognate. Spanish: 'falso' — cognate.",
+      "lektion_source": 2
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Handy ist neu, aber leider sehr teuer.",
+      "english": "The mobile phone is new, but unfortunately very expensive.",
+      "level": "medium",
+      "note": "Uses: neu, teuer (Lektion 2 focus adjectives); das Handy (Lektion 2 noun)."
+    },
+    {
+      "id": 2,
+      "german": "Mein Rucksack ist sehr schwer — ich habe zu viele Bücher drin.",
+      "english": "My backpack is very heavy — I have too many books in it.",
+      "level": "medium",
+      "note": "Uses: schwer (Lektion 2 focus); der Rucksack, das Buch (Lektion 2 nouns)."
+    },
+    {
+      "id": 3,
+      "german": "Das ist ein tolles Foto! Wo hast du es gemacht?",
+      "english": "That's a great photo! Where did you take it?",
+      "level": "medium",
+      "note": "Uses: toll (Lektion 2 focus); das Foto (Lektion 2 noun); Perfekt: hast gemacht."
+    },
+    {
+      "id": 4,
+      "german": "Die Antwort ist falsch — die richtige Antwort ist 'das Heft'.",
+      "english": "The answer is wrong — the correct answer is 'das Heft'.",
+      "level": "medium",
+      "note": "Uses: falsch, richtig (Lektion 2 focus adjectives) as contrast pair."
+    },
+    {
+      "id": 5,
+      "german": "Meine alte Brille ist kaputt, deshalb brauche ich eine neue.",
+      "english": "My old glasses are broken, so I need new ones.",
+      "level": "complex",
+      "note": "Uses: alt, kaputt, neu (Lektion 2 focus); die Brille (Lektion 2 noun); deshalb introduces consequence."
+    },
+    {
+      "id": 6,
+      "german": "Der Kugelschreiber ist sehr praktisch — er ist klein und leicht.",
+      "english": "The ballpoint pen is very practical — it is small and light.",
+      "level": "medium",
+      "note": "Uses: praktisch, klein, leicht (Lektion 2 focus); der Kugelschreiber (Lektion 2 noun)."
+    },
+    {
+      "id": 7,
+      "german": "Das Wörterbuch ist groß und schwer, aber sehr nützlich für den Kurs.",
+      "english": "The dictionary is big and heavy, but very useful for the class.",
+      "level": "complex",
+      "note": "Uses: groß, schwer (Lektion 2 focus); das Wörterbuch (Lektion 2 noun)."
+    },
+    {
+      "id": 8,
+      "german": "Das billige Fahrrad ist leider schnell kaputt gegangen.",
+      "english": "The cheap bicycle unfortunately broke down quickly.",
+      "level": "complex",
+      "note": "Uses: billig, kaputt (Lektion 2 focus); das Fahrrad (Lektion 2 noun); Perfekt with sein: ist ... gegangen."
+    },
+    {
+      "id": 9,
+      "german": "Ist das die richtige Tasche? Nein, meine Tasche ist kleiner.",
+      "english": "Is that the right bag? No, my bag is smaller.",
+      "level": "medium",
+      "note": "Uses: richtig, klein (comparative: kleiner — Lektion 2 focus); die Tasche (Lektion 2 noun)."
+    },
+    {
+      "id": 10,
+      "german": "Ich finde die neue Kamera sehr schön und sehr praktisch.",
+      "english": "I find the new camera very beautiful and very practical.",
+      "level": "complex",
+      "note": "Uses: neu, schön, praktisch (Lektion 2 focus); die Kamera (Lektion 2 noun); finden = to think/find (opinion)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Handy ist ___. Ich habe es gestern gekauft. (new)",
+      "solution": "neu",
+      "explanation": "neu = new. Opposite: alt (old). Predicate adjective: no ending needed."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Rucksack ist sehr ___. Er hat viele Bücher. (heavy)",
+      "solution": "schwer",
+      "explanation": "schwer = heavy (also: difficult). Predicate adjective: no ending. Opposite: leicht."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Die Antwort ist ___. Das ist nicht korrekt. (wrong)",
+      "solution": "falsch",
+      "explanation": "falsch = wrong/incorrect. Opposite: richtig. Predicate adjective: no inflection needed."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Tablet ist leider ___. Ich muss es reparieren. (broken)",
+      "solution": "kaputt",
+      "explanation": "kaputt = broken/not working. No reliable opposite; context depends on what broke."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ein ___ Foto! Hast du es selbst gemacht? (great/fantastic)",
+      "solution": "tolles",
+      "explanation": "toll = great. As an attributive adjective before das Foto (neuter Nominativ, indefinite): takes -es ending → tolles."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich brauche einen ___ Stift. Meiner funktioniert nicht mehr. (new — Akkusativ masc.)",
+      "solution": "neuen",
+      "explanation": "neu as attributive adjective before masculine noun in Akkusativ (after indefinite article einen): neuen."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Wörterbuch ist sehr ___, aber es kostet viel. (practical)",
+      "solution": "praktisch",
+      "explanation": "praktisch = practical. Predicate adjective after ist: no inflection needed."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Handy ist sehr ___, aber leider auch sehr ___. (small / expensive)",
+      "solution": "klein / teuer",
+      "explanation": "klein = small (opposite: groß); teuer = expensive (opposite: billig). Both predicate adjectives."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ist die ___ Antwort! Das Buch heißt 'Momente'. (correct — before fem. noun Antwort)",
+      "solution": "richtige",
+      "explanation": "richtig with definite article before feminine noun in Nominativ: richtige (weak adjective ending -e)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Meine ___ Brille liegt auf dem Tisch. Ich brauche eine neue. (old — before fem. noun Brille)",
+      "solution": "alte",
+      "explanation": "alt with possessive adjective meine before feminine noun Nominativ: alte (weak/mixed ending -e)."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Fahrrad ist sehr ___. Ich kann es kaum heben.",
+      "options": ["a) leicht", "b) schwer", "c) billig"],
+      "solution": "b) schwer",
+      "explanation": "schwer = heavy. 'Ich kann es kaum heben' (I can barely lift it) signals heaviness. leicht = light; billig = cheap."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___ Buch — ich kaufe es!",
+      "options": ["a) ein tolles", "b) ein toll", "c) ein tolle"],
+      "solution": "a) ein tolles",
+      "explanation": "toll before das Buch (neuter, Nominativ, indefinite article ein): takes -es → tolles."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Handy ist ___. Der Akku funktioniert nicht mehr.",
+      "options": ["a) kaputt", "b) toll", "c) teuer"],
+      "solution": "a) kaputt",
+      "explanation": "kaputt = broken/not working. 'Der Akku funktioniert nicht' confirms it's broken."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich suche einen ___ Kugelschreiber. Hast du einen?",
+      "options": ["a) neues", "b) neue", "c) neuen"],
+      "solution": "c) neuen",
+      "explanation": "neu before masculine noun in Akkusativ (after indefinite article einen): neuen (weak ending -en)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Wörterbuch ist groß und ___, aber sehr nützlich.",
+      "options": ["a) leicht", "b) schwer", "c) billig"],
+      "solution": "b) schwer",
+      "explanation": "schwer = heavy. A large dictionary is typically heavy. The contrast 'aber sehr nützlich' suggests a drawback like weight."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die ___ Kamera ist kaputt — ich brauche eine neue.",
+      "options": ["a) alt", "b) alte", "c) altem"],
+      "solution": "b) alte",
+      "explanation": "alt before die Kamera (feminine, Nominativ, definite article die): alte (weak ending -e)."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The backpack is very heavy and expensive.",
+      "solution": "Der Rucksack ist sehr schwer und teuer.",
+      "explanation": "schwer = heavy, teuer = expensive. Both predicate adjectives after ist — no inflection needed."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My phone is new but broken.",
+      "solution": "Mein Handy ist neu, aber kaputt.",
+      "explanation": "das Handy → mein Handy (neuter Nominativ: no ending change). neu and kaputt as predicate adjectives."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "This is a great dictionary!",
+      "solution": "Das ist ein tolles Wörterbuch!",
+      "explanation": "toll before das Wörterbuch (neuter, Nominativ, indefinite ein): tolles."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The answer is wrong. The correct answer is 'die Tasche'.",
+      "solution": "Die Antwort ist falsch. Die richtige Antwort ist 'die Tasche'.",
+      "explanation": "falsch = wrong (predicate: no ending). richtig before feminine die Antwort with definite article: richtige."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I need a small and practical bag for traveling.",
+      "solution": "Ich brauche eine kleine und praktische Tasche für die Reise.",
+      "explanation": "klein and praktisch before die Tasche (feminine Akkusativ, indefinite eine): both take -e ending → kleine, praktische."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My old bicycle is broken. I want to buy a new one.",
+      "solution": "Mein altes Fahrrad ist kaputt. Ich möchte ein neues kaufen.",
+      "explanation": "alt before das Fahrrad (neuter, Nominativ, possessive mein): altes. neu before neuter Akkusativ (indefinite ein): neues. modal: möchte."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "This dictionary is big but cheap. I find it very practical.",
+      "solution": "Das Wörterbuch ist groß, aber billig. Ich finde es sehr praktisch.",
+      "explanation": "groß and billig as predicates. finden (= to think): ich finde. es = das Wörterbuch (neuter). praktisch as predicate."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Das Handy ist neu. Es ist toll. Ich finde es sehr teuer, aber. (logical contradiction — pick the odd adjective out)",
+      "solution": "Replace 'teuer' with 'praktisch' (or 'schön'): Ich finde es sehr praktisch.",
+      "explanation": "Finding something 'toll' and 'teuer' is a contradiction in typical contexts. The positive reaction (toll) suggests a positive quality: praktisch or schön."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Ich suche einen neue Stift.",
+      "solution": "Ich suche einen neuen Stift.",
+      "explanation": "neu before masculine noun in Akkusativ (after indefinite article einen): the ending must be -en → neuen, not -e."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Das ist ein toll Foto von Berlin.",
+      "solution": "Das ist ein tolles Foto von Berlin.",
+      "explanation": "toll before das Foto (neuter, Nominativ, indefinite ein): must take -es ending → tolles."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Mein altes Tasche ist kaputt.",
+      "solution": "Meine alte Tasche ist kaputt.",
+      "explanation": "die Tasche — feminine. Possessive: meine (not mein). Adjective before feminine Nominativ with possessive: alte (not altes)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Das billige Fahrrad ist kaputt gegangen — das ist richtig billig!",
+      "solution": "Das billige Fahrrad ist kaputt gegangen — das ist wirklich billig! (or: das ist typisch für billige Sachen!)",
+      "explanation": "Using 'richtig' as an intensifier (= really) is informal and valid, but the intended error here: 'billig' in predicate position needs no ending — no change needed. This sentence is actually correct, so the error to flag is 'richtig' when it means 'really' — alternative: 'wirklich' is more standard."
+    },
+    {
+      "id": 29,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'groß' ist ___. (What is the antonym?)",
+      "solution": "klein",
+      "explanation": "groß (big) ↔ klein (small). Classic adjective antonym pair in German."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'teuer' ist ___. (What is the antonym?)",
+      "solution": "billig",
+      "explanation": "teuer (expensive) ↔ billig (cheap/inexpensive). Important vocabulary for shopping."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'richtig' ist ___. (What is the antonym?)",
+      "solution": "falsch",
+      "explanation": "richtig (correct) ↔ falsch (wrong). Used in exercises, tests, everyday speech."
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Gegenteil von 'schön' ist ___.",
+      "options": ["a) hässlich", "b) kaputt", "c) klein"],
+      "solution": "a) hässlich",
+      "explanation": "schön (beautiful) ↔ hässlich (ugly). kaputt = broken; klein = small — different meanings."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The new lamp is small but very beautiful.",
+      "solution": "Die neue Lampe ist klein, aber sehr schön.",
+      "explanation": "neu before die Lampe (feminine Nominativ, definite die): neue. klein and schön are predicates — no inflection."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die ___ Antwort ist immer wichtig. Bitte schreib nur ___ Antworten! (correct — once before def. article, once before pl.)",
+      "solution": "richtige / richtige",
+      "explanation": "richtig before feminine noun with definite article (Nominativ): richtige. Before plural noun: also richtige (weak ending -e after definite article)."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I find the new computer very practical. But it is a bit expensive.",
+      "solution": "Ich finde den neuen Computer sehr praktisch. Aber er ist ein bisschen teuer.",
+      "explanation": "finden (opinion): ich finde. den neuen Computer: Akkusativ masculine (definite). praktisch and teuer as predicate adjectives."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Der Kugelschreiber ist sehr schöne.",
+      "solution": "Der Kugelschreiber ist sehr schön.",
+      "explanation": "Predicate adjectives (after sein) never take an ending in German. schön, not schöne."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Foto ist sehr ___. Alle mögen es. (beautiful)",
+      "solution": "schön",
+      "explanation": "schön = beautiful/nice. Predicate adjective after ist: no inflection."
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe ein ___ Wörterbuch gefunden. Es ist fast neu!",
+      "options": ["a) altes", "b) alte", "c) alter"],
+      "solution": "a) altes",
+      "explanation": "alt before das Wörterbuch (neuter, Akkusativ, indefinite ein): takes -es ending → altes. Note: despite being 'almost new', context could be self-contradictory — but grammatically altes is correct."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Is the bag big or small?",
+      "solution": "Ist die Tasche groß oder klein?",
+      "explanation": "groß and klein as predicate adjectives — no inflection. oder = or."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Lineal ist ___ und ___. Es passt gut in den Rucksack. (small / light)",
+      "solution": "klein / leicht",
+      "explanation": "klein = small, leicht = light (not heavy). Both predicate adjectives — no endings."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ich brauche eine kleiner Tasche für die Reise.",
+      "solution": "Ich brauche eine kleine Tasche für die Reise.",
+      "explanation": "klein before die Tasche (feminine Akkusativ, indefinite eine): kleine (-e ending). kleiner is the comparative form, not the attributive adjective here."
+    }
+  ]
+}

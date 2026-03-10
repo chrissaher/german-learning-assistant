@@ -1,0 +1,805 @@
+{
+  "lektion": 10,
+  "focus": "verbs",
+  "file_slug": "lektion10_verbs",
+  "generated_at": "2026-03-10T01:26:53",
+  "vocabulary": [
+    {
+      "german": "chatten",
+      "base_form": "chatten",
+      "english": "to chat (online)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "chatte",
+        "du": "chattest",
+        "er/sie/es": "chattet",
+        "wir": "chatten",
+        "ihr": "chattet",
+        "sie/Sie": "chatten"
+      },
+      "perfekt": "hat gechattet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb borrowed from English. Past participle: gechattet.",
+      "lektion_source": 10
+    },
+    {
+      "german": "abfliegen",
+      "base_form": "abfliegen",
+      "english": "to depart (by plane) / to take off",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "fliege ab",
+        "du": "fliegst ab",
+        "er/sie/es": "fliegt ab",
+        "wir": "fliegen ab",
+        "ihr": "fliegt ab",
+        "sie/Sie": "fliegen ab"
+      },
+      "perfekt": "ist abgeflogen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (ab- prefix). Infinitive separates in main clause: Das Flugzeug fliegt ab. Partizip II: abgeflogen (strong verb).",
+      "lektion_source": 10
+    },
+    {
+      "german": "starten",
+      "base_form": "starten",
+      "english": "to take off / to start",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "starte",
+        "du": "startest",
+        "er/sie/es": "startet",
+        "wir": "starten",
+        "ihr": "startet",
+        "sie/Sie": "starten"
+      },
+      "perfekt": "ist gestartet",
+      "auxiliary": "sein",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Uses sein as auxiliary when expressing movement/departure.",
+      "lektion_source": 10
+    },
+    {
+      "german": "ankommen",
+      "base_form": "ankommen",
+      "english": "to arrive",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "komme an",
+        "du": "kommst an",
+        "er/sie/es": "kommt an",
+        "wir": "kommen an",
+        "ihr": "kommt an",
+        "sie/Sie": "kommen an"
+      },
+      "perfekt": "ist angekommen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (an- prefix). Strong verb: kommen is irregular. Partizip II: angekommen.",
+      "lektion_source": 10
+    },
+    {
+      "german": "anrufen",
+      "base_form": "anrufen",
+      "english": "to call / to phone",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "rufe an",
+        "du": "rufst an",
+        "er/sie/es": "ruft an",
+        "wir": "rufen an",
+        "ihr": "ruft an",
+        "sie/Sie": "rufen an"
+      },
+      "perfekt": "hat angerufen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Separable verb (an- prefix). Strong verb: rufen → rief → gerufen. Partizip II: angerufen.",
+      "lektion_source": 10
+    },
+    {
+      "german": "versuchen",
+      "base_form": "versuchen",
+      "english": "to try / to attempt",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "versuche",
+        "du": "versuchst",
+        "er/sie/es": "versucht",
+        "wir": "versuchen",
+        "ihr": "versucht",
+        "sie/Sie": "versuchen"
+      },
+      "perfekt": "hat versucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb with inseparable ver- prefix. No ge- in Partizip II: versucht (not *geversucht).",
+      "lektion_source": 10
+    },
+    {
+      "german": "verstehen",
+      "base_form": "verstehen",
+      "english": "to understand",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "verstehe",
+        "du": "verstehst",
+        "er/sie/es": "versteht",
+        "wir": "verstehen",
+        "ihr": "versteht",
+        "sie/Sie": "verstehen"
+      },
+      "perfekt": "hat verstanden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Inseparable ver- prefix. Strong verb: stehen → stand → gestanden; with ver-: verstanden. No ge- prefix in Partizip II.",
+      "lektion_source": 10
+    },
+    {
+      "german": "abholen",
+      "base_form": "abholen",
+      "english": "to pick up (a person or thing)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "hole ab",
+        "du": "holst ab",
+        "er/sie/es": "holt ab",
+        "wir": "holen ab",
+        "ihr": "holt ab",
+        "sie/Sie": "holen ab"
+      },
+      "perfekt": "hat abgeholt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb (ab- prefix). Regular weak verb. Partizip II: abgeholt.",
+      "lektion_source": 10
+    },
+    {
+      "german": "freuen (sich)",
+      "base_form": "freuen",
+      "english": "to be happy about / to look forward to",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "freue mich",
+        "du": "freust dich",
+        "er/sie/es": "freut sich",
+        "wir": "freuen uns",
+        "ihr": "freut euch",
+        "sie/Sie": "freuen sich"
+      },
+      "perfekt": "hat sich gefreut",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Reflexive verb. 'sich freuen auf + Akk' = to look forward to. 'sich freuen über + Akk' = to be happy about.",
+      "lektion_source": 10
+    },
+    {
+      "german": "einsteigen",
+      "base_form": "einsteigen",
+      "english": "to get on (a vehicle) / to board",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "steige ein",
+        "du": "steigst ein",
+        "er/sie/es": "steigt ein",
+        "wir": "steigen ein",
+        "ihr": "steigt ein",
+        "sie/Sie": "steigen ein"
+      },
+      "perfekt": "ist eingestiegen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (ein- prefix). Strong verb: steigen → stieg → gestiegen. Uses sein (change of location). Partizip II: eingestiegen.",
+      "lektion_source": 10
+    },
+    {
+      "german": "umsteigen",
+      "base_form": "umsteigen",
+      "english": "to change (trains/buses) / to transfer",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "steige um",
+        "du": "steigst um",
+        "er/sie/es": "steigt um",
+        "wir": "steigen um",
+        "ihr": "steigt um",
+        "sie/Sie": "steigen um"
+      },
+      "perfekt": "ist umgestiegen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (um- prefix). Strong verb: same stem as einsteigen. Uses sein (change of position). Partizip II: umgestiegen.",
+      "lektion_source": 10
+    },
+    {
+      "german": "aussteigen",
+      "base_form": "aussteigen",
+      "english": "to get off (a vehicle) / to alight",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "steige aus",
+        "du": "steigst aus",
+        "er/sie/es": "steigt aus",
+        "wir": "steigen aus",
+        "ihr": "steigt aus",
+        "sie/Sie": "steigen aus"
+      },
+      "perfekt": "ist ausgestiegen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (aus- prefix). Strong verb. Uses sein (change of location). Partizip II: ausgestiegen.",
+      "lektion_source": 10
+    },
+    {
+      "german": "einkaufen",
+      "base_form": "einkaufen",
+      "english": "to go shopping / to buy",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kaufe ein",
+        "du": "kaufst ein",
+        "er/sie/es": "kauft ein",
+        "wir": "kaufen ein",
+        "ihr": "kauft ein",
+        "sie/Sie": "kaufen ein"
+      },
+      "perfekt": "hat eingekauft",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb (ein- prefix). Regular weak verb. Partizip II: eingekauft.",
+      "lektion_source": 10
+    },
+    {
+      "german": "abfahren",
+      "base_form": "abfahren",
+      "english": "to depart / to leave (by vehicle)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "fahre ab",
+        "du": "fährst ab",
+        "er/sie/es": "fährt ab",
+        "wir": "fahren ab",
+        "ihr": "fahrt ab",
+        "sie/Sie": "fahren ab"
+      },
+      "perfekt": "ist abgefahren",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (ab- prefix). Strong verb with stem vowel change a→ä in du/er forms. Partizip II: abgefahren.",
+      "lektion_source": 10
+    },
+    {
+      "german": "fernsehen",
+      "base_form": "fernsehen",
+      "english": "to watch television",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "sehe fern",
+        "du": "siehst fern",
+        "er/sie/es": "sieht fern",
+        "wir": "sehen fern",
+        "ihr": "seht fern",
+        "sie/Sie": "sehen fern"
+      },
+      "perfekt": "hat ferngesehen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Separable verb (fern- prefix). Strong verb: sehen has stem vowel change e→ie in du/er forms. Partizip II: ferngesehen.",
+      "lektion_source": 10
+    },
+    {
+      "german": "landen",
+      "base_form": "landen",
+      "english": "to land",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lande",
+        "du": "landest",
+        "er/sie/es": "landet",
+        "wir": "landen",
+        "ihr": "landet",
+        "sie/Sie": "landen"
+      },
+      "perfekt": "ist gelandet",
+      "auxiliary": "sein",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Uses sein as auxiliary (change of state/location — an aircraft arriving). Note the -e- inserted before -st/-t in du/er forms.",
+      "lektion_source": 10
+    },
+    {
+      "german": "einfahren",
+      "base_form": "einfahren",
+      "english": "to arrive / to pull in (train arriving at station)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "fahre ein",
+        "du": "fährst ein",
+        "er/sie/es": "fährt ein",
+        "wir": "fahren ein",
+        "ihr": "fahrt ein",
+        "sie/Sie": "fahren ein"
+      },
+      "perfekt": "ist eingefahren",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb (ein- prefix). Strong verb: fahren with a→ä change. Partizip II: eingefahren. Used specifically for trains/vehicles arriving.",
+      "lektion_source": 10
+    },
+    {
+      "german": "enden",
+      "base_form": "enden",
+      "english": "to end / to finish",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "ende",
+        "du": "endest",
+        "er/sie/es": "endet",
+        "wir": "enden",
+        "ihr": "endet",
+        "sie/Sie": "enden"
+      },
+      "perfekt": "hat geendet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Note -e- inserted before -st/-t endings in du/er: endest, endet.",
+      "lektion_source": 10
+    },
+    {
+      "german": "beginnen",
+      "base_form": "beginnen",
+      "english": "to begin / to start",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "beginne",
+        "du": "beginnst",
+        "er/sie/es": "beginnt",
+        "wir": "beginnen",
+        "ihr": "beginnt",
+        "sie/Sie": "beginnen"
+      },
+      "perfekt": "hat begonnen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb with inseparable be- prefix. Vowel change: beginnen → begann → begonnen. No ge- in Partizip II.",
+      "lektion_source": 10
+    },
+    {
+      "german": "stehen",
+      "base_form": "stehen",
+      "english": "to stand / to be (positioned)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "stehe",
+        "du": "stehst",
+        "er/sie/es": "steht",
+        "wir": "stehen",
+        "ihr": "steht",
+        "sie/Sie": "stehen"
+      },
+      "perfekt": "hat gestanden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb. Partizip II: gestanden. In station announcements: 'Der Zug steht an Gleis 3' (the train is at platform 3).",
+      "lektion_source": 10
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Flugzeug fliegt um 18 Uhr ab und landet um 20 Uhr in Wien.",
+      "english": "The plane departs at 6 p.m. and lands in Vienna at 8 p.m.",
+      "level": "medium",
+      "note": "Uses: abfliegen (separable, ab at end), landen — two Lektion 10 verbs in one sentence."
+    },
+    {
+      "id": 2,
+      "german": "Ich muss in Frankfurt umsteigen und dann in Hamburg aussteigen.",
+      "english": "I have to change in Frankfurt and then get off in Hamburg.",
+      "level": "medium",
+      "note": "Uses: umsteigen, aussteigen — both separable verbs with modal 'müssen'."
+    },
+    {
+      "id": 3,
+      "german": "Kannst du mich am Bahnhof abholen? Mein Zug kommt um 19 Uhr an.",
+      "english": "Can you pick me up at the station? My train arrives at 7 p.m.",
+      "level": "medium",
+      "note": "Uses: abholen, ankommen — both separable verbs. Modal 'können' in question form."
+    },
+    {
+      "id": 4,
+      "german": "Er hat versucht, mich anzurufen, aber ich habe nicht verstanden.",
+      "english": "He tried to call me, but I didn't understand.",
+      "level": "complex",
+      "note": "Uses: versuchen, anrufen (infinitive with zu), verstehen — Perfekt tense throughout."
+    },
+    {
+      "id": 5,
+      "german": "Der Zug fährt in zwei Minuten ab — steigt schnell ein!",
+      "english": "The train departs in two minutes — get on quickly!",
+      "level": "medium",
+      "note": "Uses: abfahren, einsteigen — imperative form of einsteigen for urgency."
+    },
+    {
+      "id": 6,
+      "german": "Wir haben uns sehr gefreut, als das Flugzeug endlich gelandet ist.",
+      "english": "We were very happy when the plane finally landed.",
+      "level": "complex",
+      "note": "Uses: freuen (sich), landen — Perfekt. 'als' subordinate clause with verb-final position."
+    },
+    {
+      "id": 7,
+      "german": "Die Fahrt beginnt am Hauptbahnhof und endet am Flughafen.",
+      "english": "The journey begins at the main station and ends at the airport.",
+      "level": "medium",
+      "note": "Uses: beginnen, enden — both describing a route. Present tense."
+    },
+    {
+      "id": 8,
+      "german": "Während ich auf den Zug gewartet habe, habe ich im Internet gechattet.",
+      "english": "While I waited for the train, I was chatting on the internet.",
+      "level": "complex",
+      "note": "Uses: chatten (Perfekt), warten — Perfekt in 'während'-clause construction."
+    },
+    {
+      "id": 9,
+      "german": "Ich stehe am Gleis und sehe, wie der Intercity einfährt.",
+      "english": "I stand at the platform and watch the inter-city train pull in.",
+      "level": "complex",
+      "note": "Uses: stehen, einfahren — present tense observation at a station."
+    },
+    {
+      "id": 10,
+      "german": "Gestern hat meine Kollegin ferngesehen, statt einzukaufen.",
+      "english": "Yesterday my colleague watched television instead of going shopping.",
+      "level": "complex",
+      "note": "Uses: fernsehen (Perfekt), einkaufen (infinitive with 'statt...zu') — Lektion 10 verbs."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Flugzeug ___ um 10 Uhr ___. (abfliegen — present tense, es)",
+      "solution": "fliegt ... ab",
+      "explanation": "abfliegen is separable: prefix 'ab' goes to end of clause. er/sie/es form: fliegt ab."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir ___ in München ___. (aussteigen — present, wir)",
+      "solution": "steigen ... aus",
+      "explanation": "aussteigen is separable: prefix 'aus' goes to end. wir form: steigen aus."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Zug ___ pünktlich ___. (ankommen — present, er)",
+      "solution": "kommt ... an",
+      "explanation": "ankommen is separable: prefix 'an' goes to end. er form: kommt an."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___ meine Schwester vom Flughafen ___. (abholen — present, ich)",
+      "solution": "hole ... ab",
+      "explanation": "abholen is separable: prefix 'ab' goes to end. ich form: hole ab."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie ___ mich dreimal ___, aber ich war nicht zu Hause. (anrufen — Perfekt, sie sg.)",
+      "solution": "hat ... angerufen",
+      "explanation": "anrufen Perfekt: hat angerufen (haben + Partizip II). Strong verb Partizip II: angerufen."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Flugzeug ___ gestern um 21 Uhr in Berlin ___. (landen — Perfekt, es)",
+      "solution": "ist ... gelandet",
+      "explanation": "landen uses sein as auxiliary (change of state/location): ist gelandet."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___, aber ich ___ kein Deutsch. (versuchen, verstehen — Perfekt)",
+      "solution": "versucht ... verstanden",
+      "explanation": "versucht = hat versucht (weak, inseparable). verstanden = hat verstanden (strong)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der Zug ___ in Frankfurt an Gleis 4 ___. (einfahren — present, er)",
+      "solution": "fährt ... ein",
+      "explanation": "einfahren is separable with vowel change: fährt ein (a→ä in er-form)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wann ___ der Kurs ___? — Er ___ um 18 Uhr. (beginnen, enden — present)",
+      "solution": "beginnt ... endet",
+      "explanation": "beginnen: er/es form is beginnt. enden: er-form is endet (extra -e- before -t)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Gestern ___ ich nicht ___. Ich habe lieber ___. (fernsehen, einkaufen — Perfekt)",
+      "solution": "habe ... ferngesehen ... eingekauft",
+      "explanation": "fernsehen Perfekt: hat ferngesehen. einkaufen Perfekt: hat eingekauft."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Der Zug ___ jetzt am Bahnhof an.",
+      "options": ["kommt ... an", "ankommen", "ist ... angekommen"],
+      "solution": "kommt ... an",
+      "explanation": "Present tense of ankommen (separable): kommt an. The other options are infinitive or Perfekt."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wir müssen in Köln ___.",
+      "options": ["umsteigen", "umsteigt", "umgestiegen"],
+      "solution": "umsteigen",
+      "explanation": "After modal 'müssen', the main verb stays in infinitive: umsteigen."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Flugzeug ___ um 15 Uhr abgeflogen.",
+      "options": ["hat", "ist", "war"],
+      "solution": "ist",
+      "explanation": "abfliegen uses sein as auxiliary in Perfekt (movement/departure): ist abgeflogen."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ versucht, aber es hat nicht geklappt.",
+      "options": ["ist", "hat", "war"],
+      "solution": "hat",
+      "explanation": "versuchen uses haben as auxiliary in Perfekt: hat versucht."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat sich sehr ___, als der Zug ankam.",
+      "options": ["freuen", "gefreut", "gefreuen"],
+      "solution": "gefreut",
+      "explanation": "Reflexive verb freuen, Perfekt Partizip II: gefreut. Auxiliary: haben."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Intercity ___ schon ___ — wir haben ihn verpasst.",
+      "options": ["hat ... abgefahren", "ist ... abgefahren", "ist ... abfahren"],
+      "solution": "ist ... abgefahren",
+      "explanation": "abfahren uses sein in Perfekt (movement). Partizip II: abgefahren."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Kannst du ___ anrufen und fragen, wann der Flug landet?",
+      "options": ["ich", "mich", "mir"],
+      "solution": "mich",
+      "explanation": "anrufen takes a direct object (accusative): mich (accusative of ich)."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The plane is taking off now.",
+      "solution": "Das Flugzeug fliegt jetzt ab.",
+      "explanation": "abfliegen (separable): fliegt + ab at end. Subject: das Flugzeug (neuter)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "When does the train arrive?",
+      "solution": "Wann kommt der Zug an?",
+      "explanation": "ankommen (separable): kommt + an. In questions, verb-second word order: Wann kommt..."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I don't understand the announcement.",
+      "solution": "Ich verstehe die Durchsage nicht.",
+      "explanation": "verstehen (inseparable): ich verstehe. Negation 'nicht' goes at the end."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She picked up her colleague at the airport.",
+      "solution": "Sie hat ihren Kollegen am Flughafen abgeholt.",
+      "explanation": "abholen Perfekt: hat abgeholt. Accusative: ihren Kollegen (masculine accusative)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We had to change trains in Munich and got off in Vienna.",
+      "solution": "Wir haben in München umgestiegen und sind in Wien ausgestiegen.",
+      "explanation": "umsteigen → ist umgestiegen; aussteigen → ist ausgestiegen. Both use sein."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The journey begins at the main station and ends at the airport.",
+      "solution": "Die Fahrt beginnt am Hauptbahnhof und endet am Flughafen.",
+      "explanation": "beginnen: beginnt (er-form). enden: endet (er-form with -e- insertion)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Zug kommt an jetzt. (Find and correct the error.)",
+      "solution": "Der Zug kommt jetzt an.",
+      "explanation": "Separable verb: the prefix 'an' always goes to the very end of the main clause."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Wir steigen in Hamburg ein aus. (Find and correct the error.)",
+      "solution": "Wir steigen in Hamburg aus.",
+      "explanation": "Only one separable prefix per verb. 'aussteigen' = to get off; the prefix is 'aus', not 'ein'."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Flugzeug hat gelandet um 20 Uhr. (Find and correct the error.)",
+      "solution": "Das Flugzeug ist um 20 Uhr gelandet.",
+      "explanation": "landen uses sein, not haben. Partizip II goes to end of clause: ist gelandet."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er hat mich angeruft gestern. (Find and correct the error.)",
+      "solution": "Er hat mich gestern angerufen.",
+      "explanation": "anrufen Partizip II is 'angerufen' (not *angeruft). Partizip II goes to end: hat angerufen."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe verstanden nicht, was die Durchsage gesagt hat. (Find and correct the error.)",
+      "solution": "Ich habe nicht verstanden, was die Durchsage gesagt hat.",
+      "explanation": "'Nicht' negates a verb or verbal phrase. In Perfekt, 'nicht' comes before the Partizip II."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie ist ferngesehen und hat sich danach gefreut. (Find and correct the error.)",
+      "solution": "Sie hat ferngesehen und hat sich danach gefreut.",
+      "explanation": "fernsehen uses haben as auxiliary, not sein: hat ferngesehen."
+    },
+    {
+      "id": 30,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Das Flugzeug ___ abgeflogen.",
+      "solution": "ist",
+      "explanation": "abfliegen expresses movement/departure → uses sein. Das Flugzeug ist abgeflogen."
+    },
+    {
+      "id": 31,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Ich ___ den Zug angerufen. (Hint: anrufen = to call someone)",
+      "solution": "habe",
+      "explanation": "anrufen takes a direct object and uses haben as auxiliary: habe angerufen."
+    },
+    {
+      "id": 32,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Wir ___ in Wien ausgestiegen.",
+      "solution": "sind",
+      "explanation": "aussteigen expresses change of location → uses sein: sind ausgestiegen."
+    },
+    {
+      "id": 33,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Der Intercity ___ um 18 Uhr abgefahren.",
+      "solution": "ist",
+      "explanation": "abfahren expresses movement/departure → uses sein: ist abgefahren."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Sie ___ sich sehr gefreut.",
+      "solution": "hat",
+      "explanation": "freuen (sich) uses haben as auxiliary: hat sich gefreut."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ in Frankfurt umgestiegen.",
+      "solution": "ist",
+      "explanation": "umsteigen expresses change of transport (change of position) → uses sein: ist umgestiegen."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Das Flugzeug ___ in Hamburg gelandet.",
+      "solution": "ist",
+      "explanation": "landen expresses arrival/change of state → uses sein: ist gelandet."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Ich ___ nicht verstanden, was der Kollege gesagt hat.",
+      "solution": "habe",
+      "explanation": "verstehen (inseparable) uses haben: habe verstanden. No movement involved."
+    },
+    {
+      "id": 38,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Der Zug ___ schon an Gleis 3 eingefahren.",
+      "solution": "ist",
+      "explanation": "einfahren (train arriving) expresses movement → uses sein: ist eingefahren."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___ immer gern ___. Heute kaufe ich Lebensmittel. (einkaufen — present, ich)",
+      "solution": "kaufe ... ein",
+      "explanation": "einkaufen is separable: kaufe + ein at end. Regular weak verb."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I am looking forward to the journey.",
+      "solution": "Ich freue mich auf die Reise.",
+      "explanation": "sich freuen auf + Akkusativ = to look forward to. die Reise (accusative): auf die Reise."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Gestern ___ meine Familie ___. Wir haben nicht viel Zeit. (fernsehen — Perfekt, wir)",
+      "solution": "haben ... ferngesehen",
+      "explanation": "fernsehen Perfekt: haben ferngesehen. Partizip II goes to end: ferngesehen."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er hat begonnen die Reise um 9 Uhr. (Find and correct the error.)",
+      "solution": "Er hat die Reise um 9 Uhr begonnen.",
+      "explanation": "In Perfekt, Partizip II (begonnen) must come at the very end of the clause."
+    }
+  ]
+}

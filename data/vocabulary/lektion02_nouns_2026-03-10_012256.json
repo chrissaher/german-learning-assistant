@@ -1,0 +1,799 @@
+{
+  "lektion": 2,
+  "focus": "nouns",
+  "file_slug": "lektion02_nouns",
+  "generated_at": "2026-03-10T01:22:56",
+  "vocabulary": [
+    {
+      "german": "das Handy",
+      "base_form": "Handy",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Handys",
+      "english": "mobile phone",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Buch",
+      "base_form": "Buch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Bücher",
+      "english": "book",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Stift",
+      "base_form": "Stift",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Stifte",
+      "english": "pen / pencil",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Heft",
+      "base_form": "Heft",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Hefte",
+      "english": "notebook / exercise book",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Rucksack",
+      "base_form": "Rucksack",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Rucksäcke",
+      "english": "backpack / rucksack",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Tasche",
+      "base_form": "Tasche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Taschen",
+      "english": "bag / pocket",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Schlüssel",
+      "base_form": "Schlüssel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Schlüssel",
+      "english": "key",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Foto",
+      "base_form": "Foto",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Fotos",
+      "english": "photo / photograph",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Tisch",
+      "base_form": "Tisch",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Tische",
+      "english": "table / desk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Stuhl",
+      "base_form": "Stuhl",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Stühle",
+      "english": "chair",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Lampe",
+      "base_form": "Lampe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Lampen",
+      "english": "lamp / light",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Wörterbuch",
+      "base_form": "Wörterbuch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Wörterbücher",
+      "english": "dictionary",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Computer",
+      "base_form": "Computer",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Computer",
+      "english": "computer",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Kamera",
+      "base_form": "Kamera",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-s",
+      "plural_full": "Kameras",
+      "english": "camera",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Brille",
+      "base_form": "Brille",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Brillen",
+      "english": "glasses / spectacles",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Papier",
+      "base_form": "Papier",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Papiere",
+      "english": "paper / document",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Uhr",
+      "base_form": "Uhr",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Uhren",
+      "english": "clock / watch",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Kugelschreiber",
+      "base_form": "Kugelschreiber",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kugelschreiber",
+      "english": "ballpoint pen",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Fahrrad",
+      "base_form": "Fahrrad",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Fahrräder",
+      "english": "bicycle",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Ausweis",
+      "base_form": "Ausweis",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Ausweise",
+      "english": "ID card / identity document",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Sache",
+      "base_form": "Sache",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Sachen",
+      "english": "thing / item / stuff",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Bleistift",
+      "base_form": "Bleistift",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Bleistifte",
+      "english": "pencil",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "das Lineal",
+      "base_form": "Lineal",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Lineale",
+      "english": "ruler",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "der Radiergummi",
+      "base_form": "Radiergummi",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Radiergummis",
+      "english": "eraser / rubber",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    },
+    {
+      "german": "die Farbe",
+      "base_form": "Farbe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Farben",
+      "english": "color / colour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 2
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Mein Handy ist neu und sehr praktisch.",
+      "english": "My mobile phone is new and very practical.",
+      "level": "medium",
+      "note": "Uses: das Handy (Lektion 2 focus); neu and sehr from Lektion 1 vocabulary."
+    },
+    {
+      "id": 2,
+      "german": "Das Buch und das Heft liegen auf dem Tisch.",
+      "english": "The book and the notebook are on the table.",
+      "level": "medium",
+      "note": "Uses: das Buch, das Heft, der Tisch (all Lektion 2 focus); liegen is a common A1 verb."
+    },
+    {
+      "id": 3,
+      "german": "Wo ist mein Schlüssel? Ich suche ihn überall.",
+      "english": "Where is my key? I'm looking for it everywhere.",
+      "level": "medium",
+      "note": "Uses: der Schlüssel (Lektion 2 focus); wo and mein from Lektion 1."
+    },
+    {
+      "id": 4,
+      "german": "Der Rucksack ist groß — er hat viele Sachen drin.",
+      "english": "The backpack is big — it has many things inside.",
+      "level": "medium",
+      "note": "Uses: der Rucksack, die Sache (Lektion 2 focus); groß from Lektion 1."
+    },
+    {
+      "id": 5,
+      "german": "Ich habe meine Brille und meine Uhr in der Tasche.",
+      "english": "I have my glasses and my watch in the bag.",
+      "level": "complex",
+      "note": "Uses: die Brille, die Uhr, die Tasche (Lektion 2 focus); meine (possessive pronoun, Lektion 1)."
+    },
+    {
+      "id": 6,
+      "german": "Das Foto von Berlin liegt neben dem Computer.",
+      "english": "The photo of Berlin is lying next to the computer.",
+      "level": "complex",
+      "note": "Uses: das Foto, der Computer (Lektion 2 focus); neben introduces spatial preposition."
+    },
+    {
+      "id": 7,
+      "german": "Ich habe ein Wörterbuch gekauft, weil ich Deutsch lerne.",
+      "english": "I bought a dictionary because I am learning German.",
+      "level": "complex",
+      "note": "Uses: das Wörterbuch (Lektion 2 focus); Perfekt: habe gekauft; subordinate clause with weil."
+    },
+    {
+      "id": 8,
+      "german": "Die Lampe steht auf dem Tisch neben dem Stuhl.",
+      "english": "The lamp is on the table next to the chair.",
+      "level": "medium",
+      "note": "Uses: die Lampe, der Tisch, der Stuhl (Lektion 2 focus); position/spatial language."
+    },
+    {
+      "id": 9,
+      "german": "Hast du einen Kugelschreiber oder einen Bleistift?",
+      "english": "Do you have a ballpoint pen or a pencil?",
+      "level": "medium",
+      "note": "Uses: der Kugelschreiber, der Bleistift (Lektion 2 focus); Akkusativ: einen."
+    },
+    {
+      "id": 10,
+      "german": "Mein Fahrrad ist blau und steht vor dem Hotel.",
+      "english": "My bicycle is blue and is parked in front of the hotel.",
+      "level": "complex",
+      "note": "Uses: das Fahrrad (Lektion 2 focus); color blau; vor dem Hotel (Dativ with preposition)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Handy ist neu. (the mobile phone)",
+      "solution": "Das",
+      "explanation": "das Handy — neuter. Borrowed word from English, typically neuter in German."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Schlüssel liegt auf dem Tisch. (the key)",
+      "solution": "Der",
+      "explanation": "der Schlüssel — masculine. Ends in -er; agent/tool nouns in -er are usually masculine."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Tasche ist schwarz. (the bag)",
+      "solution": "Die",
+      "explanation": "die Tasche — feminine. Must memorize."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Buch kostet zehn Euro. (the book)",
+      "solution": "Das",
+      "explanation": "das Buch — neuter. Must memorize."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe ___ Heft. (a notebook — Akkusativ)",
+      "solution": "ein",
+      "explanation": "das Heft is neuter; indefinite article in Akkusativ for neuter is ein (no change from Nominativ)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ liegt neben dem Stift. (the eraser — Nominativ)",
+      "solution": "Radiergummi",
+      "explanation": "der Radiergummi — the eraser. Must memorize the gender and form."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Meine ___ ist alt, aber sie funktioniert gut. (camera)",
+      "solution": "Kamera",
+      "explanation": "die Kamera — feminine. The possessive meine matches feminine gender."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Rucksack ist sehr schwer. Er hat viele Bücher. (the backpack)",
+      "solution": "Der",
+      "explanation": "der Rucksack — masculine. Must memorize."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Stuhl und ___ Tisch sind aus Holz. (the table)",
+      "solution": "der",
+      "explanation": "der Tisch — masculine. In a list joined by und, each noun keeps its own article."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich suche meinen ___. Hast du ihn gesehen? (ID card — Akkusativ masc.)",
+      "solution": "Ausweis",
+      "explanation": "der Ausweis becomes meinen Ausweis in Akkusativ (masculine). Very important travel document."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ___ steht auf dem Tisch. Es leuchtet schön. (lamp — Nominativ)",
+      "solution": "Die Lampe",
+      "explanation": "die Lampe — feminine. Nominativ: Die Lampe. Note: the sentence uses es referring to das Licht, not die Lampe — but the fill-in asks for the noun with article."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir haben ein neues ___ für die Reise gekauft. (dictionary)",
+      "solution": "Wörterbuch",
+      "explanation": "das Wörterbuch — neuter. After ein neues, the adjective takes the weak ending for neuter accusative."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Foto ist sehr schön.",
+      "options": ["a) Der", "b) Das", "c) Die"],
+      "solution": "b) Das",
+      "explanation": "das Foto — neuter. Borrowed word from Greek/Latin via French, typically neuter."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Kugelschreiber schreibt gut.",
+      "options": ["a) Das", "b) Die", "c) Der"],
+      "solution": "c) Der",
+      "explanation": "der Kugelschreiber — masculine. Compound with -schreiber (-writer/agent noun), which is masculine."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ Fahrrad gekauft.",
+      "options": ["a) ein", "b) eine", "c) einen"],
+      "solution": "a) ein",
+      "explanation": "das Fahrrad — neuter. Indefinite article in Akkusativ for neuter remains ein."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die ___ von meiner Oma ist sehr alt.",
+      "options": ["a) Uhr", "b) Uhren", "c) Uhr's"],
+      "solution": "a) Uhr",
+      "explanation": "die Uhr — singular feminine. The sentence calls for the singular form (die Uhr)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wo ist ___ Brille? Ich sehe nichts ohne sie!",
+      "options": ["a) mein", "b) meine", "c) meinen"],
+      "solution": "b) meine",
+      "explanation": "die Brille — feminine. Possessive pronoun mein takes -e ending for feminine Nominativ."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Papier liegt in ___ Tasche.",
+      "options": ["a) der", "b) die", "c) das"],
+      "solution": "a) der",
+      "explanation": "die Tasche — feminine. After in (Dativ here: location), feminine article becomes der."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er hat ___ Computer für die Arbeit mitgenommen.",
+      "options": ["a) dem", "b) den", "c) des"],
+      "solution": "b) den",
+      "explanation": "der Computer — masculine. Akkusativ (direct object of mitgenommen): den Computer."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die ___ des Wörterbuchs sind sehr klein.",
+      "options": ["a) Seiten", "b) Seite", "c) Seitung"],
+      "solution": "a) Seiten",
+      "explanation": "die Seite → plural: Seiten. The plural form is needed here (of the dictionary's pages)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My backpack is red and very big.",
+      "solution": "Mein Rucksack ist rot und sehr groß.",
+      "explanation": "der Rucksack is masculine → mein Rucksack (Nominativ). Use sehr to intensify groß."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The lamp is on the table.",
+      "solution": "Die Lampe steht auf dem Tisch.",
+      "explanation": "die Lampe is feminine → Die Lampe. auf dem Tisch: Dativ after auf (location)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have a notebook and a pencil.",
+      "solution": "Ich habe ein Heft und einen Bleistift.",
+      "explanation": "das Heft → ein Heft (Akkusativ neuter, no change); der Bleistift → einen Bleistift (Akkusativ masculine)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Where is my key?",
+      "solution": "Wo ist mein Schlüssel?",
+      "explanation": "der Schlüssel is masculine → mein Schlüssel (Nominativ, no ending change for masc)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My glasses are in the bag. I need them.",
+      "solution": "Meine Brille ist in der Tasche. Ich brauche sie.",
+      "explanation": "die Brille → meine Brille. in der Tasche: Dativ. sie refers to die Brille (feminine pronoun)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I bought a new bicycle. It is blue.",
+      "solution": "Ich habe ein neues Fahrrad gekauft. Es ist blau.",
+      "explanation": "Perfekt: habe gekauft. das Fahrrad → es (neuter pronoun). ein neues Fahrrad: adjective ending -es for neuter Akkusativ after indefinite article."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Do you have a dictionary? I need one for the trip.",
+      "solution": "Hast du ein Wörterbuch? Ich brauche eins für die Reise.",
+      "explanation": "das Wörterbuch: neuter → ein Wörterbuch. eins is the standalone form of ein for neuter."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The photo is very beautiful.",
+      "solution": "Das Foto ist sehr schön.",
+      "explanation": "das Foto → Das Foto (Nominativ neuter). sehr schön: adverb + adjective."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Handy ist neu.",
+      "solution": "Das Handy ist neu.",
+      "explanation": "das Handy — neuter, not feminine. Borrowed English word; neuter article das is correct."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Schlüssel liegt auf dem Tisch.",
+      "solution": "Der Schlüssel liegt auf dem Tisch.",
+      "explanation": "der Schlüssel — masculine. The article must be der, not das."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe eine Computer gekauft.",
+      "solution": "Ich habe einen Computer gekauft.",
+      "explanation": "der Computer — masculine. Indefinite article in Akkusativ masculine: einen, not eine."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Mein Tasche ist sehr groß.",
+      "solution": "Meine Tasche ist sehr groß.",
+      "explanation": "die Tasche — feminine. Possessive pronoun takes -e ending in Nominativ feminine: meine."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Brille liegt auf dem Tisch.",
+      "solution": "Die Brille liegt auf dem Tisch.",
+      "explanation": "die Brille — feminine. Article must be die, not das."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er hat sein Fahrrad in die Garage gestellt. Jetzt ist der Fahrrad sauber.",
+      "solution": "Er hat sein Fahrrad in die Garage gestellt. Jetzt ist das Fahrrad sauber.",
+      "explanation": "das Fahrrad — neuter. The article in the second sentence must be das, not der."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich suche mein Ausweis. Hast du ihn gesehen?",
+      "solution": "Ich suche meinen Ausweis. Hast du ihn gesehen?",
+      "explanation": "der Ausweis — masculine. In Akkusativ (direct object of suche), possessive takes -en: meinen."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: das Buch",
+      "solution": "die Bücher",
+      "explanation": "das Buch → die Bücher. Plural marker: ..er (umlaut + er ending)."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: der Stift",
+      "solution": "die Stifte",
+      "explanation": "der Stift → die Stifte. Plural marker: -e (add -e, no umlaut)."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: die Tasche",
+      "solution": "die Taschen",
+      "explanation": "die Tasche → die Taschen. Plural marker: -n (add -n)."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: der Schlüssel",
+      "solution": "die Schlüssel",
+      "explanation": "der Schlüssel → die Schlüssel. Plural marker: - (no change in ending)."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: das Foto",
+      "solution": "die Fotos",
+      "explanation": "das Foto → die Fotos. Plural marker: -s. Common with borrowed words ending in a vowel."
+    },
+    {
+      "id": 41,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: der Rucksack",
+      "solution": "die Rucksäcke",
+      "explanation": "der Rucksack → die Rucksäcke. Plural marker: ..e (umlaut a→ä + e ending)."
+    },
+    {
+      "id": 42,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: das Fahrrad",
+      "solution": "die Fahrräder",
+      "explanation": "das Fahrrad → die Fahrräder. Plural marker: ..er (umlaut a→ä + er ending)."
+    },
+    {
+      "id": 43,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Write a sentence using the plural of: die Lampe",
+      "solution": "Die Lampen stehen auf den Tischen.",
+      "explanation": "die Lampe → die Lampen (plural marker: -n). auf den Tischen: Dativ plural."
+    },
+    {
+      "id": 44,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Write a sentence using the plural of: das Wörterbuch",
+      "solution": "Die Wörterbücher liegen im Regal.",
+      "explanation": "das Wörterbuch → die Wörterbücher. Plural marker: ..er (umlaut ö stays + er). im Regal: Dativ."
+    },
+    {
+      "id": 45,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ hängt an der Wand und leuchtet das Zimmer aus. (lamp)",
+      "solution": "Lampe",
+      "explanation": "die Lampe — feminine. Subject of the sentence, so Nominativ: Die Lampe."
+    },
+    {
+      "id": 46,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich brauche ___ neuen Bleistift, weil meiner kaputt ist. (a — Akkusativ masc.)",
+      "solution": "einen",
+      "explanation": "der Bleistift — masculine. Indefinite article in Akkusativ masculine: einen."
+    },
+    {
+      "id": 47,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The chair is next to the table. It is made of wood.",
+      "solution": "Der Stuhl steht neben dem Tisch. Er ist aus Holz.",
+      "explanation": "der Stuhl is masculine → er (pronoun). neben dem Tisch: Dativ after neben (location)."
+    },
+    {
+      "id": 48,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe mein Rucksack im Hotel vergessen. Er ist sehr teuer.",
+      "solution": "Ich habe meinen Rucksack im Hotel vergessen. Er ist sehr teuer.",
+      "explanation": "der Rucksack — masculine. Akkusativ (direct object of vergessen): meinen Rucksack."
+    }
+  ]
+}

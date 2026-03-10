@@ -1,0 +1,454 @@
+{
+  "lektion": 8,
+  "focus": "verbs",
+  "file_slug": "lektion08_verbs",
+  "generated_at": "2026-03-10T01:26:56",
+  "vocabulary": [
+    {
+      "german": "wissen",
+      "base_form": "wissen",
+      "english": "to know (a fact)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "weiß",
+        "du": "weißt",
+        "er/sie/es": "weiß",
+        "wir": "wissen",
+        "ihr": "wisst",
+        "sie/Sie": "wissen"
+      },
+      "perfekt": "hat gewusst",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Modal-like verb: ich/er/es form is 'weiß' (no -en ending). Do not confuse with 'kennen' (to know a person/place).",
+      "lektion_source": 8
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich weiß nicht, wann das Museum öffnet.",
+      "english": "I don't know when the museum opens.",
+      "level": "medium",
+      "note": "Uses: wissen (weiß); combines with das Museum from Lektion 8 nouns."
+    },
+    {
+      "id": 2,
+      "german": "Weißt du, wo das Schwimmbad ist?",
+      "english": "Do you know where the swimming pool is?",
+      "level": "medium",
+      "note": "Uses: wissen (weißt du); question form with wo; das Schwimmbad from Lektion 8."
+    },
+    {
+      "id": 3,
+      "german": "Er weiß, dass das Café am Sonntag geschlossen ist.",
+      "english": "He knows that the café is closed on Sunday.",
+      "level": "medium",
+      "note": "Uses: wissen (weiß); dass-clause; das Café and der Sonntag from Lektion 8."
+    },
+    {
+      "id": 4,
+      "german": "Wir wissen noch nicht, ob wir am Freitag ins Kino gehen.",
+      "english": "We don't know yet whether we are going to the cinema on Friday.",
+      "level": "complex",
+      "note": "Uses: wissen (wissen); ob-clause; das Kino, der Freitag from Lektion 8."
+    },
+    {
+      "id": 5,
+      "german": "Wisst ihr, wann der Zug am Donnerstag abfährt?",
+      "english": "Do you (plural) know when the train departs on Thursday?",
+      "level": "complex",
+      "note": "Uses: wissen (wisst ihr); der Donnerstag from Lektion 8; der Zug from Lektion 10 preview."
+    },
+    {
+      "id": 6,
+      "german": "Das weiß ich noch nicht — ich frage morgen.",
+      "english": "I don't know that yet — I'll ask tomorrow.",
+      "level": "medium",
+      "note": "Uses: wissen (weiß); the phrase 'Das weiß ich noch nicht' directly from Lektion 8."
+    },
+    {
+      "id": 7,
+      "german": "Sie weiß, wie man ins Theater kommt.",
+      "english": "She knows how to get to the theatre.",
+      "level": "complex",
+      "note": "Uses: wissen (weiß); das Theater from Lektion 8; wie man + verb construction."
+    },
+    {
+      "id": 8,
+      "german": "Ich habe gewusst, dass die Ausstellung sehr interessant ist.",
+      "english": "I knew that the exhibition is very interesting.",
+      "level": "complex",
+      "note": "Uses: wissen in Perfekt (hat gewusst); die Ausstellung from Lektion 8."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ nicht, wo das Café ist. (wissen, ich-form)",
+      "solution": "weiß",
+      "explanation": "wissen is irregular: ich weiß (not 'wisse' or 'wissen'). The ich/er/es form drops the -ss and uses ß."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ du, wann das Museum öffnet? (wissen, du-form)",
+      "solution": "Weißt",
+      "explanation": "du-form: weißt. Note the verb goes to first position in yes/no questions."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ nicht, wo die Bar ist. (wissen, er-form)",
+      "solution": "weiß",
+      "explanation": "er/sie/es form: weiß — same as ich form. This mirrors modal verbs like kann/kann."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ noch nicht, ob wir am Wochenende ins Kino gehen. (wissen, wir-form)",
+      "solution": "wissen",
+      "explanation": "wir/sie/Sie form: wissen — same as the infinitive. Regular in these persons."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ ihr, wann der Film beginnt? (wissen, ihr-form)",
+      "solution": "Wisst",
+      "explanation": "ihr-form: wisst. Note: no umlaut in the ihr form, unlike du/er forms."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ ich noch nicht — ich frage morgen. (wissen, ich-form)",
+      "solution": "weiß",
+      "explanation": "ich weiß — the phrase 'Das weiß ich noch nicht' is a key Lektion 8 expression."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___, dass die Ausstellung am Dienstag beginnt. (wissen, sie-form)",
+      "solution": "weiß",
+      "explanation": "sie (she) uses the same form as er/es: weiß. The dass-clause pushes the verb to the end."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe ___, dass das Restaurant am Sonntag geschlossen ist. (Perfekt of wissen)",
+      "solution": "gewusst",
+      "explanation": "Perfekt of wissen: hat/habe gewusst. The Partizip II is gewusst (regular -t ending despite irregular Präsens)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Sie, wo das Theater ist? (wissen, formal Sie-form)",
+      "solution": "Wissen",
+      "explanation": "Sie (formal) form: Wissen — same as wir/sie. Verb goes first in yes/no questions."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ihr ___ alle, dass der Nachmittag frei ist. (wissen, ihr-form)",
+      "solution": "wisst",
+      "explanation": "ihr-form: wisst. Used to address a group of people informally."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ nicht, wo das Schwimmbad ist.",
+      "options": ["weiß", "wisst", "wissen"],
+      "solution": "weiß",
+      "explanation": "ich weiß — the ich form of wissen is irregular: weiß. 'wisst' is ihr-form; 'wissen' is wir/sie/Sie form."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ doch, wann das Kino öffnet!",
+      "options": ["weißt", "weiß", "wisst"],
+      "solution": "weißt",
+      "explanation": "du-form: weißt. 'weiß' is ich/er/es; 'wisst' is ihr."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir ___ noch nicht, ob die Bar offen ist.",
+      "options": ["wissen", "weiß", "weißt"],
+      "solution": "wissen",
+      "explanation": "wir-form: wissen — same as the infinitive. No stem change in wir/ihr/sie/Sie forms."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ die Antwort auf die Frage nicht.",
+      "options": ["weiß", "weißt", "wissen"],
+      "solution": "weiß",
+      "explanation": "er/sie/es form: weiß — same as ich. This is the irregular stem-changed form."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe ___, dass das Café am Freitag geöffnet ist.",
+      "options": ["gewusst", "gewissen", "gewisst"],
+      "solution": "gewusst",
+      "explanation": "Partizip II of wissen: gewusst. The -wiss- stem changes to -wuss- in the Perfekt."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das ___ ich noch nicht — vielleicht am Montag.",
+      "options": ["weiß", "wisst", "wissst"],
+      "solution": "weiß",
+      "explanation": "ich weiß — standard Lektion 8 phrase. 'wisst' is ihr-form; 'wissst' does not exist."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I don't know where the swimming pool is.",
+      "solution": "Ich weiß nicht, wo das Schwimmbad ist.",
+      "explanation": "ich weiß (irregular ich-form); 'nicht' comes after the verb; wo-clause at the end."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you know when the museum opens?",
+      "solution": "Weißt du, wann das Museum öffnet?",
+      "explanation": "Question: verb first → Weißt du; wann-clause at the end with verb last: öffnet."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She knows that the exhibition is very interesting.",
+      "solution": "Sie weiß, dass die Ausstellung sehr interessant ist.",
+      "explanation": "sie (she) weiß — er/sie/es form. dass-clause: verb moves to end: ist."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We don't know yet if we are going to the cinema on Friday.",
+      "solution": "Wir wissen noch nicht, ob wir am Freitag ins Kino gehen.",
+      "explanation": "wir wissen — regular wir-form. ob-clause: verb to end → gehen."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Do you (plural, informal) know when the restaurant opens on Monday?",
+      "solution": "Wisst ihr, wann das Restaurant am Montag öffnet?",
+      "explanation": "ihr-form: Wisst; wann-clause with verb at end. der Montag → am Montag."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I knew that the bar was closed on Sunday.",
+      "solution": "Ich habe gewusst, dass die Bar am Sonntag geschlossen ist.",
+      "explanation": "Perfekt: habe gewusst (haben + Partizip II). dass-clause: verb to end."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich wissen nicht, wo das Café ist.",
+      "solution": "Ich weiß nicht, wo das Café ist.",
+      "explanation": "ich-form of wissen is weiß, not wissen. 'wissen' is the infinitive and the wir/sie/Sie form."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er weißt, wann das Museum öffnet.",
+      "solution": "Er weiß, wann das Museum öffnet.",
+      "explanation": "er/sie/es form is weiß, not weißt. 'weißt' is only used for 'du'."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wisst du, wann das Kino beginnt?",
+      "solution": "Weißt du, wann das Kino beginnt?",
+      "explanation": "'Wisst' is the ihr-form. For 'du' the correct form is 'Weißt du'."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir weiß nicht, ob die Disco offen ist.",
+      "solution": "Wir wissen nicht, ob die Disco offen ist.",
+      "explanation": "wir-form: wissen. 'weiß' is only for ich/er/sie/es."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich habe gewissen, dass das Restaurant am Montag geschlossen ist.",
+      "solution": "Ich habe gewusst, dass das Restaurant am Montag geschlossen ist.",
+      "explanation": "Partizip II of wissen is gewusst, not gewissen. The -wiss- changes to -wuss- in the past."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das weiß ich noch nicht — sie wissst auch nicht.",
+      "solution": "Das weiß ich noch nicht — sie weiß auch nicht.",
+      "explanation": "sie (she) takes weiß, not wissst (which is not a German form)."
+    },
+    {
+      "id": 29,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Ich ___ gewusst, dass das Schwimmbad geschlossen ist.",
+      "solution": "habe",
+      "explanation": "wissen uses haben in Perfekt: ich habe gewusst. Movement verbs use sein; knowledge verbs use haben."
+    },
+    {
+      "id": 30,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ gewusst, wann das Kino beginnt.",
+      "solution": "hat",
+      "explanation": "er hat gewusst — wissen takes haben as auxiliary. Er/sie/es form of haben is 'hat'."
+    },
+    {
+      "id": 31,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ nicht gewusst, dass das Museum am Montag zu ist.",
+      "solution": "haben",
+      "explanation": "wir haben gewusst — wissen takes haben. wir-form of haben is 'haben'."
+    },
+    {
+      "id": 32,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Du ___ doch gewusst, dass die Bar am Sonntag nicht öffnet!",
+      "solution": "hast",
+      "explanation": "du hast gewusst — wissen takes haben. du-form of haben is 'hast'."
+    },
+    {
+      "id": 33,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Sie (they) ___ alle gewusst, wann die Ausstellung beginnt.",
+      "solution": "haben",
+      "explanation": "sie (they) haben gewusst — wissen takes haben. sie (Pl.) form of haben is 'haben'."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ___ ich leider nicht. (I don't unfortunately know that.)",
+      "solution": "weiß",
+      "explanation": "ich weiß — the irregular ich-form. Note: 'leider' (unfortunately) is placed after the verb."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie alle ___, dass der Nachmittag frei ist. (they know / wissen, sie Pl.-form)",
+      "solution": "wissen",
+      "explanation": "sie (Pl.) form: wissen — same as the infinitive. No irregularity in this form."
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Does he know if the theatre is open on Wednesday?",
+      "solution": "Weiß er, ob das Theater am Mittwoch geöffnet ist?",
+      "explanation": "er weiß → question → Weiß er; ob-clause with verb at end; das Theater (neut.), der Mittwoch (masc.)."
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "They knew that the restaurant was open on Friday evening.",
+      "solution": "Sie haben gewusst, dass das Restaurant am Freitagabend geöffnet ist.",
+      "explanation": "Perfekt: haben gewusst. dass-clause: verb to end. das Restaurant (neut.)."
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ihr weiß schon, dass die Disco am Samstag öffnet.",
+      "solution": "Ihr wisst schon, dass die Disco am Samstag öffnet.",
+      "explanation": "ihr-form: wisst. 'weiß' is only for ich/er/sie/es. Never use weiß with ihr."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ ihr schon, ob das Konzert am Freitag oder am Samstag ist? (wissen, ihr-form)",
+      "solution": "Wisst",
+      "explanation": "ihr-form: Wisst. In questions, the verb moves to first position: Wisst ihr …?"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich ___ schon die Antwort, aber ich sage es nicht.",
+      "options": ["weiß", "wissen", "weißt"],
+      "solution": "weiß",
+      "explanation": "ich weiß — irregular ich-form. 'wissen' is infinitive/wir/sie/Sie; 'weißt' is du-form."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I don't know when the morning starts.",
+      "solution": "Ich weiß nicht, wann der Morgen beginnt.",
+      "explanation": "ich weiß (irregular); wann-clause: verb to end. der Morgen (masc.)."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Wissst du, wo das Café ist?",
+      "solution": "Weißt du, wo das Café ist?",
+      "explanation": "du-form is weißt, not wissst. Three 's' in a row is never correct in German."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich ___ noch nicht, ob ich am Sonntag frei bin. (wissen)",
+      "solution": "weiß",
+      "explanation": "ich weiß — the irregular ich-form. 'noch nicht' = not yet."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Does she know if the museum is open on Sunday afternoon?",
+      "solution": "Weiß sie, ob das Museum am Sonntagnachmittag geöffnet ist?",
+      "explanation": "sie weiß → Weiß sie in question; ob-clause; das Museum (neut.); der Sonntagnachmittag (compound)."
+    },
+    {
+      "id": 45,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Ihr ___ gewusst, dass die Ausstellung um 18 Uhr endet.",
+      "solution": "habt",
+      "explanation": "ihr habt gewusst — wissen takes haben. ihr-form of haben is 'habt'."
+    }
+  ]
+}

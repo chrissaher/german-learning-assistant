@@ -1,0 +1,575 @@
+{
+  "lektion": 1,
+  "focus": "verbs",
+  "file_slug": "lektion01_verbs",
+  "generated_at": "2026-03-10T12:01:00",
+  "vocabulary": [
+    {
+      "german": "heißen",
+      "base_form": "heißen",
+      "english": "to be called / to be named",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "heiße",
+        "du": "heißt",
+        "er/sie/es": "heißt",
+        "wir": "heißen",
+        "ihr": "heißt",
+        "sie/Sie": "heißen"
+      },
+      "perfekt": "hat geheißen",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Used for names: 'Ich heiße Anna.' = My name is Anna.",
+      "lektion_source": 1
+    },
+    {
+      "german": "sein",
+      "base_form": "sein",
+      "english": "to be",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bin",
+        "du": "bist",
+        "er/sie/es": "ist",
+        "wir": "sind",
+        "ihr": "seid",
+        "sie/Sie": "sind"
+      },
+      "perfekt": "ist gewesen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Highly irregular; all forms must be memorized. Also used as auxiliary for Perfekt (ist gegangen, ist gefahren).",
+      "lektion_source": 1
+    },
+    {
+      "german": "ankrEuzen",
+      "base_form": "ankreuzen",
+      "english": "to mark with a cross / to tick",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kreuze an",
+        "du": "kreuzt an",
+        "er/sie/es": "kreuzt an",
+        "wir": "kreuzen an",
+        "ihr": "kreuzt an",
+        "sie/Sie": "kreuzen an"
+      },
+      "perfekt": "hat angekreuzt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb: prefix 'an-' splits off in main clause. Partizip II: angekreuzt (ge- inserted between prefix and stem).",
+      "lektion_source": 1
+    },
+    {
+      "german": "buchstabieren",
+      "base_form": "buchstabieren",
+      "english": "to spell (out)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "buchstabiere",
+        "du": "buchstabierst",
+        "er/sie/es": "buchstabiert",
+        "wir": "buchstabieren",
+        "ihr": "buchstabiert",
+        "sie/Sie": "buchstabieren"
+      },
+      "perfekt": "hat buchstabiert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb ending in -ieren. Partizip II: no ge- prefix (foreign-origin verbs in -ieren). hat buchstabiert.",
+      "lektion_source": 1
+    },
+    {
+      "german": "kommen",
+      "base_form": "kommen",
+      "english": "to come",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "komme",
+        "du": "kommst",
+        "er/sie/es": "kommt",
+        "wir": "kommen",
+        "ihr": "kommt",
+        "sie/Sie": "kommen"
+      },
+      "perfekt": "ist gekommen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb. Uses 'sein' in Perfekt because it expresses movement from one place to another. Partizip II: gekommen.",
+      "lektion_source": 1
+    },
+    {
+      "german": "lernen",
+      "base_form": "lernen",
+      "english": "to learn / to study",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lerne",
+        "du": "lernst",
+        "er/sie/es": "lernt",
+        "wir": "lernen",
+        "ihr": "lernt",
+        "sie/Sie": "lernen"
+      },
+      "perfekt": "hat gelernt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Fully regular weak verb. Common in school/language contexts.",
+      "lektion_source": 1
+    },
+    {
+      "german": "werfen",
+      "base_form": "werfen",
+      "english": "to throw",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "werfe",
+        "du": "wirfst",
+        "er/sie/es": "wirft",
+        "wir": "werfen",
+        "ihr": "werft",
+        "sie/Sie": "werfen"
+      },
+      "perfekt": "hat geworfen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb with stem vowel change e→i in du/er forms. Partizip II: geworfen.",
+      "lektion_source": 1
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich heiße Maria und ich komme aus Spanien.",
+      "english": "My name is Maria and I come from Spain.",
+      "level": "medium",
+      "note": "Uses: heißen (ich heiße), kommen (ich komme). Classic Lektion 1 self-introduction."
+    },
+    {
+      "id": 2,
+      "german": "Wie heißt du? — Ich heiße Thomas.",
+      "english": "What is your name? — My name is Thomas.",
+      "level": "medium",
+      "note": "Uses: heißen (du heißt, ich heiße). Question and answer pattern from Lektion 1."
+    },
+    {
+      "id": 3,
+      "german": "Sie lernt Deutsch und buchstabiert ihren Namen.",
+      "english": "She is learning German and spells her name.",
+      "level": "medium",
+      "note": "Uses: lernen (sie lernt), buchstabieren (sie buchstabiert). Both er/sie/es forms."
+    },
+    {
+      "id": 4,
+      "german": "Wer bist du? — Ich bin Anna, ich komme aus der Schweiz.",
+      "english": "Who are you? — I am Anna, I come from Switzerland.",
+      "level": "medium",
+      "note": "Uses: sein (bist, bin), kommen (ich komme). Formal vs informal address."
+    },
+    {
+      "id": 5,
+      "german": "Bitte kreuzen Sie die richtige Antwort an.",
+      "english": "Please mark the correct answer.",
+      "level": "complex",
+      "note": "Uses: ankreuzen (kreuzen … an) — separable verb in formal imperative (Sie form)."
+    },
+    {
+      "id": 6,
+      "german": "Er wirft die Münze und wir lernen das Spiel.",
+      "english": "He throws the coin and we learn the game.",
+      "level": "complex",
+      "note": "Uses: werfen (er wirft — stem vowel e→i), lernen (wir lernen)."
+    },
+    {
+      "id": 7,
+      "german": "Sie ist aus Deutschland, aber sie lernt jetzt Spanisch.",
+      "english": "She is from Germany, but she is learning Spanish now.",
+      "level": "complex",
+      "note": "Uses: sein (sie ist), lernen (sie lernt). Conjunction 'aber' contrasts two facts."
+    },
+    {
+      "id": 8,
+      "german": "Ich habe Deutsch gelernt und bin nach Berlin gekommen.",
+      "english": "I learned German and came to Berlin.",
+      "level": "complex",
+      "note": "Uses: lernen → hat gelernt (haben), kommen → ist gekommen (sein). Contrast of auxiliaries in Perfekt."
+    },
+    {
+      "id": 9,
+      "german": "Wie buchstabiert man das Wort auf Deutsch?",
+      "english": "How do you spell that word in German?",
+      "level": "medium",
+      "note": "Uses: buchstabieren (man buchstabiert). 'Man' = impersonal 'one/you'."
+    },
+    {
+      "id": 10,
+      "german": "Er heißt Klaus Müller — K wie Kalle, L wie Ludwig...",
+      "english": "His name is Klaus Müller — K as in Kalle, L as in Ludwig...",
+      "level": "complex",
+      "note": "Uses: heißen (er heißt). Demonstrates typical spelling-out context for 'buchstabieren'."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ Klaus. (heißen)",
+      "solution": "heiße",
+      "explanation": "'heißen' in the ich form is 'heiße'. Regular conjugation: stem heiß- + -e."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ aus Deutschland. (kommen)",
+      "solution": "kommst",
+      "explanation": "'kommen' in the du form is 'kommst'. Regular consonant cluster: komm- + -st."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie ___ Deutsch. (lernen — she)",
+      "solution": "lernt",
+      "explanation": "'lernen' in the er/sie/es form is 'lernt'. Regular: lern- + -t."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wer ___ du? (sein)",
+      "solution": "bist",
+      "explanation": "'sein' in the du form is 'bist'. Highly irregular — must memorize all forms."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ die Münze. (werfen)",
+      "solution": "wirft",
+      "explanation": "'werfen' has a stem vowel change e→i in the er form: er wirft. Irregular."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ gerade Deutsch. (lernen)",
+      "solution": "lernen",
+      "explanation": "'lernen' in the wir form is 'lernen' — same as the infinitive. Regular."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Bitte ___ Sie Ihren Namen ___. (ankreuzen — separable)",
+      "solution": "kreuzen / an",
+      "explanation": "'ankreuzen' is separable. In a main clause: prefix 'an' goes to the end — 'kreuzen Sie … an'."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie ___ du das Wort? (buchstabieren)",
+      "solution": "buchstabierst",
+      "explanation": "'buchstabieren' in the du form is 'buchstabierst'. Verbs in -ieren are regular."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich ___ Deutsch ___ und dann ___ ich nach Berlin ___. (lernen – Perfekt / kommen – Perfekt)",
+      "solution": "habe / gelernt / bin / gekommen",
+      "explanation": "'lernen' uses 'haben' in Perfekt (hat gelernt). 'kommen' uses 'sein' (ist gekommen). Different auxiliaries!"
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ ihren Namen buchstabiert — K-A-U-F-M-A-N-N. (haben — she, Perfekt of buchstabieren)",
+      "solution": "hat",
+      "explanation": "'buchstabieren' uses 'haben' in Perfekt. er/sie form: 'hat'. Partizip II: buchstabiert (no ge- for -ieren verbs)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ Thomas und er ___ aus der Schweiz. (heißen / kommen)",
+      "solution": "heißt / kommt",
+      "explanation": "'heißen' → er heißt. 'kommen' → er kommt. Both are er/sie/es forms."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wer ___ Sie? — Ich ___ Frau Braun. (sein / heißen)",
+      "solution": "sind / heiße",
+      "explanation": "'sein' formal Sie form is 'sind'. 'heißen' ich form is 'heiße'."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wie ___ du?",
+      "options": ["heißt", "heiße", "heißen"],
+      "solution": "heißt",
+      "explanation": "'heißen' in the du form is 'heißt'. 'heiße' is the ich form, 'heißen' is infinitive/wir/sie."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ aus Eritrea.",
+      "options": ["kommt", "komme", "kommen"],
+      "solution": "kommt",
+      "explanation": "'kommen' in the er/sie/es form is 'kommt'. 'komme' is ich, 'kommen' is infinitive/wir/sie."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ Student.",
+      "options": ["bin", "bist", "ist"],
+      "solution": "bin",
+      "explanation": "'sein' in the ich form is 'bin'. 'bist' is du, 'ist' is er/sie/es."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Du ___ die Münze! (werfen)",
+      "options": ["wirfst", "werfst", "wirst"],
+      "solution": "wirfst",
+      "explanation": "'werfen' has stem vowel change e→i in du form: du wirfst. 'werfst' is incorrect (wrong vowel). 'wirst' is from 'werden'."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat seinen Namen ___.",
+      "options": ["buchstabiert", "gebuchstabiert", "buchstabieren"],
+      "solution": "buchstabiert",
+      "explanation": "Verbs in -ieren do NOT add ge- in Partizip II. Correct form: buchstabiert (not gebuchstabiert)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie ___ nach Berlin gekommen.",
+      "options": ["ist", "hat", "sind"],
+      "solution": "ist",
+      "explanation": "'kommen' uses 'sein' in Perfekt because it expresses movement to a destination. Sie (she) = ist."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie ___ Deutsch gelernt. (she, Perfekt)",
+      "options": ["hat", "ist", "haben"],
+      "solution": "hat",
+      "explanation": "'lernen' uses 'haben' in Perfekt (no movement/state change). Sie (she) → hat gelernt."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir ___ das Kreuz an. (ankreuzen)",
+      "options": ["kreuzen", "kreuzten", "kreuzt"],
+      "solution": "kreuzen",
+      "explanation": "'ankreuzen' is separable. In wir form, the prefix 'an' moves to the end: 'wir kreuzen … an'. Only 'kreuzen' is the correct stem form."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My name is Luisa and I come from Spain.",
+      "solution": "Ich heiße Luisa und ich komme aus Spanien.",
+      "explanation": "heißen → ich heiße; kommen → ich komme. Classic Lektion 1 self-introduction formula."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What is your name? (informal)",
+      "solution": "Wie heißt du?",
+      "explanation": "heißen → du heißt. Informal 'du' question for names."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She is learning German.",
+      "solution": "Sie lernt Deutsch.",
+      "explanation": "lernen → sie (she) lernt. Regular er/sie/es form."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Please spell your name. (formal)",
+      "solution": "Bitte buchstabieren Sie Ihren Namen.",
+      "explanation": "buchstabieren in formal imperative (Sie form) = buchstabieren Sie. 'Ihren Namen' = accusative of der Name."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He is from Switzerland and has learned German.",
+      "solution": "Er kommt aus der Schweiz und hat Deutsch gelernt.",
+      "explanation": "kommen → er kommt; lernen Perfekt → hat gelernt (haben auxiliary)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We have come from Germany and we are learning Spanish now.",
+      "solution": "Wir sind aus Deutschland gekommen und wir lernen jetzt Spanisch.",
+      "explanation": "kommen Perfekt → sind gekommen (sein); lernen → wir lernen. Note: sein as auxiliary for kommen."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Who are you? (formal)",
+      "solution": "Wer sind Sie?",
+      "explanation": "sein → Sie sind. Formal 'Sie' requires 'sind' (same as wir/sie plural form)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Ich kommt aus Deutschland.",
+      "solution": "Ich komme aus Deutschland.",
+      "explanation": "'kommen' in the ich form is 'komme', not 'kommt'. 'kommt' is the er/sie/es form."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Er bist Thomas.",
+      "solution": "Er ist Thomas.",
+      "explanation": "'sein' in the er form is 'ist', not 'bist'. 'bist' belongs to du."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Du werfst die Münze.",
+      "solution": "Du wirfst die Münze.",
+      "explanation": "'werfen' has a stem vowel change e→i in the du form: du wirfst (not werfst)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Er hat gebuchstabiert seinen Namen.",
+      "solution": "Er hat seinen Namen buchstabiert.",
+      "explanation": "Two errors: (1) Verbs in -ieren do NOT add ge- in Partizip II — correct form is 'buchstabiert'. (2) In Perfekt, the Partizip II goes to the end of the clause."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Sie hat nach Berlin gekommen.",
+      "solution": "Sie ist nach Berlin gekommen.",
+      "explanation": "'kommen' expresses movement to a destination → uses 'sein' in Perfekt, not 'haben'."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ich ankreuze das Formular.",
+      "solution": "Ich kreuze das Formular an.",
+      "explanation": "'ankreuzen' is a separable verb. In a main clause, the prefix 'an' separates and moves to the end."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ Deutsch gelernt.",
+      "solution": "hat",
+      "explanation": "'lernen' uses 'haben' in Perfekt — it does not express movement or state change. er → hat."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ aus Deutschland gekommen. (she)",
+      "solution": "ist",
+      "explanation": "'kommen' uses 'sein' in Perfekt — it expresses movement from a place. sie (she) → ist."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ Deutsch gelernt.",
+      "solution": "haben",
+      "explanation": "'lernen' uses 'haben' in Perfekt. wir → haben gelernt."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Ich ___ nach Österreich gekommen.",
+      "solution": "bin",
+      "explanation": "'kommen' uses 'sein' in Perfekt. ich → bin gekommen."
+    },
+    {
+      "id": 38,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ die Münze geworfen.",
+      "solution": "hat",
+      "explanation": "'werfen' uses 'haben' in Perfekt — throwing does not involve movement of the subject. er → hat geworfen."
+    },
+    {
+      "id": 39,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Frau Braun ___ aus der Schweiz gekommen und ___ Deutsch gelernt.",
+      "solution": "ist / hat",
+      "explanation": "'kommen' → ist (movement); 'lernen' → hat (no movement). The contrast shows both auxiliaries in one sentence."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Du ___ das Kreuz angekreuzt.",
+      "solution": "hast",
+      "explanation": "'ankreuzen' uses 'haben' in Perfekt. du → hast angekreuzt."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ gewesen. Das ___ Thomas. (sein — she, Perfekt / heißen — he, Präsens)",
+      "solution": "ist / heißt",
+      "explanation": "'sein' Perfekt with sein auxiliary: sie (she) ist gewesen. 'heißen' er form: heißt."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He threw the coin and learned the rules.",
+      "solution": "Er hat die Münze geworfen und die Regeln gelernt.",
+      "explanation": "werfen Perfekt → hat geworfen (haben); lernen Perfekt → hat gelernt (haben). Both use haben."
+    },
+    {
+      "id": 43,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ihr sind aus Eritrea.",
+      "solution": "Ihr seid aus Eritrea.",
+      "explanation": "'sein' in the ihr form is 'seid', not 'sind'. 'sind' belongs to wir and sie/Sie."
+    },
+    {
+      "id": 44,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wer ___ Sie? — Ich ___ Frau Kaufmann. Ich ___ aus Deutschland. (sein, heißen, kommen)",
+      "solution": "sind / heiße / komme",
+      "explanation": "sein → Sie sind (formal); heißen → ich heiße; kommen → ich komme. Three key Lektion 1 verbs in context."
+    }
+  ]
+}

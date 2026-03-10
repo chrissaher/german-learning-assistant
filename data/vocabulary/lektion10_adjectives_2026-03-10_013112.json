@@ -1,0 +1,459 @@
+{
+  "lektion": 10,
+  "focus": "adjectives",
+  "file_slug": "lektion10_adjectives",
+  "generated_at": "2026-03-10T01:31:12",
+  "vocabulary": [
+    {
+      "german": "kurz",
+      "base_form": "kurz",
+      "english": "short / brief",
+      "word_type": "adjective",
+      "antonym": "lang",
+      "cognate_note": "English cognate: not a direct cognate. Spanish 'corto' is similar in meaning.",
+      "lektion_source": 10
+    },
+    {
+      "german": "kaputt",
+      "base_form": "kaputt",
+      "english": "broken / out of order",
+      "word_type": "adjective",
+      "antonym": "funktioniert (works) / heil (intact)",
+      "cognate_note": "Borrowed into Spanish as 'kapuski' (informal). In German contexts: 'Der Akku ist kaputt' (the battery is dead/broken).",
+      "lektion_source": 10
+    },
+    {
+      "german": "früh",
+      "base_form": "früh",
+      "english": "early",
+      "word_type": "adjective",
+      "antonym": "spät",
+      "cognate_note": null,
+      "lektion_source": 10
+    },
+    {
+      "german": "sicher",
+      "base_form": "sicher",
+      "english": "sure / certain / safe",
+      "word_type": "adjective",
+      "antonym": "unsicher",
+      "cognate_note": "English false friend: 'secure' is close but 'sicher' is broader. Spanish 'seguro' is a strong cognate.",
+      "lektion_source": 10
+    },
+    {
+      "german": "wenig",
+      "base_form": "wenig",
+      "english": "little / few / not much",
+      "word_type": "adjective",
+      "antonym": "viel",
+      "cognate_note": null,
+      "lektion_source": 10
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Der Akku ist kaputt — ich kann dich nicht anrufen.",
+      "english": "The battery is dead — I can't call you.",
+      "level": "medium",
+      "note": "Uses: kaputt (predicate adjective after 'ist'), anrufen (Lektion 10 verb). Modal 'können' + nicht."
+    },
+    {
+      "id": 2,
+      "german": "Wir haben nur wenig Zeit — der Zug fährt in fünf Minuten ab.",
+      "english": "We have only a little time — the train departs in five minutes.",
+      "level": "medium",
+      "note": "Uses: wenig (quantity adjective), abfahren (Lektion 10 verb). Urgency context."
+    },
+    {
+      "id": 3,
+      "german": "Die Reise war kurz, aber sehr schön.",
+      "english": "The journey was short but very nice.",
+      "level": "medium",
+      "note": "Uses: kurz (predicate adjective) — comparing two attributes with 'aber'."
+    },
+    {
+      "id": 4,
+      "german": "Ich bin früh am Flughafen angekommen, weil der Flug früh beginnt.",
+      "english": "I arrived early at the airport because the flight starts early.",
+      "level": "complex",
+      "note": "Uses: früh (adverb/adjective), ankommen (Perfekt), beginnen — weil-clause with verb-final."
+    },
+    {
+      "id": 5,
+      "german": "Bist du sicher, dass der Zug schon abgefahren ist?",
+      "english": "Are you sure that the train has already departed?",
+      "level": "complex",
+      "note": "Uses: sicher (predicate adjective), abfahren (Perfekt) — dass-clause with verb-final position."
+    },
+    {
+      "id": 6,
+      "german": "Der Flug nach Wien ist sehr kurz — nur eine Stunde.",
+      "english": "The flight to Vienna is very short — only one hour.",
+      "level": "medium",
+      "note": "Uses: kurz (with intensifier 'sehr') — common travel description."
+    },
+    {
+      "id": 7,
+      "german": "Mein Kollege hat wenig Gepäck: nur einen kleinen Rucksack.",
+      "english": "My colleague has little luggage: only a small backpack.",
+      "level": "medium",
+      "note": "Uses: wenig (before noun, no ending needed here), kleinen (attributive adjective with ending)."
+    },
+    {
+      "id": 8,
+      "german": "Es ist sicher besser, früh zum Bahnhof zu fahren, um rechtzeitig anzukommen.",
+      "english": "It is certainly better to go to the station early in order to arrive on time.",
+      "level": "complex",
+      "note": "Uses: sicher (adverb meaning 'certainly'), früh, ankommen — infinitive clause with 'um...zu'."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Akku ist ___. (broken)",
+      "solution": "kaputt",
+      "explanation": "kaputt = broken/dead. Predicate adjective after 'ist': no ending needed."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'spät' ist ___. (the opposite of 'late' is ...)",
+      "solution": "früh",
+      "explanation": "früh = early. Direct antonym of spät in German."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich bin ___. Mein Flug ist um 7 Uhr. (sure)",
+      "solution": "sicher",
+      "explanation": "sicher = sure/certain. Predicate adjective after 'bin': no ending needed."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir haben ___ Zeit — bitte beeil dich! (little/not much)",
+      "solution": "wenig",
+      "explanation": "wenig = little/few. Used with an uncountable noun (Zeit = time). No article, no ending on wenig."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Reise ist sehr ___. Wir sind in einer Stunde wieder zu Hause. (short)",
+      "solution": "kurz",
+      "explanation": "kurz = short. Predicate adjective after 'ist': no ending. Antonym: lang."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich komme ___ am Flughafen an — um 6 Uhr morgens. (early)",
+      "solution": "früh",
+      "explanation": "früh used as adverb here (modifying 'ankommen'). No adjective ending in adverb use."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Maschine ist ___. Der Zug kommt nicht. (broken / out of order)",
+      "solution": "kaputt",
+      "explanation": "kaputt = broken/out of order. Common predicate adjective for malfunctioning machines."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe ___ Akku auf meinem Handy — ich muss es laden. (little/not much)",
+      "solution": "wenig",
+      "explanation": "wenig before a noun (Akku = battery). In informal use, wenig can precede a noun without an article."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Es ist ___ besser, ___ zum Bahnhof zu fahren. (certainly, early)",
+      "solution": "sicher ... früh",
+      "explanation": "sicher as adverb = certainly. früh as adverb = early. Both modify the verb phrase."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Fahrt ist ___, aber wir sehen viel von der Stadt. (short)",
+      "solution": "kurz",
+      "explanation": "kurz = short. Predicate after 'ist'. The contrast 'aber' shows compensation."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Der Aufzug ist ___. Wir nehmen die Treppe.",
+      "options": ["kaputt", "früh", "wenig"],
+      "solution": "kaputt",
+      "explanation": "kaputt = broken/out of order. Context: elevator not working → take the stairs."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'lang' ist ___.",
+      "options": ["kaputt", "kurz", "früh"],
+      "solution": "kurz",
+      "explanation": "kurz = short. Direct antonym of lang (long). This applies to distance, time, and description."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich bin ___, dass der Flug um 18 Uhr abfliegt.",
+      "options": ["kurz", "sicher", "kaputt"],
+      "solution": "sicher",
+      "explanation": "sicher = sure/certain. 'Ich bin sicher, dass...' = I am sure that... Very common expression."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Bitte komm ___ zum Flughafen — wir haben nicht viel Zeit.",
+      "options": ["kaputt", "wenig", "früh"],
+      "solution": "früh",
+      "explanation": "früh = early. 'Komm früh' = come early. Context: limited time, need to arrive early."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat ___ Geld für die Reise.",
+      "options": ["kurz", "kaputt", "wenig"],
+      "solution": "wenig",
+      "explanation": "wenig = little/not much. 'Wenig Geld' = not much money. Used with uncountable nouns."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die Straßenbahn kommt ___ — sie hat 20 Minuten Verspätung.",
+      "options": ["früh", "kurz", "kaputt"],
+      "solution": "kaputt",
+      "explanation": "Context: tram severely delayed could indicate malfunction — kaputt fits best. Other options don't fit contextually."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Flug war ___, aber die Verspätung war lang.",
+      "options": ["kurz", "wenig", "sicher"],
+      "solution": "kurz",
+      "explanation": "kurz = short. Antonym of lang. 'Der Flug war kurz' = the flight was short."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The battery is broken.",
+      "solution": "Der Akku ist kaputt.",
+      "explanation": "kaputt = broken. Predicate adjective: no ending after 'ist'. der Akku = masculine."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We have very little time.",
+      "solution": "Wir haben sehr wenig Zeit.",
+      "explanation": "'Sehr wenig' = very little. Zeit (time) is feminine, used without article here."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Are you sure? The flight is at 8 a.m.",
+      "solution": "Bist du sicher? Der Flug ist um 8 Uhr morgens.",
+      "explanation": "'Bist du sicher?' = Are you sure? sicher as predicate adjective after 'bist'."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The journey is short but nice.",
+      "solution": "Die Reise ist kurz, aber schön.",
+      "explanation": "'kurz' and 'schön' are predicate adjectives. No endings after 'ist' in predicative position."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I arrived early because the train departed early.",
+      "solution": "Ich bin früh angekommen, weil der Zug früh abgefahren ist.",
+      "explanation": "'früh' used twice as adverb. weil-clause: verb goes to end (abgefahren ist)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am sure that the flight has little delay today.",
+      "solution": "Ich bin sicher, dass der Flug heute wenig Verspätung hat.",
+      "explanation": "'sicher' = certain (predicate). dass-clause: verb at end. 'wenig Verspätung' = little delay."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Akku ist kaputtiert. (Find and correct the error.)",
+      "solution": "Der Akku ist kaputt.",
+      "explanation": "'kaputt' is an adjective — it does not take verb endings. There is no form *kaputtiert."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich komme frühe am Bahnhof. (Find and correct the error.)",
+      "solution": "Ich komme früh am Bahnhof.",
+      "explanation": "'Früh' used as an adverb does not take adjective endings. No -e added."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Fahrt war sehr kurze. (Find and correct the error.)",
+      "solution": "Die Fahrt war sehr kurz.",
+      "explanation": "Predicate adjective after 'war' takes no ending in German: war kurz (not *kurze)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er hat wenige Akku. (Find and correct the error.)",
+      "solution": "Er hat wenig Akku. (or: Er hat wenig Akkukapazität.)",
+      "explanation": "'Wenig' before singular uncountable nouns takes no ending: wenig Akku. 'Wenige' is for countable plurals."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Bist du sicher, das der Zug um 9 Uhr abfährt? (Find and correct the error.)",
+      "solution": "Bist du sicher, dass der Zug um 9 Uhr abfährt?",
+      "explanation": "'dass' (that — conjunction) is spelled with double-s, not 'das' (that — article/pronoun)."
+    },
+    {
+      "id": 29,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Handy ist ___. Ich brauche einen neuen Akku. (broken)",
+      "solution": "kaputt",
+      "explanation": "kaputt = broken. Predicate adjective after 'ist': no ending."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'viel' ist ___. (the opposite of 'much/many')",
+      "solution": "wenig",
+      "explanation": "wenig = little/few. Direct antonym of viel."
+    },
+    {
+      "id": 31,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Come early to the airport!",
+      "solution": "Komm früh zum Flughafen!",
+      "explanation": "Imperative: 'Komm' (du-form). früh = early. zum = zu + dem (dative)."
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'sicher' ist ___.",
+      "options": ["kaputt", "unsicher", "wenig"],
+      "solution": "unsicher",
+      "explanation": "unsicher = uncertain/unsafe. The antonym of sicher (sure/safe) with the prefix un-."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir haben ___ Gepäck — nur einen Rucksack und einen Koffer. (little/not much)",
+      "solution": "wenig",
+      "explanation": "wenig = little/not much. Before das Gepäck (singular uncountable noun)."
+    },
+    {
+      "id": 34,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The early flight is short and has little delay.",
+      "solution": "Der frühe Flug ist kurz und hat wenig Verspätung.",
+      "explanation": "'frühe' = early as attributive adjective before Flug: der frühe Flug. kurz and wenig as predicate/adverb."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich bin sicher das der Bus bald kommt. (Find and correct the error.)",
+      "solution": "Ich bin sicher, dass der Bus bald kommt.",
+      "explanation": "The conjunction 'dass' (that) requires a comma before it and is spelled with double-s."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Es ist ___, früh abzufahren, wenn man ___ Zeit hat. (better/sure, little)",
+      "solution": "sicher ... wenig",
+      "explanation": "sicher = certainly (adverb here). wenig = little. 'Wenn man wenig Zeit hat' = when one has little time."
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Rucksack ist leicht, weil er ___ Inhalt hat.",
+      "options": ["kurz", "wenig", "früh"],
+      "solution": "wenig",
+      "explanation": "wenig = little. 'Wenig Inhalt' = little content. Context: light backpack because little inside."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The elevator is broken. We take the stairs.",
+      "solution": "Der Aufzug ist kaputt. Wir nehmen die Treppe.",
+      "explanation": "kaputt = broken. der Aufzug = elevator. die Treppe = stairs."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Flug nach Wien ist ___, aber der Flug nach New York ist lang. (short)",
+      "solution": "kurz",
+      "explanation": "kurz = short. Predicate adjective: no ending. Contrast with 'lang' (long)."
+    },
+    {
+      "id": 40,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie ist sicher ankommen. (Find and correct the error.)",
+      "solution": "Sie ist sicher angekommen.",
+      "explanation": "Perfekt of ankommen: ist angekommen (Partizip II). *Ankommen is the infinitive, not the Partizip II."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Bitte komm ___ — der Zug fährt um 7 Uhr ab.",
+      "options": ["kaputt", "kurz", "früh"],
+      "solution": "früh",
+      "explanation": "früh = early. Context: train at 7 a.m. → need to come early."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am sure the journey will be short.",
+      "solution": "Ich bin sicher, dass die Reise kurz sein wird.",
+      "explanation": "'Ich bin sicher, dass...' = I am sure that... Future: sein wird. die Reise kurz sein = the journey will be short."
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "lektion": 7,
+  "focus": "adjectives",
+  "file_slug": "lektion07_adjectives",
+  "generated_at": "2026-03-10T01:30:46",
+  "vocabulary": [
+    {
+      "german": "toll",
+      "base_form": "toll",
+      "english": "great, fantastic",
+      "word_type": "adjective",
+      "antonym": "schlecht",
+      "cognate_note": "English 'toll' means a fee — false friend! German toll means great/fantastic.",
+      "lektion_source": 7
+    },
+    {
+      "german": "normal",
+      "base_form": "normal",
+      "english": "normal, ordinary",
+      "word_type": "adjective",
+      "antonym": "abnormal / komisch",
+      "cognate_note": "True cognate with English 'normal' and Spanish 'normal'. Same meaning in all three languages.",
+      "lektion_source": 7
+    },
+    {
+      "german": "komisch",
+      "base_form": "komisch",
+      "english": "strange, odd (also: funny/comical)",
+      "word_type": "adjective",
+      "antonym": "normal",
+      "cognate_note": "False friend! English 'comical' / Spanish 'cómico' suggest humour. In German, komisch primarily means strange/odd. Can also mean funny but the primary meaning differs.",
+      "lektion_source": 7
+    },
+    {
+      "german": "blöd",
+      "base_form": "blöd",
+      "english": "stupid, annoying, disagreeable",
+      "word_type": "adjective",
+      "antonym": "toll / gut",
+      "cognate_note": null,
+      "lektion_source": 7
+    },
+    {
+      "german": "interessant",
+      "base_form": "interessant",
+      "english": "interesting",
+      "word_type": "adjective",
+      "antonym": "langweilig",
+      "cognate_note": "True cognate with English 'interesting' and Spanish 'interesante'. Note the German ending -ant vs. English -ing.",
+      "lektion_source": 7
+    },
+    {
+      "german": "lustig",
+      "base_form": "lustig",
+      "english": "funny, amusing, cheerful",
+      "word_type": "adjective",
+      "antonym": "langweilig / traurig",
+      "cognate_note": "False friend! English 'lusty' means vigorous/lively — not the same. German lustig means funny/amusing.",
+      "lektion_source": 7
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Die Musik im Klub ist wirklich toll — ich tanze den ganzen Abend.",
+      "english": "The music in the club is really great — I dance all evening.",
+      "level": "medium",
+      "note": "Uses: toll; contrasts with false friend English 'toll'"
+    },
+    {
+      "id": 2,
+      "german": "Das Konzert war sehr interessant — die Band hat auch Spanisch gesungen.",
+      "english": "The concert was very interesting — the band also sang in Spanish.",
+      "level": "medium",
+      "note": "Uses: interessant; Perfekt of singen (hat gesungen)"
+    },
+    {
+      "id": 3,
+      "german": "Es ist komisch — er kann tanzen, aber er hört nie Musik.",
+      "english": "It is strange — he can dance but he never listens to music.",
+      "level": "complex",
+      "note": "Uses: komisch; können + infinitive; nie from Lektion 7 others"
+    },
+    {
+      "id": 4,
+      "german": "Der Film war lustig, aber die Geschichte war ein bisschen blöd.",
+      "english": "The film was funny, but the story was a bit stupid.",
+      "level": "complex",
+      "note": "Uses: lustig, blöd; ein bisschen (a little bit)"
+    },
+    {
+      "id": 5,
+      "german": "Ist es normal, dass er immer allein kocht und nie Freunde trifft?",
+      "english": "Is it normal that he always cooks alone and never meets friends?",
+      "level": "complex",
+      "note": "Uses: normal; immer, nie from Lektion 7 others; subjunctive structure dass"
+    },
+    {
+      "id": 6,
+      "german": "Mein Hobby ist interessant — ich male und fotografiere in meiner Freizeit.",
+      "english": "My hobby is interesting — I paint and take photos in my free time.",
+      "level": "medium",
+      "note": "Uses: interessant; malen, fotografieren from Lektion 7 verbs"
+    },
+    {
+      "id": 7,
+      "german": "Das Kickboxen ist toll, aber Reiten finde ich ein bisschen blöd.",
+      "english": "Kick-boxing is great, but I find horse-riding a bit stupid.",
+      "level": "medium",
+      "note": "Uses: toll, blöd; finden (Meinung) from Lektion 4"
+    },
+    {
+      "id": 8,
+      "german": "Der DJ war wirklich lustig — er hat auch mit uns getanzt und gesungen.",
+      "english": "The DJ was really funny — he also danced and sang with us.",
+      "level": "complex",
+      "note": "Uses: lustig; Perfekt hat getanzt, hat gesungen"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Konzert war wirklich ___! (great / fantastic)",
+      "solution": "toll",
+      "explanation": "toll means great/fantastic in German. Beware: English 'toll' is a false friend (it means a fee)."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___. Ich verstehe das nicht. (strange / odd)",
+      "solution": "komisch",
+      "explanation": "komisch means strange/odd in German. False friend: Spanish cómico / English comical suggest humour."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Film war sehr ___. (funny / amusing)",
+      "solution": "lustig",
+      "explanation": "lustig means funny/amusing. False friend: English 'lusty' has a different meaning."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Thema ist wirklich ___. Ich lerne viel! (interesting)",
+      "solution": "interessant",
+      "explanation": "interessant is a true cognate with English 'interesting' and Spanish 'interesante'. Note -ant ending in German."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ist es ___, dass er jeden Tag schwimmt und reitet? (normal)",
+      "solution": "normal",
+      "explanation": "normal is a true cognate in German, English, and Spanish — same meaning in all three languages."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich finde den Job ___. Ich komme nicht gern dorthin. (disagreeable / annoying)",
+      "solution": "blöd",
+      "explanation": "blöd means stupid, annoying, or disagreeable. It is a colloquial adjective common in everyday German speech."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Hobby ist ___, aber auch ___. (interesting AND funny)",
+      "solution": "interessant / lustig",
+      "explanation": "Two adjectives used predicatively (after ist): no adjective endings needed in this position."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich finde das Konzert ___, aber mein Freund findet es ___. (toll / blöd)",
+      "solution": "toll / blöd",
+      "explanation": "Both adjectives are used predicatively after finden. No inflection needed after finden es ___."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Es ist ___, dass er immer allein surft und nie Freunde trifft. (strange)",
+      "solution": "komisch",
+      "explanation": "komisch used predicatively (after ist) in a dass-clause. No ending change needed here."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das war ein ___ Konzert — die Sängerin hat ___ getanzt und ___ gesungen! (great / well / well — use toll and the adverb gut for well)",
+      "solution": "tolles / gut / gut",
+      "explanation": "toll before a neuter noun (das Konzert) in accusative takes -es ending: ein tolles Konzert. gut is the adverb (well)."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das ist ___! (meaning: This is great!)",
+      "options": ["a) toll", "b) normal", "c) komisch"],
+      "solution": "a) toll",
+      "explanation": "toll = great/fantastic. normal = ordinary. komisch = strange. Context: expressing enthusiasm."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er macht immer lustige Dinge — er ist sehr ___.",
+      "options": ["a) blöd", "b) lustig", "c) interessant"],
+      "solution": "b) lustig",
+      "explanation": "lustig = funny/amusing — fitting someone who always does funny things."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Buch ist langweilig. Das Gegenteil (opposite) ist ___.",
+      "options": ["a) lustig", "b) interessant", "c) komisch"],
+      "solution": "b) interessant",
+      "explanation": "interessant (interesting) is the most direct antonym of langweilig (boring) in this context."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich finde seinen Humor sehr ___. Er macht mich immer lachen.",
+      "options": ["a) blöd", "b) lustig", "c) toll"],
+      "solution": "b) lustig",
+      "explanation": "lustig = funny; the context of making someone laugh points to lustig specifically."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das ist ein ___ Hobby — nicht jeder kann so gut tanzen.",
+      "options": ["a) toller", "b) tolles", "c) toll"],
+      "solution": "b) tolles",
+      "explanation": "das Hobby — neuter; after ein (indefinite article) in nominative: ein tolles Hobby (-es ending)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er findet seinen Job ___. Er geht nicht gern zur Arbeit.",
+      "options": ["a) interessant", "b) blöd", "c) lustig"],
+      "solution": "b) blöd",
+      "explanation": "blöd = disagreeable/annoying — fits the context of not wanting to go to work."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The concert is great! I want to come back. (use: toll / Konzert)",
+      "solution": "Das Konzert ist toll! Ich möchte wiederkommen.",
+      "explanation": "toll used predicatively after ist — no ending change. möchte (from mögen) = would like to."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Is that normal? He never dances. (use: normal / nie / tanzen)",
+      "solution": "Ist das normal? Er tanzt nie.",
+      "explanation": "normal used predicatively. nie (never) from Lektion 7. tanzt (er-form of tanzen)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The film is very funny and interesting. (use: lustig / interessant)",
+      "solution": "Der Film ist sehr lustig und interessant.",
+      "explanation": "Both adjectives used predicatively after ist — no endings needed. sehr (very) intensifies lustig."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "It is strange that he can sing but never goes to concerts. (use: komisch / singen / Konzert / nie)",
+      "solution": "Es ist komisch, dass er singen kann, aber nie ins Konzert geht.",
+      "explanation": "komisch predicatively. dass-clause: verb (kann, geht) goes to end. ins Konzert gehen = to go to a concert."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He finds kick-boxing interesting, but I think it's a bit stupid. (use: interessant / blöd / Kickboxen)",
+      "solution": "Er findet Kickboxen interessant, aber ich finde es ein bisschen blöd.",
+      "explanation": "finden + adjective = to find something (adj). ein bisschen = a little bit. Both adjectives are predicative."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The DJ was really funny — we danced and laughed all evening. (use: lustig / tanzen — Perfekt)",
+      "solution": "Der DJ war wirklich lustig — wir haben den ganzen Abend getanzt und gelacht.",
+      "explanation": "lustig predicatively after war. tanzen → hat getanzt; lachen → hat gelacht. den ganzen Abend = all evening (accusative)."
+    },
+    {
+      "id": 23,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Konzert war sehr toll und interessantes.",
+      "solution": "Das Konzert war sehr toll und interessant.",
+      "explanation": "When adjectives are used predicatively (after war), they take no ending. interessantes is wrong — it should be interessant."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er ist ein komische Mann.",
+      "solution": "Er ist ein komischer Mann.",
+      "explanation": "komisch before a masculine noun (der Mann) after ein takes -er ending: ein komischer Mann."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich finde das Hobby toll, aber es ist ein bisschen langweilig und blödes.",
+      "solution": "Ich finde das Hobby toll, aber es ist ein bisschen langweilig und blöd.",
+      "explanation": "Predicative adjectives after ist take no ending: blödes should be blöd."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das ist komisch! Er kann nicht normal tanzen.",
+      "solution": "Das ist komisch! Er kann nicht normal tanzen. (Correct as written)",
+      "explanation": "This sentence is actually correct. komisch (strange) used predicatively after ist — no ending. normal used as an adverb before tanzen — no ending either."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Der Film war lustige, aber die Geschichte war ein bisschen blöd.",
+      "solution": "Der Film war lustig, aber die Geschichte war ein bisschen blöd.",
+      "explanation": "lustig used predicatively after war — no ending (-e ending is wrong here). blöd is correct."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich finde sein Hobby sehr interessantes — er malt und fotografiert.",
+      "solution": "Ich finde sein Hobby sehr interessant — er malt und fotografiert.",
+      "explanation": "After finden + object, the adjective is predicative: interessantes should be interessant (no ending)."
+    },
+    {
+      "id": 29,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Gegenteil (opposite) von interessant ist ___. (boring)",
+      "solution": "langweilig",
+      "explanation": "langweilig (boring) is the antonym of interessant (interesting)."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Gegenteil von toll ist ___. (bad / poor)",
+      "solution": "schlecht",
+      "explanation": "schlecht (bad) is the direct antonym of toll (great). Note: blöd can also function as an antonym in informal speech."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von normal ist ___.",
+      "solution": "komisch / abnormal",
+      "explanation": "komisch (strange/odd) or abnormal are the antonyms of normal."
+    },
+    {
+      "id": 32,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I find this very funny. (use: lustig / finden)",
+      "solution": "Ich finde das sehr lustig.",
+      "explanation": "finden + accusative object (das) + predicative adjective (lustig — no ending)."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She thinks dancing is interesting and fun. (use: interessant / lustig / tanzen / finden)",
+      "solution": "Sie findet Tanzen interessant und lustig.",
+      "explanation": "Tanzen (infinitive as noun) is the object. Both adjectives predicative after findet — no ending."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er spielt keine ___ Musik — alles klingt immer gleich. (interesting — inflected)",
+      "solution": "interessante",
+      "explanation": "interessant before feminine noun (die Musik) after keine: keine interessante Musik (-e ending)."
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich finde das Wetter heute sehr ___. Es regnet und es ist kalt.",
+      "options": ["a) toll", "b) blöd", "c) lustig"],
+      "solution": "b) blöd",
+      "explanation": "blöd = disagreeable/annoying — fits rainy, cold weather. toll = great. lustig = funny."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Seine Hobbys sind wirklich ___: er surft, reitet und fotografiert. (interesting)",
+      "solution": "interessant",
+      "explanation": "interessant predicatively after sind (plural). No ending needed in predicative position."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das ist eine tolle Idee! Das Konzert klingt lüstig.",
+      "solution": "Das ist eine tolle Idee! Das Konzert klingt lustig.",
+      "explanation": "lustig does not have an umlaut. lüstig is not a German word — the correct spelling is lustig."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "It is strange that he finds swimming boring but interesting at the same time. (use: komisch / interessant / langweilig)",
+      "solution": "Es ist komisch, dass er Schwimmen langweilig und gleichzeitig interessant findet.",
+      "explanation": "komisch predicatively. dass-clause: findet goes to end. gleichzeitig = at the same time."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich singe ___ — alle lachen! (funny / in a funny way)",
+      "solution": "lustig",
+      "explanation": "lustig used as an adverb (funny way of singing). No ending change when used as adverb."
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Ausflug war ___ — wir haben viel gelacht und toll getanzt.",
+      "options": ["a) blöd", "b) komisch", "c) toll"],
+      "solution": "c) toll",
+      "explanation": "Context (laughing a lot, dancing well) indicates a great time — toll. blöd = bad/annoying. komisch = strange."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Cooking is normal for him — he cooks every day. (use: normal / kochen / jeden Tag)",
+      "solution": "Kochen ist normal für ihn — er kocht jeden Tag.",
+      "explanation": "Kochen (infinitive as noun, neuter) is subject. normal predicatively after ist. jeden Tag = every day (accusative)."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich finde es ___, dass er immer ___ ist — er macht nie Spaß! (strange / boring — komisch / langweilig)",
+      "solution": "komisch / langweilig",
+      "explanation": "komisch = strange (predicatively after finde es). langweilig = boring (predicatively after ist)."
+    }
+  ]
+}

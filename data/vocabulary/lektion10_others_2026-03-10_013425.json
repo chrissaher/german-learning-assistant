@@ -1,0 +1,503 @@
+{
+  "lektion": 10,
+  "focus": "others",
+  "file_slug": "lektion10_others",
+  "generated_at": "2026-03-10T01:34:25",
+  "vocabulary": [
+    {
+      "german": "dort",
+      "base_form": "dort",
+      "english": "there (at that place)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used to indicate a place away from the speaker: 'Ich bin dort' (I am there). Contrast with 'hier' (here).",
+      "lektion_source": 10
+    },
+    {
+      "german": "so",
+      "base_form": "so",
+      "english": "around / about / like that / so",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "In Lektion 10, 'so' appears as 'um so … Uhr' meaning 'around … o'clock'. Also intensifier: 'so groß' (so big).",
+      "lektion_source": 10
+    },
+    {
+      "german": "noch mal",
+      "base_form": "noch mal",
+      "english": "again / once more",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "'Noch mal' asks for repetition: 'Sag das noch mal' (say that again). More informal than 'wieder'.",
+      "lektion_source": 10
+    },
+    {
+      "german": "hoffentlich",
+      "base_form": "hoffentlich",
+      "english": "hopefully",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "'Hoffentlich' expresses hope at A1 level. Usually sentence-initial or before the verb: 'Hoffentlich kommt der Zug pünktlich.'",
+      "lektion_source": 10
+    },
+    {
+      "german": "lieber",
+      "base_form": "lieber",
+      "english": "rather / preferably / better",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "'Lieber' is the comparative of 'gern'. Use it to express preference: 'Ich nehme lieber den Zug' (I'd rather take the train).",
+      "lektion_source": 10
+    },
+    {
+      "german": "alles klar",
+      "base_form": "alles klar",
+      "english": "all good / everything is clear / understood",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Common informal confirmation phrase: 'Alles klar!' = Got it! / All good! Also used as a question: 'Alles klar?' (Is everything OK?).",
+      "lektion_source": 10
+    },
+    {
+      "german": "natürlich",
+      "base_form": "natürlich",
+      "english": "of course / naturally",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "'Natürlich' is used to confirm or agree emphatically: 'Natürlich hole ich dich ab!' (Of course I'll pick you up!). Spanish cognate: naturalmente.",
+      "lektion_source": 10
+    },
+    {
+      "german": "Bis gleich!",
+      "base_form": "Bis gleich",
+      "english": "See you in a minute! / See you soon!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "'Bis gleich!' is a farewell for when you'll see someone very soon (within minutes or hours). More urgent than 'Bis dann!' or 'Bis später!'.",
+      "lektion_source": 10
+    },
+    {
+      "german": "mich",
+      "base_form": "mich",
+      "english": "me (accusative)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Accusative form of 'ich'. Used as direct object: 'Er ruft mich an' (He calls me). Spanish equivalent: 'me' (lo/la).",
+      "lektion_source": 10
+    },
+    {
+      "german": "was für",
+      "base_form": "was für",
+      "english": "what a / what kind of",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "'Was für ein…' expresses surprise or asks about type: 'Was für ein Flugzeug ist das?' (What kind of plane is that?) or 'Was für eine Überraschung!' (What a surprise!).",
+      "lektion_source": 10
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Hoffentlich kommt der Zug pünktlich — wir haben nur wenig Zeit.",
+      "english": "Hopefully the train arrives on time — we have only little time.",
+      "level": "medium",
+      "note": "Uses: hoffentlich (sentence-initial), ankommen — expressing hope + urgency context."
+    },
+    {
+      "id": 2,
+      "german": "Ich nehme lieber die U-Bahn, weil der Verkehr so schlimm ist.",
+      "english": "I'd rather take the subway, because the traffic is so bad.",
+      "level": "medium",
+      "note": "Uses: lieber (preference), so (intensifier) — weil-clause with verb-final position."
+    },
+    {
+      "id": 3,
+      "german": "Natürlich hole ich dich am Flughafen ab — Bis gleich!",
+      "english": "Of course I'll pick you up at the airport — See you in a minute!",
+      "level": "medium",
+      "note": "Uses: natürlich (confirmation), Bis gleich! (farewell) — abholen separable verb."
+    },
+    {
+      "id": 4,
+      "german": "Der Zug fährt um so 18 Uhr ab — kannst du mich dort treffen?",
+      "english": "The train departs around 6 p.m. — can you meet me there?",
+      "level": "medium",
+      "note": "Uses: so (approximately), dort (location), mich (accusative pronoun) — travel arrangements."
+    },
+    {
+      "id": 5,
+      "german": "Sag das noch mal — ich habe die Durchsage nicht verstanden.",
+      "english": "Say that again — I didn't understand the announcement.",
+      "level": "medium",
+      "note": "Uses: noch mal (repetition request), verstehen Perfekt — station context."
+    },
+    {
+      "id": 6,
+      "german": "Alles klar? — Natürlich, ich stehe am Ausgang und warte dort.",
+      "english": "All good? — Of course, I'm standing at the exit and waiting there.",
+      "level": "complex",
+      "note": "Uses: alles klar? (confirmation question), natürlich, dort — conversation between travelers."
+    },
+    {
+      "id": 7,
+      "german": "Was für ein Flugzeug ist das? Es ist so groß!",
+      "english": "What kind of plane is that? It is so big!",
+      "level": "medium",
+      "note": "Uses: was für (asking about type), so (intensifier) — expressing surprise at airport."
+    },
+    {
+      "id": 8,
+      "german": "Hoffentlich hat der Abendflug keine Verspätung — ich muss lieber früh abreisen.",
+      "english": "Hopefully the evening flight has no delay — I'd better leave early.",
+      "level": "complex",
+      "note": "Uses: hoffentlich, lieber — combining hope and preference in one travel statement."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ kommt der Zug pünktlich! (hopefully)",
+      "solution": "Hoffentlich",
+      "explanation": "'Hoffentlich' = hopefully. Sentence-initial position, verb second: Hoffentlich kommt..."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich nehme ___ den Bus. Der Zug ist zu teuer. (rather / preferably)",
+      "solution": "lieber",
+      "explanation": "'Lieber' = rather/preferably. Comparative of 'gern'. Expresses preference between options."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Bitte sag das noch ___. Ich habe es nicht verstanden. (once more)",
+      "solution": "mal",
+      "explanation": "'noch mal' = once more/again. Used to ask for repetition. Informal but very common."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ruft ___ an — ich warte auf den Anruf. (me — accusative)",
+      "solution": "mich",
+      "explanation": "'mich' = me (accusative of ich). Direct object of anrufen."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ holt er mich ab! Ich freue mich sehr. (of course)",
+      "solution": "Natürlich",
+      "explanation": "'Natürlich' = of course. Used as confident confirmation. Spanish cognate: naturalmente."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Flug geht um ___ 14 Uhr. (around / approximately)",
+      "solution": "so",
+      "explanation": "'So' used to mean 'approximately/around' with times: 'um so 14 Uhr' = around 2 p.m."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich bin ___ — am Ausgang des Bahnhofs. (there)",
+      "solution": "dort",
+      "explanation": "'Dort' = there (at that place). Contrast: hier (here) ↔ dort (there)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir sehen uns in zehn Minuten. ___ (See you in a minute!)",
+      "solution": "Bis gleich!",
+      "explanation": "'Bis gleich!' = See you in a minute! Used when you'll see someone very soon."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Zug ist das? Ist das ein ICE? (what kind of)",
+      "solution": "Was für ein",
+      "explanation": "'Was für ein…' = what kind of… Used to ask about the type of something."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ — die Maschine fliegt pünktlich ab. (All good / everything is clear)",
+      "solution": "Alles klar",
+      "explanation": "'Alles klar' = all good / everything is clear. Common informal confirmation."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ hat der Intercity keine Verspätung. Wir fahren ___ mit dem Zug. (hopefully, rather)",
+      "solution": "Hoffentlich ... lieber",
+      "explanation": "'Hoffentlich' = hopefully (sentence-initial). 'Lieber' = rather (preference)."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Kannst du ___ vom Flughafen abholen? Ich bin ___ um 20 Uhr. (me, there/around)",
+      "solution": "mich ... dort (or: so)",
+      "explanation": "'mich' = accusative of ich (direct object). 'dort' = there; 'so' = around (approximately)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ruft ___ an.",
+      "options": ["ich", "mich", "mir"],
+      "solution": "mich",
+      "explanation": "anrufen takes a direct object → accusative. 'Mich' = me (accusative of ich)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Der Kollege ist ___. Am Bahnhof.",
+      "options": ["hier", "dort", "also"],
+      "solution": "dort",
+      "explanation": "'Dort' = there (at that place, away from speaker). 'Hier' = here (where speaker is)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich nehme ___ die Straßenbahn — das Taxi ist zu teuer.",
+      "options": ["hoffentlich", "lieber", "alles klar"],
+      "solution": "lieber",
+      "explanation": "'Lieber' = rather/preferably. Expresses preference. The other options don't fit grammatically here."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ kommt der Flug ohne Verspätung an!",
+      "options": ["Lieber", "Alles klar", "Hoffentlich"],
+      "solution": "Hoffentlich",
+      "explanation": "'Hoffentlich' = hopefully. Sentence-initial with verb-second word order. Expresses hope."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich verstehe das nicht. Kannst du das noch ___ erklären?",
+      "options": ["mal", "dort", "natürlich"],
+      "solution": "mal",
+      "explanation": "'noch mal' = once more/again. 'noch mal erklären' = explain again."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Treffen wir uns ___ am Ausgang? — ___, alles klar!",
+      "options": ["dort ... Natürlich", "hier ... Bis gleich", "so ... Lieber"],
+      "solution": "dort ... Natürlich",
+      "explanation": "'Dort' = there (at exit). 'Natürlich' = of course (agreement). Logical dialogue sequence."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Verspätung hat der Zug heute? Eine Stunde!",
+      "options": ["Wie viel", "Was für eine", "Alles klar"],
+      "solution": "Was für eine",
+      "explanation": "'Was für eine...' = What a... Expresses surprise at the large delay."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Hopefully the train arrives soon.",
+      "solution": "Hoffentlich kommt der Zug bald an.",
+      "explanation": "'Hoffentlich' starts the sentence (verb-second: kommt). ankommen separable: kommt...an."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Can you call me? I am there.",
+      "solution": "Kannst du mich anrufen? Ich bin dort.",
+      "explanation": "'mich' = accusative of ich. 'dort' = there. anrufen: infinitive after modal."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Of course! See you in a minute!",
+      "solution": "Natürlich! Bis gleich!",
+      "explanation": "'Natürlich!' = Of course! 'Bis gleich!' = See you in a minute! Both are fixed phrases."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I'd rather take the bus.",
+      "solution": "Ich nehme lieber den Bus.",
+      "explanation": "'Lieber' = rather/preferably. Verb-second word order: Ich nehme lieber... den Bus (accusative)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Hopefully the flight has no delay — say it again!",
+      "solution": "Hoffentlich hat der Flug keine Verspätung — sag es noch mal!",
+      "explanation": "'Hoffentlich' sentence-initial. 'noch mal' = again. Imperative 'sag' (du-form of sagen)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Everything is clear: I'll pick you up at the main station.",
+      "solution": "Alles klar: Ich hole dich am Hauptbahnhof ab.",
+      "explanation": "'Alles klar' = everything is clear. abholen (separable): hole...ab. dich = accusative of du."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er ruft mir an. (Find and correct the error.)",
+      "solution": "Er ruft mich an.",
+      "explanation": "anrufen takes a direct object (accusative): mich (not 'mir' which is dative)."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Hoffentlich der Zug kommt pünktlich. (Find and correct the error.)",
+      "solution": "Hoffentlich kommt der Zug pünktlich.",
+      "explanation": "When an adverb starts the sentence, the verb must come second: Hoffentlich kommt..."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich nehme lieber Bus. (Find and correct the error.)",
+      "solution": "Ich nehme lieber den Bus.",
+      "explanation": "der Bus is a specific means of transport and needs the definite article: den Bus (accusative masculine)."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sag das noch mal mal. (Find and correct the error.)",
+      "solution": "Sag das noch mal.",
+      "explanation": "'noch mal' already means 'once more/again' — only one 'mal' is needed."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Alles klar — ich treffe dich hier am Ausgang, nicht dort. (Find and correct the error.)",
+      "solution": "Alles klar — ich treffe dich dort am Ausgang, nicht hier.",
+      "explanation": "'Dort' = there (away from speaker, at the exit). 'Hier' = here. The speaker is not at the exit — the meeting point is 'dort'."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ___ Zug! Er hat 3 Stunden Verspätung! (what a)",
+      "solution": "Was für ein",
+      "explanation": "'Was für ein...!' = What a...! Expresses surprise or exasperation."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich bin ___ am Bahnhof. Komm bitte schnell! (there)",
+      "solution": "dort",
+      "explanation": "'Dort' = there. Indicates the speaker is at the station (away from where the listener is)."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I would rather call you. The flight departs around 6 p.m.",
+      "solution": "Ich rufe dich lieber an. Der Flug fährt um so 18 Uhr ab.",
+      "explanation": "'lieber' = rather (preference). 'so' = around/approximately. anrufen separable: rufe...an."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du fährst ___ ab — wir fahren mit dem Taxi! (better / rather)",
+      "solution": "lieber",
+      "explanation": "'Lieber' = better/rather. Here expressing the preferred course of action."
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wir sehen uns in fünf Minuten. ___",
+      "options": ["Auf Wiedersehen.", "Bis gleich!", "Guten Tag."],
+      "solution": "Bis gleich!",
+      "explanation": "'Bis gleich!' = See you in a minute! Perfect for very short separations."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Natürlich ruft er mich ab. (Find and correct the error.)",
+      "solution": "Natürlich ruft er mich an.",
+      "explanation": "anrufen = to call (prefix: an-). 'Ruft ab' would be abholen. The correct separable verb is anrufen: ruft an."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich warte ___ am Ausgang. Du kennst den Bahnhof — komm bitte ___! (there, again/once more)",
+      "solution": "dort ... noch mal",
+      "explanation": "'dort' = there (location). 'noch mal' = once more (asking someone to come back again)."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What kind of announcement is that?",
+      "solution": "Was für eine Durchsage ist das?",
+      "explanation": "'Was für eine...' = What kind of... die Durchsage is feminine → 'eine'."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ hat das Flugzeug geklappt und ___ sind wir am Flughafen angekommen.",
+      "options": ["Natürlich ... dort", "Hoffentlich ... alles klar", "Dort ... natürlich"],
+      "solution": "Natürlich ... dort",
+      "explanation": "'Natürlich' = of course (the plane worked). 'dort' = there (at the airport). Logical sequence."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Of course she understands. Say it once more!",
+      "solution": "Natürlich versteht sie das. Sag es noch mal!",
+      "explanation": "'Natürlich' + verb-second. 'noch mal' = once more. Imperative 'Sag' (du-form)."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ hat der Abendflug keine Verspätung! (hopefully)",
+      "solution": "Hoffentlich",
+      "explanation": "'Hoffentlich' = hopefully. Sentence-initial; verb (hat) comes second."
+    },
+    {
+      "id": 42,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Alles klar? — Ja, ich treffe du dort um 19 Uhr. (Find and correct the error.)",
+      "solution": "Alles klar? — Ja, ich treffe dich dort um 19 Uhr.",
+      "explanation": "treffen takes a direct object (accusative). 'Du' is nominative; the accusative form is 'dich'."
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "lektion": 4,
+  "focus": "all",
+  "file_slug": "lektion04_all",
+  "generated_at": "2026-03-10T01:37:25",
+  "vocabulary": [
+    {
+      "german": "das Geschäft",
+      "base_form": "Geschäft",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Geschäfte",
+      "english": "shop",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "die Möbel",
+      "base_form": "Möbel",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "Möbel (Pl. only)",
+      "english": "furniture",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Bild",
+      "base_form": "Bild",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Bilder",
+      "english": "picture",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Stuhl",
+      "base_form": "Stuhl",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Stühle",
+      "english": "chair",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Bett",
+      "base_form": "Bett",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-en",
+      "plural_full": "Betten",
+      "english": "bed",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "die Lampe",
+      "base_form": "Lampe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Lampen",
+      "english": "lamp",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Sessel",
+      "base_form": "Sessel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Sessel",
+      "english": "armchair",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Sofa",
+      "base_form": "Sofa",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Sofas",
+      "english": "sofa",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Tisch",
+      "base_form": "Tisch",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Tische",
+      "english": "table",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Schrank",
+      "base_form": "Schrank",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Schränke",
+      "english": "wardrobe",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Teppich",
+      "base_form": "Teppich",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Teppiche",
+      "english": "carpet",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Regal",
+      "base_form": "Regal",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Regale",
+      "english": "shelf",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Spiegel",
+      "base_form": "Spiegel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Spiegel",
+      "english": "mirror",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Preis",
+      "base_form": "Preis",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Preise",
+      "english": "price",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Euro",
+      "base_form": "Euro",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Euro",
+      "english": "euro",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Sonderangebot",
+      "base_form": "Sonderangebot",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Sonderangebote",
+      "english": "special offer",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Zimmer",
+      "base_form": "Zimmer",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Zimmer",
+      "english": "room",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "das Hotel",
+      "base_form": "Hotel",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Hotels",
+      "english": "hotel",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 4
+    },
+    {
+      "german": "der Stern",
+      "base_form": "Stern",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Sterne",
+      "english": "star",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 4
+    },
+    {
+      "german": "die Million",
+      "base_form": "Million",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Millionen",
+      "english": "million",
+      "word_type": "noun",
+      "pattern_hint": "-tion / -sion ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 4
+    },
+    {
+      "german": "kosten",
+      "base_form": "kosten",
+      "english": "to cost",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "koste",
+        "du": "kostest",
+        "er/sie/es": "kostet",
+        "wir": "kosten",
+        "ihr": "kostet",
+        "sie/Sie": "kosten"
+      },
+      "perfekt": "hat gekostet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb.",
+      "lektion_source": 4
+    },
+    {
+      "german": "finden",
+      "base_form": "finden",
+      "english": "to find / to think (opinion)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "finde",
+        "du": "findest",
+        "er/sie/es": "findet",
+        "wir": "finden",
+        "ihr": "findet",
+        "sie/Sie": "finden"
+      },
+      "perfekt": "hat gefunden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: Partizip II 'gefunden'. In A1 used for opinions.",
+      "lektion_source": 4
+    },
+    {
+      "german": "schauen",
+      "base_form": "schauen",
+      "english": "to look",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schaue",
+        "du": "schaust",
+        "er/sie/es": "schaut",
+        "wir": "schauen",
+        "ihr": "schaut",
+        "sie/Sie": "schauen"
+      },
+      "perfekt": "hat geschaut",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Common imperative: Schau! / Schau mal!",
+      "lektion_source": 4
+    },
+    {
+      "german": "kennen",
+      "base_form": "kennen",
+      "english": "to know (a person/place)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kenne",
+        "du": "kennst",
+        "er/sie/es": "kennt",
+        "wir": "kennen",
+        "ihr": "kennt",
+        "sie/Sie": "kennen"
+      },
+      "perfekt": "hat gekannt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Mixed verb: Partizip II 'gekannt'. Contrast with 'wissen'. Spanish: conocer.",
+      "lektion_source": 4
+    },
+    {
+      "german": "schön",
+      "base_form": "schön",
+      "english": "beautiful / lovely / nice",
+      "word_type": "adjective",
+      "antonym": "hässlich",
+      "cognate_note": "False friend for English speakers: not related to 'shown'. Spanish: bonito/a.",
+      "lektion_source": 4
+    },
+    {
+      "german": "teuer",
+      "base_form": "teuer",
+      "english": "expensive",
+      "word_type": "adjective",
+      "antonym": "günstig / billig",
+      "cognate_note": "No cognate. Loses inner 'e' before endings: ein teures Sofa.",
+      "lektion_source": 4
+    },
+    {
+      "german": "hässlich",
+      "base_form": "hässlich",
+      "english": "ugly",
+      "word_type": "adjective",
+      "antonym": "schön",
+      "cognate_note": "The -lich suffix is common in German adjectives.",
+      "lektion_source": 4
+    },
+    {
+      "german": "günstig",
+      "base_form": "günstig",
+      "english": "cheap / affordable",
+      "word_type": "adjective",
+      "antonym": "teuer",
+      "cognate_note": "More polite than 'billig'. -ig suffix common in German adjectives.",
+      "lektion_source": 4
+    },
+    {
+      "german": "modern",
+      "base_form": "modern",
+      "english": "modern",
+      "word_type": "adjective",
+      "antonym": "altmodisch",
+      "cognate_note": "True cognate with English 'modern' and Spanish 'moderno'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "praktisch",
+      "base_form": "praktisch",
+      "english": "practical / handy",
+      "word_type": "adjective",
+      "antonym": "unpraktisch",
+      "cognate_note": "Cognate with English 'practical' and Spanish 'práctico'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "neu",
+      "base_form": "neu",
+      "english": "new",
+      "word_type": "adjective",
+      "antonym": "alt",
+      "cognate_note": "Spanish: nuevo/a. No strong English cognate.",
+      "lektion_source": 4
+    },
+    {
+      "german": "klein",
+      "base_form": "klein",
+      "english": "small",
+      "word_type": "adjective",
+      "antonym": "groß",
+      "cognate_note": "Spanish: pequeño/a. No direct English cognate.",
+      "lektion_source": 4
+    },
+    {
+      "german": "groß",
+      "base_form": "groß",
+      "english": "big / tall",
+      "word_type": "adjective",
+      "antonym": "klein",
+      "cognate_note": "Used for size AND height. Spanish: grande.",
+      "lektion_source": 4
+    },
+    {
+      "german": "zu Hause",
+      "base_form": "zu Hause",
+      "english": "at home",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Static location. Contrast: nach Hause = going home.",
+      "lektion_source": 4
+    },
+    {
+      "german": "mal",
+      "base_form": "mal",
+      "english": "just (softening particle)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Softens commands: Schau mal! (Just look!). Very common in spoken German.",
+      "lektion_source": 4
+    },
+    {
+      "german": "da",
+      "base_form": "da",
+      "english": "there / over there",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Location: Schau mal, da! (Just look, over there!).",
+      "lektion_source": 4
+    },
+    {
+      "german": "wie viel",
+      "base_form": "wie viel",
+      "english": "how much",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Price question: Wie viel kostet das? Spanish: ¿cuánto?",
+      "lektion_source": 4
+    },
+    {
+      "german": "denn",
+      "base_form": "denn",
+      "english": "then (modal particle in questions)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Adds curiosity to questions: Wie viel kostet er denn? No direct Spanish equivalent.",
+      "lektion_source": 4
+    },
+    {
+      "german": "nur",
+      "base_form": "nur",
+      "english": "only / just",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Limits: Das kostet nur 10 Euro. Spanish: solo/solamente.",
+      "lektion_source": 4
+    },
+    {
+      "german": "wirklich",
+      "base_form": "wirklich",
+      "english": "really / truly",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier: Das ist wirklich schön! Spanish: de verdad.",
+      "lektion_source": 4
+    },
+    {
+      "german": "zu",
+      "base_form": "zu",
+      "english": "too (excessively)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Before adjectives: zu teuer = too expensive. Different from preposition 'zu'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "so",
+      "base_form": "so",
+      "english": "so / such",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier: Das Bild ist so schön! Spanish: tan.",
+      "lektion_source": 4
+    },
+    {
+      "german": "oh",
+      "base_form": "oh",
+      "english": "oh",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Surprise or admiration: Oh ja! / Oh nein!",
+      "lektion_source": 4
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Bild ist so schön – ich möchte es sofort kaufen!",
+      "english": "The picture is so beautiful – I want to buy it right away!",
+      "level": "medium",
+      "note": "Nouns: das Bild; Adjectives: schön; Others: so — Lektion 4 title sentence"
+    },
+    {
+      "id": 2,
+      "german": "Das Sofa kostet nur 150 Euro – das ist wirklich günstig!",
+      "english": "The sofa costs only 150 euros – that is really affordable!",
+      "level": "medium",
+      "note": "Nouns: das Sofa, der Euro; Verbs: kosten; Adjectives: günstig; Others: nur, wirklich"
+    },
+    {
+      "id": 3,
+      "german": "Ich finde den Tisch sehr schön, aber der Preis ist zu teuer.",
+      "english": "I find the table very beautiful, but the price is too expensive.",
+      "level": "medium",
+      "note": "Nouns: der Tisch, der Preis; Verbs: finden; Adjectives: schön, teuer; Others: zu"
+    },
+    {
+      "id": 4,
+      "german": "Kennst du dieses Geschäft? Die Möbel sind so günstig!",
+      "english": "Do you know this shop? The furniture is so affordable!",
+      "level": "medium",
+      "note": "Nouns: das Geschäft, die Möbel; Verbs: kennen; Adjectives: günstig; Others: so"
+    },
+    {
+      "id": 5,
+      "german": "Schau mal, da! Der Sessel kostet nur 80 Euro.",
+      "english": "Just look, over there! The armchair costs only 80 euros.",
+      "level": "medium",
+      "note": "Nouns: der Sessel, der Euro; Verbs: schauen (Schau!), kosten; Others: mal, da, nur"
+    },
+    {
+      "id": 6,
+      "german": "Ich bin zu Hause und finde das Zimmer zu klein, aber das Sofa ist so schön und praktisch.",
+      "english": "I am at home and find the room too small, but the sofa is so beautiful and practical.",
+      "level": "complex",
+      "note": "All 4 categories: Nouns (das Zimmer, das Sofa); Verbs (finden); Adjectives (klein, schön, praktisch); Others (zu Hause, zu, so)"
+    },
+    {
+      "id": 7,
+      "german": "Das Hotel hat fünf Sterne und das Zimmer ist wirklich groß und modern – aber wie viel kostet es denn?",
+      "english": "The hotel has five stars and the room is really big and modern – but how much does it cost, then?",
+      "level": "complex",
+      "note": "Nouns: das Hotel, der Stern, das Zimmer; Adjectives: groß, modern; Others: wirklich, wie viel, denn"
+    },
+    {
+      "id": 8,
+      "german": "Oh! Das Sonderangebot ist wirklich toll: ein neues Sofa und ein großer Tisch, nur 300 Euro!",
+      "english": "Oh! The special offer is really great: a new sofa and a big table, only 300 euros!",
+      "level": "complex",
+      "note": "Nouns: das Sonderangebot, das Sofa, der Tisch, der Euro; Adjectives: neu, groß; Others: oh, wirklich, nur"
+    },
+    {
+      "id": 9,
+      "german": "Ich kenne das Geschäft gut – die Möbel sind immer günstig und der Schrank kostet nie zu viel.",
+      "english": "I know the shop well – the furniture is always cheap and the wardrobe never costs too much.",
+      "level": "complex",
+      "note": "Nouns: das Geschäft, die Möbel, der Schrank; Verbs: kennen, kosten; Adjectives: günstig; Others: zu"
+    },
+    {
+      "id": 10,
+      "german": "Schau mal das Regal an! Es ist so praktisch, wirklich günstig und das Design ist sehr modern.",
+      "english": "Just look at the shelf! It is so practical, really affordable and the design is very modern.",
+      "level": "complex",
+      "note": "Nouns: das Regal; Verbs: schauen; Adjectives: praktisch, günstig, modern; Others: mal, so, wirklich"
+    },
+    {
+      "id": 11,
+      "german": "Das Bett im Hotel ist neu und das Zimmer ist groß – aber der Preis ist zu hoch.",
+      "english": "The bed in the hotel is new and the room is big – but the price is too high.",
+      "level": "complex",
+      "note": "Nouns: das Bett, das Hotel, das Zimmer, der Preis; Adjectives: neu, groß; Others: zu"
+    },
+    {
+      "id": 12,
+      "german": "Ich finde die Lampe hässlich, aber der Sessel ist wirklich schön – und er kostet nur 60 Euro!",
+      "english": "I find the lamp ugly, but the armchair is really beautiful – and it costs only 60 euros!",
+      "level": "complex",
+      "note": "All categories: Nouns (die Lampe, der Sessel, der Euro); Verbs (finden, kosten); Adjectives (hässlich, schön); Others (wirklich, nur)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Tisch ist sehr groß. (the table — fill in article)",
+      "solution": "Der",
+      "explanation": "der Tisch is masculine → 'Der' in Nominativ."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Sofa ist ___ schön! (so — intensifier)",
+      "solution": "so",
+      "explanation": "so = so (intensifier). Das Bild ist so schön! — key phrase from Lektion 4 title."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Stuhl ___ nur 30 Euro. (kosten — er/sie/es form)",
+      "solution": "kostet",
+      "explanation": "kosten: er/sie/es → kostet (regular verb, -t stem adds -et)."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Sofa ist sehr ___. (expensive)",
+      "solution": "teuer",
+      "explanation": "teuer = expensive. Opposite: günstig."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich bin ___ ___. (at home)",
+      "solution": "zu Hause",
+      "explanation": "zu Hause = at home (fixed phrase for static location)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Die Lampe kostet ___ 20 Euro. (only)",
+      "solution": "nur",
+      "explanation": "nur = only (limiting adverb)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ das Bild sehr schön. (finden — ich form)",
+      "solution": "finde",
+      "explanation": "finden: ich finde. Used to express opinions."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Zimmer ist zu ___. (small)",
+      "solution": "klein",
+      "explanation": "zu klein = too small. zu before adjective = too (excessively)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ ___ kostet das Sofa? (how much)",
+      "solution": "Wie viel",
+      "explanation": "Wie viel = how much. Standard price question."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ du dieses Geschäft? (kennen — du form)",
+      "solution": "Kennst",
+      "explanation": "kennen: du kennst (stem kenn- + -st). Used for familiarity with a place."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Hotel hat vier ___. (stars — plural)",
+      "solution": "Sterne",
+      "explanation": "Plural of der Stern: Sterne (add -e)."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Sofa ist ___ modern. Es ist sehr neu. (really)",
+      "solution": "wirklich",
+      "explanation": "wirklich = really (intensifier). Often combined with other adjectives."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Tisch ist sehr ___ und ___. Er hat viel Platz und kostet nicht viel. (big; practical)",
+      "solution": "groß / praktisch",
+      "explanation": "groß = big; praktisch = practical. Both are Lektion 4 adjectives."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Schau ___, ___! Das Sonderangebot ist wirklich toll! (just; over there)",
+      "solution": "mal / da",
+      "explanation": "Schau mal, da! = Just look, over there! 'mal' softens; 'da' = over there."
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ___ hat 200 Euro ___. (Bett; kosten — Perfekt)",
+      "solution": "Bett / gekostet",
+      "explanation": "das Bett (neuter noun); Perfekt of kosten: hat gekostet (regular)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Schrank ist groß.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Der",
+      "explanation": "der Schrank is masculine → 'Der' in Nominativ."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Sofa kostet 2.000 Euro. Es ist sehr ___.",
+      "options": ["günstig", "teuer", "schön"],
+      "solution": "teuer",
+      "explanation": "2.000 euros for a sofa = very expensive → teuer."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Bild ist ___ das schönste im Geschäft!",
+      "options": ["wirklich", "zu", "denn"],
+      "solution": "wirklich",
+      "explanation": "'wirklich' = really (positive intensifier). 'zu' would be excessive; 'denn' is for questions."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich ___ dieses Hotel. Es ist sehr schön.",
+      "options": ["kenne", "kennt", "kennst"],
+      "solution": "kenne",
+      "explanation": "kennen: ich kenne (ich-form: stem kenn- + -e)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Million Euro – das ist sehr viel Geld!",
+      "options": ["Ein", "Eine", "Einen"],
+      "solution": "Eine",
+      "explanation": "die Million is feminine (-tion → die). Indefinite article feminine Nominativ: 'eine'."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wie viel kostet das Sofa ___? Ich möchte es vielleicht kaufen.",
+      "options": ["denn", "mal", "nur"],
+      "solution": "denn",
+      "explanation": "'denn' in a question signals curiosity/engagement. 'mal' is for imperatives; 'nur' changes meaning."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Sofa hat 300 Euro ___.",
+      "options": ["gekostet", "gekosten", "kostet"],
+      "solution": "gekostet",
+      "explanation": "Partizip II of kosten: ge-kost-et (regular verb). 'Gekosten' is wrong; 'kostet' is Präsens."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The picture is so beautiful.",
+      "solution": "Das Bild ist so schön.",
+      "explanation": "das Bild (neut.); so = intensifier; schön = beautiful. The Lektion 4 title phrase!"
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How much does the carpet cost?",
+      "solution": "Wie viel kostet der Teppich?",
+      "explanation": "Wie viel kostet...? der Teppich (masc.)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The room is small but the price is cheap.",
+      "solution": "Das Zimmer ist klein, aber der Preis ist günstig.",
+      "explanation": "das Zimmer (neut.); klein = small; der Preis (masc.); günstig = cheap."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I find the sofa really practical.",
+      "solution": "Ich finde das Sofa wirklich praktisch.",
+      "explanation": "finden: ich finde; wirklich = really; praktisch = practical. das Sofa (Akkusativ, neut. unchanged)."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am at home and I find the new furniture very beautiful.",
+      "solution": "Ich bin zu Hause und ich finde die neuen Möbel sehr schön.",
+      "explanation": "zu Hause (at home); finden + Akkusativ: die neuen Möbel (pl. weak ending -en); schön = beautiful."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The hotel is really only 100 euros — that is a special offer!",
+      "solution": "Das Hotel kostet wirklich nur 100 Euro – das ist ein Sonderangebot!",
+      "explanation": "wirklich (really), nur (only); das Sonderangebot (neut.); Euro (invariant after numbers)."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Do you know this shop? The wardrobe is too big and too expensive.",
+      "solution": "Kennst du dieses Geschäft? Der Schrank ist zu groß und zu teuer.",
+      "explanation": "kennen: du kennst; der Schrank (masc.); zu groß (too big); zu teuer (too expensive)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Tisch ist sehr groß.",
+      "solution": "Der Tisch ist sehr groß. (Die → Der)",
+      "explanation": "der Tisch is masculine → 'Der', not 'Die'."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich findet das Bild schön.",
+      "solution": "Ich finde das Bild schön. (findet → finde)",
+      "explanation": "ich-form of finden: finde. 'findet' is the er/sie/es form."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Sofa kosten 250 Euro.",
+      "solution": "Das Sofa kostet 250 Euro. (kosten → kostet)",
+      "explanation": "das Sofa is 3rd person singular → kostet, not kosten."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Sofa ist neu.",
+      "solution": "Das Sofa ist neu. (Der → Das)",
+      "explanation": "das Sofa is neuter (borrowed word). Correct article: 'Das'."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Zimmer ist sehr kleine.",
+      "solution": "Das Zimmer ist sehr klein. (kleine → klein)",
+      "explanation": "Predicate adjective after 'ist' takes no ending."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich bin nach Hause. (context: sitting at home)",
+      "solution": "Ich bin zu Hause. (nach Hause → zu Hause)",
+      "explanation": "zu Hause = at home (static). nach Hause = going home (direction)."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Bett hat 150 Euro gekosten.",
+      "solution": "Das Bett hat 150 Euro gekostet. (gekosten → gekostet)",
+      "explanation": "Partizip II of kosten: ge-kost-et. 'Gekosten' is not a valid German form."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich kaufe ein teures Sofa. Nein, ich kaufe ein günstig Sofa.",
+      "solution": "Ich kaufe ein günstiges Sofa. (günstig → günstiges)",
+      "explanation": "Attributive adjective before neuter noun after 'ein': strong ending -es → günstiges."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Stuhl",
+      "solution": "die Stühle",
+      "explanation": "der Stuhl → umlaut + -e: die Stühle (..e pattern)."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: das Zimmer",
+      "solution": "die Zimmer",
+      "explanation": "das Zimmer → no change: die Zimmer (- pattern)."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Hotel",
+      "solution": "die Hotels",
+      "explanation": "das Hotel → add -s: die Hotels (borrowed word)."
+    },
+    {
+      "id": 41,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Schrank",
+      "solution": "die Schränke",
+      "explanation": "der Schrank → umlaut + -e: die Schränke (..e pattern)."
+    },
+    {
+      "id": 42,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Das Sofa ___ 300 Euro gekostet. (hat / ist)",
+      "solution": "hat",
+      "explanation": "kosten uses 'haben' in Perfekt. All four Lektion 4 verbs (kosten, finden, schauen, kennen) use 'haben'."
+    },
+    {
+      "id": 43,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Wir ___ das Geschäft gut gekannt. (haben / sind)",
+      "solution": "haben",
+      "explanation": "kennen uses 'haben' in Perfekt. Wir form: wir haben gekannt."
+    },
+    {
+      "id": 44,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ___ kostet wirklich nur 99 Euro und 50 ___. (special offer; cent — plural)",
+      "solution": "Sonderangebot / Cent",
+      "explanation": "das Sonderangebot = special offer (neuter). der Cent → plural: Cent (same form) or Cents."
+    },
+    {
+      "id": 45,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Just look there! The mirror is really beautiful and costs only 25 euros.",
+      "solution": "Schau mal da! Der Spiegel ist wirklich schön und kostet nur 25 Euro.",
+      "explanation": "Schau mal da! (imperative + mal + da); wirklich (really); schön (beautiful); nur (only); der Spiegel (masc.)."
+    },
+    {
+      "id": 46,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie hat das Hotel sehr modern gefinde.",
+      "solution": "Sie hat das Hotel sehr modern gefunden. (gefinde → gefunden)",
+      "explanation": "Partizip II of finden: gefunden (strong/irregular verb). Must memorize."
+    },
+    {
+      "id": 47,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Lampe ist schön. (the — fill in the article)",
+      "solution": "Die",
+      "explanation": "die Lampe is feminine → 'Die' in Nominativ."
+    },
+    {
+      "id": 48,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Regal kostet nur 40 Euro. (the — fill in the article)",
+      "solution": "Das",
+      "explanation": "das Regal is neuter → 'Das' in Nominativ."
+    }
+  ]
+}

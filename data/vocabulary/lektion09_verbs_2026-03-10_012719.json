@@ -1,0 +1,565 @@
+{
+  "lektion": 9,
+  "focus": "verbs",
+  "file_slug": "lektion09_verbs",
+  "generated_at": "2026-03-10T01:27:19",
+  "vocabulary": [
+    {
+      "german": "mögen",
+      "base_form": "mögen",
+      "english": "to like",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "mag",
+        "du": "magst",
+        "er/sie/es": "mag",
+        "wir": "mögen",
+        "ihr": "mögt",
+        "sie/Sie": "mögen"
+      },
+      "perfekt": "hat gemocht",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Modal-like verb: stem vowel ö→a in ich/du/er forms. Often used without infinitive: Ich mag Käse. Also used as modal: Ich mag nicht gehen.",
+      "lektion_source": 9
+    },
+    {
+      "german": "essen",
+      "base_form": "essen",
+      "english": "to eat",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "esse",
+        "du": "isst",
+        "er/sie/es": "isst",
+        "wir": "essen",
+        "ihr": "esst",
+        "sie/Sie": "essen"
+      },
+      "perfekt": "hat gegessen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change e→i in du/er forms. du isst and er isst are identical.",
+      "lektion_source": 9
+    },
+    {
+      "german": "trinken",
+      "base_form": "trinken",
+      "english": "to drink",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "trinke",
+        "du": "trinkst",
+        "er/sie/es": "trinkt",
+        "wir": "trinken",
+        "ihr": "trinkt",
+        "sie/Sie": "trinken"
+      },
+      "perfekt": "hat getrunken",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II (getrunken). Note: 'ihr trinkt' and 'er trinkt' look the same — context tells them apart.",
+      "lektion_source": 9
+    },
+    {
+      "german": "wünschen",
+      "base_form": "wünschen",
+      "english": "to wish",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wünsche",
+        "du": "wünschst",
+        "er/sie/es": "wünscht",
+        "wir": "wünschen",
+        "ihr": "wünscht",
+        "sie/Sie": "wünschen"
+      },
+      "perfekt": "hat gewünscht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Common phrase: Was wünschen Sie? (What would you like?) — very useful in restaurants.",
+      "lektion_source": 9
+    },
+    {
+      "german": "möchten",
+      "base_form": "möchten",
+      "english": "to want / would like",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "möchte",
+        "du": "möchtest",
+        "er/sie/es": "möchte",
+        "wir": "möchten",
+        "ihr": "möchtet",
+        "sie/Sie": "möchten"
+      },
+      "perfekt": "hat gewollt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Möchten is the Konjunktiv II form of mögen, used as a polite modal. No separate Präteritum/Perfekt in conversational A1 — use wollen for past. ich möchte = er möchte (no -t added).",
+      "lektion_source": 9
+    },
+    {
+      "german": "nehmen",
+      "base_form": "nehmen",
+      "english": "to take / to have (food)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "nehme",
+        "du": "nimmst",
+        "er/sie/es": "nimmt",
+        "wir": "nehmen",
+        "ihr": "nehmt",
+        "sie/Sie": "nehmen"
+      },
+      "perfekt": "hat genommen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: stem vowel e→i in du/er forms (nimmst, nimmt). In restaurants, 'ich nehme ...' = 'I'll have ...' (very common ordering phrase).",
+      "lektion_source": 9
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich mag Hamburger sehr gern, aber ich esse auch gern Salat.",
+      "english": "I really like hamburgers, but I also like to eat salad.",
+      "level": "complex",
+      "note": "Uses mögen (mag) and essen (esse); gern from Lektion 7"
+    },
+    {
+      "id": 2,
+      "german": "Was möchten Sie trinken — Orangensaft oder Wasser?",
+      "english": "What would you like to drink — orange juice or water?",
+      "level": "medium",
+      "note": "Uses möchten and trinken in a restaurant question"
+    },
+    {
+      "id": 3,
+      "german": "Als Hauptgericht nehme ich das Huhn mit Reis.",
+      "english": "For the main course I'll have the chicken with rice.",
+      "level": "medium",
+      "note": "Uses nehmen (nehme) — typical restaurant ordering phrase"
+    },
+    {
+      "id": 4,
+      "german": "Der Kellner wünscht uns einen guten Appetit.",
+      "english": "The waiter wishes us a good appetite.",
+      "level": "medium",
+      "note": "Uses wünschen (wünscht); der Kellner from Lektion 2"
+    },
+    {
+      "id": 5,
+      "german": "Zum Frühstück isst er ein Brötchen und trinkt eine Tasse Tee.",
+      "english": "For breakfast he eats a bread roll and drinks a cup of tea.",
+      "level": "complex",
+      "note": "Uses essen (isst, er/sie/es form) and trinken (trinkt) together"
+    },
+    {
+      "id": 6,
+      "german": "Magst du Schokoladenkuchen? — Ja, ich mag ihn sehr!",
+      "english": "Do you like chocolate cake? — Yes, I like it very much!",
+      "level": "medium",
+      "note": "Uses mögen (magst / mag) with food noun"
+    },
+    {
+      "id": 7,
+      "german": "Wir nehmen zwei Portionen Eis mit Erdbeeren, bitte.",
+      "english": "We'll have two portions of ice cream with strawberries, please.",
+      "level": "medium",
+      "note": "Uses nehmen (wir nehmen) in restaurant context"
+    },
+    {
+      "id": 8,
+      "german": "Er hat gestern Abend Fisch mit Kartoffeln gegessen und Apfelsaft getrunken.",
+      "english": "Last night he ate fish with potatoes and drank apple juice.",
+      "level": "complex",
+      "note": "Uses essen (hat gegessen) and trinken (hat getrunken) in Perfekt"
+    },
+    {
+      "id": 9,
+      "german": "Möchtest du zum Mittagessen Suppe oder ein Sandwich nehmen?",
+      "english": "Would you like to have soup or a sandwich for lunch?",
+      "level": "complex",
+      "note": "Uses möchten (möchtest) and nehmen (infinitive) — modal + infinitive construction"
+    },
+    {
+      "id": 10,
+      "german": "Was wünschen Sie zum Nachtisch?",
+      "english": "What would you like for dessert?",
+      "level": "medium",
+      "note": "Uses wünschen (wünschen Sie) — formal restaurant phrase"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ Hamburger sehr gern. (mögen)",
+      "solution": "mag",
+      "explanation": "mögen → ich mag. The stem vowel changes ö→a in ich/du/er forms."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Was ___ du gern? (essen)",
+      "solution": "isst",
+      "explanation": "essen → du isst. Stem vowel change e→i in du form."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ jeden Morgen Kaffee. (trinken)",
+      "solution": "trinkt",
+      "explanation": "trinken → er trinkt. Regular -t ending for er/sie/es."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Was ___ Sie trinken? (möchten — formal)",
+      "solution": "möchten",
+      "explanation": "möchten → Sie möchten. The sie/Sie form is the same as the infinitive."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ das Brötchen mit Butter. (nehmen)",
+      "solution": "nehme",
+      "explanation": "nehmen → ich nehme. Regular -e ending in first person."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Zum Frühstück ___ sie eine Tasse Tee und ___ ein Ei. (trinken / essen)",
+      "solution": "trinkt / isst",
+      "explanation": "trinken → sie (singular) trinkt; essen → sie isst. Both e→i and regular -t."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ heute Abend im Restaurant. (essen)",
+      "solution": "essen",
+      "explanation": "essen → wir essen. No stem change in first person plural."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Kellner ___ uns einen guten Appetit. (wünschen)",
+      "solution": "wünscht",
+      "explanation": "wünschen → er wünscht. Regular -t ending for er/sie/es."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ihr ___ Schokolade gern, oder? (mögen)",
+      "solution": "mögt",
+      "explanation": "mögen → ihr mögt. Regular -t ending for ihr form."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Was ___ du zum Abendessen ___? (möchten / nehmen)",
+      "solution": "möchtest / nehmen",
+      "explanation": "möchten → du möchtest (-est ending); nehmen stays as infinitive after the modal möchten."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er hat gestern viel ___ und ___ getrunken. (essen / Wasser — supply the Perfekt of essen)",
+      "solution": "gegessen",
+      "explanation": "essen → hat gegessen. Strong verb: irregular Partizip II. Auxiliary: haben."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir ___ die Suppe und ___ Apfelsaft. (nehmen / trinken — Präsens, wir-form)",
+      "solution": "nehmen / trinken",
+      "explanation": "nehmen → wir nehmen; trinken → wir trinken. Both revert to full stem in wir-form."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ gern Fisch.",
+      "options": ["mag", "magst", "mögen"],
+      "solution": "mag",
+      "explanation": "mögen → er mag. Stem vowel changes ö→a in er/sie/es form."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr schnell.",
+      "options": ["isst", "essen", "esst"],
+      "solution": "isst",
+      "explanation": "essen → du isst. Stem vowel change e→i in du form."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ ein Glas Wasser.",
+      "options": ["trinkt", "trinkst", "trinke"],
+      "solution": "trinke",
+      "explanation": "trinken → ich trinke. Regular -e ending for ich."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Was ___ Sie zum Nachtisch?",
+      "options": ["wünscht", "wünschen", "wünschst"],
+      "solution": "wünschen",
+      "explanation": "wünschen → Sie wünschen. The formal Sie form equals the infinitive."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich ___ das Huhn mit Reis, bitte.",
+      "options": ["nimmst", "nehme", "nimmt"],
+      "solution": "nehme",
+      "explanation": "nehmen → ich nehme. No stem change in ich form."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er hat den Kuchen ___.",
+      "options": ["geessen", "gegessen", "gegesst"],
+      "solution": "gegessen",
+      "explanation": "essen has irregular Partizip II: gegessen (strong verb, not 'ge-essen')."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir haben Orangensaft ___.",
+      "options": ["getrunkt", "trinkt", "getrunken"],
+      "solution": "getrunken",
+      "explanation": "trinken has irregular Partizip II: getrunken (strong verb)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie (plural) ___ gern Schokolade.",
+      "options": ["mag", "magst", "mögen"],
+      "solution": "mögen",
+      "explanation": "mögen → sie (Pl.) mögen. The plural form keeps the full stem mögen."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I like cake very much.",
+      "solution": "Ich mag Kuchen sehr gern.",
+      "explanation": "mögen → ich mag. Use 'gern' to add 'like doing'; 'sehr gern' = very much."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What would you (formal) like to eat?",
+      "solution": "Was möchten Sie essen?",
+      "explanation": "möchten → Sie möchten; essen stays as infinitive after the modal."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She drinks orange juice for breakfast.",
+      "solution": "Sie trinkt zum Frühstück Orangensaft.",
+      "explanation": "trinken → sie trinkt. Time phrase 'zum Frühstück' goes early in sentence."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We ate fish and drank water yesterday.",
+      "solution": "Wir haben gestern Fisch gegessen und Wasser getrunken.",
+      "explanation": "essen → haben gegessen (Perfekt); trinken → haben getrunken (Perfekt). Both use haben."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He would like to take the tomato salad as a starter.",
+      "solution": "Er möchte den Tomatensalat als Vorspeise nehmen.",
+      "explanation": "möchten → er möchte; nehmen stays as infinitive; den Tomatensalat (accusative masculine)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you (informal) eat meat?",
+      "solution": "Isst du Fleisch?",
+      "explanation": "essen → du isst. In yes/no questions the verb moves to first position."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er magt Hamburger sehr gern.",
+      "solution": "Er mag Hamburger sehr gern.",
+      "explanation": "mögen → er mag. The stem vowel changes ö→a; there is no 't' added in er form for this verb."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du esst jeden Tag Salat.",
+      "solution": "Du isst jeden Tag Salat.",
+      "explanation": "essen → du isst (not esst). Stem vowel change e→i in du form."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich nimmst das Brötchen mit Marmelade.",
+      "solution": "Ich nehme das Brötchen mit Marmelade.",
+      "explanation": "nehmen → ich nehme. The stem change (nimmst) only applies to du form, not ich."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Was möchtest Sie zum Frühstück trinken?",
+      "solution": "Was möchten Sie zum Frühstück trinken?",
+      "explanation": "möchten + formal Sie → möchten Sie. The -st ending is only for du."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er hat den Kuchen getrunkten.",
+      "solution": "Er hat den Kuchen gegessen.",
+      "explanation": "Two errors: wrong verb (trinken instead of essen) and wrong Partizip. Eating food → essen → hat gegessen."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben Orangensaft ist getrunken.",
+      "solution": "Wir haben Orangensaft getrunken.",
+      "explanation": "trinken uses haben, not sein, in Perfekt. Remove 'ist' and keep 'haben getrunken'."
+    },
+    {
+      "id": 33,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ einen Apfel gegessen.",
+      "solution": "hat",
+      "explanation": "essen uses haben in Perfekt: er hat gegessen."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ Wasser getrunken.",
+      "solution": "hat",
+      "explanation": "trinken uses haben in Perfekt: sie hat getrunken."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Wir ___ Suppe gegessen.",
+      "solution": "haben",
+      "explanation": "essen uses haben in Perfekt: wir haben gegessen."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Ich ___ gestern Abend Fisch gegessen und Apfelsaft getrunken.",
+      "solution": "habe ... habe",
+      "explanation": "Both essen and trinken use haben as auxiliary. ich habe ... gegessen; ich habe ... getrunken."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Du ___ zum Frühstück Müsli gegessen.",
+      "solution": "hast",
+      "explanation": "essen uses haben. du-form of haben: hast."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ nimmst den Nachtisch? Nein — er ___ den Nachtisch. (correct both blanks with nehmen)",
+      "solution": "nimmt / nimmt",
+      "explanation": "nehmen → er nimmt. Stem vowel change e→i in er/sie/es form."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The children eat cake and drink milk for breakfast.",
+      "solution": "Die Kinder essen Kuchen und trinken Milch zum Frühstück.",
+      "explanation": "essen → sie (Pl.) essen; trinken → sie (Pl.) trinken. No stem change in plural forms."
+    },
+    {
+      "id": 40,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich möchte eine Suppe nehmen und dann ein Dessert essen möchte.",
+      "solution": "Ich möchte eine Suppe nehmen und dann ein Dessert essen.",
+      "explanation": "Modal verbs (möchten) go in second position; infinitives (nehmen, essen) go to the end. No second 'möchte' needed."
+    },
+    {
+      "id": 41,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Sie (formal) ___ das Menü gewünscht.",
+      "solution": "haben",
+      "explanation": "wünschen uses haben in Perfekt: Sie haben gewünscht."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ihr ___ Schokoladenkuchen, oder? (mögen)",
+      "solution": "mögt",
+      "explanation": "mögen → ihr mögt. Regular -t ending for ihr."
+    },
+    {
+      "id": 43,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I wish you a good appetite!",
+      "solution": "Ich wünsche Ihnen guten Appetit!",
+      "explanation": "wünschen → ich wünsche. 'Ihnen' = formal dative you. Guten Appetit is a set phrase."
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Du ___ die Portion Eis mit Erdbeeren, nicht wahr?",
+      "options": ["nimmst", "nimmt", "nehme"],
+      "solution": "nimmst",
+      "explanation": "nehmen → du nimmst. Stem vowel change e→i in du form."
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben gegessen Nudeln mit Soße gestern.",
+      "solution": "Wir haben gestern Nudeln mit Soße gegessen.",
+      "explanation": "In Perfekt, the Partizip II (gegessen) goes to the very end of the sentence. Time expressions like 'gestern' come after the auxiliary."
+    }
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "lektion": 5,
+  "focus": "nouns",
+  "file_slug": "lektion05_nouns",
+  "generated_at": "2026-03-10T01:22:36",
+  "vocabulary": [
+    {
+      "german": "die Uhr",
+      "base_form": "Uhr",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Uhren",
+      "english": "clock / watch",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Auto",
+      "base_form": "Auto",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Autos",
+      "english": "car",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Handy",
+      "base_form": "Handy",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Handys",
+      "english": "mobile phone",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Buch",
+      "base_form": "Buch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Bücher",
+      "english": "book",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Bleistift",
+      "base_form": "Bleistift",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Bleistifte",
+      "english": "pencil",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Brille",
+      "base_form": "Brille",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Brillen",
+      "english": "glasses",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Flasche",
+      "base_form": "Flasche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Flaschen",
+      "english": "bottle",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Kamera",
+      "base_form": "Kamera",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-s",
+      "plural_full": "Kameras",
+      "english": "camera",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Kette",
+      "base_form": "Kette",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Ketten",
+      "english": "necklace / chain",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Kugelschreiber",
+      "base_form": "Kugelschreiber",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kugelschreiber",
+      "english": "pen (ballpoint)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Schlüssel",
+      "base_form": "Schlüssel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Schlüssel",
+      "english": "key",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Tasche",
+      "base_form": "Tasche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Taschen",
+      "english": "bag",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Material",
+      "base_form": "Material",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-ien",
+      "plural_full": "Materialien",
+      "english": "material",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Holz",
+      "base_form": "Holz",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(Sg. only)",
+      "english": "wood",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Papier",
+      "base_form": "Papier",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(Sg. only)",
+      "english": "paper",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Metall",
+      "base_form": "Metall",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(Sg. only)",
+      "english": "metal",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Plastik",
+      "base_form": "Plastik",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(Sg. only)",
+      "english": "plastic",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Glas",
+      "base_form": "Glas",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Gläser",
+      "english": "glass",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Farbe",
+      "base_form": "Farbe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Farben",
+      "english": "colour / color",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Feuerzeug",
+      "base_form": "Feuerzeug",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Feuerzeuge",
+      "english": "lighter",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Geldbeutel",
+      "base_form": "Geldbeutel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Geldbeutel",
+      "english": "wallet / purse",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Taschentuch",
+      "base_form": "Taschentuch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Taschentücher",
+      "english": "tissue / handkerchief",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Regenschirm",
+      "base_form": "Regenschirm",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Regenschirme",
+      "english": "umbrella",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Wort",
+      "base_form": "Wort",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Wörter",
+      "english": "word",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Problem",
+      "base_form": "Problem",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Probleme",
+      "english": "problem",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Jacke",
+      "base_form": "Jacke",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Jacken",
+      "english": "jacket",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Bürste",
+      "base_form": "Bürste",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Bürsten",
+      "english": "brush",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Seife",
+      "base_form": "Seife",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Seifen",
+      "english": "soap",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Handtuch",
+      "base_form": "Handtuch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Handtücher",
+      "english": "towel",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "der Föhn",
+      "base_form": "Föhn",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Föhne",
+      "english": "hairdryer",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Sonnenbrille",
+      "base_form": "Sonnenbrille",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Sonnenbrillen",
+      "english": "sunglasses",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "die Nummer",
+      "base_form": "Nummer",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Nummern",
+      "english": "number",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    },
+    {
+      "german": "das Ding",
+      "base_form": "Ding",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Dinge",
+      "english": "thing",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 5
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Meine Tasche ist aus Leder, aber die Flasche ist aus Plastik.",
+      "english": "My bag is made of leather, but the bottle is made of plastic.",
+      "level": "medium",
+      "note": "Uses: die Tasche, die Flasche, das Plastik — materials vocabulary from Lektion 5"
+    },
+    {
+      "id": 2,
+      "german": "Hast du einen Kugelschreiber oder einen Bleistift in deiner Tasche?",
+      "english": "Do you have a pen or a pencil in your bag?",
+      "level": "medium",
+      "note": "Uses: der Kugelschreiber, der Bleistift, die Tasche — classroom/everyday objects"
+    },
+    {
+      "id": 3,
+      "german": "Das Handy ist neu und das Buch ist auch sehr schön.",
+      "english": "The mobile phone is new and the book is also very nice.",
+      "level": "medium",
+      "note": "Uses: das Handy, das Buch — both neuter nouns from Lektion 5"
+    },
+    {
+      "id": 4,
+      "german": "Ich brauche einen Regenschirm, weil der Regen heute sehr stark ist.",
+      "english": "I need an umbrella because the rain is very heavy today.",
+      "level": "complex",
+      "note": "Uses: der Regenschirm — weather/travel context; uses weil (conjunction for complex sentence)"
+    },
+    {
+      "id": 5,
+      "german": "Die Uhr an der Wand ist aus Holz und sieht sehr modern aus.",
+      "english": "The clock on the wall is made of wood and looks very modern.",
+      "level": "complex",
+      "note": "Uses: die Uhr, das Holz — materials + object; aussehen separable verb"
+    },
+    {
+      "id": 6,
+      "german": "Ich habe meinen Schlüssel und meinen Geldbeutel in der Tasche.",
+      "english": "I have my key and my wallet in the bag.",
+      "level": "medium",
+      "note": "Uses: der Schlüssel, der Geldbeutel, die Tasche — travel essentials"
+    },
+    {
+      "id": 7,
+      "german": "Meine Kamera ist aus Metall und macht sehr gute Fotos.",
+      "english": "My camera is made of metal and takes very good photos.",
+      "level": "medium",
+      "note": "Uses: die Kamera, das Metall — materials vocabulary"
+    },
+    {
+      "id": 8,
+      "german": "Das Handtuch und die Seife sind im Badezimmer, und der Föhn ist auf dem Tisch.",
+      "english": "The towel and the soap are in the bathroom, and the hairdryer is on the table.",
+      "level": "complex",
+      "note": "Uses: das Handtuch, die Seife, der Föhn — hotel/travel bathroom items; location with im/auf"
+    },
+    {
+      "id": 9,
+      "german": "Ich suche eine Sonnenbrille und ein Taschentuch für die Reise.",
+      "english": "I am looking for sunglasses and a tissue for the journey.",
+      "level": "medium",
+      "note": "Uses: die Sonnenbrille, das Taschentuch — travel packing context"
+    },
+    {
+      "id": 10,
+      "german": "Die Farbe der Jacke ist blau, und das Feuerzeug ist rot.",
+      "english": "The colour of the jacket is blue, and the lighter is red.",
+      "level": "medium",
+      "note": "Uses: die Farbe, die Jacke, das Feuerzeug — colour vocabulary integration"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Tasche ist schwarz. (the bag)",
+      "solution": "Die",
+      "explanation": "die Tasche — feminine noun. Must memorize gender; no reliable ending pattern."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Handy ist neu. (the mobile phone)",
+      "solution": "Das",
+      "explanation": "das Handy — neuter noun. Borrowed English word; loanwords often take das."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Schlüssel ist klein. (the key)",
+      "solution": "Der",
+      "explanation": "der Schlüssel — masculine noun. Must memorize gender."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe ___ Buch. (a book)",
+      "solution": "ein",
+      "explanation": "das Buch — neuter noun. Indefinite article for neuter in nominative/accusative is 'ein'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Tisch ist aus ___. (wood)",
+      "solution": "Holz",
+      "explanation": "das Holz — material noun used without article when describing what something is made of."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich brauche ___ Regenschirm. (an umbrella)",
+      "solution": "einen",
+      "explanation": "der Regenschirm — masculine. In accusative case (direct object after brauchen), der becomes den/einen."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die ___ der Jacke ist rot. (colour)",
+      "solution": "Farbe",
+      "explanation": "die Farbe — feminine noun meaning 'colour/color'."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Brille ist aus Plastik. (the glasses)",
+      "solution": "Die",
+      "explanation": "die Brille — feminine noun. Even though 'glasses' is plural in English, in German it is die Brille (singular)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Hast du ___ Bleistift oder ___ Kugelschreiber? (a pencil / a pen)",
+      "solution": "einen / einen",
+      "explanation": "Both are masculine nouns used as accusative objects after haben: der → einen."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich packe ___ Handtuch, ___ Seife und ___ Föhn in die Tasche. (the towel / the soap / the hairdryer)",
+      "solution": "das / die / den",
+      "explanation": "Accusative: das Handtuch (neut, no change), die Seife (fem, no change), der Föhn (masc → den Föhn)."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Auto ist groß.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "das Auto — neuter noun. Borrowed word from Latin/Italian; most loanwords take das."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Kette ist schön.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Die",
+      "explanation": "die Kette — feminine noun. Must memorize gender."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ Geldbeutel verloren.",
+      "options": ["ein", "eine", "einen"],
+      "solution": "einen",
+      "explanation": "der Geldbeutel — masculine. Accusative masculine indefinite article: einen."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Flasche ist aus ___.",
+      "options": ["Plastik", "Plastiken", "das Plastik"],
+      "solution": "Plastik",
+      "explanation": "Material nouns are used without article in German when saying what something is made of: aus Plastik, aus Holz, aus Metall."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das ist ___ Taschentuch.",
+      "options": ["ein", "eine", "einen"],
+      "solution": "ein",
+      "explanation": "das Taschentuch — neuter noun. Neuter indefinite article is 'ein' in nominative."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich kaufe ___ Kamera für die Reise.",
+      "options": ["ein", "eine", "einen"],
+      "solution": "eine",
+      "explanation": "die Kamera — feminine noun. Feminine indefinite article stays 'eine' in accusative."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Wort auf Deutsch ist ___.",
+      "options": ["das", "die", "der"],
+      "solution": "das",
+      "explanation": "das Wort — neuter noun. 'Das Wort' means 'the word'."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Bürste ist neu.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Die",
+      "explanation": "die Bürste — feminine noun. Must memorize gender."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I need a key and a bag for the trip.",
+      "solution": "Ich brauche einen Schlüssel und eine Tasche für die Reise.",
+      "explanation": "der Schlüssel → einen (masc. accusative); die Tasche → eine (fem. accusative). 'für die Reise' = for the trip."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The mobile phone is new and very small.",
+      "solution": "Das Handy ist neu und sehr klein.",
+      "explanation": "das Handy — neuter. Adjectives after 'ist' take no ending (predicate adjectives)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What colour is the umbrella?",
+      "solution": "Was ist die Farbe vom Regenschirm? / Welche Farbe hat der Regenschirm?",
+      "explanation": "die Farbe = colour; der Regenschirm = umbrella. Both sentences are natural in A1 context."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My wallet and my glasses are in the bag.",
+      "solution": "Mein Geldbeutel und meine Brille sind in der Tasche.",
+      "explanation": "mein Geldbeutel (masc. nom.); meine Brille (fem. nom.); in der Tasche (dative after 'in' for location)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The towel is made of cotton and the bottle is made of glass.",
+      "solution": "Das Handtuch ist aus Baumwolle und die Flasche ist aus Glas.",
+      "explanation": "das Handtuch, die Flasche; aus + material (no article needed for materials)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you have a pencil or a pen?",
+      "solution": "Hast du einen Bleistift oder einen Kugelschreiber?",
+      "explanation": "Both nouns are masculine → accusative: einen. Word order: verb second in a question with 'du'."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The hairdryer is on the table.",
+      "solution": "Der Föhn ist auf dem Tisch.",
+      "explanation": "der Föhn — masculine; auf dem Tisch (dative after 'auf' for location)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Brille ist neu.",
+      "solution": "Die Brille ist neu.",
+      "explanation": "die Brille — feminine noun. The article must be 'die', not 'das'."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Buch ist interessant.",
+      "solution": "Das Buch ist interessant.",
+      "explanation": "das Buch — neuter noun. The article must be 'das', not 'der'."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe eine Schlüssel.",
+      "solution": "Ich habe einen Schlüssel.",
+      "explanation": "der Schlüssel — masculine noun. In accusative case, the indefinite article for masculine becomes 'einen', not 'eine'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Tasche ist aus das Leder.",
+      "solution": "Die Tasche ist aus Leder.",
+      "explanation": "When describing what something is made of, no article is used: aus Leder, aus Holz, aus Plastik."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Handtuch und die Seife sind auf dem Tisch, und der Föhn ist in der Tasche.",
+      "solution": "Das Handtuch und die Seife sind auf dem Tisch, und der Föhn ist in der Tasche.",
+      "explanation": "This sentence is correct! All articles and prepositions (auf dem for location, in der for dative feminine) are right."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Hast du ein Regenschirm?",
+      "solution": "Hast du einen Regenschirm?",
+      "explanation": "der Regenschirm — masculine. As a direct object (accusative), 'ein' becomes 'einen' for masculine nouns."
+    },
+    {
+      "id": 32,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: die Uhr",
+      "solution": "die Uhren",
+      "explanation": "die Uhr adds -en in the plural: die Uhren."
+    },
+    {
+      "id": 33,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: das Buch",
+      "solution": "die Bücher",
+      "explanation": "das Buch takes umlaut + -er in the plural: die Bücher (..er notation)."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural form: die Tasche",
+      "solution": "die Taschen",
+      "explanation": "die Tasche adds -n in the plural: die Taschen."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: der Schlüssel",
+      "solution": "die Schlüssel",
+      "explanation": "der Schlüssel has no change in the plural (- notation): die Schlüssel."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: das Handtuch",
+      "solution": "die Handtücher",
+      "explanation": "das Handtuch takes umlaut + -er in the plural: die Handtücher."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: das Glas",
+      "solution": "die Gläser",
+      "explanation": "das Glas takes umlaut + -er in the plural: die Gläser."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural form: die Flasche",
+      "solution": "die Flaschen",
+      "explanation": "die Flasche adds -n in the plural: die Flaschen."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Give the plural form: das Wort",
+      "solution": "die Wörter",
+      "explanation": "das Wort takes umlaut + -er in the plural: die Wörter."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Give the plural form: der Bleistift",
+      "solution": "die Bleistifte",
+      "explanation": "der Bleistift adds -e in the plural: die Bleistifte."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ___ ist aus Glas. (thing)",
+      "solution": "Ding",
+      "explanation": "das Ding = thing. Neuter noun used without article after 'das' determiner already shown."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The soap and the brush are in the bathroom.",
+      "solution": "Die Seife und die Bürste sind im Bad / im Badezimmer.",
+      "explanation": "die Seife, die Bürste — both feminine. im Bad = in dem Bad (dative contracted)."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe kein ___. Es ist ein Problem! (lighter)",
+      "solution": "Feuerzeug",
+      "explanation": "das Feuerzeug = lighter. After 'kein', neuter singular has no ending: kein Feuerzeug."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Sonnenbrille ist auf den Tisch.",
+      "solution": "Die Sonnenbrille ist auf dem Tisch.",
+      "explanation": "Location (not movement): 'auf' with dative. Der Tisch → dem Tisch (dative masculine)."
+    }
+  ]
+}

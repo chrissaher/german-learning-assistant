@@ -1,0 +1,524 @@
+{
+  "lektion": 4,
+  "focus": "others",
+  "file_slug": "lektion04_others",
+  "generated_at": "2026-03-10T01:32:59",
+  "vocabulary": [
+    {
+      "german": "zu Hause",
+      "base_form": "zu Hause",
+      "english": "at home",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed expression indicating being at home (static location). Contrast: nach Hause = going home (movement toward).",
+      "lektion_source": 4
+    },
+    {
+      "german": "oh",
+      "base_form": "oh",
+      "english": "oh",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to express surprise, admiration, or mild reaction. Often combined: Oh ja! (Oh yes!) / Oh nein! (Oh no!).",
+      "lektion_source": 4
+    },
+    {
+      "german": "mal",
+      "base_form": "mal",
+      "english": "just / once (softening particle)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Modal particle that softens commands or suggestions: Schau mal! (Just look!). Very common in spoken German — has no direct Spanish/English translation.",
+      "lektion_source": 4
+    },
+    {
+      "german": "da",
+      "base_form": "da",
+      "english": "there / over there",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Indicates location (there) or can mean 'here' in context: Schau mal, da! (Just look, over there!). Can also mean 'since/because' in subordinate clauses (later A2 topic).",
+      "lektion_source": 4
+    },
+    {
+      "german": "wie viel",
+      "base_form": "wie viel",
+      "english": "how much",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used in price questions: Wie viel kostet das? (How much does that cost?). Two-word form. Sometimes written 'wieviel' in older texts.",
+      "lektion_source": 4
+    },
+    {
+      "german": "denn",
+      "base_form": "denn",
+      "english": "then / (intensifying particle)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used as a modal particle in questions to add curiosity or softness: Wie viel kostet er denn? (How much does it cost, then?) — more engaging than without 'denn'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "nur",
+      "base_form": "nur",
+      "english": "only / just",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Limits or restricts: Das kostet nur 10 Euro. (That costs only 10 euros.) Spanish equivalent: 'solo/solamente'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "wirklich",
+      "base_form": "wirklich",
+      "english": "really / truly",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier meaning 'really/truly': Das ist wirklich schön! (That is really beautiful!). Spanish: 'verdaderamente/de verdad'.",
+      "lektion_source": 4
+    },
+    {
+      "german": "zu",
+      "base_form": "zu",
+      "english": "too (excessively)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before adjectives to mean 'too' (excessively): zu teuer (too expensive), zu klein (too small). Different from the preposition 'zu' (to) — context determines meaning.",
+      "lektion_source": 4
+    },
+    {
+      "german": "so",
+      "base_form": "so",
+      "english": "so / such",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier: Das Bild ist so schön! (The picture is so beautiful!). Also means 'so' in 'so … wie' comparisons (A2). Spanish: 'tan'.",
+      "lektion_source": 4
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich bin zu Hause und schaue die neuen Möbel an.",
+      "english": "I am at home and looking at the new furniture.",
+      "level": "medium",
+      "note": "Uses: zu Hause (Lektion 4 phrase); schauen (Lektion 4 verb); die Möbel (Lektion 4 noun)"
+    },
+    {
+      "id": 2,
+      "german": "Das Sofa ist so schön – ich möchte es sofort kaufen!",
+      "english": "The sofa is so beautiful – I want to buy it right away!",
+      "level": "medium",
+      "note": "Uses: so (Lektion 4 adverb); schön (Lektion 4 adjective); das Sofa (Lektion 4 noun)"
+    },
+    {
+      "id": 3,
+      "german": "Das Bett kostet nur 99 Euro – das ist wirklich günstig!",
+      "english": "The bed costs only 99 euros – that is really cheap!",
+      "level": "medium",
+      "note": "Uses: nur, wirklich (Lektion 4 adverbs); günstig (Lektion 4 adjective); das Bett, der Euro (Lektion 4 nouns)"
+    },
+    {
+      "id": 4,
+      "german": "Schau mal, da! Der Tisch kostet nur 50 Euro.",
+      "english": "Just look, over there! The table costs only 50 euros.",
+      "level": "medium",
+      "note": "Uses: mal, da, nur (Lektion 4 adverbs/particles); schauen (Lektion 4 verb); der Tisch, der Euro (Lektion 4 nouns)"
+    },
+    {
+      "id": 5,
+      "german": "Wie viel kostet das Sofa denn? Es sieht so teuer aus!",
+      "english": "How much does the sofa cost, then? It looks so expensive!",
+      "level": "medium",
+      "note": "Uses: wie viel, denn, so (Lektion 4 others); das Sofa (Lektion 4 noun); teuer (Lektion 4 adjective)"
+    },
+    {
+      "id": 6,
+      "german": "Ich bin zu Hause und finde das Zimmer zu klein für die neuen Möbel.",
+      "english": "I am at home and find the room too small for the new furniture.",
+      "level": "complex",
+      "note": "Uses: zu Hause (phrase), zu (adverb before adjective) — both Lektion 4 others; klein (adjective); die Möbel (noun)"
+    },
+    {
+      "id": 7,
+      "german": "Oh, das ist wirklich ein Sonderangebot! Das Sofa kostet nur 200 Euro.",
+      "english": "Oh, that is really a special offer! The sofa costs only 200 euros.",
+      "level": "complex",
+      "note": "Uses: oh (interjection), wirklich, nur (adverbs) — Lektion 4 others; das Sonderangebot, das Sofa, der Euro (Lektion 4 nouns)"
+    },
+    {
+      "id": 8,
+      "german": "Das Hotel ist so modern und das Zimmer ist wirklich groß – aber es ist zu teuer!",
+      "english": "The hotel is so modern and the room is really big – but it is too expensive!",
+      "level": "complex",
+      "note": "Uses: so, wirklich, zu (Lektion 4 adverbs); modern, groß, teuer (Lektion 4 adjectives); das Hotel, das Zimmer (Lektion 4 nouns)"
+    },
+    {
+      "id": 9,
+      "german": "Schau mal da! Das Regal kostet nur 15 Euro – das ist wirklich günstig.",
+      "english": "Just look there! The shelf costs only 15 euros – that is really affordable.",
+      "level": "complex",
+      "note": "Uses: mal, da, nur, wirklich (four Lektion 4 adverbs); günstig (adjective); das Regal, der Euro (nouns)"
+    },
+    {
+      "id": 10,
+      "german": "Ich bin zu Hause, und ich finde das Sofa so schön – aber es ist wirklich zu teuer.",
+      "english": "I am at home, and I find the sofa so beautiful – but it is really too expensive.",
+      "level": "complex",
+      "note": "Uses: zu Hause, so, wirklich, zu — multiple Lektion 4 others in one sentence"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich bin ___ ___. (at home — two words)",
+      "solution": "zu Hause",
+      "explanation": "zu Hause = at home (fixed two-word phrase). Contrast: nach Hause = going home (direction)."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Sofa ist ___ schön! (so/such — intensifier)",
+      "solution": "so",
+      "explanation": "so = so (intensifier before adjectives). Das Sofa ist so schön! = The sofa is so beautiful!"
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Bett kostet ___ 80 Euro. (only)",
+      "solution": "nur",
+      "explanation": "nur = only/just (limiting adverb). Spanish: solo/solamente."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist ___ günstig! Nur 10 Euro! (really)",
+      "solution": "wirklich",
+      "explanation": "wirklich = really/truly. Intensifier: 'That is really cheap!'"
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Zimmer ist ___ klein für drei Personen. (too — excessively)",
+      "solution": "zu",
+      "explanation": "zu before an adjective = too (excessively): zu klein = too small."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Schau ___, ___! Der Schrank ist so schön. (just; over there)",
+      "solution": "mal / da",
+      "explanation": "Schau mal, da! = Just look, over there! 'mal' softens the imperative; 'da' indicates location."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ ___ kostet das Sofa? (how much — two words)",
+      "solution": "Wie viel",
+      "explanation": "Wie viel = how much (price question). Wie viel kostet das Sofa? = How much does the sofa cost?"
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie viel kostet er ___? (then — modal particle in question)",
+      "solution": "denn",
+      "explanation": "'denn' as a modal particle in questions adds curiosity/engagement. No direct translation — makes the question softer and more conversational."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___, das ist sehr teuer! (Oh — exclamation)",
+      "solution": "Oh",
+      "explanation": "'Oh' is an interjection expressing surprise. Very common in German reactions."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Sofa ist ___ teuer. Ich kaufe es nicht. (too — excessively)",
+      "solution": "zu",
+      "explanation": "zu before adjective = too: zu teuer = too expensive."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich bin ___ ___ und schaue die Möbel an. (at home)",
+      "solution": "zu Hause",
+      "explanation": "zu Hause = at home. Fixed phrase — must memorize. Cannot be separated or reordered."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Hotel ist ___ modern und ___ günstig! Ich buche es! (so; really)",
+      "solution": "so / wirklich",
+      "explanation": "so = so (intensifier); wirklich = really. Both adverbs intensify the adjectives."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich bin ___ ___. (I am at home)",
+      "options": ["zu Hause", "nach Hause", "im Hause"],
+      "solution": "zu Hause",
+      "explanation": "zu Hause = at home (static location). 'nach Hause' = going home (direction). 'im Hause' is grammatically valid but not the fixed expression."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Bett kostet ___ 50 Euro. (only)",
+      "options": ["nur", "wirklich", "so"],
+      "solution": "nur",
+      "explanation": "nur = only (limits: just 50 euros). 'wirklich' = really; 'so' = so."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Schau ___, da! Das Sofa ist so schön!",
+      "options": ["mal", "denn", "nur"],
+      "solution": "mal",
+      "explanation": "'Schau mal' = just look. 'mal' softens the imperative. 'denn' is for questions; 'nur' means only."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wie viel kostet das Hotel ___?",
+      "options": ["denn", "nur", "mal"],
+      "solution": "denn",
+      "explanation": "'denn' in a question adds curiosity/engagement. 'nur' would change meaning to 'only'; 'mal' goes with imperatives."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Sofa ist ___ teuer für mich. Ich habe nicht so viel Geld.",
+      "options": ["wirklich", "zu", "nur"],
+      "solution": "zu",
+      "explanation": "zu before adjective = too (excessively): zu teuer = too expensive. Context: not enough money confirms 'too expensive'."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Zimmer ist ___ schön! Ich finde es fantastisch.",
+      "options": ["zu", "so", "nur"],
+      "solution": "so",
+      "explanation": "'so schön' = so beautiful (positive intensifier). 'zu schön' would mean 'too beautiful' (a negative excess). Context: finding it fantastic → positive → 'so'."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I am at home.",
+      "solution": "Ich bin zu Hause.",
+      "explanation": "zu Hause = at home. Fixed phrase. 'zu' here is not the preposition 'to' — it is part of this set expression."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Just look! The sofa is only 100 euros.",
+      "solution": "Schau mal! Das Sofa kostet nur 100 Euro.",
+      "explanation": "Schau mal! = Just look! (imperative + mal). nur = only. das Sofa kostet."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How much does the wardrobe cost?",
+      "solution": "Wie viel kostet der Schrank?",
+      "explanation": "Wie viel kostet...? Standard price question. der Schrank (masc.)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "That is really beautiful!",
+      "solution": "Das ist wirklich schön!",
+      "explanation": "wirklich = really/truly (intensifier). schön = beautiful."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The room is really too small for the furniture.",
+      "solution": "Das Zimmer ist wirklich zu klein für die Möbel.",
+      "explanation": "wirklich (really) + zu (too) + klein (small). die Möbel (furniture, plural-only noun)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am at home and I find the picture so beautiful.",
+      "solution": "Ich bin zu Hause und ich finde das Bild so schön.",
+      "explanation": "zu Hause (at home), so (so — intensifier), schön (beautiful). das Bild (neut., Akkusativ unchanged)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "How much does the lamp cost, then? It is really only 20 euros!",
+      "solution": "Wie viel kostet die Lampe denn? Sie kostet wirklich nur 20 Euro!",
+      "explanation": "denn (modal particle in question), wirklich (really), nur (only). die Lampe → sie (3rd person fem. pronoun)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich bin nach Hause. (context: I am sitting at home right now)",
+      "solution": "Ich bin zu Hause.",
+      "explanation": "'nach Hause' means going home (direction/movement). For static location at home: 'zu Hause'."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Bett kostet nur 50 Euro. Das ist so günstig! → is 'so' correctly used here?",
+      "solution": "Correct — no error. 'So günstig' = so affordable (positive intensifier).",
+      "explanation": "'so' before an adjective as a positive intensifier is correct: 'so günstig' = so cheap."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Zimmer ist wirklich zu groß. (context: the room is so small you can barely fit a bed)",
+      "solution": "Das Zimmer ist wirklich zu klein. (groß → klein)",
+      "explanation": "Context says barely fits a bed → the room is too small → zu klein, not zu groß."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wie wieviel kostet das Sofa?",
+      "solution": "Wie viel kostet das Sofa?",
+      "explanation": "'wie viel' is two words (or written 'wieviel'). 'Wie wieviel' repeats the interrogative incorrectly."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Schau da mal! Der Schrank ist wirklich günstig.",
+      "solution": "Schau mal, da! Der Schrank ist wirklich günstig.",
+      "explanation": "The standard word order is 'Schau mal, da!' (Look, just over there!) — 'mal' directly follows the verb. However, 'Schau da mal' is acceptable colloquially. The conventional order is 'mal' before 'da'."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Hotel kostet zu 200 Euro. (context: 200 euros is too expensive)",
+      "solution": "Das Hotel kostet 200 Euro. Das ist zu teuer.",
+      "explanation": "'zu' modifies adjectives, not prices directly. Correct: Das kostet 200 Euro — das ist zu teuer."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ ja! Das Sofa ist wirklich schön! (Oh — exclamation of agreement)",
+      "solution": "Oh",
+      "explanation": "'Oh ja!' = 'Oh yes!' — common exclamation expressing enthusiastic agreement or delight."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Schau mal ___! Der Teppich ist so günstig. (over there)",
+      "solution": "da",
+      "explanation": "'da' = there/over there. 'Schau mal da!' = Just look over there!"
+    },
+    {
+      "id": 34,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The sofa is really only 150 euros — how much is the armchair then?",
+      "solution": "Das Sofa kostet wirklich nur 150 Euro — wie viel kostet der Sessel denn?",
+      "explanation": "wirklich (really), nur (only), wie viel...denn? (how much...then? — question with modal particle)."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ nein! Das Sofa ist hässlich! (Oh — exclamation of disappointment)",
+      "solution": "Oh",
+      "explanation": "'Oh nein!' = 'Oh no!' — interjection of disappointment or surprise."
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Bild ist ___ schön! Ich kaufe es sofort.",
+      "options": ["zu", "wirklich", "denn"],
+      "solution": "wirklich",
+      "explanation": "Buying it immediately shows genuine admiration → wirklich (really). 'zu schön' (too beautiful) would be unexpected; 'denn' goes in questions."
+    },
+    {
+      "id": 37,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I am at home and I only have 50 euros for the room.",
+      "solution": "Ich bin zu Hause und ich habe nur 50 Euro für das Zimmer.",
+      "explanation": "zu Hause (at home), nur (only), das Zimmer (room — neuter Akkusativ after für)."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das ist ___ günstig — ___ 5 Euro! (really; only)",
+      "solution": "wirklich / nur",
+      "explanation": "wirklich = really (intensifier); nur = only (limiter). Both adverbs appear in natural pricing contexts."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich gehe zu Hause. (context: I am walking home right now)",
+      "solution": "Ich gehe nach Hause.",
+      "explanation": "'nach Hause' = going home (direction with movement verb). 'zu Hause' = being at home (static)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Zimmer ist ___ groß. Es hat nur ein Bett. (too — excessively small? No: read carefully — only one bed = it's too small)",
+      "solution": "zu klein",
+      "explanation": "Only one bed in the room implies it is too small → zu klein. 'zu' before adjective = too."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Look there! That is really a special offer.",
+      "solution": "Schau mal da! Das ist wirklich ein Sonderangebot.",
+      "explanation": "Schau mal da! = Look (just) there! wirklich = really. das Sonderangebot (neut.)."
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wie viel kostet das Sofa ___? Ich möchte es kaufen.",
+      "options": ["denn", "mal", "nur"],
+      "solution": "denn",
+      "explanation": "'denn' in a question signals genuine curiosity/interest. 'mal' is for imperatives; 'nur' would change the meaning to 'only'."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Hotel ist ___ teuer und ___ klein. Ich buche ein anderes. (too; too — use same word twice)",
+      "solution": "zu / zu",
+      "explanation": "'zu' before each adjective = too expensive AND too small. The same particle is used twice."
+    }
+  ]
+}

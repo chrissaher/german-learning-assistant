@@ -1,0 +1,687 @@
+{
+  "lektion": 2,
+  "focus": "verbs",
+  "file_slug": "lektion02_verbs",
+  "generated_at": "2026-03-10T01:26:53",
+  "vocabulary": [
+    {
+      "german": "suchen",
+      "base_form": "suchen",
+      "english": "to look for / to search",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "suche",
+        "du": "suchst",
+        "er/sie/es": "sucht",
+        "wir": "suchen",
+        "ihr": "sucht",
+        "sie/Sie": "suchen"
+      },
+      "perfekt": "hat gesucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Very common in everyday speech for finding lost items.",
+      "lektion_source": 2
+    },
+    {
+      "german": "haben",
+      "base_form": "haben",
+      "english": "to have",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "habe",
+        "du": "hast",
+        "er/sie/es": "hat",
+        "wir": "haben",
+        "ihr": "habt",
+        "sie/Sie": "haben"
+      },
+      "perfekt": "hat gehabt",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Irregular: du hast, er hat (no -t in du form, special er/sie/es form). Also used as Perfekt auxiliary.",
+      "lektion_source": 2
+    },
+    {
+      "german": "sein",
+      "base_form": "sein",
+      "english": "to be",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bin",
+        "du": "bist",
+        "er/sie/es": "ist",
+        "wir": "sind",
+        "ihr": "seid",
+        "sie/Sie": "sind"
+      },
+      "perfekt": "ist gewesen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Highly irregular; must memorize all forms. Also used as Perfekt auxiliary for movement/change-of-state verbs.",
+      "lektion_source": 2
+    },
+    {
+      "german": "kaufen",
+      "base_form": "kaufen",
+      "english": "to buy / to purchase",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kaufe",
+        "du": "kaufst",
+        "er/sie/es": "kauft",
+        "wir": "kaufen",
+        "ihr": "kauft",
+        "sie/Sie": "kaufen"
+      },
+      "perfekt": "hat gekauft",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Spanish cognate: 'comprar' (false friend with 'kaufen' — different root).",
+      "lektion_source": 2
+    },
+    {
+      "german": "brauchen",
+      "base_form": "brauchen",
+      "english": "to need",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "brauche",
+        "du": "brauchst",
+        "er/sie/es": "braucht",
+        "wir": "brauchen",
+        "ihr": "braucht",
+        "sie/Sie": "brauchen"
+      },
+      "perfekt": "hat gebraucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Similar in usage to 'necesitar' in Spanish.",
+      "lektion_source": 2
+    },
+    {
+      "german": "finden",
+      "base_form": "finden",
+      "english": "to find",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "finde",
+        "du": "findest",
+        "er/sie/es": "findet",
+        "wir": "finden",
+        "ihr": "findet",
+        "sie/Sie": "finden"
+      },
+      "perfekt": "hat gefunden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II (gefunden, not gefind-). Also means 'to think/find' (opinion): Ich finde es schön.",
+      "lektion_source": 2
+    },
+    {
+      "german": "nehmen",
+      "base_form": "nehmen",
+      "english": "to take",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "nehme",
+        "du": "nimmst",
+        "er/sie/es": "nimmt",
+        "wir": "nehmen",
+        "ihr": "nehmt",
+        "sie/Sie": "nehmen"
+      },
+      "perfekt": "hat genommen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: stem vowel change e→i in du/er forms (nimmst, nimmt). Irregular Partizip II: genommen.",
+      "lektion_source": 2
+    },
+    {
+      "german": "legen",
+      "base_form": "legen",
+      "english": "to lay / to put (horizontal)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lege",
+        "du": "legst",
+        "er/sie/es": "legt",
+        "wir": "legen",
+        "ihr": "legt",
+        "sie/Sie": "legen"
+      },
+      "perfekt": "hat gelegt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Denotes placing something flat/horizontal (contrast with stellen = upright).",
+      "lektion_source": 2
+    },
+    {
+      "german": "stellen",
+      "base_form": "stellen",
+      "english": "to place / to put (upright)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "stelle",
+        "du": "stellst",
+        "er/sie/es": "stellt",
+        "wir": "stellen",
+        "ihr": "stellt",
+        "sie/Sie": "stellen"
+      },
+      "perfekt": "hat gestellt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb. Denotes placing something upright (contrast with legen = flat).",
+      "lektion_source": 2
+    },
+    {
+      "german": "liegen",
+      "base_form": "liegen",
+      "english": "to lie / to be located (horizontal)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "liege",
+        "du": "liegst",
+        "er/sie/es": "liegt",
+        "wir": "liegen",
+        "ihr": "liegt",
+        "sie/Sie": "liegen"
+      },
+      "perfekt": "hat gelegen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II (gelegen). Describes position (Das Buch liegt auf dem Tisch). In southern Germany/Austria: ist gelegen.",
+      "lektion_source": 2
+    },
+    {
+      "german": "stehen",
+      "base_form": "stehen",
+      "english": "to stand / to be located (upright)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "stehe",
+        "du": "stehst",
+        "er/sie/es": "steht",
+        "wir": "stehen",
+        "ihr": "steht",
+        "sie/Sie": "stehen"
+      },
+      "perfekt": "hat gestanden",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: irregular Partizip II (gestanden). Describes upright position (Die Lampe steht auf dem Tisch).",
+      "lektion_source": 2
+    },
+    {
+      "german": "heißen",
+      "base_form": "heißen",
+      "english": "to be called / to be named",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "heiße",
+        "du": "heißt",
+        "er/sie/es": "heißt",
+        "wir": "heißen",
+        "ihr": "heißt",
+        "sie/Sie": "heißen"
+      },
+      "perfekt": "hat geheißen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Note: du heißt and er heißt are identical (both -ßt). Irregular Partizip II: geheißen.",
+      "lektion_source": 2
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich suche meinen Schlüssel — er liegt immer auf dem Tisch.",
+      "english": "I'm looking for my key — it's always on the table.",
+      "level": "medium",
+      "note": "Uses: suchen (Lektion 2 focus); der Schlüssel, der Tisch (Lektion 2 nouns)."
+    },
+    {
+      "id": 2,
+      "german": "Hast du ein Wörterbuch? Ich brauche eines für den Kurs.",
+      "english": "Do you have a dictionary? I need one for the class.",
+      "level": "medium",
+      "note": "Uses: haben, brauchen (Lektion 2 focus); das Wörterbuch (Lektion 2 noun). Pronoun 'eines' for neuter."
+    },
+    {
+      "id": 3,
+      "german": "Sie hat ihr Handy in der Tasche gefunden.",
+      "english": "She found her mobile phone in the bag.",
+      "level": "medium",
+      "note": "Uses: finden (Lektion 2 focus), Perfekt: hat gefunden; das Handy, die Tasche (Lektion 2 nouns)."
+    },
+    {
+      "id": 4,
+      "german": "Ich kaufe heute einen neuen Rucksack, weil der alte kaputt ist.",
+      "english": "I'm buying a new backpack today because the old one is broken.",
+      "level": "complex",
+      "note": "Uses: kaufen (Lektion 2 focus); subordinate clause with weil; der Rucksack (Lektion 2 noun)."
+    },
+    {
+      "id": 5,
+      "german": "Er nimmt immer sein Wörterbuch in den Deutschkurs mit.",
+      "english": "He always takes his dictionary to German class.",
+      "level": "medium",
+      "note": "Uses: nehmen (Lektion 2 focus); stem change: nimmt; das Wörterbuch (Lektion 2 noun)."
+    },
+    {
+      "id": 6,
+      "german": "Das Buch liegt auf dem Tisch neben der Lampe.",
+      "english": "The book is lying on the table next to the lamp.",
+      "level": "medium",
+      "note": "Uses: liegen (Lektion 2 focus); das Buch, der Tisch, die Lampe (Lektion 2 nouns); Dativ after auf/neben."
+    },
+    {
+      "id": 7,
+      "german": "Ich habe das Foto auf den Tisch gelegt.",
+      "english": "I put the photo on the table.",
+      "level": "complex",
+      "note": "Uses: legen (Lektion 2 focus), Perfekt: hat gelegt; Akkusativ after auf (movement): den Tisch."
+    },
+    {
+      "id": 8,
+      "german": "Die Kamera steht auf dem Regal, aber sie ist nicht meins.",
+      "english": "The camera is on the shelf, but it's not mine.",
+      "level": "medium",
+      "note": "Uses: stehen (Lektion 2 focus); die Kamera (Lektion 2 noun); meins (standalone neuter possessive)."
+    },
+    {
+      "id": 9,
+      "german": "Er hat sein Fahrrad vor dem Hotel gestellt und ist reingegangen.",
+      "english": "He put his bicycle in front of the hotel and went inside.",
+      "level": "complex",
+      "note": "Uses: stellen (Lektion 2 focus), Perfekt: hat gestellt; reingehen (sein); das Fahrrad (Lektion 2 noun)."
+    },
+    {
+      "id": 10,
+      "german": "Wie heißt das auf Deutsch? Ich kenne das Wort nicht.",
+      "english": "What is that called in German? I don't know the word.",
+      "level": "complex",
+      "note": "Uses: heißen (Lektion 2 focus); useful classroom/travel phrase for asking for vocabulary."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ mein Handy. (suchen — 1st person singular)",
+      "solution": "suche",
+      "explanation": "suchen is a regular weak verb. Ich-form: suche (drop -en, add -e)."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ eine neue Tasche. (kaufen — 2nd person singular)",
+      "solution": "kaufst",
+      "explanation": "kaufen is regular. Du-form: kaufst (drop -en, add -st)."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ einen Stift. (brauchen — 3rd person singular)",
+      "solution": "braucht",
+      "explanation": "brauchen is regular. Er-form: braucht (drop -en, add -t)."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir ___ das Buch auf den Tisch. (legen — 1st person plural)",
+      "solution": "legen",
+      "explanation": "legen is regular. Wir-form: legen (same as infinitive)."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Heft ___ auf dem Tisch. (liegen — 3rd person singular)",
+      "solution": "liegt",
+      "explanation": "liegen strong verb; er/sie/es form: liegt (drop -en, add -t, no stem change in Präsens for this form)."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du ___ das Buch gut. Es ist sehr interessant. (finden — 2nd person singular)",
+      "solution": "findest",
+      "explanation": "finden — du-form: findest (stem 'find-' + -est, because stem ends in -nd)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ immer ein Wörterbuch mit. (nehmen — 3rd person singular)",
+      "solution": "nimmt",
+      "explanation": "nehmen: strong verb, stem vowel change e→i in er-form: nimmt."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Kamera ___ auf dem Tisch. (stehen — 3rd person singular)",
+      "solution": "steht",
+      "explanation": "stehen: er/sie/es-form is steht. Describes upright/vertical position."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie ___ das auf Deutsch? (heißen — 3rd person singular)",
+      "solution": "heißt",
+      "explanation": "heißen: er/sie/es form is heißt. Note: du heißt and er heißt look the same."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich ___ das Foto auf den Tisch ___, weil es schön ist. (legen — Perfekt)",
+      "solution": "habe / gelegt",
+      "explanation": "legen takes haben as auxiliary. Partizip II: gelegt (weak verb). Perfekt: habe gelegt."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ___ ihr Handy in der Tasche ___, zum Glück! (finden — Perfekt)",
+      "solution": "hat / gefunden",
+      "explanation": "finden is a strong verb. Partizip II: gefunden (irregular). Perfekt: hat gefunden."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir ___ einen neuen Computer für das Büro ___. (kaufen — Perfekt)",
+      "solution": "haben / gekauft",
+      "explanation": "kaufen takes haben as auxiliary. Partizip II: gekauft (regular weak verb)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ einen Bleistift.",
+      "options": ["a) brauche", "b) braucht", "c) brauchst"],
+      "solution": "b) braucht",
+      "explanation": "er/sie/es form of brauchen: braucht (drop -en, add -t)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ meine Kamera.",
+      "options": ["a) haben", "b) hast", "c) hat"],
+      "solution": "b) hast",
+      "explanation": "haben is irregular: du hast (not du habt or du haben)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich ___ das Buch sehr interessant.",
+      "options": ["a) findet", "b) findest", "c) finde"],
+      "solution": "c) finde",
+      "explanation": "finden: ich-form is finde (drop -en, add -e). finde here means 'think/find (it interesting)'."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ ein Wörterbuch mit in den Kurs.",
+      "options": ["a) nimmt", "b) nehmt", "c) nimm"],
+      "solution": "a) nimmt",
+      "explanation": "nehmen: strong verb, stem change e→i in er-form: nimmt."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Fahrrad ___ vor dem Hotel.",
+      "options": ["a) legt", "b) liegt", "c) steht"],
+      "solution": "c) steht",
+      "explanation": "stehen = to be located (upright). A bicycle stands (steht), not lies (liegt)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie hat das Heft auf den Tisch ___.",
+      "options": ["a) gelegen", "b) gelegt", "c) gesteht"],
+      "solution": "b) gelegt",
+      "explanation": "legen (to put/lay flat): Partizip II is gelegt. gelegen is from liegen. gesteht is not valid here."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir ___ heute ein Wörterbuch.",
+      "options": ["a) kauft", "b) kaufe", "c) kaufen"],
+      "solution": "c) kaufen",
+      "explanation": "kaufen: wir-form is kaufen (same as infinitive)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich ___ immer nach meinem Schlüssel, wenn ich ihn nicht finde.",
+      "options": ["a) sucht", "b) suche", "c) suchst"],
+      "solution": "b) suche",
+      "explanation": "suchen: ich-form is suche. sucht is er/sie/es; suchst is du."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I need a pen. Do you have one?",
+      "solution": "Ich brauche einen Stift. Hast du einen?",
+      "explanation": "brauchen: ich brauche. der Stift is masculine → einen Stift (Akkusativ). haben: du hast; einen as standalone pronoun."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The book is lying on the table.",
+      "solution": "Das Buch liegt auf dem Tisch.",
+      "explanation": "liegen describes horizontal position. auf dem Tisch: Dativ (location)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What is this called in German?",
+      "solution": "Wie heißt das auf Deutsch?",
+      "explanation": "heißen: er/sie/es form is heißt. auf Deutsch = in German. Very useful travel/classroom phrase."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She put her glasses on the table.",
+      "solution": "Sie hat ihre Brille auf den Tisch gelegt.",
+      "explanation": "legen: Perfekt hat gelegt. auf den Tisch: Akkusativ (movement/placing). ihre Brille (feminine possessive)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He always takes his backpack to school.",
+      "solution": "Er nimmt immer seinen Rucksack in die Schule mit.",
+      "explanation": "nehmen: er nimmt (stem change). mitnehmen is separable: nimmt ... mit. seinen Rucksack: Akkusativ masculine."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I bought a new bicycle because the old one was broken.",
+      "solution": "Ich habe ein neues Fahrrad gekauft, weil das alte kaputt war.",
+      "explanation": "kaufen: Perfekt habe gekauft. weil subordinate clause. das Fahrrad is neuter → das alte."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I'm looking for my key. It's not here.",
+      "solution": "Ich suche meinen Schlüssel. Er ist nicht hier.",
+      "explanation": "suchen: ich suche. der Schlüssel → meinen Schlüssel (Akkusativ masculine). er (masculine pronoun)."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We find the hotel very nice.",
+      "solution": "Wir finden das Hotel sehr schön.",
+      "explanation": "finden meaning 'to find/think': wir finden. das Hotel is neuter. sehr schön: intensifier + adjective."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Du brauchst einen Stift? Ich habe einen. (Find the error in: Er nehmt das Buch.)",
+      "solution": "Er nimmt das Buch.",
+      "explanation": "nehmen is a strong verb with stem change e→i in du/er forms. The correct er-form is nimmt, not nehmt."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Ich habe das Buch geliegt.",
+      "solution": "Das Buch hat gelegen. / Das Buch lag auf dem Tisch.",
+      "explanation": "liegen (to lie/be located) uses haben in northern Germany: hat gelegen. The Partizip II is gelegen, not geliegt."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Sie hat ihr Handy in der Tasche gefinden.",
+      "solution": "Sie hat ihr Handy in der Tasche gefunden.",
+      "explanation": "finden is a strong verb. Partizip II is gefunden (not gefinden — that form does not exist)."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Ich habe ein neues Fahrrad gekaufen.",
+      "solution": "Ich habe ein neues Fahrrad gekauft.",
+      "explanation": "kaufen is a regular weak verb. Partizip II: gekauft (not gekaufen). Weak verbs use ge- + stem + -t."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Er hat das Buch auf dem Tisch gelegt.",
+      "solution": "Er hat das Buch auf den Tisch gelegt.",
+      "explanation": "legen indicates movement/placing → Akkusativ: auf den Tisch (not Dativ auf dem Tisch). Dativ is used for static location."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Das Fahrrad liegt vor dem Hotel.",
+      "solution": "Das Fahrrad steht vor dem Hotel.",
+      "explanation": "stehen (to stand) is used for upright objects like bicycles. liegen (to lie) is for flat objects."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Wie heißen das Wort auf Deutsch?",
+      "solution": "Wie heißt das Wort auf Deutsch?",
+      "explanation": "heißen: das Wort is 3rd person singular → heißt (not heißen, which is the plural/infinitive form)."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ das Wörterbuch gesucht. (suchen)",
+      "solution": "hat",
+      "explanation": "suchen uses haben as Perfekt auxiliary. Movement or change of state is not involved."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Ich ___ ein neues Fahrrad gekauft. (kaufen)",
+      "solution": "habe",
+      "explanation": "kaufen uses haben as Perfekt auxiliary. Transitive verbs (with direct object) take haben."
+    },
+    {
+      "id": 38,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Das Buch ___ auf dem Tisch gelegen. (liegen)",
+      "solution": "hat",
+      "explanation": "liegen takes haben in standard German (northern). The book doesn't move — positional verb using haben."
+    },
+    {
+      "id": 39,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Sie ___ ihr Handy in der Tasche gefunden. (finden)",
+      "solution": "hat",
+      "explanation": "finden uses haben as auxiliary. Partizip II: gefunden."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ das Foto auf den Tisch gestellt. (stellen)",
+      "solution": "hat",
+      "explanation": "stellen (to place/put upright) uses haben as auxiliary. Transitive verb with direct object."
+    },
+    {
+      "id": 41,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Wir ___ das neue Wörterbuch für die Reise gekauft. (kaufen)",
+      "solution": "haben",
+      "explanation": "kaufen always takes haben. Transitive verb: hat/haben + Partizip II."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ihr ___ einen Stift, oder? (brauchen — 2nd person plural)",
+      "solution": "braucht",
+      "explanation": "brauchen: ihr-form is braucht (same ending as er/sie/es form)."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sie (she) ___ die Sachen in den Rucksack. (legen — 3rd person singular)",
+      "solution": "legt",
+      "explanation": "legen is regular: er/sie/es form → legt."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He found his ID card. It was under the table.",
+      "solution": "Er hat seinen Ausweis gefunden. Er lag unter dem Tisch.",
+      "explanation": "finden: Perfekt hat gefunden. seinen Ausweis: Akkusativ masculine. er lag: Präteritum of liegen (simpler for narration)."
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Er hat sein Rucksack auf den Tisch gestellt.",
+      "solution": "Er hat seinen Rucksack auf den Tisch gestellt.",
+      "explanation": "der Rucksack — masculine. Akkusativ direct object: seinen Rucksack (possessive -en ending for masculine)."
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich ___ meine Kamera.",
+      "options": ["a) sucht", "b) suche", "c) suchst"],
+      "solution": "b) suche",
+      "explanation": "suchen: ich-form is suche (drop -en, add -e)."
+    }
+  ]
+}

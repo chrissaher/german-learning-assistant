@@ -1,0 +1,562 @@
+{
+  "lektion": 8,
+  "focus": "others",
+  "file_slug": "lektion08_others",
+  "generated_at": "2026-03-10T01:33:23",
+  "vocabulary": [
+    {
+      "german": "heute",
+      "base_form": "heute",
+      "english": "today",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Time adverb for the current day: 'Heute gehe ich ins Kino.' Always used without an article.",
+      "lektion_source": 8
+    },
+    {
+      "german": "um",
+      "base_form": "um",
+      "english": "at (for clock times)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Used before clock times: 'um drei Uhr' (at three o'clock). Also used in 'um … Uhr' expressions. Takes accusative.",
+      "lektion_source": 8
+    },
+    {
+      "german": "am",
+      "base_form": "am",
+      "english": "on (with days and parts of the day)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Contraction of 'an + dem'. Used with days of the week (am Montag) and parts of the day (am Abend, am Nachmittag). Essential for scheduling language.",
+      "lektion_source": 8
+    },
+    {
+      "german": "in",
+      "base_form": "in",
+      "english": "to / in / into (direction or location)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Used for going to venues in Lektion 8: 'in die Disco', 'ins Kino' (in + das). With location: 'im Café' (in + dem). Movement → accusative; location → dative.",
+      "lektion_source": 8
+    },
+    {
+      "german": "nach",
+      "base_form": "nach",
+      "english": "past / after (in time expressions)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Used in clock times: 'zehn nach drei' (ten past three). Also used with places: 'nach Wien fahren' (go to Vienna).",
+      "lektion_source": 8
+    },
+    {
+      "german": "vor",
+      "base_form": "vor",
+      "english": "to / before (in time expressions)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Used in clock times: 'zehn vor vier' (ten to four). With time expressions it takes dative: 'vor dem Essen' (before the meal).",
+      "lektion_source": 8
+    },
+    {
+      "german": "halb",
+      "base_form": "halb",
+      "english": "half past (but expressed as half BEFORE the next hour)",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "CAUTION: 'halb zehn' means 9:30 (half before ten), NOT 10:30. English 'half ten' = 10:30; German 'halb zehn' = 9:30. Spanish speakers: 'son las nueve y media' = 'halb zehn'.",
+      "lektion_source": 8
+    },
+    {
+      "german": "oder",
+      "base_form": "oder",
+      "english": "or",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction linking alternatives: 'Kino oder Theater?' Normal word order (no inversion) with 'oder'.",
+      "lektion_source": 8
+    },
+    {
+      "german": "Bis dann!",
+      "base_form": "Bis dann!",
+      "english": "See you then!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Farewell phrase used when you have an arrangement and will see the person at the agreed time. Casual register.",
+      "lektion_source": 8
+    },
+    {
+      "german": "Gute Idee.",
+      "base_form": "Gute Idee.",
+      "english": "Good idea.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short positive response to a suggestion. Can also say 'Das ist eine gute Idee.' The shortened form drops 'Das ist eine'.",
+      "lektion_source": 8
+    },
+    {
+      "german": "Keine Lust.",
+      "base_form": "Keine Lust.",
+      "english": "I'm not in the mood. / I don't feel like it.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short refusal phrase. Full form: 'Ich habe keine Lust.' Casual spoken German. Use when declining an invitation politely but casually.",
+      "lektion_source": 8
+    },
+    {
+      "german": "tut mir leid",
+      "base_form": "tut mir leid",
+      "english": "I am sorry",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Apology phrase. Literal meaning: 'does sorrow to me'. Used to express regret or apologize: 'Tut mir leid, ich habe keine Zeit.'",
+      "lektion_source": 8
+    },
+    {
+      "german": "okay",
+      "base_form": "okay",
+      "english": "okay",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Informal agreement or acknowledgment. Borrowed from English. Used widely in spoken A1 German: 'Okay, bis dann!'",
+      "lektion_source": 8
+    },
+    {
+      "german": "Wann?",
+      "base_form": "Wann?",
+      "english": "When?",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Question word for time. Introduces time questions: 'Wann beginnt der Film?' Answer always involves a time expression (am Montag, um drei Uhr, etc.).",
+      "lektion_source": 8
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Heute bin ich frei — gehen wir ins Museum!",
+      "english": "Today I am free — let's go to the museum!",
+      "level": "medium",
+      "note": "Uses: heute (adverb); das Museum, frei from Lektion 8."
+    },
+    {
+      "id": 2,
+      "german": "Der Film beginnt um halb acht — wir müssen jetzt gehen.",
+      "english": "The film starts at half past seven — we have to go now.",
+      "level": "medium",
+      "note": "Uses: um (preposition for time), halb (half past = 30 min before next hour). halb acht = 7:30."
+    },
+    {
+      "id": 3,
+      "german": "Wann beginnt das Konzert? — Um Viertel nach sieben.",
+      "english": "When does the concert start? — At quarter past seven.",
+      "level": "medium",
+      "note": "Uses: Wann? (question adverb), um + Viertel nach (time expression)."
+    },
+    {
+      "id": 4,
+      "german": "Am Abend gehen wir in die Bar oder ins Restaurant.",
+      "english": "In the evening we go to the bar or the restaurant.",
+      "level": "medium",
+      "note": "Uses: am (preposition with time of day), in (direction), oder (conjunction)."
+    },
+    {
+      "id": 5,
+      "german": "Tut mir leid, heute Abend habe ich keine Lust ins Kino zu gehen.",
+      "english": "I am sorry, I don't feel like going to the cinema this evening.",
+      "level": "complex",
+      "note": "Uses: tut mir leid (phrase), heute (adverb), Keine Lust (phrase); das Kino from Lektion 8."
+    },
+    {
+      "id": 6,
+      "german": "Es ist Viertel vor neun — gehen wir! Bis dann!",
+      "english": "It is quarter to nine — let's go! See you then!",
+      "level": "medium",
+      "note": "Uses: vor (in time expression Viertel vor), Bis dann! (farewell phrase)."
+    },
+    {
+      "id": 7,
+      "german": "Gute Idee! Wir treffen uns um halb drei vor dem Café.",
+      "english": "Good idea! We'll meet at half past two in front of the café.",
+      "level": "complex",
+      "note": "Uses: Gute Idee! (phrase), um (time preposition), halb (half past), vor (before/in front of)."
+    },
+    {
+      "id": 8,
+      "german": "Wann bist du frei? Am Donnerstag oder am Freitag?",
+      "english": "When are you free? On Thursday or on Friday?",
+      "level": "complex",
+      "note": "Uses: Wann? (question adverb), am (with days), oder (conjunction); der Donnerstag, der Freitag from Lektion 8."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ bin ich im Schwimmbad. (today)",
+      "solution": "Heute",
+      "explanation": "'heute' = today. Time adverb; placed at the beginning for emphasis, or after the verb: 'Ich bin heute im Schwimmbad.'"
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Film beginnt ___ 20 Uhr. (at — clock time)",
+      "solution": "um",
+      "explanation": "'um' is used before clock times: 'um 20 Uhr' = at 8 pm."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir gehen ___ Montag ins Kino. (on — with day)",
+      "solution": "am",
+      "explanation": "'am' (an + dem) is used before days of the week: am Montag = on Monday."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ beginnt das Theater? (when?)",
+      "solution": "Wann",
+      "explanation": "'Wann' = when? Question word for time. Used to ask when something happens."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ins Café ___ in die Bar? (or)",
+      "solution": "oder",
+      "explanation": "'oder' = or. Coordinating conjunction linking two alternatives."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Es ist Viertel ___ drei. (past — clock time)",
+      "solution": "nach",
+      "explanation": "'nach' in clock times = past. 'Viertel nach drei' = quarter past three (3:15)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Es ist zehn ___ vier. (to — clock time)",
+      "solution": "vor",
+      "explanation": "'vor' in clock times = to/before. 'zehn vor vier' = ten to four (3:50)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "CAUTION: '___ acht' means 7:30, not 8:30! (half past seven in German)",
+      "solution": "Halb",
+      "explanation": "'halb' in German means 30 minutes BEFORE the stated hour. 'halb acht' = half before eight = 7:30. Spanish: son las siete y media."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ mir leid, aber ich bin am Mittwoch nicht frei. (I am sorry)",
+      "solution": "Tut",
+      "explanation": "'Tut mir leid' = I am sorry. Fixed phrase: tut (3rd person sing. of 'tun') + mir (dative 'me') + leid (sorrow)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Gehen wir ins Museum? — ___ Idee! (Good idea!)",
+      "solution": "Gute",
+      "explanation": "'Gute Idee!' — the adjective 'gut' gets an -e ending before the feminine noun 'Idee' (without article)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich gehe ___ die Disco. (into — movement)",
+      "solution": "in",
+      "explanation": "'in die Disco' (accusative: movement into a place). With feminine nouns, 'in' + accusative → 'in die'."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe ___ Lust. Lass uns ___ Hause bleiben. (no desire / at home — use 'keine' and 'zu')",
+      "solution": "keine / zu",
+      "explanation": "'Keine Lust' = no desire/not in the mood. 'Zu Hause bleiben' = to stay at home (zu Hause = fixed phrase)."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ gehst du ins Schwimmbad — ___ Dienstag ___ Donnerstag? (When / on / or)",
+      "solution": "Wann / am / oder",
+      "explanation": "Wann (when?), am (with days of the week), oder (or). Three 'others' category words in one sentence."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Der Film beginnt ___ halb neun.",
+      "options": ["um", "am", "in"],
+      "solution": "um",
+      "explanation": "'um' is used before clock times. 'am' is for days/parts of day. 'in' is directional."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wir gehen ___ Freitag ins Restaurant.",
+      "options": ["am", "um", "in"],
+      "solution": "am",
+      "explanation": "'am Freitag' = on Friday. 'am' (an + dem) before days of week. 'um' is for clock times."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "'___ halb zehn' means ___.",
+      "options": ["9:30", "10:30", "10:00"],
+      "solution": "9:30",
+      "explanation": "'halb zehn' = half BEFORE ten = 9:30. German 'halb' counts back 30 minutes from the next full hour."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ leid, ich kann heute nicht kommen.",
+      "options": ["Tut mir", "Macht mir", "Gibt mir"],
+      "solution": "Tut mir",
+      "explanation": "'Tut mir leid' is the fixed expression for 'I am sorry'. 'Macht mir leid' and 'Gibt mir leid' do not exist."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Es ist Viertel ___ acht (7:45).",
+      "options": ["vor", "nach", "um"],
+      "solution": "vor",
+      "explanation": "'Viertel vor acht' = quarter to eight = 7:45. 'vor' in time expressions = to/before."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Gehen wir ins Kino ___ ins Theater?",
+      "options": ["oder", "und", "aber"],
+      "solution": "oder",
+      "explanation": "'oder' = or — offering a choice between two options. 'und' = and; 'aber' = but."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Today I am going to the cinema.",
+      "solution": "Heute gehe ich ins Kino.",
+      "explanation": "'heute' = today; placed first for emphasis → verb stays second (gehe); 'ins Kino' = in das Kino."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The museum opens at half past nine.",
+      "solution": "Das Museum öffnet um halb zehn.",
+      "explanation": "'um halb zehn' = at 9:30 (half before ten). Note: 'um' before time expressions."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "When is the café open?",
+      "solution": "Wann ist das Café geöffnet?",
+      "explanation": "'Wann' = when? Question word at the start; verb second: ist; das Café (neut.)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I am sorry, I'm not in the mood.",
+      "solution": "Tut mir leid, ich habe keine Lust.",
+      "explanation": "'Tut mir leid' + 'ich habe keine Lust'. Two Lektion 8 phrases combined."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "When are you free — on Thursday or on Friday?",
+      "solution": "Wann bist du frei — am Donnerstag oder am Freitag?",
+      "explanation": "Wann (question adverb); am + day; oder (conjunction). Classic Lektion 8 scheduling question."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Good idea! Let's go to the disco at quarter past eight.",
+      "solution": "Gute Idee! Lass uns um Viertel nach acht in die Disco gehen.",
+      "explanation": "'Gute Idee!'; 'um Viertel nach acht' = at 8:15; 'in die Disco' (accusative, movement)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "See you then! I'll be there at half past seven.",
+      "solution": "Bis dann! Ich bin um halb acht da.",
+      "explanation": "'Bis dann!' = farewell phrase; 'um halb acht' = at 7:30; 'da sein' = to be there."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Film beginnt am 19 Uhr.",
+      "solution": "Der Film beginnt um 19 Uhr.",
+      "explanation": "Clock times use 'um': 'um 19 Uhr'. 'am' is used with days of the week and parts of the day, not clock times."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Wir gehen um Freitag ins Restaurant.",
+      "solution": "Wir gehen am Freitag ins Restaurant.",
+      "explanation": "'am Freitag' = on Friday. 'am' (an + dem) is used with days. 'um' is only for clock times."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "'Halb zehn' ist 10:30 Uhr. (correct this misconception)",
+      "solution": "'Halb zehn' ist 9:30 Uhr (nicht 10:30).",
+      "explanation": "'halb zehn' = half BEFORE ten = 9:30. This is the most common error for English/Spanish speakers."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Tut mir leid, aber heute Abend habe ich kein Lust.",
+      "solution": "Tut mir leid, aber heute Abend habe ich keine Lust.",
+      "explanation": "'keine Lust' — die Lust is feminine, so 'keine' (not 'kein'). Always: keine Lust."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Es ist zehn nach vor acht.",
+      "solution": "Es ist zehn vor acht.",
+      "explanation": "Use either 'nach' (past) or 'vor' (to/before) but not both together. 'zehn vor acht' = ten to eight (7:50)."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Gut Idee! Wann gehen wir in die Disco?",
+      "solution": "Gute Idee! Wann gehen wir in die Disco?",
+      "explanation": "'Gute Idee!' — the adjective needs an -e ending before the feminine noun 'Idee' (strong inflection without article)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wann gehst du ins Kino — am Donnerstag und am Freitag?",
+      "solution": "Wann gehst du ins Kino — am Donnerstag oder am Freitag?",
+      "explanation": "The question offers a choice (this day OR that day), so 'oder' (or) is correct, not 'und' (and)."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Es ist ___ — das Café schließt ___ 22 Uhr. Gehen wir! (too late / at)",
+      "solution": "zu spät / um",
+      "explanation": "'zu spät' = too late; 'um 22 Uhr' = at 10 pm. 'um' is always used with clock times."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "On Monday evening I go to the bar.",
+      "solution": "Am Montagabend gehe ich in die Bar.",
+      "explanation": "'am Montagabend' = on Monday evening (compound); 'in die Bar' (accusative, feminine)."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich weiß nicht, ___ das Theater öffnet — ___ 19 Uhr ___ 20 Uhr? (when / at / or)",
+      "solution": "wann / um / oder",
+      "explanation": "Wann (question adverb in embedded question); um (before clock time); oder (giving alternatives)."
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "'Viertel nach sechs' ist ___.",
+      "options": ["6:15", "5:45", "6:45"],
+      "solution": "6:15",
+      "explanation": "'Viertel nach sechs' = quarter past six = 6:15. 'nach' = past."
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "'Viertel vor sieben' ist ___.",
+      "options": ["6:45", "7:15", "7:45"],
+      "solution": "6:45",
+      "explanation": "'Viertel vor sieben' = quarter to seven = 6:45. 'vor' = to/before."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Sorry, today I'm not in the mood for the cinema.",
+      "solution": "Tut mir leid, heute habe ich keine Lust auf das Kino.",
+      "explanation": "'Tut mir leid' (apology phrase); 'heute' (today); 'keine Lust auf + accusative' = not in the mood for."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Okay, bis ___! (See you then!)",
+      "solution": "dann",
+      "explanation": "'Bis dann!' = See you then! A farewell phrase used after making plans."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Wann beginnt der Film? — Um am sieben Uhr.",
+      "solution": "Wann beginnt der Film? — Um sieben Uhr.",
+      "explanation": "Use 'um' OR 'am' — not both together. For clock times: 'um sieben Uhr'. 'am' is for days/parts of day."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "It is ten past three. (3:10)",
+      "solution": "Es ist zehn nach drei.",
+      "explanation": "'zehn nach drei' = ten past three = 3:10. Pattern: [minutes] nach [hour]."
+    },
+    {
+      "id": 43,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "It is five to four. (3:55)",
+      "solution": "Es ist fünf vor vier.",
+      "explanation": "'fünf vor vier' = five to four = 3:55. Pattern: [minutes] vor [next hour]."
+    },
+    {
+      "id": 44,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ du ___ Museum, ins Kino ___ ins Theater gehen? (when / into the / or)",
+      "solution": "Wann / ins / oder",
+      "explanation": "Wann (when); ins (in + das — neuter accusative contraction); oder (or — giving multiple alternatives)."
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Tut mir leid — heute bin ich keine frei, ich habe einen Termin.",
+      "solution": "Tut mir leid — heute bin ich nicht frei, ich habe einen Termin.",
+      "explanation": "'nicht frei' = not free/not available. 'keine' negates nouns; 'nicht' negates adjectives and verbs."
+    }
+  ]
+}

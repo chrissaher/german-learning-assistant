@@ -1,0 +1,466 @@
+{
+  "lektion": 6,
+  "focus": "others",
+  "file_slug": "lektion06_others",
+  "generated_at": "2026-03-10T12:03:00",
+  "vocabulary": [
+    {
+      "german": "viel",
+      "base_form": "viel",
+      "english": "much / a lot",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before uncountable nouns (viel Arbeit, viel Zeit) or as an adverb (viel telefonieren). Plural form: viele + countable nouns (viele Termine).",
+      "lektion_source": 6
+    },
+    {
+      "german": "morgen",
+      "base_form": "morgen",
+      "english": "tomorrow",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Time adverb placed at start of sentence or after the verb: Morgen haben wir einen Termin. / Wir haben morgen einen Termin.",
+      "lektion_source": 6
+    },
+    {
+      "german": "leider",
+      "base_form": "leider",
+      "english": "unfortunately",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Expresses regret. Often placed before the negation or in the initial position: Leider habe ich keine Zeit. / Ich habe leider keine Zeit.",
+      "lektion_source": 6
+    },
+    {
+      "german": "dann",
+      "base_form": "dann",
+      "english": "then / after that",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Indicates sequence or consequence: Ich notiere den Termin und dann telefoniere ich. In a sentence-initial position it causes verb inversion.",
+      "lektion_source": 6
+    },
+    {
+      "german": "vielleicht",
+      "base_form": "vielleicht",
+      "english": "maybe / perhaps",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Expresses possibility or suggestion: Vielleicht hat er Zeit morgen. Can open a sentence, causing inversion.",
+      "lektion_source": 6
+    },
+    {
+      "german": "schon wieder",
+      "base_form": "schon wieder",
+      "english": "again / once again (with slight frustration)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed expression conveying repetition often with frustration: Das Passwort ist schon wieder falsch! = The password is wrong again!",
+      "lektion_source": 6
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich habe leider keine Zeit für den Termin morgen.",
+      "english": "Unfortunately I have no time for the appointment tomorrow.",
+      "level": "medium",
+      "note": "Uses: leider (expressing regret) + morgen (time adverb)."
+    },
+    {
+      "id": 2,
+      "german": "Er hat viel Arbeit und dann noch einen langen Termin.",
+      "english": "He has a lot of work and then still a long appointment.",
+      "level": "medium",
+      "note": "Uses: viel (with uncountable noun Arbeit) + dann (sequence)."
+    },
+    {
+      "id": 3,
+      "german": "Vielleicht kann ich morgen mit dir telefonieren.",
+      "english": "Maybe I can talk on the phone with you tomorrow.",
+      "level": "medium",
+      "note": "Uses: vielleicht (possibility) + morgen + telefonieren."
+    },
+    {
+      "id": 4,
+      "german": "Das WLAN-Passwort ist schon wieder falsch!",
+      "english": "The Wi-Fi password is wrong again!",
+      "level": "medium",
+      "note": "Uses: schon wieder (repeated frustration); ist falsch = is wrong."
+    },
+    {
+      "id": 5,
+      "german": "Leider brauche ich viel Zeit für das Projekt, aber morgen bin ich frei.",
+      "english": "Unfortunately I need a lot of time for the project, but tomorrow I am free.",
+      "level": "complex",
+      "note": "Uses: leider, viel + Zeit, morgen — three Lektion 6 function words in one sentence."
+    },
+    {
+      "id": 6,
+      "german": "Ich notiere den Termin und telefoniere dann mit dem Büro.",
+      "english": "I note the appointment and then phone the office.",
+      "level": "medium",
+      "note": "Uses: dann (sequence); note the verb inversion after dann if dann starts the clause."
+    },
+    {
+      "id": 7,
+      "german": "Vielleicht hat sie morgen viele Termine im Büro.",
+      "english": "Maybe she has many appointments at the office tomorrow.",
+      "level": "medium",
+      "note": "Uses: vielleicht, morgen, viele (plural form of viel) + Termine."
+    },
+    {
+      "id": 8,
+      "german": "Der Drucker ist schon wieder kaputt — leider haben wir keinen neuen.",
+      "english": "The printer is broken again — unfortunately we don't have a new one.",
+      "level": "complex",
+      "note": "Uses: schon wieder (frustration) and leider (regret) in the same sentence."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe ___ Hunger! Wann essen wir? (a lot of)",
+      "solution": "viel",
+      "explanation": "viel before uncountable nouns: viel Hunger = a lot of hunger."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ habe ich einen Termin um 10 Uhr. (tomorrow)",
+      "solution": "Morgen",
+      "explanation": "morgen = tomorrow. At the start of sentence, capitalized: Morgen. Verb follows (inversion)."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ habe ich keine Zeit. Es tut mir leid. (unfortunately)",
+      "solution": "Leider",
+      "explanation": "leider = unfortunately. At start of sentence, causes verb inversion: Leider habe ich..."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich brauche einen Stift und ___ einen Kalender. (then / after that)",
+      "solution": "dann",
+      "explanation": "dann = then/after that, indicating sequence."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ hat er keine Zeit. Ich weiß es nicht. (maybe)",
+      "solution": "Vielleicht",
+      "explanation": "vielleicht = maybe/perhaps. Causes verb inversion at start: Vielleicht hat er..."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Passwort ist ___ falsch! Wann funktioniert das WLAN? (again — with frustration)",
+      "solution": "schon wieder",
+      "explanation": "schon wieder = again (with frustration). Das Passwort ist schon wieder falsch!"
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie hat ___ Arbeit und ___ einen Termin. (a lot of / then)",
+      "solution": "viel / dann",
+      "explanation": "viel Arbeit = a lot of work (uncountable); dann = then (sequence)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___ keine Zeit morgen, aber übermorgen geht es. (unfortunately)",
+      "solution": "leider",
+      "explanation": "leider placed before negation or mid-sentence: habe leider keine Zeit."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er hat ___ Termine diese Woche. Er ist sehr beschäftigt. (many)",
+      "solution": "viele",
+      "explanation": "viele = many (plural of viel before countable nouns). viele Termine."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ kann er ___ kommen, wenn er keine Zeit hat. (maybe / tomorrow)",
+      "solution": "Vielleicht / morgen",
+      "explanation": "Vielleicht at start (inversion); morgen = tomorrow (time adverb)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich notiere den Termin und ___ telefoniere ich mit dem Chef. (then)",
+      "solution": "dann",
+      "explanation": "dann in sequence. Note: Dann telefoniere ich — verb inversion after dann if it starts the clause."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ muss ich ___ arbeiten. Das Leben ist manchmal so. (unfortunately / a lot)",
+      "solution": "Leider / viel",
+      "explanation": "Leider at start causes inversion; viel arbeiten = work a lot (adverbial use)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich habe ___ Arbeit heute.",
+      "options": ["viel", "viele", "vielen"],
+      "solution": "viel",
+      "explanation": "viel before uncountable nouns (die Arbeit): viel Arbeit."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ habe ich keinen Termin.",
+      "options": ["Morgen", "Dann", "Leider"],
+      "solution": "Morgen",
+      "explanation": "morgen = tomorrow. Morgen habe ich keinen Termin = Tomorrow I have no appointment."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Tablet ist ___ kaputt. (again, with frustration)",
+      "options": ["schon wieder", "vielleicht", "dann"],
+      "solution": "schon wieder",
+      "explanation": "schon wieder expresses repeated frustration: ist schon wieder kaputt."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ kann ich morgen kommen.",
+      "options": ["Leider", "Vielleicht", "Dann"],
+      "solution": "Vielleicht",
+      "explanation": "vielleicht = maybe. Expresses possibility, not regret (leider) or sequence (dann)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat ___ Termine in der Woche.",
+      "options": ["viel", "viele", "vielleicht"],
+      "solution": "viele",
+      "explanation": "viele before countable plural nouns: viele Termine."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe ___ keine Zeit, aber ___ habe ich frei.",
+      "options": ["leider / morgen", "vielleicht / dann", "morgen / leider"],
+      "solution": "leider / morgen",
+      "explanation": "leider = unfortunately (regret); morgen = tomorrow (time adverb)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Unfortunately I have a lot of work tomorrow.",
+      "solution": "Leider habe ich morgen viel Arbeit.",
+      "explanation": "Leider at start (inversion); morgen = tomorrow; viel Arbeit (uncountable)."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Maybe she can come tomorrow.",
+      "solution": "Vielleicht kann sie morgen kommen.",
+      "explanation": "Vielleicht (inversion) + modal kann + infinitive kommen; morgen = tomorrow."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I note the appointment and then call the office.",
+      "solution": "Ich notiere den Termin und dann rufe ich das Büro an.",
+      "explanation": "dann causes inversion in the second clause: dann rufe ich ... an (anrufen separable)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The printer is broken again. Unfortunately we need a new one.",
+      "solution": "Der Drucker ist schon wieder kaputt. Leider brauchen wir einen neuen.",
+      "explanation": "schon wieder (frustration); leider (regret); einen neuen (Akkusativ masc.)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Maybe tomorrow I will have many appointments, but then I have time.",
+      "solution": "Vielleicht habe ich morgen viele Termine, aber dann habe ich Zeit.",
+      "explanation": "Vielleicht (inversion); morgen; viele Termine; dann (sequence)."
+    },
+    {
+      "id": 24,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Leider ich habe keine Zeit.",
+      "solution": "Leider habe ich keine Zeit.",
+      "explanation": "When leider starts the sentence, the verb moves to position 2 (inversion): Leider habe ich..."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Ich habe vielen Arbeit heute.",
+      "solution": "Ich habe viel Arbeit heute.",
+      "explanation": "viel before uncountable nouns has no ending: viel Arbeit (not vielen)."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Morgen ich habe einen Termin.",
+      "solution": "Morgen habe ich einen Termin.",
+      "explanation": "morgen at start of sentence causes verb inversion: Morgen habe ich..."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Dann ich telefoniere mit dem Chef.",
+      "solution": "Dann telefoniere ich mit dem Chef.",
+      "explanation": "dann at start of sentence causes verb inversion: Dann telefoniere ich..."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Vielleicht er kann morgen kommen.",
+      "solution": "Vielleicht kann er morgen kommen.",
+      "explanation": "vielleicht at start causes inversion: the finite verb (kann) comes before the subject (er)."
+    },
+    {
+      "id": 29,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ___ das dritte Mal! (again — with frustration)",
+      "solution": "schon wieder",
+      "explanation": "schon wieder = again (with exasperation). Das ist schon wieder das dritte Mal!"
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe ___ Glück gehabt. Es hat funktioniert! (a lot of)",
+      "solution": "viel",
+      "explanation": "viel Glück = a lot of luck. Uncountable noun."
+    },
+    {
+      "id": 31,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He has many messages and then a phone call.",
+      "solution": "Er hat viele Nachrichten und dann ein Telefongespräch.",
+      "explanation": "viele Nachrichten (plural, countable); dann (sequence)."
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ viel Arbeit, muss er morgen wieder ins Büro.",
+      "options": ["Weil er", "Leider", "Dann"],
+      "solution": "Weil er",
+      "explanation": "Weil er viel Arbeit (hat) → weil-clause sends verb to end. The sentence means: Because he has a lot of work, he must go to the office again tomorrow."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Ich rufe vielleicht dann morgen an, aber ich bin leider viel beschäftigt.",
+      "solution": "Ich rufe vielleicht morgen an, aber ich bin leider sehr beschäftigt.",
+      "explanation": "vielleicht and dann together is redundant — choose one for possibility. viel (much) modifying an adjective should be sehr (very): sehr beschäftigt."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie hat ___ Zeit für das Projekt. Es dauert lange. (a lot of)",
+      "solution": "viel",
+      "explanation": "viel Zeit = a lot of time. Zeit is uncountable."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Unfortunately the laptop is broken again. Maybe we need a new one tomorrow.",
+      "solution": "Leider ist der Laptop schon wieder kaputt. Vielleicht brauchen wir morgen einen neuen.",
+      "explanation": "Leider (inversion); schon wieder (frustration); Vielleicht (inversion); morgen; einen neuen (Akkusativ masc.)."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ habe ich ___ Termine, aber ___ ist alles gut. (unfortunately / many / then)",
+      "solution": "Leider / viele / dann",
+      "explanation": "Leider habe ich viele Termine (inversion, plural countable); dann ist alles gut."
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er kommt ___ nicht. Er hat keine Zeit.",
+      "options": ["leider", "vielleicht", "schon wieder"],
+      "solution": "leider",
+      "explanation": "leider = unfortunately, expressing regret about not coming."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Maybe we have many appointments tomorrow.",
+      "solution": "Vielleicht haben wir morgen viele Termine.",
+      "explanation": "Vielleicht (inversion); morgen; viele Termine (plural countable)."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat viele Zeit im Büro.",
+      "solution": "Sie hat viel Zeit im Büro.",
+      "explanation": "die Zeit is uncountable: viel Zeit (not viele)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er hat ___ angerufen und ___ eine Nachricht geschickt. (first / then)",
+      "solution": "zuerst / dann",
+      "explanation": "zuerst = first; dann = then. Sequence: He first called, then sent a message."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Then he calls and notes the appointment.",
+      "solution": "Dann ruft er an und notiert den Termin.",
+      "explanation": "dann at start causes inversion: Dann ruft er an (anrufen separable: prefix an goes to end)."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das WLAN-Passwort ist ___ falsch, und ___ brauche ich ___ Zeit, um es zu finden. (again / unfortunately / a lot of)",
+      "solution": "schon wieder / leider / viel",
+      "explanation": "schon wieder (frustration); leider (regret); viel Zeit (uncountable)."
+    }
+  ]
+}

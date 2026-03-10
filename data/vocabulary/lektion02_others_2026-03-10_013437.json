@@ -1,0 +1,652 @@
+{
+  "lektion": 2,
+  "focus": "others",
+  "file_slug": "lektion02_others",
+  "generated_at": "2026-03-10T01:34:37",
+  "vocabulary": [
+    {
+      "german": "hier",
+      "base_form": "hier",
+      "english": "here",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Points to a place near the speaker: Mein Stift ist hier (My pen is here). Contrast: dort/da (there).",
+      "lektion_source": 2
+    },
+    {
+      "german": "dort",
+      "base_form": "dort",
+      "english": "there / over there",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Points to a place away from the speaker: Das Hotel ist dort (The hotel is over there). Synonym: da.",
+      "lektion_source": 2
+    },
+    {
+      "german": "da",
+      "base_form": "da",
+      "english": "there / here",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Flexible: means 'there' or 'here' depending on context. Very common in spoken German: Schau mal da! (Look there!).",
+      "lektion_source": 2
+    },
+    {
+      "german": "auch",
+      "base_form": "auch",
+      "english": "also / too / as well",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Placed after the verb or before the element it modifies: Ich habe auch ein Heft (I also have a notebook).",
+      "lektion_source": 2
+    },
+    {
+      "german": "noch",
+      "base_form": "noch",
+      "english": "still / yet / another",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Multiple meanings: 'still' (Ich bin noch hier), 'yet' (Noch nicht fertig), 'another' (Noch einen Kaffee?).",
+      "lektion_source": 2
+    },
+    {
+      "german": "schon",
+      "base_form": "schon",
+      "english": "already",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used to indicate something happened earlier than expected: Ich bin schon fertig (I'm already done).",
+      "lektion_source": 2
+    },
+    {
+      "german": "nicht",
+      "base_form": "nicht",
+      "english": "not",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "The standard negation word. Placed before adjectives/adverbs, after objects: Das ist nicht richtig. Ich habe das Heft nicht.",
+      "lektion_source": 2
+    },
+    {
+      "german": "sehr",
+      "base_form": "sehr",
+      "english": "very",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Intensifier placed directly before adjectives or adverbs: sehr gut, sehr schön, sehr teuer.",
+      "lektion_source": 2
+    },
+    {
+      "german": "leider",
+      "base_form": "leider",
+      "english": "unfortunately",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Expresses regret: Leider habe ich kein Geld (Unfortunately I have no money). Often at the start of a sentence.",
+      "lektion_source": 2
+    },
+    {
+      "german": "nur",
+      "base_form": "nur",
+      "english": "only / just",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Restricts meaning: Ich habe nur einen Stift (I only have one pen). Spanish cognate: 'solo/solamente'.",
+      "lektion_source": 2
+    },
+    {
+      "german": "viel",
+      "base_form": "viel",
+      "english": "much / a lot",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before uncountable nouns or as adverb: Er hat viel Zeit. Ich lerne viel. Plural: viele (many).",
+      "lektion_source": 2
+    },
+    {
+      "german": "viele",
+      "base_form": "viele",
+      "english": "many",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before countable plural nouns: Ich habe viele Bücher (I have many books). Singular: viel.",
+      "lektion_source": 2
+    },
+    {
+      "german": "oder",
+      "base_form": "oder",
+      "english": "or",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction (connects two alternatives): Hast du ein Heft oder ein Buch? Same structure as Spanish 'o'.",
+      "lektion_source": 2
+    },
+    {
+      "german": "aber",
+      "base_form": "aber",
+      "english": "but / however",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction (contrast): Das Handy ist neu, aber teuer. Spanish: 'pero'. No word order change after aber.",
+      "lektion_source": 2
+    },
+    {
+      "german": "weil",
+      "base_form": "weil",
+      "english": "because",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Subordinating conjunction — sends verb to end of clause: Ich lerne Deutsch, weil ich nach Berlin reise. Spanish: 'porque'.",
+      "lektion_source": 2
+    },
+    {
+      "german": "auf",
+      "base_form": "auf",
+      "english": "on / on top of / onto",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Two-way preposition: Dativ for location (Das Buch liegt auf dem Tisch) vs. Akkusativ for movement (Ich lege das Buch auf den Tisch).",
+      "lektion_source": 2
+    },
+    {
+      "german": "in",
+      "base_form": "in",
+      "english": "in / into",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Two-way preposition: Dativ for location (in der Tasche) vs. Akkusativ for movement (in die Tasche legen). Spanish: 'en/hacia'.",
+      "lektion_source": 2
+    },
+    {
+      "german": "neben",
+      "base_form": "neben",
+      "english": "next to / beside",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Two-way preposition: Dativ for location (neben dem Tisch) vs. Akkusativ for movement (Er stellt es neben den Tisch).",
+      "lektion_source": 2
+    },
+    {
+      "german": "wo",
+      "base_form": "wo",
+      "english": "where",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Question word for location: Wo ist mein Schlüssel? (Where is my key?). Contrast: wohin (where to — direction).",
+      "lektion_source": 2
+    },
+    {
+      "german": "was",
+      "base_form": "was",
+      "english": "what",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Question pronoun for things: Was ist das? (What is that?). Nominativ/Akkusativ: was; no genitive at A1 level.",
+      "lektion_source": 2
+    },
+    {
+      "german": "mein / meine",
+      "base_form": "mein",
+      "english": "my",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive pronoun (1st person singular). Masculine/Neuter Nominativ: mein; Feminine Nominativ: meine. Follows the same endings as ein/eine.",
+      "lektion_source": 2
+    },
+    {
+      "german": "Das stimmt!",
+      "base_form": "Das stimmt",
+      "english": "That's right! / That's correct!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used to confirm something said by someone else. Very common in conversation: A: Das Buch kostet zehn Euro. B: Das stimmt!",
+      "lektion_source": 2
+    },
+    {
+      "german": "Entschuldigung!",
+      "base_form": "Entschuldigung",
+      "english": "Excuse me! / Sorry!",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to get someone's attention or to apologize. Essential travel phrase: Entschuldigung, wo ist das Hotel?",
+      "lektion_source": 2
+    },
+    {
+      "german": "Wie bitte?",
+      "base_form": "Wie bitte",
+      "english": "Pardon? / Could you repeat that?",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used when you didn't hear or understand something. More polite than just saying 'Was?' in German-speaking countries.",
+      "lektion_source": 2
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Mein Handy ist nicht hier — vielleicht ist es in der Tasche.",
+      "english": "My mobile phone is not here — maybe it's in the bag.",
+      "level": "medium",
+      "note": "Uses: hier, nicht, in (Lektion 2 focus); mein Handy, die Tasche (Lektion 2 nouns)."
+    },
+    {
+      "id": 2,
+      "german": "Das Buch ist sehr teuer, aber ich brauche es für den Kurs.",
+      "english": "The book is very expensive, but I need it for the class.",
+      "level": "medium",
+      "note": "Uses: sehr, aber (Lektion 2 focus); das Buch (Lektion 2 noun); aber as coordinating conjunction."
+    },
+    {
+      "id": 3,
+      "german": "Hast du einen Stift oder einen Kugelschreiber? Ich brauche nur einen.",
+      "english": "Do you have a pencil or a ballpoint pen? I only need one.",
+      "level": "medium",
+      "note": "Uses: oder, nur (Lektion 2 focus); der Stift, der Kugelschreiber (Lektion 2 nouns)."
+    },
+    {
+      "id": 4,
+      "german": "Ich lerne viel Deutsch, weil ich nach Wien reisen möchte.",
+      "english": "I study a lot of German because I want to travel to Vienna.",
+      "level": "complex",
+      "note": "Uses: viel, weil (Lektion 2 focus); weil sends verb to end of clause; nach Wien (destination)."
+    },
+    {
+      "id": 5,
+      "german": "Das Lineal liegt leider nicht dort, wo es sein sollte.",
+      "english": "The ruler is unfortunately not there where it should be.",
+      "level": "complex",
+      "note": "Uses: leider, nicht, dort, wo (Lektion 2 focus); das Lineal (Lektion 2 noun)."
+    },
+    {
+      "id": 6,
+      "german": "Ich habe auch einen alten Ausweis in der Tasche gefunden.",
+      "english": "I also found an old ID card in the bag.",
+      "level": "complex",
+      "note": "Uses: auch, in (Lektion 2 focus); der Ausweis, die Tasche (Lektion 2 nouns); Perfekt: habe gefunden."
+    },
+    {
+      "id": 7,
+      "german": "Das Buch liegt auf dem Tisch — schau mal da!",
+      "english": "The book is on the table — look there!",
+      "level": "medium",
+      "note": "Uses: auf, da (Lektion 2 focus); auf dem Tisch (Dativ for location)."
+    },
+    {
+      "id": 8,
+      "german": "Entschuldigung, wo ist das Hotel? Ich bin noch nicht dort.",
+      "english": "Excuse me, where is the hotel? I'm not there yet.",
+      "level": "complex",
+      "note": "Uses: Entschuldigung, wo, noch, dort (Lektion 2 focus); essential travel phrase."
+    },
+    {
+      "id": 9,
+      "german": "Ich habe schon ein Wörterbuch, aber ich möchte noch ein Heft kaufen.",
+      "english": "I already have a dictionary, but I would like to buy another notebook.",
+      "level": "complex",
+      "note": "Uses: schon, aber, noch (Lektion 2 focus); das Wörterbuch, das Heft (Lektion 2 nouns); modal möchte."
+    },
+    {
+      "id": 10,
+      "german": "Was ist das? — Das stimmt! Das ist mein Schlüssel!",
+      "english": "What is that? — That's right! That's my key!",
+      "level": "medium",
+      "note": "Uses: was, Das stimmt (Lektion 2 focus); der Schlüssel (Lektion 2 noun); mein (possessive)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ ist mein Handy? Ich kann es nicht finden! (where)",
+      "solution": "Wo",
+      "explanation": "wo = where (question word for location). Not to be confused with wohin (where to — direction)."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Buch ist ___ auf dem Tisch. (not)",
+      "solution": "nicht",
+      "explanation": "nicht = not. Placed after the verb + subject, before the adjective or adverb it negates."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Stift ist ___. Schau, er liegt da! (here / there — 'over there')",
+      "solution": "dort",
+      "explanation": "dort = there/over there. Points to a location away from the speaker. Synonym: da."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Die Kamera ist ___ teuer. Ich kann sie nicht kaufen. (very)",
+      "solution": "sehr",
+      "explanation": "sehr = very. Intensifier placed before the adjective: sehr teuer."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist mein Rucksack — ___ das dein Rucksack? (or)",
+      "solution": "oder",
+      "explanation": "oder = or. Coordinating conjunction connecting two alternatives. No word order change."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Buch liegt ___ dem Tisch. (on — with Dativ for location)",
+      "solution": "auf",
+      "explanation": "auf + Dativ for location (no movement): auf dem Tisch. Use Akkusativ (auf den Tisch) only for movement."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___ eine Tasche, aber ich brauche noch eine. (already)",
+      "solution": "schon",
+      "explanation": "schon = already. Indicates something happened earlier than expected: Ich habe schon eine Tasche."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er hat ___ Bücher in seinem Rucksack. (many — countable plural)",
+      "solution": "viele",
+      "explanation": "viele = many (countable plural). viel = much/a lot (uncountable or adverb)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Handy ist teuer, ___ es ist sehr praktisch. (but)",
+      "solution": "aber",
+      "explanation": "aber = but/however. Coordinating conjunction — normal word order in the clause after aber."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich lerne Deutsch, ___ ich nach Deutschland reisen möchte. (because)",
+      "solution": "weil",
+      "explanation": "weil = because. Subordinating conjunction: sends the verb to the end of the clause."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Kamera ist ___ in der Tasche, ___ nicht im Rucksack. (not ... but also)",
+      "solution": "nicht / sondern",
+      "explanation": "nicht ... sondern = not ... but rather. A common construction to correct a false statement. (sondern is the contrastive 'but'.)"
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich lege das Buch ___ den Tisch (onto — movement, Akkusativ).",
+      "solution": "auf",
+      "explanation": "auf + Akkusativ for movement/placement onto a surface: auf den Tisch. Contrast: auf dem Tisch (Dativ, location)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Handy ist ___ sehr teuer.",
+      "options": ["a) leider", "b) oder", "c) weil"],
+      "solution": "a) leider",
+      "explanation": "leider = unfortunately. It fits the sense of regret. oder and weil are conjunctions, not adverbs."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich habe ___ ein Wörterbuch. Ich brauche kein neues.",
+      "options": ["a) schon", "b) noch", "c) leider"],
+      "solution": "a) schon",
+      "explanation": "schon = already. 'I already have a dictionary' explains why no new one is needed."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ ist meine Brille? Ich sehe ohne sie nichts!",
+      "options": ["a) Was", "b) Wo", "c) Weil"],
+      "solution": "b) Wo",
+      "explanation": "wo = where (location). was = what; weil = because (conjunction, not a question word here)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Heft liegt ___ dem Tisch. (location, not movement)",
+      "options": ["a) auf", "b) auf den", "c) neben den"],
+      "solution": "a) auf",
+      "explanation": "auf + Dativ (dem) for location. 'auf' alone with the correct article dem. 'auf den' = Akkusativ (movement)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich lerne Deutsch, ___ ich in Deutschland arbeiten möchte.",
+      "options": ["a) aber", "b) oder", "c) weil"],
+      "solution": "c) weil",
+      "explanation": "weil = because. It introduces a cause/reason. The verb (möchte) moves to the end of the clause."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ hat er gesagt? Ich habe es nicht gehört.",
+      "options": ["a) Wo", "b) Was", "c) Weil"],
+      "solution": "b) Was",
+      "explanation": "was = what. Used to ask about the content of speech. 'Wo' asks about location."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ einen Stift in der Tasche. (also)",
+      "options": ["a) noch", "b) auch", "c) sehr"],
+      "solution": "b) auch",
+      "explanation": "auch = also/too. 'I also have a pen in the bag.' auch goes after the verb in typical position."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Fahrrad steht ___ dem Hotel. (next to — location)",
+      "options": ["a) neben", "b) auf", "c) in"],
+      "solution": "a) neben",
+      "explanation": "neben = next to/beside. With Dativ for location: neben dem Hotel."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My key is not here. It is there.",
+      "solution": "Mein Schlüssel ist nicht hier. Er ist dort.",
+      "explanation": "nicht = not (negation). hier = here; dort = there. mein Schlüssel (masculine Nominativ)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Unfortunately the dictionary is very expensive.",
+      "solution": "Leider ist das Wörterbuch sehr teuer.",
+      "explanation": "leider at sentence start triggers verb-first order (inversion): leider ist... sehr = very (intensifier). teuer = expensive."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The book is on the table. (location)",
+      "solution": "Das Buch liegt auf dem Tisch.",
+      "explanation": "auf + Dativ (dem Tisch) for location. liegen = to lie (horizontal position)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Excuse me, where is the train station?",
+      "solution": "Entschuldigung, wo ist der Bahnhof?",
+      "explanation": "Entschuldigung = excuse me (interjection). wo = where. der Bahnhof = the train station (masculine)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I need a dictionary because I don't speak German well.",
+      "solution": "Ich brauche ein Wörterbuch, weil ich nicht gut Deutsch spreche.",
+      "explanation": "weil sends verb (spreche) to end. nicht before the adverb gut. ein Wörterbuch (neuter Akkusativ)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I already have a bag, but I also want a backpack.",
+      "solution": "Ich habe schon eine Tasche, aber ich möchte auch einen Rucksack.",
+      "explanation": "schon = already; aber = but (coordinating: normal word order); auch = also. eine Tasche (fem Akkusativ); einen Rucksack (masc Akkusativ)."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "What is that? — Pardon? Could you repeat that?",
+      "solution": "Was ist das? — Wie bitte?",
+      "explanation": "was = what. Wie bitte? = Pardon? (polite way to ask for repetition in German)."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He has many things in his backpack. It is very heavy.",
+      "solution": "Er hat viele Sachen in seinem Rucksack. Er ist sehr schwer.",
+      "explanation": "viele = many (countable plural). in seinem Rucksack: Dativ (location). sehr schwer: intensifier + adjective."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Das Buch liegt auf den Tisch.",
+      "solution": "Das Buch liegt auf dem Tisch.",
+      "explanation": "liegen indicates location (no movement) → Dativ: auf dem Tisch (not Akkusativ auf den Tisch)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Ich habe viele Zeit.",
+      "solution": "Ich habe viel Zeit.",
+      "explanation": "Zeit (time) is a feminine singular noun. With uncountable nouns, use viel (not viele, which is for countable plurals)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Ich lerne Deutsch, weil ich nach Wien reise möchte.",
+      "solution": "Ich lerne Deutsch, weil ich nach Wien reisen möchte.",
+      "explanation": "After weil (subordinating conjunction), the finite verb (möchte) goes last: ... reisen möchte. The infinitive stays before the auxiliary."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Das Handy ist sehr teuer, aber ich sie kaufe.",
+      "solution": "Das Handy ist sehr teuer, aber ich kaufe sie.",
+      "explanation": "After aber (coordinating conjunction), normal verb-second word order applies: ich kaufe sie (subject-verb-object)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ich lege das Buch auf dem Tisch.",
+      "solution": "Ich lege das Buch auf den Tisch.",
+      "explanation": "legen (to place/lay) indicates movement → Akkusativ: auf den Tisch. auf dem Tisch (Dativ) would be for static position."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Wo ist meine Schlüssel?",
+      "solution": "Wo ist mein Schlüssel?",
+      "explanation": "der Schlüssel is masculine. Possessive in masculine Nominativ: mein (not meine, which is feminine/plural)."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Sehr schön ist das Foto!",
+      "solution": "Das Foto ist sehr schön! (or: Das ist ein sehr schönes Foto!)",
+      "explanation": "While inversion is possible in German for emphasis, the most natural A1 word order is subject-verb-adjective. sehr schön leading can sound unnatural at A1 level."
+    },
+    {
+      "id": 36,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___, wo ist der Bahnhof? (Excuse me!)",
+      "solution": "Entschuldigung",
+      "explanation": "Entschuldigung = excuse me. Essential travel interjection to get someone's attention politely."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er stellt die Tasche ___ den Tisch. (next to — movement, Akkusativ)",
+      "solution": "neben",
+      "explanation": "neben + Akkusativ for movement: neben den Tisch. For location (Dativ): neben dem Tisch."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Only one pen is in the bag. Unfortunately I need more.",
+      "solution": "Nur ein Stift ist in der Tasche. Leider brauche ich mehr.",
+      "explanation": "nur = only. in der Tasche: Dativ (location). leider at the start triggers inversion: leider brauche ich."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Buch liegt ___ dem Rucksack. (inside — location)",
+      "options": ["a) auf", "b) in", "c) neben"],
+      "solution": "b) in",
+      "explanation": "in + Dativ for location (inside): in dem → im Rucksack. auf = on top; neben = next to."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I only have one notebook. It is still new.",
+      "solution": "Ich habe nur ein Heft. Es ist noch neu.",
+      "explanation": "nur = only; noch = still. das Heft → ein Heft (neuter Akkusativ). es (neuter pronoun for das Heft)."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Ich habe viele Zeit und viel Bücher.",
+      "solution": "Ich habe viel Zeit und viele Bücher.",
+      "explanation": "viel before uncountable Zeit (singular feminine). viele before countable Bücher (plural). The two must be swapped."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "A: Mein Stift kostet 50 Euro! B: ___ — das ist zu teuer! (That's right!)",
+      "solution": "Das stimmt",
+      "explanation": "Das stimmt = That's right/correct. Common agreement phrase in German conversation."
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe das ___ nicht gehört. Was haben Sie gesagt?",
+      "options": ["a) Wie bitte", "b) Entschuldigung", "c) Da"],
+      "solution": "a) Wie bitte",
+      "explanation": "Wie bitte? = Pardon? Used when you didn't hear or understand. Here it's referenced as a phrase in a sentence."
+    }
+  ]
+}

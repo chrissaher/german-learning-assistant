@@ -1,0 +1,422 @@
+{
+  "lektion": 6,
+  "focus": "adjectives",
+  "file_slug": "lektion06_adjectives",
+  "generated_at": "2026-03-10T12:02:00",
+  "vocabulary": [
+    {
+      "german": "neu",
+      "base_form": "neu",
+      "english": "new",
+      "word_type": "adjective",
+      "antonym": "alt",
+      "cognate_note": "English cognate: 'new' is not directly related, but compare French 'nouveau'. Spanish: 'nuevo' is a false friend in gender — both mean new.",
+      "lektion_source": 6
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Der Laptop ist neu, aber der Drucker ist schon alt.",
+      "english": "The laptop is new, but the printer is already old.",
+      "level": "medium",
+      "note": "Uses: neu (Lektion 6 adjective) contrasted with antonym alt."
+    },
+    {
+      "id": 2,
+      "german": "Sie hat eine neue Visitenkarte und ein neues Tablet.",
+      "english": "She has a new business card and a new tablet.",
+      "level": "medium",
+      "note": "Uses: neu with adjective endings — neue (fem. Akkusativ), neues (neut. Akkusativ)."
+    },
+    {
+      "id": 3,
+      "german": "Das Büro ist neu und sehr modern, mit einem großen Bildschirm.",
+      "english": "The office is new and very modern, with a large monitor.",
+      "level": "medium",
+      "note": "Uses: neu in predicative position (ist neu). großen = adjective with Dativ ending."
+    },
+    {
+      "id": 4,
+      "german": "Er braucht einen neuen Computer, weil der alte kaputt ist.",
+      "english": "He needs a new computer because the old one is broken.",
+      "level": "complex",
+      "note": "Uses: neuen (Akkusativ masc.) and old = alt; weil-clause."
+    },
+    {
+      "id": 5,
+      "german": "Die neue Tastatur liegt auf dem Schreibtisch neben dem alten Drucker.",
+      "english": "The new keyboard is on the desk next to the old printer.",
+      "level": "complex",
+      "note": "Uses: neue (Nominativ fem.) and alten (Dativ masc.) — adjective endings change by case."
+    },
+    {
+      "id": 6,
+      "german": "Ich habe eine neue Nachricht im Büro bekommen.",
+      "english": "I received a new message at the office.",
+      "level": "medium",
+      "note": "Uses: neue Nachricht (Akkusativ fem.); Perfekt bekommen."
+    },
+    {
+      "id": 7,
+      "german": "Das neue Passwort ist schwer zu merken.",
+      "english": "The new password is hard to remember.",
+      "level": "medium",
+      "note": "Uses: neue (Nominativ neut.) with definite article das."
+    },
+    {
+      "id": 8,
+      "german": "Mit dem neuen Laptop kann ich viel schneller im Büro arbeiten.",
+      "english": "With the new laptop I can work much faster in the office.",
+      "level": "complex",
+      "note": "Uses: neuen (Dativ masc.); schneller = comparative; können + infinitive."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Laptop ist ___. (new)",
+      "solution": "neu",
+      "explanation": "neu = new. In predicative position (after sein), adjectives have no ending: ist neu."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'neu' ist ___. (What is the antonym of 'new'?)",
+      "solution": "alt",
+      "explanation": "The antonym of neu (new) is alt (old)."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie hat einen ___ Computer. (new — masculine Akkusativ)",
+      "solution": "neuen",
+      "explanation": "Akkusativ masculine with indefinite article: einen neuen Computer."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist eine ___ Tastatur. (new — feminine Nominativ)",
+      "solution": "neue",
+      "explanation": "Nominativ feminine with indefinite article: eine neue Tastatur."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er arbeitet mit dem ___ Laptop. (new — masculine Dativ)",
+      "solution": "neuen",
+      "explanation": "Dativ masculine with definite article: dem neuen Laptop."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich brauche ein ___ Passwort. (new — neuter Akkusativ)",
+      "solution": "neues",
+      "explanation": "Akkusativ neuter with indefinite article: ein neues Passwort."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die ___ Visitenkarten liegen auf dem ___ Schreibtisch. (new / new — plural / Dativ masc.)",
+      "solution": "neuen / neuen",
+      "explanation": "Plural Nominativ with definite article: die neuen Visitenkarten. Dativ masc. with definite article: dem neuen Schreibtisch."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich brauche ein ___ Büro, weil das ___ zu klein ist. (new / old)",
+      "solution": "neues / alte",
+      "explanation": "ein neues Büro (Akkusativ neut.); das alte Büro (Nominativ neut. with definite article)."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Der Computer ist ___.",
+      "options": ["neu", "neue", "neuen"],
+      "solution": "neu",
+      "explanation": "Predicative adjective (after sein) has no ending: Der Computer ist neu."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe einen ___ Drucker gekauft.",
+      "options": ["neu", "neue", "neuen"],
+      "solution": "neuen",
+      "explanation": "Akkusativ masculine with indefinite article: einen neuen Drucker."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das ist eine ___ Nachricht.",
+      "options": ["neu", "neue", "neuen"],
+      "solution": "neue",
+      "explanation": "Nominativ/Akkusativ feminine with indefinite article: eine neue Nachricht."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er arbeitet mit dem ___ Computer im Büro.",
+      "options": ["neue", "neuen", "neues"],
+      "solution": "neuen",
+      "explanation": "Dativ masculine with definite article: dem neuen Computer."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "What is the antonym of 'neu'?",
+      "options": ["alt", "groß", "schön"],
+      "solution": "alt",
+      "explanation": "neu = new ↔ alt = old."
+    },
+    {
+      "id": 14,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The office is new and very modern.",
+      "solution": "Das Büro ist neu und sehr modern.",
+      "explanation": "Predicative adjective: ist neu (no ending). sehr modern = very modern."
+    },
+    {
+      "id": 15,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She has a new business card.",
+      "solution": "Sie hat eine neue Visitenkarte.",
+      "explanation": "Akkusativ feminine: eine neue Visitenkarte."
+    },
+    {
+      "id": 16,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I need a new password.",
+      "solution": "Ich brauche ein neues Passwort.",
+      "explanation": "Akkusativ neuter with indefinite article: ein neues Passwort."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He needs a new computer because the old one is broken.",
+      "solution": "Er braucht einen neuen Computer, weil der alte kaputt ist.",
+      "explanation": "neuen (Akkusativ masc.); weil-clause with der alte (Nominativ masc. with definite article)."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The new keyboard is on the desk next to the old monitor.",
+      "solution": "Die neue Tastatur liegt auf dem Schreibtisch neben dem alten Bildschirm.",
+      "explanation": "neue (Nominativ fem.); alten (Dativ masc.); liegen + auf + Dativ."
+    },
+    {
+      "id": 19,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Laptop ist neuen.",
+      "solution": "Der Laptop ist neu.",
+      "explanation": "Predicative adjective after sein has no ending: ist neu, not ist neuen."
+    },
+    {
+      "id": 20,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe eine neuen Visitenkarte.",
+      "solution": "Ich habe eine neue Visitenkarte.",
+      "explanation": "Akkusativ feminine with indefinite article: eine neue Visitenkarte (not neuen)."
+    },
+    {
+      "id": 21,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das ist ein neue Büro.",
+      "solution": "Das ist ein neues Büro.",
+      "explanation": "Nominativ neuter with indefinite article: ein neues Büro (not neue)."
+    },
+    {
+      "id": 22,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir arbeiten in dem neue Büro mit den neue Computer.",
+      "solution": "Wir arbeiten in dem neuen Büro mit dem neuen Computer.",
+      "explanation": "Dativ adjective ending is always -en: dem neuen Büro, dem neuen Computer."
+    },
+    {
+      "id": 23,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Tablet ist ___, aber die Maus ist ___. (new / old)",
+      "solution": "neu / alt",
+      "explanation": "Predicative adjectives after sein have no ending: ist neu, ist alt."
+    },
+    {
+      "id": 24,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ich habe das ___ Passwort vergessen. Kannst du mir ein ___ geben? (old / new)",
+      "solution": "alte / neues",
+      "explanation": "das alte Passwort (Akkusativ neut. with definite article → alten would also be acceptable); ein neues (Akkusativ neut.)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The new message is from the office.",
+      "solution": "Die neue Nachricht ist vom Büro.",
+      "explanation": "Nominativ feminine: Die neue Nachricht. vom = von + dem."
+    },
+    {
+      "id": 26,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er hat einen ___ Termin im Kalender. (new)",
+      "solution": "neuen",
+      "explanation": "einen neuen Termin — Akkusativ masculine."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich habe das ___ Büro noch nicht gesehen.",
+      "options": ["neu", "neue", "neues"],
+      "solution": "neue",
+      "explanation": "Akkusativ neuter with definite article das: das neue Büro."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "With the new tablet, she can work anywhere.",
+      "solution": "Mit dem neuen Tablet kann sie überall arbeiten.",
+      "explanation": "Dativ neuter with definite article: dem neuen Tablet; überall = anywhere."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er hat ein neuen Tablet.",
+      "solution": "Er hat ein neues Tablet.",
+      "explanation": "Akkusativ neuter with indefinite article: ein neues Tablet (not neuen)."
+    },
+    {
+      "id": 30,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Mein Kollege hat einen ___ Laptop und eine ___ Tastatur. (new / new)",
+      "solution": "neuen / neue",
+      "explanation": "einen neuen Laptop (Akkusativ masc.); eine neue Tastatur (Akkusativ fem.)."
+    },
+    {
+      "id": 31,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Is the printer new or old?",
+      "solution": "Ist der Drucker neu oder alt?",
+      "explanation": "Predicative adjectives: neu and alt without endings. oder = or."
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat eine ___ Stelle bekommen.",
+      "options": ["neu", "neue", "neues"],
+      "solution": "neue",
+      "explanation": "Akkusativ feminine with indefinite article: eine neue Stelle."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Die neu Nachrichten sind sehr wichtig.",
+      "solution": "Die neuen Nachrichten sind sehr wichtig.",
+      "explanation": "Plural nominative with definite article: die neuen Nachrichten (adjective ending -en)."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Büro ist ___ und modern. (new)",
+      "solution": "neu",
+      "explanation": "Predicative adjective: ist neu. No ending needed."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I have a new dream: a new office with new computers.",
+      "solution": "Ich habe einen neuen Traum: ein neues Büro mit neuen Computern.",
+      "explanation": "neuen Traum (Akkusativ masc.); neues Büro (Akkusativ/Nominativ neut.); neuen Computern (Dativ plural)."
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir arbeiten mit ___ Computern.",
+      "options": ["neu", "neue", "neuen"],
+      "solution": "neuen",
+      "explanation": "Dativ plural: always -en ending. mit neuen Computern."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist mein ___ Stift. Der ___ liegt noch auf dem Tisch. (new / old)",
+      "solution": "neuer / alte",
+      "explanation": "mein neuer Stift (Nominativ masc. with possessive); der alte (Nominativ masc. with definite article)."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The new calendar has all my appointments.",
+      "solution": "Der neue Kalender hat alle meine Termine.",
+      "explanation": "Nominativ masculine with definite article: Der neue Kalender."
+    },
+    {
+      "id": 39,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe ein alte Problem mit dem Computer.",
+      "solution": "Ich habe ein altes Problem mit dem Computer.",
+      "explanation": "Akkusativ neuter with indefinite article: ein altes Problem (not alte)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie schickt mir eine ___ Nachricht über ihren ___ Job. (new / new)",
+      "solution": "neue / neuen",
+      "explanation": "eine neue Nachricht (Akkusativ fem.); ihren neuen Job (Akkusativ masc. with possessive)."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er braucht ein ___ Büro.",
+      "options": ["neu", "neue", "neues"],
+      "solution": "neues",
+      "explanation": "Akkusativ neuter with indefinite article: ein neues Büro."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She works in a new office with a new computer and a new monitor.",
+      "solution": "Sie arbeitet in einem neuen Büro mit einem neuen Computer und einem neuen Bildschirm.",
+      "explanation": "All three nouns are in Dativ (in einem, mit einem): neuen Büro (neut.), neuen Computer (masc.), neuen Bildschirm (masc.)."
+    }
+  ]
+}
