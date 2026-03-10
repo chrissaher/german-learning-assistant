@@ -1,0 +1,446 @@
+{
+  "lektion": 1,
+  "focus": "adjectives",
+  "file_slug": "lektion01_adjectives",
+  "generated_at": "2026-03-10T12:02:00",
+  "vocabulary": [
+    {
+      "german": "gut",
+      "base_form": "gut",
+      "english": "good / well",
+      "word_type": "adjective",
+      "antonym": "schlecht",
+      "cognate_note": "English 'good' and German 'gut' are distant cognates. Spanish 'bueno' is unrelated. False friend: 'gut' does not mean 'gut' (intestine) in German.",
+      "lektion_source": 1
+    },
+    {
+      "german": "bekannt",
+      "base_form": "bekannt",
+      "english": "known / famous / well-known",
+      "word_type": "adjective",
+      "antonym": "unbekannt",
+      "cognate_note": "From the verb 'kennen' (to know). In the text: 'bekannte Persönlichkeit' = celebrity (well-known personality).",
+      "lektion_source": 1
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Sehr gut, danke! Und wie geht es dir?",
+      "english": "Very well, thank you! And how are you?",
+      "level": "medium",
+      "note": "Uses: gut as adverb/adjective in greeting. 'Sehr gut' is a key Lektion 1 phrase."
+    },
+    {
+      "id": 2,
+      "german": "Gut, danke — aber nicht so gut heute.",
+      "english": "Fine, thanks — but not so well today.",
+      "level": "medium",
+      "note": "Uses: gut, contrasted with 'nicht so gut'. Both from Lektion 1 greeting phrases."
+    },
+    {
+      "id": 3,
+      "german": "Sie ist eine bekannte Persönlichkeit aus Deutschland.",
+      "english": "She is a well-known personality from Germany.",
+      "level": "medium",
+      "note": "Uses: bekannt as attributive adjective before feminine noun (Persönlichkeit)."
+    },
+    {
+      "id": 4,
+      "german": "Der Name ist sehr bekannt in Europa.",
+      "english": "The name is very well-known in Europe.",
+      "level": "medium",
+      "note": "Uses: bekannt as predicate adjective (after 'sein'). No inflection in this position."
+    },
+    {
+      "id": 5,
+      "german": "Sein Familienname ist gut — sehr einfach zu buchstabieren.",
+      "english": "His last name is good — very easy to spell.",
+      "level": "complex",
+      "note": "Uses: gut as predicate adjective. Verb 'buchstabieren' from Lektion 1."
+    },
+    {
+      "id": 6,
+      "german": "Das Gespräch war sehr gut und sie sind gute Freunde.",
+      "english": "The conversation was very good and they are good friends.",
+      "level": "complex",
+      "note": "Uses: gut as predicate and as attributive adjective (gute Freunde — plural, no article)."
+    },
+    {
+      "id": 7,
+      "german": "Ist Herr Müller bekannt? — Ja, er ist sehr bekannt!",
+      "english": "Is Mr. Müller well-known? — Yes, he is very well-known!",
+      "level": "medium",
+      "note": "Uses: bekannt as predicate adjective. Yes/no question pattern."
+    },
+    {
+      "id": 8,
+      "german": "Die Information ist gut, aber nicht sehr bekannt.",
+      "english": "The information is good, but not very well-known.",
+      "level": "complex",
+      "note": "Uses: gut and bekannt as predicate adjectives in the same sentence, contrasted with 'aber'."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wie geht es dir? — Sehr ___, danke! (well/good)",
+      "solution": "gut",
+      "explanation": "'gut' = good/well. 'Sehr gut' is the most positive answer to 'Wie geht's?' in Lektion 1."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das ist eine ___ Persönlichkeit. (well-known — feminine noun)",
+      "solution": "bekannte",
+      "explanation": "'bekannt' as an attributive adjective before a feminine noun (with indefinite article 'eine') takes the ending -e: bekannte."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ist sehr ___. Das Gespräch war ___. (well-known / good)",
+      "solution": "bekannt / gut",
+      "explanation": "As predicate adjectives (after 'sein'), 'bekannt' and 'gut' do not inflect."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Nicht so ___ — es geht. (well/good)",
+      "solution": "gut",
+      "explanation": "'Nicht so gut' = not so well. A Lektion 1 phrase for answering 'Wie geht's?'"
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ihr Name ist sehr ___. Alle kennen sie. (well-known)",
+      "solution": "bekannt",
+      "explanation": "'bekannt' as predicate adjective: no inflection after 'sein'. 'Alle kennen sie' = Everyone knows her."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das ist ein ___ Test — nicht schwer! (good)",
+      "solution": "guter",
+      "explanation": "'gut' as attributive adjective before a masculine noun (Test) with indefinite article 'ein' → guter (strong ending -er)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Das Gespräch war sehr ___ und die Information war sehr ___. (good / well-known)",
+      "solution": "gut / bekannt",
+      "explanation": "Both 'gut' and 'bekannt' are predicate adjectives here — no inflection needed."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Sie ist eine ___ Persönlichkeit und der Test war ___. (well-known / good)",
+      "solution": "bekannte / gut",
+      "explanation": "'bekannte' — attributive before feminine noun with 'eine'; 'gut' — predicate adjective, no inflection."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Wie geht es Ihnen? — ___, danke.",
+      "options": ["Gut", "Bekannt", "Nicht"],
+      "solution": "Gut",
+      "explanation": "'Gut, danke' is the standard A1 polite answer to 'Wie geht es Ihnen?'"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ist sehr ___. Alle kennen ihn.",
+      "options": ["bekannt", "gut", "schlecht"],
+      "solution": "bekannt",
+      "explanation": "'bekannt' = well-known/famous. The clue 'Alle kennen ihn' (everyone knows him) points to 'bekannt'."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das ist eine ___ Persönlichkeit.",
+      "options": ["bekannte", "bekannt", "bekannter"],
+      "solution": "bekannte",
+      "explanation": "Attributive adjective before feminine noun (eine Persönlichkeit) → weak inflection with indefinite article: bekannte."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Gegenteil (opposite) von 'gut' ist ___.",
+      "options": ["schlecht", "bekannt", "gut"],
+      "solution": "schlecht",
+      "explanation": "The antonym of 'gut' (good) is 'schlecht' (bad/poor)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Das Gespräch war ___ und die Information war sehr ___.",
+      "options": ["gut / bekannt", "gutes / bekanntе", "gutе / bekanntеr"],
+      "solution": "gut / bekannt",
+      "explanation": "After 'sein' (war), adjectives are in predicate position — no inflection. Both 'gut' and 'bekannt' stay unchanged."
+    },
+    {
+      "id": 14,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Very well, thank you.",
+      "solution": "Sehr gut, danke.",
+      "explanation": "'Sehr gut, danke.' is the Lektion 1 phrase for feeling very well. 'sehr' intensifies 'gut'."
+    },
+    {
+      "id": 15,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She is a well-known celebrity.",
+      "solution": "Sie ist eine bekannte Persönlichkeit.",
+      "explanation": "'bekannte' = attributive adjective before feminine noun (Persönlichkeit) with indefinite article 'eine'."
+    },
+    {
+      "id": 16,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Not so well today.",
+      "solution": "Nicht so gut heute.",
+      "explanation": "'Nicht so gut' is a Lektion 1 phrase for feeling not well. 'heute' = today."
+    },
+    {
+      "id": 17,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The conversation was very good, but not well-known.",
+      "solution": "Das Gespräch war sehr gut, aber nicht bekannt.",
+      "explanation": "Both adjectives in predicate position after 'war' (was) — no inflection. 'aber' = but."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "His name is very well-known and the information is good.",
+      "solution": "Sein Name ist sehr bekannt und die Information ist gut.",
+      "explanation": "'bekannt' and 'gut' both predicate adjectives — no inflection. 'sein' = his (possessive for masculine noun)."
+    },
+    {
+      "id": 19,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Wie geht es dir? — Sehr gut, dankes.",
+      "solution": "Sehr gut, danke.",
+      "explanation": "'Danke' does not take any ending. 'dankes' is not a German word."
+    },
+    {
+      "id": 20,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Sie ist eine bekanntе Persönlichkeit. Er ist ein bekanntе Mann.",
+      "solution": "Sie ist eine bekannte Persönlichkeit. Er ist ein bekannter Mann.",
+      "explanation": "Before feminine noun with 'eine': bekannte (correct). Before masculine noun with 'ein': bekannter (strong -er ending, not -e)."
+    },
+    {
+      "id": 21,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Das Gespräch ist sehr gutes.",
+      "solution": "Das Gespräch ist sehr gut.",
+      "explanation": "Predicate adjectives (after 'sein') do not inflect. 'gutes' is only used attributively before a neuter noun without article."
+    },
+    {
+      "id": 22,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Das Gegenteil von 'gut' ist 'unbekannt'.",
+      "solution": "Das Gegenteil von 'gut' ist 'schlecht'.",
+      "explanation": "The antonym of 'gut' is 'schlecht'. 'Unbekannt' is the antonym of 'bekannt'."
+    },
+    {
+      "id": 23,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Gegenteil von 'bekannt' ist ___. (unbekannt)",
+      "solution": "unbekannt",
+      "explanation": "The antonym of 'bekannt' (well-known) is 'unbekannt' (unknown). The prefix 'un-' negates adjectives."
+    },
+    {
+      "id": 24,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Gegenteil von 'gut' ist ___.",
+      "solution": "schlecht",
+      "explanation": "The antonym of 'gut' (good) is 'schlecht' (bad). Useful for greetings: 'Nicht so gut' / 'Schlecht'."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The name is well-known in Germany.",
+      "solution": "Der Name ist bekannt in Deutschland.",
+      "explanation": "'bekannt' as predicate adjective — no inflection. 'der Name' is masculine."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Mr. Braun is well-known. He has a good name.",
+      "solution": "Herr Braun ist bekannt. Er hat einen guten Namen.",
+      "explanation": "'bekannt' = predicate adjective; 'einen guten Namen' = accusative (masculine noun), adjective ends in -en with indefinite article."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wie geht es Ihnen? — ___, danke. Und Ihnen?",
+      "options": ["Sehr gut", "Sehr bekannt", "Sehr lernen"],
+      "solution": "Sehr gut",
+      "explanation": "'Sehr gut, danke. Und Ihnen?' is the polite formal response to 'Wie geht es Ihnen?'"
+    },
+    {
+      "id": 28,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er ist ___ und sein Name ist ___. Alle kennen ihn. (well-known / good)",
+      "solution": "bekannt / gut",
+      "explanation": "Both adjectives are in predicate position (after 'ist'/'war') — no inflection needed."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Gut, danke — und gut ist auch das Gespräch sehr.",
+      "solution": "Gut, danke — und das Gespräch ist auch sehr gut.",
+      "explanation": "Word order error: the adjective 'gut' belongs at the end as a predicate adjective. The verb 'ist' must follow the subject 'das Gespräch'."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Is the conversation good?",
+      "solution": "Ist das Gespräch gut?",
+      "explanation": "Yes/no question: verb first, then subject. 'gut' as predicate adjective, no inflection."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___, danke. Nicht so ___. (Good / good)",
+      "solution": "Gut / gut",
+      "explanation": "'Gut, danke. Nicht so gut.' — two common Lektion 1 greeting responses."
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Gegenteil von 'bekannt' ist ___.",
+      "options": ["unbekannt", "schlecht", "gut"],
+      "solution": "unbekannt",
+      "explanation": "The antonym of 'bekannt' (well-known) is 'unbekannt' (unknown/not well-known)."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How are you? — Not so well.",
+      "solution": "Wie geht's? — Nicht so gut.",
+      "explanation": "'Wie geht's?' (informal) = How are you? 'Nicht so gut' is the Lektion 1 response for not well."
+    },
+    {
+      "id": 34,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Super! Auch ___! (great — gut)",
+      "solution": "gut",
+      "explanation": "'Auch gut!' = Also good! A natural follow-up in Lektion 1 greeting dialogues."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She is well-known in South Africa and her name is good.",
+      "solution": "Sie ist bekannt in Südafrika und ihr Name ist gut.",
+      "explanation": "'bekannt' and 'gut' both in predicate position — no inflection. 'ihr Name' = her name (possessive, masculine noun)."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Sie ist eine gut Persönlichkeit.",
+      "solution": "Sie ist eine gute Persönlichkeit.",
+      "explanation": "Attributive adjective before feminine noun with 'eine': 'gut' must take the weak ending -e → gute."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ist die Musik ___? — Ja, sehr ___! (good / good)",
+      "solution": "gut / gut",
+      "explanation": "'gut' as predicate adjective after 'sein' — no inflection needed in either position."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The music is very well-known.",
+      "solution": "Die Musik ist sehr bekannt.",
+      "explanation": "'bekannt' as predicate adjective (after 'ist') — no inflection. 'die Musik' is feminine."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Gegenteil von 'gut' ist ___.",
+      "options": ["schlecht", "bekannt", "super"],
+      "solution": "schlecht",
+      "explanation": "The antonym of 'gut' (good/well) is 'schlecht' (bad/poorly)."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er kommt aus Deutschland. Er ist sehr ___ — ein ___ Mann. (well-known / well-known)",
+      "solution": "bekannt / bekannter",
+      "explanation": "First: predicate adjective — no inflection: 'bekannt'. Second: attributive before masculine noun with 'ein' → strong ending -er: 'bekannter'."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Wie geht es dir? — Sehr gut, danke. Und ihm? — Auch gut.",
+      "solution": "Correct! No error.",
+      "explanation": "'Sehr gut, danke. Und ihm? — Auch gut.' is grammatically correct. 'Ihm' = him (dative) after 'Und'."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The test was good.",
+      "solution": "Der Test war gut.",
+      "explanation": "'gut' as predicate adjective after 'war' (was) — no inflection."
+    },
+    {
+      "id": 43,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie geht es Ihnen? — ___, danke. Und Ihnen? — Auch ___! (Good / good)",
+      "solution": "Gut / gut",
+      "explanation": "Formal greeting exchange. 'Und Ihnen?' = And you? (formal). 'Auch gut' = Also good."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The celebrity from Germany is very well-known and very good at spelling names.",
+      "solution": "Die Persönlichkeit aus Deutschland ist sehr bekannt und buchstabiert Namen sehr gut.",
+      "explanation": "Uses 'bekannt' (predicate, no inflection) and 'gut' (adverb modifying buchstabieren). Both key adjectives in one sentence."
+    }
+  ]
+}

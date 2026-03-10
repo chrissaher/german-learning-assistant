@@ -1,0 +1,667 @@
+{
+  "lektion": 1,
+  "focus": "others",
+  "file_slug": "lektion01_others",
+  "generated_at": "2026-03-10T12:03:00",
+  "vocabulary": [
+    {
+      "german": "Entschuldigung",
+      "base_form": "Entschuldigung",
+      "english": "Sorry / Excuse me",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to apologize or to get someone's attention: 'Entschuldigung, wie heißen Sie?'",
+      "lektion_source": 1
+    },
+    {
+      "german": "Wie bitte?",
+      "base_form": "Wie bitte?",
+      "english": "Pardon? / Could you repeat that?",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used when you did not understand or hear something and want it repeated.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Danke",
+      "base_form": "Danke",
+      "english": "Thank you / Thanks",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Standard polite expression of thanks. Often followed by 'sehr' for emphasis: 'Danke sehr.'",
+      "lektion_source": 1
+    },
+    {
+      "german": "wie",
+      "base_form": "wie",
+      "english": "how / like / as",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used in questions: 'Wie heißt du?' (What is your name?), 'Wie geht's?' (How are you?)",
+      "lektion_source": 1
+    },
+    {
+      "german": "mein",
+      "base_form": "mein",
+      "english": "my",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive pronoun for ich. Agrees with the noun it modifies: mein Name (masc.), meine Frau (fem.), mein Land (neut.).",
+      "lektion_source": 1
+    },
+    {
+      "german": "du",
+      "base_form": "du",
+      "english": "you (informal)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Informal 'you' — used with friends, family, children, and peers. Formal alternative: Sie.",
+      "lektion_source": 1
+    },
+    {
+      "german": "ich",
+      "base_form": "ich",
+      "english": "I",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "First-person singular pronoun. Always the subject of a verb: 'Ich heiße …', 'Ich komme aus …'",
+      "lektion_source": 1
+    },
+    {
+      "german": "wer",
+      "base_form": "wer",
+      "english": "who",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Question word for persons: 'Wer bist du?' (Who are you?), 'Wer ist das?' (Who is that?)",
+      "lektion_source": 1
+    },
+    {
+      "german": "Hallo",
+      "base_form": "Hallo",
+      "english": "Hello / Hi",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Informal greeting used with people you know or when meeting peers. Formal alternatives: Guten Tag, Guten Morgen.",
+      "lektion_source": 1
+    },
+    {
+      "german": "ah",
+      "base_form": "ah",
+      "english": "ah / oh",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Expression of recognition or surprise: 'Ah, du bist Thomas!' Used informally.",
+      "lektion_source": 1
+    },
+    {
+      "german": "woher",
+      "base_form": "woher",
+      "english": "where … from",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Question word asking about origin: 'Woher kommst du?' (Where are you from?). Always paired with 'kommen aus'.",
+      "lektion_source": 1
+    },
+    {
+      "german": "aus",
+      "base_form": "aus",
+      "english": "from / out of",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Preposition of origin always followed by the dative case: 'Ich komme aus Deutschland.' Used with kommen to say where someone is from.",
+      "lektion_source": 1
+    },
+    {
+      "german": "sie",
+      "base_form": "sie",
+      "english": "she / they",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Third-person singular (she) or plural (they). Context determines meaning. Sie (capital S) = formal you.",
+      "lektion_source": 1
+    },
+    {
+      "german": "er",
+      "base_form": "er",
+      "english": "he",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Third-person singular masculine pronoun: 'Er kommt aus der Schweiz.' Also used for masculine nouns.",
+      "lektion_source": 1
+    },
+    {
+      "german": "tschüs",
+      "base_form": "tschüs",
+      "english": "bye / goodbye (informal)",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Informal farewell. Formal alternative: Auf Wiedersehen. Used with friends and family.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Auf Wiedersehen",
+      "base_form": "Auf Wiedersehen",
+      "english": "Goodbye (formal)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Formal farewell used with strangers, in business, or with people you address as Sie.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Guten Tag",
+      "base_form": "Guten Tag",
+      "english": "Good day / Hello (formal, daytime)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Formal greeting used during the daytime. Equivalent to 'Good day'. Use with people you address as Sie.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Guten Morgen",
+      "base_form": "Guten Morgen",
+      "english": "Good morning",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Morning greeting (roughly before noon). Can be used formally and informally.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Guten Abend",
+      "base_form": "Guten Abend",
+      "english": "Good evening",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Evening greeting used after approximately 6 p.m. Can be used formally and informally.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Gute Nacht",
+      "base_form": "Gute Nacht",
+      "english": "Good night",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used when parting at night or when someone is going to sleep. Not a greeting — only a farewell.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Sie",
+      "base_form": "Sie",
+      "english": "you (formal)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Formal 'you' — always capitalized. Used with strangers, in formal situations, with older people. Verb form same as sie/wir: 'Sind Sie...?'",
+      "lektion_source": 1
+    },
+    {
+      "german": "dir",
+      "base_form": "dir",
+      "english": "you / to you (informal dative)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Dative form of 'du'. Used in 'Wie geht es dir?' (How are you? — informal) and 'Und dir?' (And you?).",
+      "lektion_source": 1
+    },
+    {
+      "german": "und",
+      "base_form": "und",
+      "english": "and",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction. Connects two words, phrases, or clauses without changing word order: 'Ich heiße Anna und ich komme aus Deutschland.'",
+      "lektion_source": 1
+    },
+    {
+      "german": "Wie geht's dir?",
+      "base_form": "Wie geht's dir?",
+      "english": "How are you? (informal)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Common informal greeting after saying hello. 'Wie geht es Ihnen?' is the formal equivalent.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Und dir?",
+      "base_form": "Und dir?",
+      "english": "And you? (informal)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used to return the question 'How are you?' to the other person in an informal conversation.",
+      "lektion_source": 1
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Entschuldigung, wie heißen Sie? — Ich heiße Müller.",
+      "english": "Excuse me, what is your name? — My name is Müller.",
+      "level": "medium",
+      "note": "Uses: Entschuldigung (interjection for getting attention), wie (adverb), Sie (formal pronoun)."
+    },
+    {
+      "id": 2,
+      "german": "Guten Morgen! Wie geht es Ihnen? — Sehr gut, danke.",
+      "english": "Good morning! How are you? — Very well, thank you.",
+      "level": "medium",
+      "note": "Uses: Guten Morgen (phrase), Danke (interjection). Formal exchange."
+    },
+    {
+      "id": 3,
+      "german": "Woher kommst du? — Ich komme aus der Schweiz.",
+      "english": "Where are you from? — I come from Switzerland.",
+      "level": "medium",
+      "note": "Uses: woher (adverb), aus (preposition + dative). Key Lektion 1 conversation."
+    },
+    {
+      "id": 4,
+      "german": "Ah, du bist Thomas! Hallo, ich bin Maria.",
+      "english": "Oh, you are Thomas! Hi, I am Maria.",
+      "level": "medium",
+      "note": "Uses: ah (interjection of recognition), du (informal pronoun), Hallo (informal greeting), ich (pronoun)."
+    },
+    {
+      "id": 5,
+      "german": "Wie bitte? — Mein Name ist Schmidt. S-C-H-M-I-D-T.",
+      "english": "Pardon? — My name is Schmidt. S-C-H-M-I-D-T.",
+      "level": "complex",
+      "note": "Uses: Wie bitte? (phrase for asking repetition), mein (possessive pronoun). Realistic spelling scenario."
+    },
+    {
+      "id": 6,
+      "german": "Er kommt aus Deutschland und sie kommt aus Eritrea.",
+      "english": "He comes from Germany and she comes from Eritrea.",
+      "level": "medium",
+      "note": "Uses: er (masculine pronoun), sie (feminine pronoun), aus (preposition), und (conjunction)."
+    },
+    {
+      "id": 7,
+      "german": "Guten Abend! Wer sind Sie? — Ich bin Frau Braun. Auf Wiedersehen!",
+      "english": "Good evening! Who are you? — I am Ms. Braun. Goodbye!",
+      "level": "complex",
+      "note": "Uses: Guten Abend (phrase), wer (question pronoun), Sie (formal pronoun), Auf Wiedersehen (formal farewell)."
+    },
+    {
+      "id": 8,
+      "german": "Wie geht's dir? — Gut, danke. Und dir? — Auch gut!",
+      "english": "How are you? — Fine, thanks. And you? — Also good!",
+      "level": "complex",
+      "note": "Uses: Wie geht's dir? (phrase), Danke (interjection), Und dir? (phrase), dir (dative pronoun)."
+    },
+    {
+      "id": 9,
+      "german": "Tschüs! — Auf Wiedersehen, Frau Schmidt!",
+      "english": "Bye! — Goodbye, Ms. Schmidt!",
+      "level": "medium",
+      "note": "Uses: tschüs (informal), Auf Wiedersehen (formal). Contrast of register."
+    },
+    {
+      "id": 10,
+      "german": "Gute Nacht, Mutter! Ich bin sehr müde.",
+      "english": "Good night, Mom! I am very tired.",
+      "level": "complex",
+      "note": "Uses: Gute Nacht (farewell phrase), ich (pronoun). Note: Gute Nacht is only a farewell, not a greeting."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___, wie heißen Sie? (Excuse me)",
+      "solution": "Entschuldigung",
+      "explanation": "'Entschuldigung' = Sorry/Excuse me. Used to get someone's attention politely."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ heißt du? (How — question word)",
+      "solution": "Wie",
+      "explanation": "'wie' = how. 'Wie heißt du?' is the standard Lektion 1 question for asking someone's name."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Name ist Müller. (My)",
+      "solution": "Mein",
+      "explanation": "'mein' = my (masculine noun: der Name). 'Mein Name' — possessive for ich."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich komme ___ Deutschland. (from)",
+      "solution": "aus",
+      "explanation": "'aus' = from (origin). Always followed by dative: 'aus Deutschland', 'aus der Schweiz'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ bist du? (Who)",
+      "solution": "Wer",
+      "explanation": "'wer' = who. Question word for persons: 'Wer bist du?' = Who are you?"
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Sehr gut, ___! (Thanks)",
+      "solution": "Danke",
+      "explanation": "'Danke' = Thank you. Common in response to 'Wie geht's?' in Lektion 1 phrases."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ kommst du? — Ich komme aus der Schweiz. (Where from)",
+      "solution": "Woher",
+      "explanation": "'woher' = where from. Always paired with 'kommen aus' for origin."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Guten ___! Das ist ein guter Morgen. (Good morning phrase)",
+      "solution": "Morgen",
+      "explanation": "'Guten Morgen' = Good morning. The greeting for the morning hours."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Wiedersehen, Frau Braun! (formal goodbye)",
+      "solution": "Auf",
+      "explanation": "'Auf Wiedersehen' = Goodbye (formal). Used when addressing someone with 'Sie'."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie geht es ___? — Sehr gut! (you — informal dative)",
+      "solution": "dir",
+      "explanation": "'dir' is the dative of 'du'. 'Wie geht es dir?' = How are you? (informal)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er heißt Thomas ___ er kommt aus Berlin. (and)",
+      "solution": "und",
+      "explanation": "'und' = and. Coordinating conjunction. Does not change word order."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Abend! Wer sind Sie? (Good evening)",
+      "solution": "Guten",
+      "explanation": "'Guten Abend' = Good evening. Evening greeting used formally and informally."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wie ___? — Ich heiße K-A-U-F-M-A-N-N. (Pardon? — phrase)",
+      "solution": "bitte",
+      "explanation": "'Wie bitte?' = Pardon? Used to ask someone to repeat something."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ kommt aus Eritrea ___ ___ kommt aus Deutschland. (She / and / he)",
+      "solution": "Sie / und / er",
+      "explanation": "'sie' = she (3rd person fem.); 'und' = and; 'er' = he (3rd person masc.)."
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Gute ___! Ich bin sehr müde. (Good night — farewell)",
+      "solution": "Nacht",
+      "explanation": "'Gute Nacht' = Good night. Only used as a farewell, not as a greeting."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___, wie heißen Sie? (Excuse me)",
+      "options": ["Entschuldigung", "Danke", "Hallo"],
+      "solution": "Entschuldigung",
+      "explanation": "'Entschuldigung' = Excuse me/Sorry. Used to get someone's attention. 'Danke' = thanks, 'Hallo' = hello."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich komme ___ Deutschland.",
+      "options": ["aus", "von", "nach"],
+      "solution": "aus",
+      "explanation": "'aus' is used with 'kommen' to express origin: 'Ich komme aus Deutschland.'"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Which greeting is used in the MORNING?",
+      "options": ["Guten Morgen", "Guten Abend", "Gute Nacht"],
+      "solution": "Guten Morgen",
+      "explanation": "'Guten Morgen' = Good morning. 'Guten Abend' is for evening, 'Gute Nacht' is a farewell."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wie geht es ___? (informal 'you')",
+      "options": ["dir", "Ihnen", "ihr"],
+      "solution": "dir",
+      "explanation": "'dir' is the dative of 'du' (informal you). 'Ihnen' is the formal dative of Sie."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Which word is the FORMAL goodbye?",
+      "options": ["Auf Wiedersehen", "Tschüs", "Hallo"],
+      "solution": "Auf Wiedersehen",
+      "explanation": "'Auf Wiedersehen' is the formal goodbye. 'Tschüs' is informal. 'Hallo' is a greeting, not a farewell."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ kommst du? — Ich komme aus Österreich.",
+      "options": ["Woher", "Wohin", "Wo"],
+      "solution": "Woher",
+      "explanation": "'Woher' asks about origin (where from). 'Wohin' asks about destination (where to). 'Wo' asks about location (where)."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie (lowercase) means ___.",
+      "options": ["she / they", "you (formal)", "he"],
+      "solution": "she / they",
+      "explanation": "Lowercase 'sie' = she or they. Capital 'Sie' = formal you. Context determines the meaning."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Excuse me, what is your name? (formal)",
+      "solution": "Entschuldigung, wie heißen Sie?",
+      "explanation": "'Entschuldigung' gets attention; 'wie heißen Sie?' uses formal Sie form of heißen."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Where are you from? — I come from Germany. (informal)",
+      "solution": "Woher kommst du? — Ich komme aus Deutschland.",
+      "explanation": "'woher' + 'kommen aus' for origin. Informal 'du' form: kommst."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Good morning! Hello!",
+      "solution": "Guten Morgen! Hallo!",
+      "explanation": "'Guten Morgen' = formal/neutral morning greeting. 'Hallo' = informal hello."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How are you? — Fine, thanks. And you? (informal)",
+      "solution": "Wie geht's dir? — Gut, danke. Und dir?",
+      "explanation": "'Wie geht's dir?' informal version. 'Und dir?' returns the question. 'Danke' = thanks."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Good evening, Mr. Braun. Who are you? Goodbye.",
+      "solution": "Guten Abend, Herr Braun. Wer sind Sie? Auf Wiedersehen.",
+      "explanation": "'Guten Abend' = evening greeting; 'Wer sind Sie?' = formal 'who are you'; 'Auf Wiedersehen' = formal goodbye."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Pardon? My name is Kaufmann — K-A-U-F-M-A-N-N.",
+      "solution": "Wie bitte? Mein Name ist Kaufmann — K-A-U-F-M-A-N-N.",
+      "explanation": "'Wie bitte?' = pardon/could you repeat that? 'Mein Name' = my name (possessive + masculine noun)."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He comes from Germany and she comes from Switzerland.",
+      "solution": "Er kommt aus Deutschland und sie kommt aus der Schweiz.",
+      "explanation": "'er' = he, 'sie' = she, 'aus' + dative, 'und' connects the two clauses. Note 'aus der Schweiz' (dative fem.)."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Good night! (farewell)",
+      "solution": "Gute Nacht!",
+      "explanation": "'Gute Nacht' = Good night. Only used as farewell when someone is going to sleep."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Ich komme von Deutschland.",
+      "solution": "Ich komme aus Deutschland.",
+      "explanation": "With 'kommen' for origin, use 'aus', not 'von'. 'Von' is for source/movement away, not national origin."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Find and correct the error: Wohin kommst du? — Ich komme aus Berlin.",
+      "solution": "Woher kommst du? — Ich komme aus Berlin.",
+      "explanation": "'Wohin' asks about destination (where to). For origin, use 'Woher' (where from)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Wie geht es du? — Gut, danke.",
+      "solution": "Wie geht es dir? — Gut, danke.",
+      "explanation": "After 'es geht', use the dative: 'dir' (not 'du'). 'du' is nominative; 'dir' is dative."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Guten Nacht! (farewell)",
+      "solution": "Gute Nacht!",
+      "explanation": "'Nacht' is feminine (die Nacht). In accusative greeting phrases: 'Gute Nacht' (not Guten). Compare: Guten Morgen (der Morgen = masc.)."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Find and correct the error: Er kommt aus die Schweiz.",
+      "solution": "Er kommt aus der Schweiz.",
+      "explanation": "'aus' requires the dative case. 'die Schweiz' (fem.) in dative becomes 'der Schweiz'."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Mein Name ist Fischer und meine Vorname ist Klaus.",
+      "solution": "Mein Name ist Fischer und mein Vorname ist Klaus.",
+      "explanation": "'Vorname' is masculine (der Vorname). Possessive for masculine nouns: 'mein' (not 'meine')."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___, Herr Braun. Wie geht es ___? (Good morning / you — formal dative)",
+      "solution": "Guten Morgen / Ihnen",
+      "explanation": "'Guten Morgen' = morning greeting. 'Ihnen' is the dative of the formal 'Sie'."
+    },
+    {
+      "id": 38,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ bist du? — ___ bin Anna. (Who / I)",
+      "solution": "Wer / Ich",
+      "explanation": "'Wer' = who (question word for persons). 'Ich' = I (first-person pronoun)."
+    },
+    {
+      "id": 39,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Excuse me, who are you? — I am Ms. Fischer. Goodbye! (formal throughout)",
+      "solution": "Entschuldigung, wer sind Sie? — Ich bin Frau Fischer. Auf Wiedersehen!",
+      "explanation": "'Entschuldigung' gets attention; 'wer sind Sie?' formal; 'Auf Wiedersehen' formal farewell."
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Which of these is a FORMAL greeting?",
+      "options": ["Guten Tag", "Hallo", "Tschüs"],
+      "solution": "Guten Tag",
+      "explanation": "'Guten Tag' = Good day (formal daytime greeting). 'Hallo' is informal. 'Tschüs' is an informal farewell."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Ah, ___ bist Thomas! Woher kommst ___? (you / you — informal)",
+      "solution": "du / du",
+      "explanation": "'du' = you (informal). Both are nominative here: subject of 'bist' and subject of 'kommst'."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My name is Maria and I come from Spain.",
+      "solution": "Mein Name ist Maria und ich komme aus Spanien.",
+      "explanation": "'mein' = my (masculine noun Name); 'und' connects clauses; 'aus' for origin."
+    },
+    {
+      "id": 43,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Find and correct the error: Guten Tag, Frau Braun! Wie geht es ihr? — Sehr gut, danke.",
+      "solution": "Guten Tag, Frau Braun! Wie geht es Ihnen? — Sehr gut, danke.",
+      "explanation": "When addressing someone formally (Sie), use 'Ihnen' (dative of Sie), not 'ihr' (dative of sie = she)."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Good evening! How are you (formal)? — Very well, thank you. And you?",
+      "solution": "Guten Abend! Wie geht es Ihnen? — Sehr gut, danke. Und Ihnen?",
+      "explanation": "'Guten Abend' = evening greeting; 'Ihnen' = formal dative of Sie; 'Sehr gut, danke. Und Ihnen?' = polite exchange."
+    }
+  ]
+}

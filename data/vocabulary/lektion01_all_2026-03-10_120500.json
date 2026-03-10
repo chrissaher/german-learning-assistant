@@ -1,0 +1,555 @@
+{
+  "lektion": 1,
+  "focus": "all",
+  "file_slug": "lektion01_all",
+  "generated_at": "2026-03-10T12:05:00",
+  "vocabulary": [
+    {
+      "german": "der Name",
+      "base_form": "Name",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Namen",
+      "english": "name",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Vorname",
+      "base_form": "Vorname",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Vornamen",
+      "english": "first name",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Familienname",
+      "base_form": "Familienname",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-n",
+      "plural_full": "Familiennamen",
+      "english": "last name / family name",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "das Alphabet",
+      "base_form": "Alphabet",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Alphabete",
+      "english": "alphabet",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Information",
+      "base_form": "Information",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Informationen",
+      "english": "information",
+      "word_type": "noun",
+      "pattern_hint": "-tion / -sion ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Persönlichkeit",
+      "base_form": "Persönlichkeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Persönlichkeiten",
+      "english": "personality / celebrity",
+      "word_type": "noun",
+      "pattern_hint": "-heit / -keit ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Herr",
+      "base_form": "Herr",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-en",
+      "plural_full": "Herren",
+      "english": "Mister / Mr (when addressing someone)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Frau",
+      "base_form": "Frau",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Frauen",
+      "english": "woman / Miss / Mrs (when addressing someone)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "das Gespräch",
+      "base_form": "Gespräch",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Gespräche",
+      "english": "conversation",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Münze",
+      "base_form": "Münze",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Münzen",
+      "english": "coin",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "der Test",
+      "base_form": "Test",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Tests",
+      "english": "test",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word — often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 1
+    },
+    {
+      "german": "die Musik",
+      "base_form": "Musik",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(singular only)",
+      "english": "music",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "das Land",
+      "base_form": "Land",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Länder",
+      "english": "country / land",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 1
+    },
+    {
+      "german": "heißen",
+      "base_form": "heißen",
+      "english": "to be called / to be named",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "heiße",
+        "du": "heißt",
+        "er/sie/es": "heißt",
+        "wir": "heißen",
+        "ihr": "heißt",
+        "sie/Sie": "heißen"
+      },
+      "perfekt": "hat geheißen",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb. Used for names: 'Ich heiße Anna.' = My name is Anna.",
+      "lektion_source": 1
+    },
+    {
+      "german": "sein",
+      "base_form": "sein",
+      "english": "to be",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bin",
+        "du": "bist",
+        "er/sie/es": "ist",
+        "wir": "sind",
+        "ihr": "seid",
+        "sie/Sie": "sind"
+      },
+      "perfekt": "ist gewesen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Highly irregular; all forms must be memorized. Also used as auxiliary for Perfekt (ist gegangen, ist gefahren).",
+      "lektion_source": 1
+    },
+    {
+      "german": "ankrEuzen",
+      "base_form": "ankreuzen",
+      "english": "to mark with a cross / to tick",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "kreuze an",
+        "du": "kreuzt an",
+        "er/sie/es": "kreuzt an",
+        "wir": "kreuzen an",
+        "ihr": "kreuzt an",
+        "sie/Sie": "kreuzen an"
+      },
+      "perfekt": "hat angekreuzt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb: prefix 'an-' splits off in main clause. Partizip II: angekreuzt (ge- inserted between prefix and stem).",
+      "lektion_source": 1
+    },
+    {
+      "german": "buchstabieren",
+      "base_form": "buchstabieren",
+      "english": "to spell (out)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "buchstabiere",
+        "du": "buchstabierst",
+        "er/sie/es": "buchstabiert",
+        "wir": "buchstabieren",
+        "ihr": "buchstabiert",
+        "sie/Sie": "buchstabieren"
+      },
+      "perfekt": "hat buchstabiert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular verb ending in -ieren. Partizip II: no ge- prefix (foreign-origin verbs in -ieren). hat buchstabiert.",
+      "lektion_source": 1
+    },
+    {
+      "german": "kommen",
+      "base_form": "kommen",
+      "english": "to come",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "komme",
+        "du": "kommst",
+        "er/sie/es": "kommt",
+        "wir": "kommen",
+        "ihr": "kommt",
+        "sie/Sie": "kommen"
+      },
+      "perfekt": "ist gekommen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb. Uses 'sein' in Perfekt because it expresses movement from one place to another. Partizip II: gekommen.",
+      "lektion_source": 1
+    },
+    {
+      "german": "lernen",
+      "base_form": "lernen",
+      "english": "to learn / to study",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lerne",
+        "du": "lernst",
+        "er/sie/es": "lernt",
+        "wir": "lernen",
+        "ihr": "lernt",
+        "sie/Sie": "lernen"
+      },
+      "perfekt": "hat gelernt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Fully regular weak verb. Common in school/language contexts.",
+      "lektion_source": 1
+    },
+    {
+      "german": "werfen",
+      "base_form": "werfen",
+      "english": "to throw",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "werfe",
+        "du": "wirfst",
+        "er/sie/es": "wirft",
+        "wir": "werfen",
+        "ihr": "werft",
+        "sie/Sie": "werfen"
+      },
+      "perfekt": "hat geworfen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb with stem vowel change e→i in du/er forms. Partizip II: geworfen.",
+      "lektion_source": 1
+    },
+    {
+      "german": "gut",
+      "base_form": "gut",
+      "english": "good / well",
+      "word_type": "adjective",
+      "antonym": "schlecht",
+      "cognate_note": "English 'good' and German 'gut' are distant cognates. Spanish 'bueno' is unrelated. False friend: 'gut' does not mean 'gut' (intestine) in German.",
+      "lektion_source": 1
+    },
+    {
+      "german": "bekannt",
+      "base_form": "bekannt",
+      "english": "known / famous / well-known",
+      "word_type": "adjective",
+      "antonym": "unbekannt",
+      "cognate_note": "From the verb 'kennen' (to know). In the text: 'bekannte Persönlichkeit' = celebrity (well-known personality).",
+      "lektion_source": 1
+    },
+    {
+      "german": "Entschuldigung",
+      "base_form": "Entschuldigung",
+      "english": "Sorry / Excuse me",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Used to apologize or to get someone's attention: 'Entschuldigung, wie heißen Sie?'",
+      "lektion_source": 1
+    },
+    {
+      "german": "Wie bitte?",
+      "base_form": "Wie bitte?",
+      "english": "Pardon? / Could you repeat that?",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used when you did not understand or hear something and want it repeated.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Danke",
+      "base_form": "Danke",
+      "english": "Thank you / Thanks",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Standard polite expression of thanks. Often followed by 'sehr' for emphasis: 'Danke sehr.'",
+      "lektion_source": 1
+    },
+    {
+      "german": "wie",
+      "base_form": "wie",
+      "english": "how / like / as",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used in questions: 'Wie heißt du?' (What is your name?), 'Wie geht's?' (How are you?)",
+      "lektion_source": 1
+    },
+    {
+      "german": "mein",
+      "base_form": "mein",
+      "english": "my",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Possessive pronoun for ich. Agrees with the noun it modifies: mein Name (masc.), meine Frau (fem.), mein Land (neut.).",
+      "lektion_source": 1
+    },
+    {
+      "german": "du",
+      "base_form": "du",
+      "english": "you (informal)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Informal 'you' — used with friends, family, children, and peers. Formal alternative: Sie.",
+      "lektion_source": 1
+    },
+    {
+      "german": "ich",
+      "base_form": "ich",
+      "english": "I",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "First-person singular pronoun. Always the subject of a verb: 'Ich heiße …', 'Ich komme aus …'",
+      "lektion_source": 1
+    },
+    {
+      "german": "wer",
+      "base_form": "wer",
+      "english": "who",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Question word for persons: 'Wer bist du?' (Who are you?), 'Wer ist das?' (Who is that?)",
+      "lektion_source": 1
+    },
+    {
+      "german": "Hallo",
+      "base_form": "Hallo",
+      "english": "Hello / Hi",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Informal greeting used with people you know or when meeting peers. Formal alternatives: Guten Tag, Guten Morgen.",
+      "lektion_source": 1
+    },
+    {
+      "german": "ah",
+      "base_form": "ah",
+      "english": "ah / oh",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Expression of recognition or surprise: 'Ah, du bist Thomas!' Used informally.",
+      "lektion_source": 1
+    },
+    {
+      "german": "woher",
+      "base_form": "woher",
+      "english": "where … from",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Question word asking about origin: 'Woher kommst du?' (Where are you from?). Always paired with 'kommen aus'.",
+      "lektion_source": 1
+    },
+    {
+      "german": "aus",
+      "base_form": "aus",
+      "english": "from / out of",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Preposition of origin always followed by the dative case: 'Ich komme aus Deutschland.' Used with kommen to say where someone is from.",
+      "lektion_source": 1
+    },
+    {
+      "german": "sie",
+      "base_form": "sie",
+      "english": "she / they",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Third-person singular (she) or plural (they). Context determines meaning. Sie (capital S) = formal you.",
+      "lektion_source": 1
+    },
+    {
+      "german": "er",
+      "base_form": "er",
+      "english": "he",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Third-person singular masculine pronoun: 'Er kommt aus der Schweiz.' Also used for masculine nouns.",
+      "lektion_source": 1
+    },
+    {
+      "german": "tschüs",
+      "base_form": "tschüs",
+      "english": "bye / goodbye (informal)",
+      "word_type": "other",
+      "subtype": "interjection",
+      "usage_note": "Informal farewell. Formal alternative: Auf Wiedersehen. Used with friends and family.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Auf Wiedersehen",
+      "base_form": "Auf Wiedersehen",
+      "english": "Goodbye (formal)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Formal farewell used with strangers, in business, or with people you address as Sie.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Guten Tag",
+      "base_form": "Guten Tag",
+      "english": "Good day / Hello (formal, daytime)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Formal greeting used during the daytime. Equivalent to 'Good day'. Use with people you address as Sie.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Guten Morgen",
+      "base_form": "Guten Morgen",
+      "english": "Good morning",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Morning greeting (roughly before noon). Can be used formally and informally.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Guten Abend",
+      "base_form": "Guten Abend",
+      "english": "Good evening",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Evening greeting used after approximately 6 p.m. Can be used formally and informally.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Gute Nacht",
+      "base_form": "Gute Nacht",
+      "english": "Good night",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used when parting at night or when someone is going to sleep. Not a greeting — only a farewell.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Sie",
+      "base_form": "Sie",
+      "english": "you (formal)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Formal 'you' — always capitalized. Used with strangers, in formal situations, with older people. Verb form same as sie/wir: 'Sind Sie...?'",
+      "lektion_source": 1
+    },
+    {
+      "german": "dir",
+      "base_form": "dir",
+      "english": "you / to you (informal dative)",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Dative form of 'du'. Used in 'Wie geht es dir?' (How are you? — informal) and 'Und dir?' (And you?).",
+      "lektion_source": 1
+    },
+    {
+      "german": "und",
+      "base_form": "und",
+      "english": "and",
+      "word_type": "other",
+      "subtype": "conjunction",
+      "usage_note": "Coordinating conjunction. Connects two words, phrases, or clauses without changing word order: 'Ich heiße Anna und ich komme aus Deutschland.'",
+      "lektion_source": 1
+    },
+    {
+      "german": "Wie geht's dir?",
+      "base_form": "Wie geht's dir?",
+      "english": "How are you? (informal)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Common informal greeting after saying hello. 'Wie geht es Ihnen?' is the formal equivalent.",
+      "lektion_source": 1
+    },
+    {
+      "german": "Und dir?",
+      "base_form": "Und dir?",
+      "english": "And you? (informal)",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used to return the question 'How are you?' to the other person in an informal conversation.",
+      "lektion_source": 1
+    }
+  ],
+  "examples": [],
+  "exercises": []
+}
