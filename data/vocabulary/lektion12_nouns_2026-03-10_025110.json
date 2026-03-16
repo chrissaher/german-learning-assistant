@@ -1,0 +1,922 @@
+{
+  "lektion": 12,
+  "focus": "nouns",
+  "file_slug": "lektion12_nouns",
+  "generated_at": "2026-03-10T02:51:10",
+  "vocabulary": [
+    {
+      "german": "der Besucher",
+      "base_form": "Besucher",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Besucher",
+      "english": "visitor (male)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Besucherin",
+      "base_form": "Besucherin",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-nen",
+      "plural_full": "Besucherinnen",
+      "english": "visitor (female)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Marathon",
+      "base_form": "Marathon",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Marathons",
+      "english": "marathon",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Winter",
+      "base_form": "Winter",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Winter",
+      "english": "winter",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Dezember",
+      "base_form": "Dezember",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "December",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Weihnachten",
+      "base_form": "Weihnachten",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Weihnachten",
+      "english": "Christmas",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Kilometer",
+      "base_form": "Kilometer",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kilometer",
+      "english": "kilometre / kilometer",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Tor",
+      "base_form": "Tor",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Tore",
+      "english": "gate",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Jahreszahl",
+      "base_form": "Jahreszahl",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Jahreszahlen",
+      "english": "year (number / date)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Silvester",
+      "base_form": "Silvester",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Silvester",
+      "english": "New Year's Eve",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Sommer",
+      "base_form": "Sommer",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Sommer",
+      "english": "summer",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der August",
+      "base_form": "August",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "August",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Radtour",
+      "base_form": "Radtour",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Radtouren",
+      "english": "cycling tour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Tour",
+      "base_form": "Tour",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Touren",
+      "english": "tour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Wetter",
+      "base_form": "Wetter",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "weather",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Herbst",
+      "base_form": "Herbst",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "autumn / fall",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Jahreszeit",
+      "base_form": "Jahreszeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Jahreszeiten",
+      "english": "season",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Monat",
+      "base_form": "Monat",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Monate",
+      "english": "month",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Geburtstag",
+      "base_form": "Geburtstag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Geburtstage",
+      "english": "birthday",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Frühling",
+      "base_form": "Frühling",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Frühlinge",
+      "english": "spring",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der März",
+      "base_form": "März",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "March",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der April",
+      "base_form": "April",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "April",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Mai",
+      "base_form": "Mai",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "May",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Juni",
+      "base_form": "Juni",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "June",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Juli",
+      "base_form": "Juli",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "July",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der September",
+      "base_form": "September",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "September",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Hafen",
+      "base_form": "Hafen",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Häfen",
+      "english": "harbour / harbor",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Januar",
+      "base_form": "Januar",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "January",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Februar",
+      "base_form": "Februar",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "February",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Schiff",
+      "base_form": "Schiff",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Schiffe",
+      "english": "ship",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Insel",
+      "base_form": "Insel",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Inseln",
+      "english": "island",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Erdbeere",
+      "base_form": "Erdbeere",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Erdbeeren",
+      "english": "strawberry",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Alpen",
+      "base_form": "Alpen",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "die Alpen",
+      "english": "the Alps",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Hubschrauber",
+      "base_form": "Hubschrauber",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Hubschrauber",
+      "english": "helicopter",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Zehn-Meter-Brett",
+      "base_form": "Zehn-Meter-Brett",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Zehn-Meter-Bretter",
+      "english": "ten-metre board",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Stunde",
+      "base_form": "Stunde",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Stunden",
+      "english": "hour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Durst",
+      "base_form": "Durst",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "thirst",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Im Sommer machen wir eine Radtour durch die Alpen.",
+      "english": "In summer we go on a cycling tour through the Alps.",
+      "level": "medium",
+      "note": "Uses: der Sommer, die Radtour, die Alpen (all Lektion 12 nouns); durch (Lektion 12 preposition)"
+    },
+    {
+      "id": 2,
+      "german": "Der Hafen in Hamburg ist sehr groß und hat viele Schiffe.",
+      "english": "The harbour in Hamburg is very large and has many ships.",
+      "level": "medium",
+      "note": "Uses: der Hafen, das Schiff (plural: Schiffe); compound sentence with und"
+    },
+    {
+      "id": 3,
+      "german": "Mein Geburtstag ist im März, aber meine Freundin hat im Juli Geburtstag.",
+      "english": "My birthday is in March, but my friend has her birthday in July.",
+      "level": "complex",
+      "note": "Uses: der Geburtstag, der März, der Juli; contrastive sentence with aber"
+    },
+    {
+      "id": 4,
+      "german": "Im Winter ist das Wetter in den Alpen sehr kalt und es schneit oft.",
+      "english": "In winter the weather in the Alps is very cold and it often snows.",
+      "level": "complex",
+      "note": "Uses: der Winter, das Wetter, die Alpen; uses oft (frequency adverb from earlier lektionen)"
+    },
+    {
+      "id": 5,
+      "german": "Zu Weihnachten fahren wir mit dem Schiff zu einer kleinen Insel.",
+      "english": "At Christmas we travel by ship to a small island.",
+      "level": "complex",
+      "note": "Uses: das Weihnachten, das Schiff, die Insel; Dativ mit dem Schiff"
+    },
+    {
+      "id": 6,
+      "german": "Die Radtour dauert drei Stunden und wir fahren zwanzig Kilometer.",
+      "english": "The cycling tour takes three hours and we ride twenty kilometres.",
+      "level": "medium",
+      "note": "Uses: die Radtour, die Stunde (plural), der Kilometer (plural)"
+    },
+    {
+      "id": 7,
+      "german": "Meine Lieblingsjahreszahl ist immer der Herbst, weil die Farben so schön sind.",
+      "english": "My favourite season is always autumn, because the colours are so beautiful.",
+      "level": "complex",
+      "note": "Uses: der Herbst; weil-clause (Lektion 9 grammar); note: Jahreszeit used as Lieblingsjahreszahl is an error — should be Lieblingsjahreszahl or Lieblingszeit. Correct: Meine Lieblingsjahreszeit ist der Herbst."
+    },
+    {
+      "id": 8,
+      "german": "Der Besucher hat großen Durst nach dem Marathon.",
+      "english": "The visitor is very thirsty after the marathon.",
+      "level": "medium",
+      "note": "Uses: der Besucher, der Durst, der Marathon; Akkusativ großen Durst"
+    },
+    {
+      "id": 9,
+      "german": "Im August können wir auf der Insel Erdbeeren kaufen.",
+      "english": "In August we can buy strawberries on the island.",
+      "level": "medium",
+      "note": "Uses: der August, die Insel, die Erdbeere (plural); modal können"
+    },
+    {
+      "id": 10,
+      "german": "Zu Silvester kommen viele Besucher in die Stadt und feiern bis Mitternacht.",
+      "english": "On New Year's Eve many visitors come to the city and celebrate until midnight.",
+      "level": "complex",
+      "note": "Uses: das Silvester, der Besucher (plural); bis (Lektion 12 preposition)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Sommer ist warm und sonnig. (summer)",
+      "solution": "Der",
+      "explanation": "der Sommer — masculine. All seasons in German are masculine: der Frühling, der Sommer, der Herbst, der Winter."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Wetter heute ist sehr schön. (weather)",
+      "solution": "Das",
+      "explanation": "das Wetter — neuter. Must memorize; no reliable ending pattern."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Insel ist sehr klein. (island)",
+      "solution": "Die",
+      "explanation": "die Insel — feminine. Must memorize; no reliable pattern for this ending."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Im ___ machen wir immer eine Radtour. (August)",
+      "solution": "August",
+      "explanation": "der August — a month name. All months in German are masculine (der). Here used with im (in + dem), so Dativ: im August."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir fahren mit ___ Schiff zu der Insel. (the ship)",
+      "solution": "dem",
+      "explanation": "das Schiff is neuter. After mit (Dativ preposition), the article becomes dem: mit dem Schiff."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Zu ___ kommen viele Touristen in die Stadt. (Christmas)",
+      "solution": "Weihnachten",
+      "explanation": "das Weihnachten — used without article in fixed expressions like zu Weihnachten (at Christmas)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Marathon ist vierzig ___. (kilometres)",
+      "solution": "Kilometer",
+      "explanation": "der Kilometer — masculine, plural is unchanged: die Kilometer (same form as singular)."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Meine Lieblings___ ist der Winter, weil ich Ski fahren mag. (season)",
+      "solution": "jahreszeit",
+      "explanation": "die Jahreszeit — season. German compound: Jahres- (of the year) + Zeit (time). Feminine."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Im Hafen gibt es viele ___ aus aller Welt. (ships)",
+      "solution": "Schiffe",
+      "explanation": "das Schiff, plural: die Schiffe (add -e). Neuter nouns with -e plural are common."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein ___ ist am dritten März. (birthday)",
+      "solution": "Geburtstag",
+      "explanation": "der Geburtstag — birthday. Compound: Geburts- + Tag (day). Masculine because Tag is masculine."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Marathon dauert über vier Stunden.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Der",
+      "explanation": "der Marathon — masculine. It is a borrowed word but takes der. Must memorize."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich habe großen ___. (I am very thirsty.)",
+      "options": ["Durst", "Hunger", "Schlaf"],
+      "solution": "Durst",
+      "explanation": "Durst means thirst. The expression Durst haben means to be thirsty. Der Durst is masculine, singular only."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Im ___ blühen viele Blumen und es wird warm.",
+      "options": ["Frühling", "Herbst", "Winter"],
+      "solution": "Frühling",
+      "explanation": "Frühling is spring — the season when flowers bloom and it gets warm. der Frühling."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Radtour dauert zwei ___.",
+      "options": ["Stunden", "Kilometer", "Monate"],
+      "solution": "Stunden",
+      "explanation": "Stunden is the plural of die Stunde (hour). Dauern (to last) with a time duration uses hours, not kilometres or months in this context."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Zu Silvester kommen die ___ aus vielen Ländern nach Berlin.",
+      "options": ["Besucher", "Besucherin", "Besuch"],
+      "solution": "Besucher",
+      "explanation": "Besucher is the plural of der Besucher (visitor, male or generic). Besucherin is singular feminine; Besuch means visit (different word)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Mein Lieblingsmonat ist ___.",
+      "options": ["der Juli", "das Juli", "die Juli"],
+      "solution": "der Juli",
+      "explanation": "All months in German are masculine: der Juli. Never das or die for month names."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir fahren mit dem ___ von Hamburg zur Insel Sylt.",
+      "options": ["Schiff", "Tour", "Kilometer"],
+      "solution": "Schiff",
+      "explanation": "das Schiff (ship) is the correct word for traveling by boat. mit dem Schiff = by ship (Dativ). Tour is a trip; Kilometer is a unit of distance."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The harbour has many ships.",
+      "solution": "Der Hafen hat viele Schiffe.",
+      "explanation": "der Hafen (masc), viele Schiffe (plural of das Schiff = Schiffe). Subject-verb-object word order."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My birthday is in January.",
+      "solution": "Mein Geburtstag ist im Januar.",
+      "explanation": "der Geburtstag (masculine) with mein. im Januar = in + dem Januar (Dativ, months take im)."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The cycling tour is three hours long.",
+      "solution": "Die Radtour dauert drei Stunden.",
+      "explanation": "die Radtour (feminine). dauern = to last; drei Stunden = three hours (plural of die Stunde)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "At Christmas we travel by ship to a small island.",
+      "solution": "Zu Weihnachten fahren wir mit dem Schiff zu einer kleinen Insel.",
+      "explanation": "zu Weihnachten (at Christmas, no article); mit dem Schiff (Dativ); zu einer kleinen Insel (Dativ, feminine Insel → einer kleinen Insel)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Summer is my favourite season.",
+      "solution": "Der Sommer ist meine Lieblingsjahreszeit.",
+      "explanation": "der Sommer (masculine season); die Jahreszeit (feminine) → meine Lieblingsjahreszeit."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The visitor has thirst after the marathon.",
+      "solution": "Der Besucher hat Durst nach dem Marathon.",
+      "explanation": "der Besucher (masculine -er noun); Durst haben = to be thirsty; nach dem Marathon (Dativ, nach requires Dativ)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "In winter the weather is cold.",
+      "solution": "Im Winter ist das Wetter kalt.",
+      "explanation": "im Winter (in + dem, Dativ); das Wetter (neuter, singular only); kalt (adjective from earlier lektionen)."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Sommer ist sehr warm.",
+      "solution": "Der Sommer ist sehr warm.",
+      "explanation": "Sommer is masculine: der Sommer. All seasons are masculine in German."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Der Wetter ist heute schön.",
+      "solution": "Das Wetter ist heute schön.",
+      "explanation": "Wetter is neuter: das Wetter. Must memorize — no reliable pattern."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir fahren mit der Schiff zur Insel.",
+      "solution": "Wir fahren mit dem Schiff zur Insel.",
+      "explanation": "das Schiff is neuter. After mit (Dativ), neuter nouns take dem, not der."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Mein Geburtstag ist in den März.",
+      "solution": "Mein Geburtstag ist im März.",
+      "explanation": "With months, use im (in + dem), not in den. im März is the fixed preposition form."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Die Besucher kommen aus viele Länder zu Silvester.",
+      "solution": "Die Besucher kommen aus vielen Ländern zu Silvester.",
+      "explanation": "aus requires Dativ: vielen Ländern (not viele Länder). Dative plural adds -n to both adjective and noun."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Tour durch die Alpen war sehr schön.",
+      "solution": "Die Tour durch die Alpen war sehr schön.",
+      "explanation": "Tour is feminine: die Tour. Must memorize — no reliable pattern."
+    },
+    {
+      "id": 31,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Monat",
+      "solution": "die Monate",
+      "explanation": "der Monat, plural: die Monate. Add -e to form the plural."
+    },
+    {
+      "id": 32,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: das Schiff",
+      "solution": "die Schiffe",
+      "explanation": "das Schiff, plural: die Schiffe. Add -e to form the plural."
+    },
+    {
+      "id": 33,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Insel",
+      "solution": "die Inseln",
+      "explanation": "die Insel, plural: die Inseln. Add -n (not -en, since it already ends in -el)."
+    },
+    {
+      "id": 34,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Erdbeere",
+      "solution": "die Erdbeeren",
+      "explanation": "die Erdbeere, plural: die Erdbeeren. Add -n."
+    },
+    {
+      "id": 35,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Hafen",
+      "solution": "die Häfen",
+      "explanation": "der Hafen, plural: die Häfen. Umlaut change: a → ä. No ending added."
+    },
+    {
+      "id": 36,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Stunde",
+      "solution": "die Stunden",
+      "explanation": "die Stunde, plural: die Stunden. Add -n."
+    },
+    {
+      "id": 37,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Geburtstag",
+      "solution": "die Geburtstage",
+      "explanation": "der Geburtstag, plural: die Geburtstage. Add -e."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Tour",
+      "solution": "die Touren",
+      "explanation": "die Tour, plural: die Touren. Add -en."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: das Tor",
+      "solution": "die Tore",
+      "explanation": "das Tor, plural: die Tore. Add -e."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: die Jahreszeit",
+      "solution": "die Jahreszeiten",
+      "explanation": "die Jahreszeit, plural: die Jahreszeiten. Add -en."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der ___ beginnt am 1. Dezember. (winter)",
+      "solution": "Winter",
+      "explanation": "der Winter — masculine season. Used here as subject after der."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Von Hamburg nach Helgoland fährt man mit dem ___. (ship)",
+      "solution": "Schiff",
+      "explanation": "das Schiff — neuter. After mit (Dativ), it remains Schiff (no change to the noun itself; the article becomes dem)."
+    },
+    {
+      "id": 43,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The Alps are beautiful in spring and in autumn.",
+      "solution": "Die Alpen sind im Frühling und im Herbst schön.",
+      "explanation": "die Alpen (plural-only noun); im Frühling and im Herbst (in + dem, Dativ for seasons); schön (adjective)."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Radtouren dauert zwei Stunden.",
+      "solution": "Die Radtour dauert zwei Stunden.",
+      "explanation": "die Radtour is singular here (one tour). The plural Radtouren would require dauern (plural verb). With singular subject, use dauert."
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "lektion": 11,
+  "focus": "all",
+  "file_slug": "lektion11_all",
+  "generated_at": "2026-03-10T03:06:02",
+  "vocabulary": [
+    {
+      "german": "das Schild",
+      "base_form": "Schild",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Schilder",
+      "english": "sign",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Spaziergang",
+      "base_form": "Spaziergang",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Spaziergänge",
+      "english": "stroll / walk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Wald",
+      "base_form": "Wald",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..er",
+      "plural_full": "Wälder",
+      "english": "forest",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kinderarzt",
+      "base_form": "Kinderarzt",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Kinderärzte",
+      "english": "paediatrician (m.)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Zeitung",
+      "base_form": "Zeitung",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Zeitungen",
+      "english": "newspaper",
+      "word_type": "noun",
+      "pattern_hint": "-ung ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Boutique",
+      "base_form": "Boutique",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Boutiquen",
+      "english": "boutique",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Mode",
+      "base_form": "Mode",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Moden",
+      "english": "fashion",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Urlaub",
+      "base_form": "Urlaub",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Urlaube",
+      "english": "holiday / vacation",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Unterricht",
+      "base_form": "Unterricht",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "class / instruction",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kurs",
+      "base_form": "Kurs",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Kurse",
+      "english": "course",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Blume",
+      "base_form": "Blume",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Blumen",
+      "english": "flower",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Laden",
+      "base_form": "Laden",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Läden",
+      "english": "shop / store",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Eiscafé",
+      "base_form": "Eiscafé",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Eiscafés",
+      "english": "ice cream parlour",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Praxis",
+      "base_form": "Praxis",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "Praxen",
+      "plural_full": "Praxen",
+      "english": "medical practice",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kiosk",
+      "base_form": "Kiosk",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Kioske",
+      "english": "kiosk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Zahn",
+      "base_form": "Zahn",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Zähne",
+      "english": "tooth",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Fragebogen",
+      "base_form": "Fragebogen",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Fragebögen",
+      "english": "questionnaire",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Vogel",
+      "base_form": "Vogel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Vögel",
+      "english": "bird",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Film",
+      "base_form": "Film",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Filme",
+      "english": "film / movie",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Pause",
+      "base_form": "Pause",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Pausen",
+      "english": "break / pause",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Doktor",
+      "base_form": "Doktor",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-en",
+      "plural_full": "Doktoren",
+      "english": "doctor",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Hausaufgabe",
+      "base_form": "Hausaufgabe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Hausaufgaben",
+      "english": "homework",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Serie",
+      "base_form": "Serie",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Serien",
+      "english": "series / TV show",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Sport",
+      "base_form": "Sport",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "sport",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Riesenrad",
+      "base_form": "Riesenrad",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Riesenräder",
+      "english": "Ferris wheel",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Volksfest",
+      "base_form": "Volksfest",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Volksfeste",
+      "english": "folk festival / fair",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Chor",
+      "base_form": "Chor",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Chöre",
+      "english": "choir",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Wäsche",
+      "base_form": "Wäsche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "laundry",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Geschenk",
+      "base_form": "Geschenk",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Geschenke",
+      "english": "present / gift",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Anfang",
+      "base_form": "Anfang",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Anfänge",
+      "english": "beginning / start",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Oktober",
+      "base_form": "Oktober",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "October",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "der November",
+      "base_form": "November",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "November",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "aufräumen",
+      "base_form": "aufräumen",
+      "english": "to tidy up",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "räume auf",
+        "du": "räumst auf",
+        "er/sie/es": "räumt auf",
+        "wir": "räumen auf",
+        "ihr": "räumt auf",
+        "sie/Sie": "räumen auf"
+      },
+      "perfekt": "hat aufgeräumt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb: auf|räumen. Prefix 'auf' splits off in main clauses.",
+      "lektion_source": 11
+    },
+    {
+      "german": "abwaschen",
+      "base_form": "abwaschen",
+      "english": "to do the dishes / wash up",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wasche ab",
+        "du": "wäschst ab",
+        "er/sie/es": "wäscht ab",
+        "wir": "waschen ab",
+        "ihr": "wascht ab",
+        "sie/Sie": "waschen ab"
+      },
+      "perfekt": "hat abgewaschen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Separable + strong: a→ä in du/er forms. Partizip II: ab-ge-waschen.",
+      "lektion_source": 11
+    },
+    {
+      "german": "schlafen",
+      "base_form": "schlafen",
+      "english": "to sleep",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schlafe",
+        "du": "schläfst",
+        "er/sie/es": "schläft",
+        "wir": "schlafen",
+        "ihr": "schlaft",
+        "sie/Sie": "schlafen"
+      },
+      "perfekt": "hat geschlafen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: a→ä in du/er forms.",
+      "lektion_source": 11
+    },
+    {
+      "german": "einladen",
+      "base_form": "einladen",
+      "english": "to invite",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lade ein",
+        "du": "lädst ein",
+        "er/sie/es": "lädt ein",
+        "wir": "laden ein",
+        "ihr": "ladet ein",
+        "sie/Sie": "laden ein"
+      },
+      "perfekt": "hat eingeladen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Separable + strong: a→ä in du/er. Partizip II: ein-ge-laden.",
+      "lektion_source": 11
+    },
+    {
+      "german": "besuchen",
+      "base_form": "besuchen",
+      "english": "to visit",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "besuche",
+        "du": "besuchst",
+        "er/sie/es": "besucht",
+        "wir": "besuchen",
+        "ihr": "besucht",
+        "sie/Sie": "besuchen"
+      },
+      "perfekt": "hat besucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Inseparable prefix 'be-': no ge- in Partizip II.",
+      "lektion_source": 11
+    },
+    {
+      "german": "bleiben",
+      "base_form": "bleiben",
+      "english": "to stay / to remain",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bleibe",
+        "du": "bleibst",
+        "er/sie/es": "bleibt",
+        "wir": "bleiben",
+        "ihr": "bleibt",
+        "sie/Sie": "bleiben"
+      },
+      "perfekt": "ist geblieben",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb using sein as auxiliary. Partizip II: geblieben.",
+      "lektion_source": 11
+    },
+    {
+      "german": "waschen",
+      "base_form": "waschen",
+      "english": "to wash / to do the laundry",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wasche",
+        "du": "wäschst",
+        "er/sie/es": "wäscht",
+        "wir": "waschen",
+        "ihr": "wascht",
+        "sie/Sie": "waschen"
+      },
+      "perfekt": "hat gewaschen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb: a→ä in du/er. Partizip II: gewaschen.",
+      "lektion_source": 11
+    },
+    {
+      "german": "geöffnet",
+      "base_form": "geöffnet",
+      "english": "open / opened",
+      "word_type": "adjective",
+      "antonym": "geschlossen",
+      "cognate_note": "English 'opened' is a direct cognate. Spanish: 'abierto'.",
+      "lektion_source": 11
+    },
+    {
+      "german": "geschlossen",
+      "base_form": "geschlossen",
+      "english": "closed",
+      "word_type": "adjective",
+      "antonym": "geöffnet",
+      "cognate_note": "Spanish: 'cerrado'. Partizip II of schließen used as adjective.",
+      "lektion_source": 11
+    },
+    {
+      "german": "letzt-",
+      "base_form": "letzt",
+      "english": "last",
+      "word_type": "adjective",
+      "antonym": "erst- (first)",
+      "cognate_note": "Must take adjective endings: letzter/letzte/letztes/letzten. Spanish 'último' — different word.",
+      "lektion_source": 11
+    },
+    {
+      "german": "gestern",
+      "base_form": "gestern",
+      "english": "yesterday",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb for yesterday. Can open a sentence: 'Gestern habe ich gearbeitet.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "danach",
+      "base_form": "danach",
+      "english": "afterwards / after that",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Sequencing adverb: 'Wir haben gegessen und danach sind wir spazieren gegangen.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "lange",
+      "base_form": "lange",
+      "english": "for a long time",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Duration adverb: 'Ich habe lange geschlafen.' Different from adjective 'lang' (long in length).",
+      "lektion_source": 11
+    },
+    {
+      "german": "also",
+      "base_form": "also",
+      "english": "so / therefore",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "False friend! English 'also' = German 'auch'. German 'also' = so/therefore. Inverts subject-verb: 'also kaufe ich...'",
+      "lektion_source": 11
+    },
+    {
+      "german": "fast",
+      "base_form": "fast",
+      "english": "almost / nearly",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Modifies adjectives, verbs, or quantities: 'fast alles', 'fast Mittag'.",
+      "lektion_source": 11
+    },
+    {
+      "german": "etwa",
+      "base_form": "etwa",
+      "english": "about / approximately",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Before numbers/quantities: 'etwa eine Stunde'.",
+      "lektion_source": 11
+    },
+    {
+      "german": "zu wenig",
+      "base_form": "zu wenig",
+      "english": "too little / not enough",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Pair with 'zu viel'. 'Ich schlafe zu wenig.' Very common in German.",
+      "lektion_source": 11
+    },
+    {
+      "german": "zu viel",
+      "base_form": "zu viel",
+      "english": "too much",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Pair with 'zu wenig'. 'Er isst zu viel.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "von … bis",
+      "base_form": "von … bis",
+      "english": "from … to",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Time ranges: 'von neun bis zwölf Uhr'. Both von and bis take Dativ for time.",
+      "lektion_source": 11
+    },
+    {
+      "german": "Ja, habe ich.",
+      "base_form": "Ja, habe ich",
+      "english": "Yes, I did.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short affirmative answer to Perfekt questions. Auxiliary is repeated.",
+      "lektion_source": 11
+    },
+    {
+      "german": "Nein, habe ich nicht.",
+      "base_form": "Nein, habe ich nicht",
+      "english": "No, I didn't.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short negative answer to Perfekt questions.",
+      "lektion_source": 11
+    },
+    {
+      "german": "dieser/dieses/diese",
+      "base_form": "dieser",
+      "english": "this / these",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Demonstrative: dieser (masc. Nom.), dieses (neut.), diese (fem./pl.). 'Dieser Kurs ist gut.'",
+      "lektion_source": 11
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Gestern haben wir einen langen Spaziergang durch den Wald gemacht.",
+      "english": "Yesterday we went for a long walk through the forest.",
+      "level": "medium",
+      "note": "Nouns: der Spaziergang, der Wald. Adverb: gestern. Perfekt with haben."
+    },
+    {
+      "id": 2,
+      "german": "Der Laden ist geschlossen, also kaufen wir die Zeitung am Kiosk.",
+      "english": "The shop is closed, so we buy the newspaper at the kiosk.",
+      "level": "medium",
+      "note": "Nouns: der Laden, die Zeitung, der Kiosk. Adjective: geschlossen. Adverb: also (inverts order)."
+    },
+    {
+      "id": 3,
+      "german": "Er hat gestern zu viel gegessen und zu wenig geschlafen.",
+      "english": "He ate too much yesterday and slept too little.",
+      "level": "medium",
+      "note": "Verbs: schlafen (hat geschlafen). Adverb: gestern. Phrases: zu viel, zu wenig."
+    },
+    {
+      "id": 4,
+      "german": "Der Kurs geht von neun bis zwölf Uhr, und danach räumen wir auf.",
+      "english": "The course runs from nine to twelve o'clock, and afterwards we tidy up.",
+      "level": "medium",
+      "note": "Noun: der Kurs. Verb: aufräumen (separable, räumen ... auf). Phrases: von...bis, danach."
+    },
+    {
+      "id": 5,
+      "german": "Dieses Volksfest ist letztes Jahr geschlossen worden.",
+      "english": "This folk festival was closed last year.",
+      "level": "complex",
+      "note": "Noun: das Volksfest. Adjective: geschlossen. Demonstrative: dieses (neuter). letztes Jahr."
+    },
+    {
+      "id": 6,
+      "german": "Wir haben unsere Freunde zum Volksfest eingeladen und sind drei Tage geblieben.",
+      "english": "We invited our friends to the folk festival and stayed for three days.",
+      "level": "complex",
+      "note": "Nouns: das Volksfest. Verbs: einladen (hat eingeladen, haben), bleiben (ist geblieben, sein)."
+    },
+    {
+      "id": 7,
+      "german": "Das Eiscafé ist fast immer geöffnet — nur montags ist es geschlossen.",
+      "english": "The ice cream parlour is almost always open — only on Mondays it is closed.",
+      "level": "medium",
+      "note": "Noun: das Eiscafé. Adjectives: geöffnet, geschlossen. Adverb: fast."
+    },
+    {
+      "id": 8,
+      "german": "Der Doktor in der Praxis hat mir gesagt, dass mein Zahn fast geheilt ist.",
+      "english": "The doctor at the practice told me that my tooth is almost healed.",
+      "level": "complex",
+      "note": "Nouns: der Doktor, die Praxis, der Zahn. Adverb: fast. dass-clause."
+    },
+    {
+      "id": 9,
+      "german": "Letzte Woche habe ich zu wenig schlafen können, weil die Hausaufgaben so lang waren.",
+      "english": "Last week I was unable to sleep enough because the homework was so long.",
+      "level": "complex",
+      "note": "Adjective: letzte. Phrase: zu wenig. Verb: schlafen. Noun: die Hausaufgabe. weil-clause."
+    },
+    {
+      "id": 10,
+      "german": "Hast du die Wäsche gewaschen und danach aufgeräumt? — Ja, habe ich.",
+      "english": "Did you wash the laundry and then tidy up afterwards? — Yes, I did.",
+      "level": "complex",
+      "note": "Nouns: die Wäsche. Verbs: waschen, aufräumen. Adverb: danach. Short answer: Ja, habe ich."
+    },
+    {
+      "id": 11,
+      "german": "Diese Blumen habe ich am Anfang des Kurses für die Kursleiterin gekauft.",
+      "english": "I bought these flowers at the beginning of the course for the course instructor.",
+      "level": "complex",
+      "note": "Nouns: die Blume (plural), der Anfang, der Kurs. Demonstrative: diese (plural). Perfekt."
+    },
+    {
+      "id": 12,
+      "german": "Der Chor singt etwa eine Stunde, und danach machen alle eine lange Pause.",
+      "english": "The choir sings for about an hour, and afterwards everyone takes a long break.",
+      "level": "medium",
+      "note": "Nouns: der Chor, die Pause. Adverbs: etwa, danach, lange. Combined in natural sequence."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Laden ist geschlossen. (shop — article)",
+      "solution": "Der",
+      "explanation": "der Laden is masculine. Nominativ: 'Der'."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ mein Zimmer auf. (aufräumen — ich form)",
+      "solution": "räume",
+      "explanation": "aufräumen is separable. Ich form: 'räume ... auf'."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Kiosk ist ___. (open)",
+      "solution": "geöffnet",
+      "explanation": "geöffnet = open. Predicative adjective after sein, no ending."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ habe ich lange geschlafen. (yesterday)",
+      "solution": "Gestern",
+      "explanation": "gestern = yesterday. Temporal adverb, can open a sentence."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Du ___ sehr lange. (schlafen — du form)",
+      "solution": "schläfst",
+      "explanation": "schlafen: stem change a→ä in du form → 'schläfst'."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Unterricht geht ___ neun ___ zwölf Uhr. (from ... to)",
+      "solution": "von; bis",
+      "explanation": "von … bis = from … to. Time range."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___ alle Hausaufgaben gemacht. (almost)",
+      "solution": "fast",
+      "explanation": "fast = almost/nearly."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Volksfest dauert von Oktober bis November. (This — neuter)",
+      "solution": "Dieses",
+      "explanation": "das Volksfest is neuter. Demonstrative Nominativ neuter = 'Dieses'."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er isst ___ viel und schläft ___ wenig. (too ... too)",
+      "solution": "zu; zu",
+      "explanation": "zu viel = too much; zu wenig = too little. Both use 'zu' as intensifier."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Laden ist zu, ___ kaufen wir am Kiosk. (so/therefore)",
+      "solution": "also",
+      "explanation": "also = so/therefore. Note word order inversion after also: kaufen wir."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ drei Tage in Wien ___. (bleiben — Perfekt)",
+      "solution": "ist ... geblieben",
+      "explanation": "bleiben uses sein as auxiliary: ist geblieben."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Am ___ Samstag haben wir das Volksfest besucht. (last — masculine Dativ)",
+      "solution": "letzten",
+      "explanation": "am = Dativ. 'der Samstag' masculine. Dativ adjective -en → letzten."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Zeitung liegt auf dem Tisch.",
+      "options": ["Die", "Der", "Das"],
+      "solution": "Die",
+      "explanation": "die Zeitung is feminine (-ung → die). Nominativ: 'Die'."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ heute bei uns.",
+      "options": ["bleibt", "bleibst", "bleiben"],
+      "solution": "bleibt",
+      "explanation": "bleiben, er/sie/es form: 'bleibt'."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Die Boutique ist ___.",
+      "options": ["geschlossen", "geschlosst", "geschlossene"],
+      "solution": "geschlossen",
+      "explanation": "geschlossen = closed. Predicative adjective, no ending. 'geschlosst' does not exist."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Kurs ist sehr interessant.",
+      "options": ["Dieser", "Diese", "Dieses"],
+      "solution": "Dieser",
+      "explanation": "der Kurs is masculine. Nominativ demonstrative: 'Dieser'."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie hat ___ Freunde zum Chor ___.",
+      "options": ["ihre ... eingeladen", "ihren ... eingeladen", "ihre ... eingeladet"],
+      "solution": "ihre ... eingeladen",
+      "explanation": "Freunde is plural → ihre (possessive plural Akkusativ). einladen Perfekt: eingeladen."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat ___ Tage in Wien geblieben.",
+      "options": ["ist ... drei", "hat ... drei", "ist ... drei"],
+      "solution": "ist ... drei",
+      "explanation": "bleiben uses sein: 'ist ... geblieben'. Wait — the Partizip II is missing from options. Correct full form: 'Er ist drei Tage in Wien geblieben.' The auxiliary is 'ist'."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich kaufe Blumen am Kiosk, weil der Laden ___ ist.",
+      "options": ["geschlossen", "geöffnet", "letzt"],
+      "solution": "geschlossen",
+      "explanation": "If I'm going to the kiosk instead of the shop, the shop must be 'geschlossen' (closed)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir haben ___ unsere Hausaufgaben gemacht.",
+      "options": ["gestern", "danach", "etwa"],
+      "solution": "gestern",
+      "explanation": "gestern = yesterday. 'danach' means 'afterwards', 'etwa' means 'approximately'."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Eiscafé ist neu.",
+      "options": ["Das", "Der", "Die"],
+      "solution": "Das",
+      "explanation": "das Eiscafé is neuter (borrowed word). Nominativ: 'Das'."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The shop is closed today.",
+      "solution": "Der Laden ist heute geschlossen.",
+      "explanation": "der Laden (masculine); geschlossen = closed; heute = today (adverb)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Yesterday she slept for a long time.",
+      "solution": "Gestern hat sie lange geschlafen.",
+      "explanation": "gestern = yesterday; schlafen Perfekt: hat geschlafen; lange = for a long time."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "This course runs from Monday to Friday.",
+      "solution": "Dieser Kurs geht von Montag bis Freitag.",
+      "explanation": "dieser (masculine Nominativ, der Kurs); von … bis = from … to."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We visited the folk festival and stayed for three days.",
+      "solution": "Wir haben das Volksfest besucht und sind drei Tage geblieben.",
+      "explanation": "besuchen → haben besucht (haben). bleiben → sind geblieben (sein). Two auxiliaries."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He works too much and sleeps too little.",
+      "solution": "Er arbeitet zu viel und schläft zu wenig.",
+      "explanation": "zu viel = too much; zu wenig = too little; schläft: stem change a→ä."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I tidied up the kitchen yesterday and afterwards did the dishes.",
+      "solution": "Ich habe gestern die Küche aufgeräumt und danach abgewaschen.",
+      "explanation": "aufräumen Perfekt: hat aufgeräumt. abwaschen Perfekt: hat abgewaschen. gestern + danach sequence."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The newspaper costs about one euro.",
+      "solution": "Die Zeitung kostet etwa einen Euro.",
+      "explanation": "die Zeitung (feminine); etwa = approximately; einen Euro (Akkusativ masculine)."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Did you wash the laundry? Yes, I did.",
+      "solution": "Hast du die Wäsche gewaschen? — Ja, habe ich.",
+      "explanation": "waschen Perfekt: hat gewaschen. Short answer: Ja, habe ich (auxiliary repeated)."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My last visit to the kiosk was last November.",
+      "solution": "Mein letzter Besuch am Kiosk war letzten November.",
+      "explanation": "letzter Besuch (masc. Nom., after mein: -er). letzten November (masc. Akk. temporal, no article: -en)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Schild sagt 'geöffnet'. (Correct the error.)",
+      "solution": "Das Schild sagt 'geöffnet'.",
+      "explanation": "das Schild is neuter. Article must be 'Das', not 'Die'."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er hat drei Tage in Wien geblieben. (Correct the error.)",
+      "solution": "Er ist drei Tage in Wien geblieben.",
+      "explanation": "bleiben uses sein as auxiliary, not haben."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Du schlafst sehr lange. (Correct the error.)",
+      "solution": "Du schläfst sehr lange.",
+      "explanation": "schlafen has stem change a→ä in du form: 'schläfst', not 'schlafst'."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Laden ist geöffnete. (Correct the error.)",
+      "solution": "Der Laden ist geöffnet.",
+      "explanation": "Predicative adjectives after sein take no endings: 'geöffnet', not 'geöffnete'."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich aufräume mein Zimmer. (Correct the error.)",
+      "solution": "Ich räume mein Zimmer auf.",
+      "explanation": "aufräumen is separable. In main clause, prefix 'auf' goes to end."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben unsere Großeltern gebesucht. (Correct the error.)",
+      "solution": "Wir haben unsere Großeltern besucht.",
+      "explanation": "besuchen has inseparable prefix 'be-'. Partizip II never adds 'ge-': 'besucht', not 'gebesucht'."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Diese Volksfest dauert lange. (Correct the error.)",
+      "solution": "Dieses Volksfest dauert lange.",
+      "explanation": "das Volksfest is neuter. Demonstrative for neuter Nominativ: 'dieses', not 'diese' (feminine/plural)."
+    },
+    {
+      "id": 38,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Der Laden ist zu, also ich kaufe am Kiosk. (Correct the word order.)",
+      "solution": "Der Laden ist zu, also kaufe ich am Kiosk.",
+      "explanation": "'also' (so/therefore) causes subject-verb inversion: 'also kaufe ich', not 'also ich kaufe'."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er hat alle Freunde zur Party ___, aber viele sind nicht gekommen. (einladen — Perfekt)",
+      "solution": "eingeladen",
+      "explanation": "einladen Perfekt: hat eingeladen. Partizip II: eingeladen."
+    },
+    {
+      "id": 40,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Hast du aufgeräumt? — Ja, ___ ich. (short answer)",
+      "solution": "habe",
+      "explanation": "Ja, habe ich. = short affirmative Perfekt answer. 'habe' mirrors 'hast' from the question."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She invited her friends to the choir, and they all stayed afterwards.",
+      "solution": "Sie hat ihre Freunde zum Chor eingeladen, und alle sind danach geblieben.",
+      "explanation": "einladen → hat eingeladen (haben). bleiben → sind geblieben (sein). danach = afterwards."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Zeitung ist von gestern — die neue Ausgabe ist noch nicht ___. (This — fem.; open/available)",
+      "solution": "Diese; geöffnet (or 'verfügbar')",
+      "explanation": "diese (feminine Nominativ, die Zeitung). geöffnet = open (in this context, 'available')."
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ jeden Abend die Wäsche.",
+      "options": ["wäscht", "wascht", "gewaschen"],
+      "solution": "wäscht",
+      "explanation": "waschen, er/sie/es form: stem change a→ä → 'wäscht'."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat gestern zu viele geschlafen. (Correct the error.)",
+      "solution": "Sie hat gestern zu viel geschlafen.",
+      "explanation": "'zu viele' is for plural countable nouns. With a verb (sleeping), use 'zu viel'."
+    },
+    {
+      "id": 45,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The last course runs from October to November and is almost always open.",
+      "solution": "Der letzte Kurs geht von Oktober bis November und ist fast immer geöffnet.",
+      "explanation": "letzte (masc. Nom. after der: -e). von...bis = time range. fast immer = almost always. geöffnet = open."
+    }
+  ]
+}

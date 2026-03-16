@@ -1,0 +1,479 @@
+{
+  "lektion": 11,
+  "focus": "adjectives",
+  "file_slug": "lektion11_adjectives",
+  "generated_at": "2026-03-10T02:59:00",
+  "vocabulary": [
+    {
+      "german": "geöffnet",
+      "base_form": "geöffnet",
+      "english": "open / opened",
+      "word_type": "adjective",
+      "antonym": "geschlossen",
+      "cognate_note": "English 'opened' is a direct cognate in form and meaning. Spanish: 'abierto'.",
+      "lektion_source": 11
+    },
+    {
+      "german": "geschlossen",
+      "base_form": "geschlossen",
+      "english": "closed",
+      "word_type": "adjective",
+      "antonym": "geöffnet",
+      "cognate_note": "English 'closed' has similar meaning. Spanish: 'cerrado'. These are Partizip II forms used as adjectives.",
+      "lektion_source": 11
+    },
+    {
+      "german": "letzt-",
+      "base_form": "letzt",
+      "english": "last",
+      "word_type": "adjective",
+      "antonym": "erst- (first)",
+      "cognate_note": "English 'last' is not related. Spanish 'último' (last) — false friend: 'ultimo' in German means something different. letzt- takes adjective endings: letzter, letzte, letztes.",
+      "lektion_source": 11
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Geschäft ist heute geschlossen, aber das Eiscafé ist geöffnet.",
+      "english": "The shop is closed today, but the ice cream parlour is open.",
+      "level": "medium",
+      "note": "Uses: geschlossen, geöffnet — natural antonym pair in one sentence."
+    },
+    {
+      "id": 2,
+      "german": "Wir haben letztes Wochenende das Volksfest besucht.",
+      "english": "We visited the folk festival last weekend.",
+      "level": "medium",
+      "note": "Uses: letzt- → letztes (neuter Akkusativ, 'das Wochenende'). Perfekt with haben."
+    },
+    {
+      "id": 3,
+      "german": "Der Kiosk ist um diese Zeit immer geöffnet.",
+      "english": "The kiosk is always open at this time.",
+      "level": "medium",
+      "note": "Uses: geöffnet — predicative adjective (after ist, no ending change needed)."
+    },
+    {
+      "id": 4,
+      "german": "Am letzten Oktober haben wir einen Spaziergang durch den Wald gemacht.",
+      "english": "Last October we went for a walk through the forest.",
+      "level": "complex",
+      "note": "Uses: letzt- → letzten (masculine Dativ: am = an + dem, 'der Oktober'). Perfekt."
+    },
+    {
+      "id": 5,
+      "german": "Die Boutique ist montags geschlossen, aber dienstags geöffnet.",
+      "english": "The boutique is closed on Mondays but open on Tuesdays.",
+      "level": "medium",
+      "note": "Uses: geschlossen, geöffnet — predicative adjectives; days of week as adverbs."
+    },
+    {
+      "id": 6,
+      "german": "Mein letzter Besuch in Wien war sehr schön.",
+      "english": "My last visit to Vienna was very nice.",
+      "level": "medium",
+      "note": "Uses: letzt- → letzter (masculine Nominativ, 'der Besuch'). Adjective declension after mein."
+    },
+    {
+      "id": 7,
+      "german": "Die Praxis ist heute Nachmittag geschlossen, weil der Doktor krank ist.",
+      "english": "The practice is closed this afternoon because the doctor is sick.",
+      "level": "complex",
+      "note": "Uses: geschlossen — predicative; weil-clause with verb at end."
+    },
+    {
+      "id": 8,
+      "german": "Hat die Bäckerei letzte Woche geöffnet?",
+      "english": "Was the bakery open last week?",
+      "level": "medium",
+      "note": "Uses: geöffnet, letzte — letzte (feminine Akkusativ/Nominativ, 'die Woche')."
+    },
+    {
+      "id": 9,
+      "german": "Den letzten Kurs haben wir sehr interessant gefunden.",
+      "english": "We found the last course very interesting.",
+      "level": "complex",
+      "note": "Uses: letzt- → letzten (masculine Akkusativ, 'den Kurs'). Word order: Akkusativ object fronted."
+    },
+    {
+      "id": 10,
+      "german": "Das Restaurant war geschlossen, also haben wir im Eiscafé gegessen.",
+      "english": "The restaurant was closed, so we ate at the ice cream parlour.",
+      "level": "complex",
+      "note": "Uses: geschlossen — predicative; also = so/therefore; Perfekt with haben."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Laden ist ___. (closed)",
+      "solution": "geschlossen",
+      "explanation": "geschlossen = closed. Predicative adjective (after sein), no ending changes."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Eiscafé ist ___. (open)",
+      "solution": "geöffnet",
+      "explanation": "geöffnet = open/opened. Predicative adjective (after sein), no ending changes."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir haben ___ Woche Wien besucht. (last — feminine Akkusativ)",
+      "solution": "letzte",
+      "explanation": "letzt- + die Woche (feminine). Akkusativ feminine adjective ending = -e → letzte."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Am ___ Samstag haben wir das Volksfest besucht. (last — masculine Dativ)",
+      "solution": "letzten",
+      "explanation": "am = an + dem (Dativ). 'der Samstag' masculine. Dativ adjective ending = -en → letzten."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Schild sagt '___ '(geöffnet/geschlossen). Der Kurs findet also statt.",
+      "solution": "geöffnet",
+      "explanation": "If the course takes place, the sign must say 'geöffnet' (open), not 'geschlossen'."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein ___ Urlaub war in Österreich. (last — masculine Nominativ, after mein)",
+      "solution": "letzter",
+      "explanation": "letzt- + der Urlaub (masculine Nominativ). After mein (no article), adjective takes -er ending."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir haben ___ ___ Kurs sehr gemocht. (the last course — masculine Akkusativ)",
+      "solution": "den letzten",
+      "explanation": "der Kurs (masculine). Akkusativ: den. letzt- + masculine Akkusativ after definite article = letzten."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Boutique ist heute Nachmittag ___, aber morgen wieder ___.",
+      "solution": "geschlossen; geöffnet",
+      "explanation": "geschlossen = closed; geöffnet = open. Both predicative after sein."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ ___ Wochenende haben wir das Riesenrad gesehen. (last weekend — neuter Akkusativ)",
+      "solution": "Letztes",
+      "explanation": "das Wochenende (neuter). Akkusativ: no article here, adjective takes strong ending -es → letztes."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Praxis ist ___ wegen Urlaub. (closed)",
+      "solution": "geschlossen",
+      "explanation": "geschlossen = closed. Predicative adjective, no ending needed."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Eiscafé ist ___.",
+      "options": ["geöffnet", "geschlossen", "letzt"],
+      "solution": "geöffnet",
+      "explanation": "geöffnet = open. Without more context, geöffnet means the place is currently open. 'letzt' without an ending would be wrong as predicate."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich war ___ Woche krank.",
+      "options": ["letzte", "letzten", "letztes"],
+      "solution": "letzte",
+      "explanation": "die Woche is feminine. Akkusativ feminine without article = strong ending -e → letzte."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Am ___ Freitag war der Kiosk geschlossen.",
+      "options": ["letzten", "letzte", "letzter"],
+      "solution": "letzten",
+      "explanation": "am = an + dem (Dativ). 'der Freitag' masculine. Dativ weak adjective ending = -en."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Schild sagt '___'. Der Laden hat zu.",
+      "options": ["geschlossen", "geöffnet", "letzt"],
+      "solution": "geschlossen",
+      "explanation": "If the shop is closed (hat zu), the sign must say 'geschlossen'."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Den ___ Film habe ich nicht gesehen.",
+      "options": ["letzten", "letzte", "letztes"],
+      "solution": "letzten",
+      "explanation": "der Film (masculine). Akkusativ after definite article: den. Adjective ending = -en."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die Boutique ist ___. Wir können nicht reingehen.",
+      "options": ["geschlossen", "geöffnet", "letzt"],
+      "solution": "geschlossen",
+      "explanation": "geschlossen = closed. We cannot enter → the shop must be closed."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ November haben wir ein Volksfest besucht.",
+      "options": ["Letzten", "Letzte", "Letztes"],
+      "solution": "Letzten",
+      "explanation": "der November (masculine). Akkusativ time expression without article → strong adjective ending -en? Actually with temporal Akkusativ: 'letzten November' (masculine Akkusativ) → -en."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The kiosk is open.",
+      "solution": "Der Kiosk ist geöffnet.",
+      "explanation": "geöffnet = open. Predicative adjective after ist, no ending change."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The shop is closed today.",
+      "solution": "Der Laden ist heute geschlossen.",
+      "explanation": "geschlossen = closed. Predicative adjective; 'heute' (today) is an adverb."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Last week we visited a park.",
+      "solution": "Letzte Woche haben wir einen Park besucht.",
+      "explanation": "letzte Woche (feminine Akkusativ, no article → -e ending). Perfekt with haben."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Was the boutique open or closed yesterday?",
+      "solution": "War die Boutique gestern geöffnet oder geschlossen?",
+      "explanation": "geöffnet / geschlossen — predicative adjectives; war = Präteritum of sein; gestern = yesterday."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My last visit to the doctor was in October.",
+      "solution": "Mein letzter Besuch beim Doktor war im Oktober.",
+      "explanation": "letzter Besuch: der Besuch (masculine Nominativ), after mein: strong ending -er. beim = bei + dem. im Oktober = in + dem."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The practice is closed because the doctor is on holiday.",
+      "solution": "Die Praxis ist geschlossen, weil der Doktor im Urlaub ist.",
+      "explanation": "weil-clause: verb goes to end. geschlossen = closed. im Urlaub = on holiday."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The last course was very good.",
+      "solution": "Der letzte Kurs war sehr gut.",
+      "explanation": "letzt- + der Kurs (masculine Nominativ), after der: weak ending -e → letzte. Wait: 'der letzte Kurs' → -e ending after definite article."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The sign says 'open'.",
+      "solution": "Das Schild sagt 'geöffnet'.",
+      "explanation": "das Schild (neuter); geöffnet = open."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Laden ist geöffnete. (Correct the error.)",
+      "solution": "Der Laden ist geöffnet.",
+      "explanation": "Predicative adjectives (after sein) do NOT take endings in German. 'geöffnet' stays as-is."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Letzt Woche war ich krank. (Correct the error.)",
+      "solution": "Letzte Woche war ich krank.",
+      "explanation": "letzt- must take an adjective ending. die Woche (feminine), Akkusativ time expression: -e → letzte."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Am letzter Samstag haben wir das Volksfest besucht. (Correct the error.)",
+      "solution": "Am letzten Samstag haben wir das Volksfest besucht.",
+      "explanation": "am = Dativ. Adjective after definite article in Dativ: -en → letzten, not letzter."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Boutique ist geschlosst. (Correct the error.)",
+      "solution": "Die Boutique ist geschlossen.",
+      "explanation": "'geschlosst' is not a German word. The correct form is 'geschlossen' (Partizip II of schließen)."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Den letzter Film haben wir nicht gesehen. (Correct the error.)",
+      "solution": "Den letzten Film haben wir nicht gesehen.",
+      "explanation": "den (masculine Akkusativ). After definite article in Akkusativ: adjective ending = -en, not -er."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Schild zeigt 'offen', aber der Laden ist geschlossen. Das Schild ist falsch — es sollte 'geöffneten' heißen. (Correct the error.)",
+      "solution": "Das Schild sollte 'geöffnet' heißen.",
+      "explanation": "Predicative adjectives take no endings. 'geöffneten' is wrong; correct is 'geöffnet'."
+    },
+    {
+      "id": 32,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Im ___ Monat haben wir viel aufgeräumt. (last — masculine Dativ)",
+      "solution": "letzten",
+      "explanation": "im = in + dem (Dativ). 'der Monat' masculine. Dativ adjective after definite article: -en → letzten."
+    },
+    {
+      "id": 33,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The last newspaper at the kiosk was from yesterday.",
+      "solution": "Die letzte Zeitung am Kiosk war von gestern.",
+      "explanation": "letzte: die Zeitung (feminine Nominativ), after die: -e ending. am = an + dem (Dativ, masculine Kiosk)."
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Die ___ Serie war sehr interessant.",
+      "options": ["letzte", "letzten", "letztes"],
+      "solution": "letzte",
+      "explanation": "die Serie (feminine Nominativ). After definite article: adjective ending -e → letzte."
+    },
+    {
+      "id": 35,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Praxis ist heute ___; kommen Sie bitte morgen wieder. (closed)",
+      "solution": "geschlossen",
+      "explanation": "geschlossen = closed. Predicative adjective, no ending."
+    },
+    {
+      "id": 36,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Last November we went to a folk festival.",
+      "solution": "Letzten November haben wir ein Volksfest besucht.",
+      "explanation": "letzten November: der November (masculine), temporal Akkusativ, no article → strong ending -en."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Letztes Urlaub war in Bayern. (Correct the error.)",
+      "solution": "Der letzte Urlaub war in Bayern.",
+      "explanation": "der Urlaub (masculine). Nominativ: 'der letzte Urlaub'. 'Letztes' would be neuter Nominativ/Akkusativ ending."
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Wir haben ___ Wochenende den Chor besucht.",
+      "options": ["letztes", "letzte", "letzten"],
+      "solution": "letztes",
+      "explanation": "das Wochenende (neuter). Temporal Akkusativ without article → strong ending -es → letztes."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Kiosk-Schild zeigt '___'. Ich kann meine Zeitung kaufen. (open)",
+      "solution": "geöffnet",
+      "explanation": "geöffnet = open. We can buy the newspaper, so the kiosk must be open."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "I visited my last doctor's appointment at the practice in October.",
+      "solution": "Meinen letzten Arzttermin habe ich im Oktober in der Praxis gehabt.",
+      "explanation": "letzten: der Arzttermin (masculine Akkusativ). After mein: -en ending. im Oktober (Dativ). Perfekt of haben."
+    },
+    {
+      "id": 41,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Boutique war geöffnete gestern Abend. (Correct the error.)",
+      "solution": "Die Boutique war gestern Abend geöffnet.",
+      "explanation": "Two errors: 'geöffnete' should be 'geöffnet' (no ending after war). Also word order: time adverbial 'gestern Abend' should come before the adjective."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ist der Laden ___? — Nein, er ist ___. (open? / closed)",
+      "solution": "geöffnet; geschlossen",
+      "explanation": "geöffnet = open; geschlossen = closed. Both are predicative adjectives (no endings)."
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Mein ___ Kurs war Deutsch für Anfänger.",
+      "options": ["erster", "erste", "erstes"],
+      "solution": "erster",
+      "explanation": "Related contrast: erst- (first) ↔ letzt- (last). der Kurs (masculine Nominativ), after mein → strong ending -er."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The sign is closed.",
+      "solution": "Das Schild zeigt 'geschlossen'.",
+      "explanation": "The sign itself is not closed — it shows 'geschlossen'. das Schild (neuter)."
+    },
+    {
+      "id": 45,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie hat ihre letztes Zeitung am Kiosk gekauft. (Correct the error.)",
+      "solution": "Sie hat ihre letzte Zeitung am Kiosk gekauft.",
+      "explanation": "die Zeitung (feminine Akkusativ). After ihr (possessive): adjective ending -e → letzte, not -es (which would be neuter)."
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "lektion": 12,
+  "focus": "adjectives",
+  "file_slug": "lektion12_adjectives",
+  "generated_at": "2026-03-10T02:51:30",
+  "vocabulary": [
+    {
+      "german": "ziemlich",
+      "base_form": "ziemlich",
+      "english": "quite / rather / pretty",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "Not the same as English 'pretty' (hübsch). ziemlich modifies intensity: ziemlich kalt = quite cold.",
+      "lektion_source": 12
+    },
+    {
+      "german": "cool",
+      "base_form": "cool",
+      "english": "cool / great",
+      "word_type": "adjective",
+      "antonym": "langweilig",
+      "cognate_note": "Borrowed from English. Same meaning: Das ist cool! = That's cool! Widely used in colloquial German by younger speakers.",
+      "lektion_source": 12
+    },
+    {
+      "german": "willkommen",
+      "base_form": "willkommen",
+      "english": "welcome",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "English cognate: 'welcome'. Used as an adjective (Willkommen! / Sie sind willkommen) or in the greeting Herzlich willkommen! (Warm welcome!). Spanish: bienvenido is the equivalent.",
+      "lektion_source": 12
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Das Wetter im Herbst ist ziemlich kalt, aber schön.",
+      "english": "The weather in autumn is quite cold, but beautiful.",
+      "level": "medium",
+      "note": "Uses: ziemlich (intensifier before kalt); das Wetter, der Herbst (Lektion 12 nouns); contrast with aber"
+    },
+    {
+      "id": 2,
+      "german": "Der neue Fahrradweg durch den Park ist total cool.",
+      "english": "The new cycling path through the park is totally cool.",
+      "level": "medium",
+      "note": "Uses: cool (colloquial adjective); predicate adjective after ist; total as intensifier"
+    },
+    {
+      "id": 3,
+      "german": "Herzlich willkommen in Hamburg! Wir freuen uns sehr, Sie hier zu haben.",
+      "english": "A warm welcome to Hamburg! We are very happy to have you here.",
+      "level": "complex",
+      "note": "Uses: willkommen (in fixed expression Herzlich willkommen!); formal register; hier (earlier lektion)"
+    },
+    {
+      "id": 4,
+      "german": "Die Tour war ziemlich lang, aber wir haben viel Spaß gehabt.",
+      "english": "The tour was quite long, but we had a lot of fun.",
+      "level": "complex",
+      "note": "Uses: ziemlich (before adjective lang); die Tour (Lektion 12 noun); Perfekt haben gehabt"
+    },
+    {
+      "id": 5,
+      "german": "Alle Besucher sind herzlich willkommen in unserem Hotel.",
+      "english": "All visitors are warmly welcome at our hotel.",
+      "level": "medium",
+      "note": "Uses: willkommen (predicate adjective); die Besucher (Lektion 12 noun); herzlich (warmly) as adverb modifier"
+    },
+    {
+      "id": 6,
+      "german": "Es war ziemlich schwierig, in den Alpen zu wandern, aber sehr schön.",
+      "english": "It was quite difficult to hike in the Alps, but very beautiful.",
+      "level": "complex",
+      "note": "Uses: ziemlich (before schwierig); wandern, die Alpen (Lektion 12 words); infinitive construction zu wandern"
+    },
+    {
+      "id": 7,
+      "german": "Das Konzert war so cool — wir möchten nächstes Jahr wiederkommen.",
+      "english": "The concert was so cool — we would like to come back next year.",
+      "level": "complex",
+      "note": "Uses: cool (predicate adjective); modal möchten; nächstes Jahr (next year, time expression)"
+    },
+    {
+      "id": 8,
+      "german": "Der Marathon war ziemlich anstrengend, aber der Besucher hat es geschafft.",
+      "english": "The marathon was quite exhausting, but the visitor managed it.",
+      "level": "complex",
+      "note": "Uses: ziemlich (intensifier); der Marathon, der Besucher (Lektion 12 nouns); Perfekt hat geschafft"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Wetter heute ist ___ kalt. (quite)",
+      "solution": "ziemlich",
+      "explanation": "ziemlich = quite / rather. It is an adverb-like intensifier placed before adjectives. No change in form."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das neue Fahrrad ist wirklich ___! (cool)",
+      "solution": "cool",
+      "explanation": "cool is a colloquial adjective borrowed from English. It remains unchanged in German."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Herzlich ___ in unserem Hotel! (welcome)",
+      "solution": "willkommen",
+      "explanation": "willkommen is used in the fixed expression Herzlich willkommen! (Warm welcome!) — a standard greeting in German hotels and shops."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Tour durch die Alpen war ___ lang, aber wir haben viel gesehen.",
+      "solution": "ziemlich",
+      "explanation": "ziemlich modifies the adjective lang (long): ziemlich lang = quite long. Used in describing past experiences."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Alle Gäste sind ___ in unserer Stadt. (welcome)",
+      "solution": "willkommen",
+      "explanation": "willkommen used as a predicate adjective after sind: Alle Gäste sind willkommen."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der Marathon war ___ schwierig, aber der Läufer hat es geschafft.",
+      "solution": "ziemlich",
+      "explanation": "ziemlich intensifies the adjective schwierig (difficult): ziemlich schwierig = quite difficult."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Hotel in Hamburg ist echt ___! (cool — use a German synonym or the borrowed word)",
+      "solution": "cool",
+      "explanation": "cool (borrowed from English) is widely used in colloquial German. Echt cool! = Really cool! No German equivalent of exactly this register."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Es ist ___ schwer, jeden Tag zu laufen, aber es macht Spaß.",
+      "solution": "ziemlich",
+      "explanation": "ziemlich before schwer = quite hard. The sentence describes a habitual activity with laufen (Lektion 12 verb)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Herzlich ___ zum Marathon! Viel Erfolg! (welcome)",
+      "solution": "willkommen",
+      "explanation": "willkommen used in the welcoming expression herzlich willkommen zu + Dativ (welcome to the marathon)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Alpen sind im Winter ___ kalt, aber im Sommer sehr schön.",
+      "solution": "ziemlich",
+      "explanation": "ziemlich before kalt = quite cold. Contrastive sentence using aber to show seasonal contrast."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Das Konzert war wirklich ___!",
+      "options": ["cool", "willkommen", "ziemlich"],
+      "solution": "cool",
+      "explanation": "cool is the adjective meaning great/cool. willkommen means welcome; ziemlich is an intensifier, not a standalone descriptive adjective."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Wetter ist ___ warm für Oktober.",
+      "options": ["ziemlich", "willkommen", "cool"],
+      "solution": "ziemlich",
+      "explanation": "ziemlich is an intensifier meaning quite/rather. ziemlich warm = quite warm. cool would mean great, not describe temperature here."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Alle Besucher sind herzlich ___ im Museum.",
+      "options": ["willkommen", "cool", "ziemlich"],
+      "solution": "willkommen",
+      "explanation": "herzlich willkommen is a fixed expression meaning warmly welcome. cool and ziemlich don't fit this formal welcoming context."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die Radtour war ___ anstrengend — wir brauchten danach viel Wasser.",
+      "options": ["ziemlich", "willkommen", "cool"],
+      "solution": "ziemlich",
+      "explanation": "ziemlich anstrengend = quite exhausting. This describes the intensity of the experience. willkommen and cool don't fit here."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das neue Café in der Stadt ist so ___!",
+      "options": ["cool", "ziemlich", "willkommen"],
+      "solution": "cool",
+      "explanation": "cool (borrowed from English) works as a predicate adjective meaning great. So cool! is a common colloquial expression."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Besucher war ___ überrascht von dem schönen Hafen.",
+      "options": ["ziemlich", "cool", "willkommen"],
+      "solution": "ziemlich",
+      "explanation": "ziemlich überrascht = quite surprised. cool and willkommen don't work before überrascht in this context."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Sie sind herzlich ___ zu unserem Weihnachtsfest!",
+      "options": ["willkommen", "ziemlich", "cool"],
+      "solution": "willkommen",
+      "explanation": "herzlich willkommen zu + Dativ = warmly welcome at/to. This is the standard welcoming expression."
+    },
+    {
+      "id": 18,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The weather in March is quite cold.",
+      "solution": "Das Wetter im März ist ziemlich kalt.",
+      "explanation": "das Wetter (neuter, subject); im März (Dativ); ziemlich before adjective kalt (no change in form)."
+    },
+    {
+      "id": 19,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Welcome to Hamburg!",
+      "solution": "Willkommen in Hamburg! / Herzlich willkommen in Hamburg!",
+      "explanation": "willkommen or herzlich willkommen are both correct. in Hamburg (Dativ, location). Herzlich adds warmth/formality."
+    },
+    {
+      "id": 20,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The cycling tour was quite long.",
+      "solution": "Die Radtour war ziemlich lang.",
+      "explanation": "die Radtour (feminine, subject); war (Präteritum of sein); ziemlich before adjective lang."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "All visitors are warmly welcome in our hotel.",
+      "solution": "Alle Besucher sind herzlich willkommen in unserem Hotel.",
+      "explanation": "alle Besucher (plural, Nominativ); herzlich willkommen (welcoming expression); in unserem Hotel (Dativ, das Hotel → unserem Hotel)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The new island is really cool.",
+      "solution": "Die neue Insel ist wirklich cool.",
+      "explanation": "die neue Insel (feminine with adjective ending -e in Nominativ); wirklich (really) as intensifier; cool (predicate adjective, unchanged)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "It was quite difficult, but we hiked through the Alps.",
+      "solution": "Es war ziemlich schwierig, aber wir sind durch die Alpen gewandert.",
+      "explanation": "ziemlich schwierig (quite difficult); wandern (ist gewandert, sein); durch die Alpen (Akkusativ, durch requires Akkusativ)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The marathon was quite exhausting but really cool.",
+      "solution": "Der Marathon war ziemlich anstrengend, aber wirklich cool.",
+      "explanation": "der Marathon (masculine); ziemlich anstrengend (quite exhausting); wirklich cool (really cool); contrast with aber."
+    },
+    {
+      "id": 25,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Das Wetter ist ziehmlich kalt.",
+      "solution": "Das Wetter ist ziemlich kalt.",
+      "explanation": "Spelling error: ziemlich (not ziehmlich). The word has no h after zie-."
+    },
+    {
+      "id": 26,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Herzlich willkommen zu Hamburg!",
+      "solution": "Herzlich willkommen in Hamburg!",
+      "explanation": "When welcoming someone to a city/place, use in + Dativ (in Hamburg), not zu. zu is used with events: willkommen zum Konzert."
+    },
+    {
+      "id": 27,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Tour war ziemlich — wir waren sehr müde.",
+      "solution": "Die Tour war ziemlich anstrengend — wir waren sehr müde.",
+      "explanation": "ziemlich is an intensifier; it cannot stand alone as a predicate adjective. It must modify another adjective (e.g., ziemlich anstrengend = quite exhausting)."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Konzert ist cooles.",
+      "solution": "Das Konzert ist cool.",
+      "explanation": "When cool is used as a predicate adjective (after ist), it takes no ending. Endings are added only in attributive position (ein cooles Konzert)."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Alle Besucher sind willkommen herzlich in unserer Stadt.",
+      "solution": "Alle Besucher sind herzlich willkommen in unserer Stadt.",
+      "explanation": "The correct order is herzlich willkommen (adverb + adjective). herzlich must come before willkommen."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Es ist ziemlich warm, nicht war?",
+      "solution": "Es ist ziemlich warm, nicht wahr?",
+      "explanation": "The tag question is nicht wahr? (isn't it?), not nicht war. wahr = true; war = was (past tense)."
+    },
+    {
+      "id": 31,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Der Hubschrauber flog ___ schnell über die Alpen. (quite)",
+      "solution": "ziemlich",
+      "explanation": "ziemlich before schnell (fast) = quite fast. Used here describing the helicopter's speed."
+    },
+    {
+      "id": 32,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Welcome to the cycling tour! It starts in March.",
+      "solution": "Herzlich willkommen zur Radtour! Sie beginnt im März.",
+      "explanation": "herzlich willkommen zur (= zu + der) Radtour; die Radtour (feminine → zur); im März (Dativ, month)."
+    },
+    {
+      "id": 33,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das neue Schiff ist wirklich ___! (cool)",
+      "solution": "cool",
+      "explanation": "cool is the borrowed English adjective for 'great'. No inflection as predicate adjective."
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Winter in Hamburg ist ___ kalt — du brauchst einen warmen Mantel.",
+      "options": ["ziemlich", "willkommen", "cool"],
+      "solution": "ziemlich",
+      "explanation": "ziemlich kalt = quite cold. This is a realistic travel tip about Hamburg winters."
+    },
+    {
+      "id": 35,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Quite many visitors come to the harbour in summer.",
+      "solution": "Ziemlich viele Besucher kommen im Sommer zum Hafen.",
+      "explanation": "ziemlich viele = quite many; die Besucher (plural); im Sommer (Dativ); zum Hafen = zu + dem Hafen (Dativ)."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Wetter war ziehmlich schön und wir haben eine Radtour gemacht.",
+      "solution": "Das Wetter war ziemlich schön und wir haben eine Radtour gemacht.",
+      "explanation": "Spelling error: ziemlich (not ziehmlich). The -h- does not belong in this word."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Besucherin sagte: 'Diese Stadt ist wirklich ___!' (cool)",
+      "solution": "cool",
+      "explanation": "cool as predicate adjective (after ist), no ending. Used colloquially to express admiration."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Welcome to Lektion 12! It is quite interesting.",
+      "solution": "Herzlich willkommen zu Lektion 12! Sie ist ziemlich interessant.",
+      "explanation": "herzlich willkommen zu Lektion 12 (welcoming expression); ziemlich interessant (quite interesting); sie (Lektion is feminine: die Lektion)."
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Wasser in der Nordsee ist im Februar ___ kalt.",
+      "options": ["ziemlich", "willkommen", "cool"],
+      "solution": "ziemlich",
+      "explanation": "ziemlich kalt = quite cold. Describing temperature requires the intensifier ziemlich, not willkommen or cool."
+    },
+    {
+      "id": 40,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Willkommen herzlich auf unserer Insel!",
+      "solution": "Herzlich willkommen auf unserer Insel!",
+      "explanation": "The fixed German expression is herzlich willkommen (herzlich first, then willkommen). auf unserer Insel (Dativ, die Insel → unserer Insel)."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Stimmung beim Marathon war einfach ___ — alle haben geschrien und gejubelt. (cool)",
+      "solution": "cool",
+      "explanation": "cool as predicate adjective (after war), no ending. Used colloquially to describe an exciting, enjoyable atmosphere."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The journey was quite long — about three hours.",
+      "solution": "Die Reise war ziemlich lang — ungefähr drei Stunden.",
+      "explanation": "ziemlich before lang; ungefähr = approximately (or etwa); drei Stunden = three hours (plural of die Stunde)."
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Die neue Radtour durch die Alpen ist einfach so ___!",
+      "options": ["cool", "willkommen", "ziemlich"],
+      "solution": "cool",
+      "explanation": "einfach so cool! = just so cool! Expresses enthusiastic approval. willkommen and ziemlich don't fit this colloquial exclamation."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Das Wetter in den Alpen ist ein ziemlich kalt im Winter.",
+      "solution": "Das Wetter in den Alpen ist ziemlich kalt im Winter.",
+      "explanation": "No indefinite article before ziemlich. ziemlich is an adverb modifying the adjective kalt — articles are not used here."
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "lektion": 11,
+  "focus": "others",
+  "file_slug": "lektion11_others",
+  "generated_at": "2026-03-10T03:02:19",
+  "vocabulary": [
+    {
+      "german": "gestern",
+      "base_form": "gestern",
+      "english": "yesterday",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb meaning 'yesterday'. Placed at the start of a sentence or after the verb for emphasis: 'Gestern habe ich gearbeitet.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "danach",
+      "base_form": "danach",
+      "english": "afterwards / after that",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb indicating what happens next in a sequence: 'Wir haben gegessen und danach sind wir spazieren gegangen.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "lange",
+      "base_form": "lange",
+      "english": "for a long time / long",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb indicating duration: 'Ich habe lange geschlafen.' Not to be confused with the adjective 'lang' (long in length).",
+      "lektion_source": 11
+    },
+    {
+      "german": "also",
+      "base_form": "also",
+      "english": "so / therefore / well then",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used to draw a conclusion or introduce a result: 'Das Café ist zu, also gehen wir zum Kiosk.' False friend: English 'also' = 'auch' in German; German 'also' = 'so/therefore'.",
+      "lektion_source": 11
+    },
+    {
+      "german": "fast",
+      "base_form": "fast",
+      "english": "almost / nearly",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Adverb modifying adjectives, verbs, or quantities: 'Es ist fast Mittag.' / 'Ich habe fast alles gemacht.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "etwa",
+      "base_form": "etwa",
+      "english": "about / approximately / around",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Used before numbers or quantities to indicate approximation: 'Der Spaziergang dauert etwa eine Stunde.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "zu wenig",
+      "base_form": "zu wenig",
+      "english": "too little / not enough",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used with 'zu' to indicate excess in the negative: 'Ich schlafe zu wenig.' Compare: 'zu viel' (too much).",
+      "lektion_source": 11
+    },
+    {
+      "german": "zu viel",
+      "base_form": "zu viel",
+      "english": "too much",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used with 'zu' to indicate excess: 'Er isst zu viel.' Compare: 'zu wenig' (too little). The pair zu wenig / zu viel is very common for expressing imbalance.",
+      "lektion_source": 11
+    },
+    {
+      "german": "von … bis",
+      "base_form": "von … bis",
+      "english": "from … to",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Used to indicate a range of time or place: 'Der Kurs geht von neun bis zwölf Uhr.' Both von and bis govern Dativ for time expressions.",
+      "lektion_source": 11
+    },
+    {
+      "german": "Hallo Schatz!",
+      "base_form": "Hallo Schatz",
+      "english": "Hello, honey! / Hi, darling!",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Affectionate greeting used between partners or close family. 'Schatz' (treasure) is a common term of endearment in German.",
+      "lektion_source": 11
+    },
+    {
+      "german": "Ja, habe ich.",
+      "base_form": "Ja, habe ich",
+      "english": "Yes, I did. / Yes, I have.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short affirmative answer to a Perfekt question. The auxiliary is repeated: 'Hast du das gemacht?' — 'Ja, habe ich.' Note verb-subject inversion in the short answer.",
+      "lektion_source": 11
+    },
+    {
+      "german": "Nein, habe ich nicht.",
+      "base_form": "Nein, habe ich nicht",
+      "english": "No, I did not. / No, I haven't.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Short negative answer to a Perfekt question. Mirrors 'Ja, habe ich.' with 'nicht' added at the end: 'Hast du aufgeräumt?' — 'Nein, habe ich nicht.'",
+      "lektion_source": 11
+    },
+    {
+      "german": "dieser/dieses/diese",
+      "base_form": "dieser",
+      "english": "this / these",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Demonstrative pronoun/determiner: dieser (masc.), dieses (neut.), diese (fem./pl.). Used to point to specific things: 'Dieser Kurs ist gut.' Similar to 'der/die/das' but more emphatic.",
+      "lektion_source": 11
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Gestern habe ich zu viel gearbeitet und zu wenig geschlafen.",
+      "english": "Yesterday I worked too much and slept too little.",
+      "level": "medium",
+      "note": "Uses: gestern, zu viel, zu wenig — temporal adverb + two quantity phrases."
+    },
+    {
+      "id": 2,
+      "german": "Der Kurs geht von neun bis zwölf Uhr, und danach machen wir eine Pause.",
+      "english": "The course runs from nine to twelve o'clock, and afterwards we take a break.",
+      "level": "medium",
+      "note": "Uses: von … bis, danach — time range and sequence."
+    },
+    {
+      "id": 3,
+      "german": "Ich habe fast alle Hausaufgaben gemacht, aber nicht ganz.",
+      "english": "I have done almost all the homework, but not quite.",
+      "level": "medium",
+      "note": "Uses: fast — modifying 'alle'; Perfekt with haben."
+    },
+    {
+      "id": 4,
+      "german": "Der Spaziergang dauert etwa eine Stunde, also nehmen wir Wasser mit.",
+      "english": "The walk takes about an hour, so we are taking water with us.",
+      "level": "complex",
+      "note": "Uses: etwa (approximation), also (therefore/so) — combining two logical elements."
+    },
+    {
+      "id": 5,
+      "german": "Diese Boutique ist geschlossen; wir gehen also zum nächsten Laden.",
+      "english": "This boutique is closed; so we are going to the next shop.",
+      "level": "medium",
+      "note": "Uses: diese (feminine, die Boutique), also — demonstrative + logical conclusion."
+    },
+    {
+      "id": 6,
+      "german": "Hast du gestern aufgeräumt? — Nein, habe ich nicht.",
+      "english": "Did you tidy up yesterday? — No, I didn't.",
+      "level": "medium",
+      "note": "Uses: gestern, Nein habe ich nicht — Perfekt question + short answer."
+    },
+    {
+      "id": 7,
+      "german": "Er hat lange im Wald spaziert und ist danach sehr müde gewesen.",
+      "english": "He walked in the forest for a long time and was very tired afterwards.",
+      "level": "complex",
+      "note": "Uses: lange, danach — duration and sequence; sein as auxiliary for sein (war)."
+    },
+    {
+      "id": 8,
+      "german": "Dieses Volksfest dauert von Oktober bis November.",
+      "english": "This folk festival runs from October to November.",
+      "level": "medium",
+      "note": "Uses: dieses (neuter, das Volksfest), von … bis — demonstrative + time range."
+    },
+    {
+      "id": 9,
+      "german": "Gestern haben wir fast alle Geschenke eingepackt, aber wir brauchen noch mehr Zeit.",
+      "english": "Yesterday we wrapped almost all the presents, but we still need more time.",
+      "level": "complex",
+      "note": "Uses: gestern, fast — temporal adverb + approximation; Perfekt."
+    },
+    {
+      "id": 10,
+      "german": "Hast du die Wäsche gewaschen? — Ja, habe ich. Danach habe ich auch abgewaschen.",
+      "english": "Did you do the laundry? — Yes, I did. Afterwards I also did the dishes.",
+      "level": "complex",
+      "note": "Uses: Ja habe ich, danach — short answer + sequence; both Perfekt."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ habe ich lange geschlafen. (yesterday)",
+      "solution": "Gestern",
+      "explanation": "gestern = yesterday. Temporal adverb placed at the start of a sentence."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir haben gegessen und ___ einen Film gesehen. (afterwards)",
+      "solution": "danach",
+      "explanation": "danach = afterwards/after that. Used to indicate sequence."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er schläft ___ wenig — das ist nicht gesund. (too)",
+      "solution": "zu",
+      "explanation": "zu wenig = too little. 'zu' is the intensifier before wenig."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Der Kurs kostet ___ 200 Euro. (approximately)",
+      "solution": "etwa",
+      "explanation": "etwa = approximately/about. Used before numbers to indicate approximation."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___ alle Hausaufgaben gemacht. (almost)",
+      "solution": "fast",
+      "explanation": "fast = almost/nearly. Modifies 'alle' here."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Unterricht geht ___ neun ___ zwölf Uhr. (from ... to)",
+      "solution": "von; bis",
+      "explanation": "von … bis = from … to. Used to express a time range."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Das Eiscafé ist geschlossen, ___ gehen wir zum Kiosk. (so / therefore)",
+      "solution": "also",
+      "explanation": "also = so/therefore (NOT 'also' as in English). Draws a logical conclusion."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Boutique kenne ich gut — sie hat immer gute Mode. (This — feminine)",
+      "solution": "Diese",
+      "explanation": "diese = this (feminine). die Boutique → diese Boutique."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er isst ___ viel — das ist nicht gesund. (too)",
+      "solution": "zu",
+      "explanation": "zu viel = too much. 'zu' is the intensifier before viel."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Hast du die Hausaufgaben gemacht? — Ja, ___ ich.",
+      "solution": "habe",
+      "explanation": "Ja, habe ich. = Yes, I did/have. The auxiliary 'habe' is repeated from the question."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Hast du aufgeräumt? — Nein, habe ich ___.",
+      "solution": "nicht",
+      "explanation": "Nein, habe ich nicht. = No, I didn't. 'nicht' is added at the end of the short answer."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Volksfest findet vom Oktober bis November statt. (This — neuter)",
+      "solution": "Dieses",
+      "explanation": "dieses = this (neuter). das Volksfest → dieses Volksfest."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ habe ich viel gemacht.",
+      "options": ["Gestern", "Danach", "Also"],
+      "solution": "Gestern",
+      "explanation": "gestern = yesterday. 'Danach' and 'also' indicate sequence/result, not a specific past day."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Sie schläft ___ wenig.",
+      "options": ["zu", "sehr", "fast"],
+      "solution": "zu",
+      "explanation": "zu wenig = too little. 'sehr wenig' = very little (but not 'too little'). 'fast' doesn't fit here."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der Laden ist geschlossen, ___ kaufe ich am Kiosk.",
+      "options": ["also", "gestern", "lange"],
+      "solution": "also",
+      "explanation": "also = so/therefore. Draws logical conclusion from the previous clause."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er hat ___ zwei Stunden gewartet.",
+      "options": ["etwa", "danach", "zu wenig"],
+      "solution": "etwa",
+      "explanation": "etwa = approximately/about. Used before numbers/quantities to indicate approximation."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir haben gegessen und ___ sind wir spazieren gegangen.",
+      "options": ["danach", "gestern", "etwa"],
+      "solution": "danach",
+      "explanation": "danach = afterwards/after that. Indicates what happened next in the sequence."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich habe ___ alles vergessen.",
+      "options": ["fast", "also", "von"],
+      "solution": "fast",
+      "explanation": "fast = almost. 'Ich habe fast alles vergessen' = I almost forgot everything."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Kurs ist sehr interessant.",
+      "options": ["Dieser", "Diese", "Dieses"],
+      "solution": "Dieser",
+      "explanation": "der Kurs is masculine. Demonstrative 'dieser' for masculine Nominativ."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Hast du schon abgewaschen? — ___, habe ich nicht.",
+      "options": ["Nein", "Ja", "Also"],
+      "solution": "Nein",
+      "explanation": "Nein, habe ich nicht = No, I haven't. The phrase 'habe ich nicht' is the negative short answer."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Der Unterricht geht ___ acht ___ dreizehn Uhr.",
+      "options": ["von ... bis", "lange ... danach", "fast ... etwa"],
+      "solution": "von ... bis",
+      "explanation": "von … bis = from … to. Indicates the start and end of a time range."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Yesterday she went to the boutique.",
+      "solution": "Gestern ist sie in die Boutique gegangen.",
+      "explanation": "gestern = yesterday; in die Boutique (Akkusativ — motion toward); gehen Perfekt: ist gegangen (sein)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He works too much.",
+      "solution": "Er arbeitet zu viel.",
+      "explanation": "zu viel = too much. Simple Präsens sentence."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The course runs from Monday to Friday.",
+      "solution": "Der Kurs geht von Montag bis Freitag.",
+      "explanation": "von … bis = from … to. Days of the week without article after von/bis."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "This sign says 'closed'.",
+      "solution": "Dieses Schild sagt 'geschlossen'.",
+      "explanation": "dieses = this (neuter, das Schild). Nominativ: 'dieses Schild'."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She slept for a long time yesterday and afterwards visited a friend.",
+      "solution": "Sie hat gestern lange geschlafen und danach eine Freundin besucht.",
+      "explanation": "gestern + lange (temporal adverb + duration); danach (sequence); Perfekt with haben."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The shop is closed, so we buy the newspaper at the kiosk.",
+      "solution": "Der Laden ist geschlossen, also kaufen wir die Zeitung am Kiosk.",
+      "explanation": "also = so/therefore; am Kiosk = an + dem; die Zeitung (Akkusativ)."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Did you do the homework? Yes, I did.",
+      "solution": "Hast du die Hausaufgaben gemacht? — Ja, habe ich.",
+      "explanation": "Ja, habe ich = short answer; the auxiliary 'habe' is repeated from 'hast'."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I slept too little last night.",
+      "solution": "Ich habe letzte Nacht zu wenig geschlafen.",
+      "explanation": "zu wenig = too little; letzte Nacht (feminine Akkusativ); Perfekt with haben."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The walk takes approximately half an hour.",
+      "solution": "Der Spaziergang dauert etwa eine halbe Stunde.",
+      "explanation": "etwa = approximately; dauern = to take/last (time); eine halbe Stunde = half an hour."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er arbeitet also viel — das ist schlecht. (The word 'also' is used incorrectly here. Correct it.)",
+      "solution": "Er arbeitet zu viel — das ist schlecht.",
+      "explanation": "'also' means 'so/therefore', not 'too'. 'zu viel' = too much. 'also' would start a new logical clause."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir haben fast alles — also nicht genug. (Correct the error.)",
+      "solution": "Wir haben fast alles — also (fast) genug. OR: Wir haben zu wenig — also nicht genug.",
+      "explanation": "fast = almost; zu wenig = too little. If 'almost everything', that means 'almost enough', not 'not enough'."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Diesen Kurs ist sehr gut. (Correct the error.)",
+      "solution": "Dieser Kurs ist sehr gut.",
+      "explanation": "der Kurs is masculine. Nominativ demonstrative = 'dieser', not 'diesen' (which is masculine Akkusativ)."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Der Laden ist zu, also ich kaufe am Kiosk. (Correct the word order error.)",
+      "solution": "Der Laden ist zu, also kaufe ich am Kiosk.",
+      "explanation": "'also' is an adverb/conjunction that inverts the subject-verb order: 'also kaufe ich' (verb before subject)."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Hast du aufgeräumt? — Ja, haben ich. (Correct the error.)",
+      "solution": "Hast du aufgeräumt? — Ja, habe ich.",
+      "explanation": "Short answer repeats the auxiliary from the question. The question was 'hast du', so the answer uses 'habe ich' (1st person singular of haben)."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Diese Volksfest dauert von Oktober bis November. (Correct the error.)",
+      "solution": "Dieses Volksfest dauert von Oktober bis November.",
+      "explanation": "das Volksfest is neuter. Demonstrative for neuter = 'dieses', not 'diese' (feminine/plural)."
+    },
+    {
+      "id": 37,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Chor singt immer gut — ich höre ihn sehr gern. (This — masculine)",
+      "solution": "Dieser",
+      "explanation": "der Chor is masculine. Nominativ demonstrative: 'dieser'."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Did you buy the flowers? No, I didn't.",
+      "solution": "Hast du die Blumen gekauft? — Nein, habe ich nicht.",
+      "explanation": "Nein, habe ich nicht = short negative answer. Auxiliary 'habe' + 'nicht' at end."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die Praxis ist ___ von acht ___ zwölf und von vierzehn ___ sechzehn Uhr geöffnet. (approximately; from; to; to)",
+      "solution": "etwa; bis; bis (and von is already given)",
+      "explanation": "etwa = approximately (before numbers); von … bis = from … to."
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Zeitung ist von gestern — ich brauche eine neue.",
+      "options": ["Diese", "Dieser", "Dieses"],
+      "solution": "Diese",
+      "explanation": "die Zeitung is feminine. Nominativ demonstrative for feminine = 'diese'."
+    },
+    {
+      "id": 41,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He worked too little yesterday.",
+      "solution": "Er hat gestern zu wenig gearbeitet.",
+      "explanation": "zu wenig = too little; gestern = yesterday; Perfekt with haben."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe ___ alles gelesen — nur die letzte Seite fehlt noch. (almost)",
+      "solution": "fast",
+      "explanation": "fast = almost. Only one page is missing, so 'almost everything' = fast alles."
+    },
+    {
+      "id": 43,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "This questionnaire takes about 20 minutes.",
+      "solution": "Dieser Fragebogen dauert etwa 20 Minuten.",
+      "explanation": "dieser (masculine Nominativ, der Fragebogen); etwa = approximately; dauern = to last/take."
+    },
+    {
+      "id": 44,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie hat gestern zu viele geschlafen. (Correct the error.)",
+      "solution": "Sie hat gestern zu viel geschlafen.",
+      "explanation": "'zu viele' is used with plural countable nouns. With an uncountable/verbal context (sleeping), use 'zu viel'."
+    },
+    {
+      "id": 45,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Afterwards he stayed home and slept for a long time.",
+      "solution": "Danach ist er zu Hause geblieben und hat lange geschlafen.",
+      "explanation": "danach = afterwards; bleiben uses sein (ist geblieben); schlafen uses haben (hat geschlafen); lange = for a long time."
+    }
+  ]
+}

@@ -1,0 +1,1356 @@
+{
+  "lektion": 12,
+  "focus": "all",
+  "file_slug": "lektion12_all",
+  "generated_at": "2026-03-10T02:51:50",
+  "vocabulary": [
+    {
+      "german": "der Besucher",
+      "base_form": "Besucher",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Besucher",
+      "english": "visitor (male)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Besucherin",
+      "base_form": "Besucherin",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-nen",
+      "plural_full": "Besucherinnen",
+      "english": "visitor (female)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Marathon",
+      "base_form": "Marathon",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-s",
+      "plural_full": "Marathons",
+      "english": "marathon",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Winter",
+      "base_form": "Winter",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Winter",
+      "english": "winter",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Dezember",
+      "base_form": "Dezember",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "December",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Weihnachten",
+      "base_form": "Weihnachten",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Weihnachten",
+      "english": "Christmas",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Kilometer",
+      "base_form": "Kilometer",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kilometer",
+      "english": "kilometre / kilometer",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Tor",
+      "base_form": "Tor",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Tore",
+      "english": "gate",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Jahreszahl",
+      "base_form": "Jahreszahl",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Jahreszahlen",
+      "english": "year / date",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Silvester",
+      "base_form": "Silvester",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-",
+      "plural_full": "Silvester",
+      "english": "New Year's Eve",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Sommer",
+      "base_form": "Sommer",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Sommer",
+      "english": "summer",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der August",
+      "base_form": "August",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "August",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Radtour",
+      "base_form": "Radtour",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Radtouren",
+      "english": "cycling tour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Tour",
+      "base_form": "Tour",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Touren",
+      "english": "tour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Wetter",
+      "base_form": "Wetter",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "weather",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Herbst",
+      "base_form": "Herbst",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "autumn / fall",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Jahreszeit",
+      "base_form": "Jahreszeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Jahreszeiten",
+      "english": "season",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Monat",
+      "base_form": "Monat",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Monate",
+      "english": "month",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Geburtstag",
+      "base_form": "Geburtstag",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Geburtstage",
+      "english": "birthday",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Frühling",
+      "base_form": "Frühling",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Frühlinge",
+      "english": "spring",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der März",
+      "base_form": "März",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "March",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der April",
+      "base_form": "April",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "April",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Mai",
+      "base_form": "Mai",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "May",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Juni",
+      "base_form": "Juni",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "June",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Juli",
+      "base_form": "Juli",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "July",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der September",
+      "base_form": "September",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "September",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Hafen",
+      "base_form": "Hafen",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Häfen",
+      "english": "harbour / harbor",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Januar",
+      "base_form": "Januar",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "January",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Februar",
+      "base_form": "Februar",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "February",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Schiff",
+      "base_form": "Schiff",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Schiffe",
+      "english": "ship",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Insel",
+      "base_form": "Insel",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Inseln",
+      "english": "island",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Erdbeere",
+      "base_form": "Erdbeere",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Erdbeeren",
+      "english": "strawberry",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Alpen",
+      "base_form": "Alpen",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Pl.)",
+      "plural_full": "die Alpen",
+      "english": "the Alps",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Hubschrauber",
+      "base_form": "Hubschrauber",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Hubschrauber",
+      "english": "helicopter",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 12
+    },
+    {
+      "german": "das Zehn-Meter-Brett",
+      "base_form": "Zehn-Meter-Brett",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Zehn-Meter-Bretter",
+      "english": "ten-metre board",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "die Stunde",
+      "base_form": "Stunde",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Stunden",
+      "english": "hour",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "der Durst",
+      "base_form": "Durst",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": null,
+      "english": "thirst",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 12
+    },
+    {
+      "german": "laufen",
+      "base_form": "laufen",
+      "english": "to run / to walk",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "laufe",
+        "du": "läufst",
+        "er/sie/es": "läuft",
+        "wir": "laufen",
+        "ihr": "lauft",
+        "sie/Sie": "laufen"
+      },
+      "perfekt": "ist gelaufen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Stem vowel change au → äu in du/er forms.",
+      "lektion_source": 12
+    },
+    {
+      "german": "feiern",
+      "base_form": "feiern",
+      "english": "to celebrate",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "feiere",
+        "du": "feierst",
+        "er/sie/es": "feiert",
+        "wir": "feiern",
+        "ihr": "feiert",
+        "sie/Sie": "feiern"
+      },
+      "perfekt": "hat gefeiert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": null,
+      "lektion_source": 12
+    },
+    {
+      "german": "zurückfahren",
+      "base_form": "zurückfahren",
+      "english": "to go back / to drive back",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "fahre zurück",
+        "du": "fährst zurück",
+        "er/sie/es": "fährt zurück",
+        "wir": "fahren zurück",
+        "ihr": "fahrt zurück",
+        "sie/Sie": "fahren zurück"
+      },
+      "perfekt": "ist zurückgefahren",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb. a → ä in du/er forms.",
+      "lektion_source": 12
+    },
+    {
+      "german": "weiterfahren",
+      "base_form": "weiterfahren",
+      "english": "to move on / to continue driving",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "fahre weiter",
+        "du": "fährst weiter",
+        "er/sie/es": "fährt weiter",
+        "wir": "fahren weiter",
+        "ihr": "fahrt weiter",
+        "sie/Sie": "fahren weiter"
+      },
+      "perfekt": "ist weitergefahren",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Separable verb. a → ä in du/er forms.",
+      "lektion_source": 12
+    },
+    {
+      "german": "dauern",
+      "base_form": "dauern",
+      "english": "to last / to take (time)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "dauere",
+        "du": "dauerst",
+        "er/sie/es": "dauert",
+        "wir": "dauern",
+        "ihr": "dauert",
+        "sie/Sie": "dauern"
+      },
+      "perfekt": "hat gedauert",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Usually impersonal: Die Tour dauert drei Stunden.",
+      "lektion_source": 12
+    },
+    {
+      "german": "passieren",
+      "base_form": "passieren",
+      "english": "to happen",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "passiere",
+        "du": "passierst",
+        "er/sie/es": "passiert",
+        "wir": "passieren",
+        "ihr": "passiert",
+        "sie/Sie": "passieren"
+      },
+      "perfekt": "ist passiert",
+      "auxiliary": "sein",
+      "is_irregular": false,
+      "verb_note": "Takes sein despite -ieren ending. False friend: looks like 'pass' but means 'to happen'.",
+      "lektion_source": 12
+    },
+    {
+      "german": "wandern",
+      "base_form": "wandern",
+      "english": "to hike / to go hiking",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wandere",
+        "du": "wanderst",
+        "er/sie/es": "wandert",
+        "wir": "wandern",
+        "ihr": "wandert",
+        "sie/Sie": "wandern"
+      },
+      "perfekt": "ist gewandert",
+      "auxiliary": "sein",
+      "is_irregular": false,
+      "verb_note": "Auxiliary sein (movement).",
+      "lektion_source": 12
+    },
+    {
+      "german": "segeln",
+      "base_form": "segeln",
+      "english": "to sail",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "segele",
+        "du": "segelst",
+        "er/sie/es": "segelt",
+        "wir": "segeln",
+        "ihr": "segelt",
+        "sie/Sie": "segeln"
+      },
+      "perfekt": "ist gesegelt",
+      "auxiliary": "sein",
+      "is_irregular": false,
+      "verb_note": "Auxiliary sein (movement).",
+      "lektion_source": 12
+    },
+    {
+      "german": "springen",
+      "base_form": "springen",
+      "english": "to jump",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "springe",
+        "du": "springst",
+        "er/sie/es": "springt",
+        "wir": "springen",
+        "ihr": "springt",
+        "sie/Sie": "springen"
+      },
+      "perfekt": "ist gesprungen",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb. Partizip II: gesprungen (i → u).",
+      "lektion_source": 12
+    },
+    {
+      "german": "warten",
+      "base_form": "warten",
+      "english": "to wait",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "warte",
+        "du": "wartest",
+        "er/sie/es": "wartet",
+        "wir": "warten",
+        "ihr": "wartet",
+        "sie/Sie": "warten"
+      },
+      "perfekt": "hat gewartet",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "-e- insertion in du/er (wartest, wartet). warten auf + Akkusativ = to wait for.",
+      "lektion_source": 12
+    },
+    {
+      "german": "legen",
+      "base_form": "legen",
+      "english": "to put / to lay (down)",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lege",
+        "du": "legst",
+        "er/sie/es": "legt",
+        "wir": "legen",
+        "ihr": "legt",
+        "sie/Sie": "legen"
+      },
+      "perfekt": "hat gelegt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "To place horizontal. Auxiliary haben.",
+      "lektion_source": 12
+    },
+    {
+      "german": "ziemlich",
+      "base_form": "ziemlich",
+      "english": "quite / rather / pretty",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "Not the same as English 'pretty' (= hübsch). Intensifier: ziemlich kalt = quite cold.",
+      "lektion_source": 12
+    },
+    {
+      "german": "cool",
+      "base_form": "cool",
+      "english": "cool / great",
+      "word_type": "adjective",
+      "antonym": "langweilig",
+      "cognate_note": "Borrowed from English. Same meaning colloquially.",
+      "lektion_source": 12
+    },
+    {
+      "german": "willkommen",
+      "base_form": "willkommen",
+      "english": "welcome",
+      "word_type": "adjective",
+      "antonym": null,
+      "cognate_note": "English cognate: 'welcome'. Spanish: bienvenido. Used in Herzlich willkommen!",
+      "lektion_source": 12
+    },
+    {
+      "german": "gibt es",
+      "base_form": "gibt es",
+      "english": "there is / there are",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "es gibt + Akkusativ = there is/are. Fixed phrase.",
+      "lektion_source": 12
+    },
+    {
+      "german": "seit",
+      "base_form": "seit",
+      "english": "since / for (duration)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Requires Dativ. Ongoing actions: seit einem Monat.",
+      "lektion_source": 12
+    },
+    {
+      "german": "zurück",
+      "base_form": "zurück",
+      "english": "back",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Direction/particle meaning 'back'. In separable verbs: zurückfahren.",
+      "lektion_source": 12
+    },
+    {
+      "german": "durch",
+      "base_form": "durch",
+      "english": "through",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Requires Akkusativ. Wir fahren durch den Tunnel.",
+      "lektion_source": 12
+    },
+    {
+      "german": "unterwegs",
+      "base_form": "unterwegs",
+      "english": "on the way / travelling",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Ich bin unterwegs = I am on my way / travelling.",
+      "lektion_source": 12
+    },
+    {
+      "german": "nach",
+      "base_form": "nach",
+      "english": "to (+ place) / after",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Dativ. For cities/countries (no article): nach Berlin. For time: nach dem Frühstück.",
+      "lektion_source": 12
+    },
+    {
+      "german": "bis",
+      "base_form": "bis",
+      "english": "until / up to / as far as",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Time: bis Montag. Place: bis Hamburg. With article: bis zum Bahnhof.",
+      "lektion_source": 12
+    },
+    {
+      "german": "weiter",
+      "base_form": "weiter",
+      "english": "on / further / continue",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Direction particle. weiterfahren, weitergehen. Standalone: Wir fahren weiter.",
+      "lektion_source": 12
+    },
+    {
+      "german": "ein paar",
+      "base_form": "ein paar",
+      "english": "a few / a couple of",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "ein paar Tage = a few days. paar (lowercase) ≠ Ein Paar (a couple).",
+      "lektion_source": 12
+    },
+    {
+      "german": "jeder / jede / jedes",
+      "base_form": "jeder",
+      "english": "every / each",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Inflects by gender: jeder Tag, jede Woche, jedes Jahr.",
+      "lektion_source": 12
+    },
+    {
+      "german": "wie lange",
+      "base_form": "wie lange",
+      "english": "how long",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Wie lange dauert die Tour? = How long does the tour take?",
+      "lektion_source": 12
+    },
+    {
+      "german": "nachts",
+      "base_form": "nachts",
+      "english": "at night",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb. Nachts ist es ruhig.",
+      "lektion_source": 12
+    },
+    {
+      "german": "Ja, das stimmt.",
+      "base_form": "Ja, das stimmt.",
+      "english": "Yes, that is right.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Common confirmation. Das stimmt! = That's right!",
+      "lektion_source": 12
+    },
+    {
+      "german": "nichts",
+      "base_form": "nichts",
+      "english": "nothing / not anything",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Negative pronoun. Ich habe nichts gesagt.",
+      "lektion_source": 12
+    },
+    {
+      "german": "geboren",
+      "base_form": "geboren",
+      "english": "born",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "sein + geboren. Ich bin in Madrid geboren.",
+      "lektion_source": 12
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Im Sommer feiern viele Besucher Silvester am Hafen.",
+      "english": "In summer many visitors celebrate New Year's Eve at the harbour.",
+      "level": "medium",
+      "note": "Nouns: der Sommer, der Besucher, das Silvester, der Hafen. Verb: feiern."
+    },
+    {
+      "id": 2,
+      "german": "Das Wetter im Herbst ist ziemlich kalt, aber wir wandern trotzdem durch die Alpen.",
+      "english": "The weather in autumn is quite cold, but we still hike through the Alps.",
+      "level": "complex",
+      "note": "Noun: das Wetter, der Herbst, die Alpen. Adjective: ziemlich. Verb: wandern. Prep: durch + Akkusativ."
+    },
+    {
+      "id": 3,
+      "german": "Wie lange dauert die Radtour bis Hamburg?",
+      "english": "How long does the cycling tour to Hamburg take?",
+      "level": "medium",
+      "note": "Noun: die Radtour. Verb: dauern. Other: wie lange, bis."
+    },
+    {
+      "id": 4,
+      "german": "Er ist unterwegs und kommt nach ein paar Stunden zurück.",
+      "english": "He is on his way and comes back after a few hours.",
+      "level": "medium",
+      "note": "Noun: die Stunde. Other: unterwegs, ein paar, zurück. Verb: zurückkommen."
+    },
+    {
+      "id": 5,
+      "german": "Zu Weihnachten sind alle Besucher herzlich willkommen auf unserer kleinen Insel.",
+      "english": "At Christmas all visitors are warmly welcome on our small island.",
+      "level": "complex",
+      "note": "Noun: das Weihnachten, der Besucher, die Insel. Adjective: willkommen."
+    },
+    {
+      "id": 6,
+      "german": "Wir sind seit dem Frühling unterwegs und haben jede Jahreszeit erlebt.",
+      "english": "We have been travelling since spring and have experienced every season.",
+      "level": "complex",
+      "note": "Noun: der Frühling, die Jahreszeit. Other: seit, unterwegs, jede."
+    },
+    {
+      "id": 7,
+      "german": "Er ist ins Wasser gesprungen — das war total cool!",
+      "english": "He jumped into the water — that was totally cool!",
+      "level": "medium",
+      "note": "Verb: springen (ist gesprungen, sein). Adjective: cool. Perfekt."
+    },
+    {
+      "id": 8,
+      "german": "Nachts gibt es nichts zu tun, aber am Tag feiern die Besucher am Hafen.",
+      "english": "At night there is nothing to do, but during the day visitors celebrate at the harbour.",
+      "level": "complex",
+      "note": "Other: nachts, gibt es, nichts. Verb: feiern. Noun: der Besucher, der Hafen."
+    },
+    {
+      "id": 9,
+      "german": "Der Marathon durch die Stadt dauert ziemlich lange — fast vier Stunden.",
+      "english": "The marathon through the city takes quite a long time — almost four hours.",
+      "level": "complex",
+      "note": "Noun: der Marathon, die Stunde. Verb: dauern. Adjective: ziemlich. Prep: durch + Akkusativ."
+    },
+    {
+      "id": 10,
+      "german": "Wir fahren seit dem Januar durch Deutschland und segeln im August zu einer Insel.",
+      "english": "We have been travelling through Germany since January and sail to an island in August.",
+      "level": "complex",
+      "note": "Noun: der Januar, der August, die Insel. Verb: segeln. Other: seit, durch."
+    },
+    {
+      "id": 11,
+      "german": "Jedes Jahr im Dezember gibt es ein cooles Weihnachtsmarkt-Fest am Hafen.",
+      "english": "Every year in December there is a cool Christmas market festival at the harbour.",
+      "level": "complex",
+      "note": "Noun: der Dezember, das Weihnachten, der Hafen. Adjective: cool. Other: jedes, gibt es."
+    },
+    {
+      "id": 12,
+      "german": "Nach einem langen Marathon haben wir großen Durst und warten auf ein kühles Getränk.",
+      "english": "After a long marathon we are very thirsty and wait for a cold drink.",
+      "level": "complex",
+      "note": "Noun: der Marathon, der Durst. Verb: warten (auf + Akkusativ). Other: nach (temporal)."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Sommer ist warm. (article for Sommer)",
+      "solution": "Der",
+      "explanation": "der Sommer — masculine. All seasons are masculine: der Frühling, der Sommer, der Herbst, der Winter."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ jeden Morgen fünf Kilometer. (laufen, er-form)",
+      "solution": "läuft",
+      "explanation": "laufen: stem vowel change au → äu in er-form: läuft."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Das Wetter ist ___ kalt heute. (quite)",
+      "solution": "ziemlich",
+      "explanation": "ziemlich = quite / rather. Placed before adjectives without change."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ viele Schiffe im Hafen. (there are)",
+      "solution": "Es gibt",
+      "explanation": "es gibt + Akkusativ = there is/are. Fixed phrase from geben."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Herzlich ___ in Hamburg! (welcome)",
+      "solution": "willkommen",
+      "explanation": "Fixed welcoming expression: Herzlich willkommen! Used in hotels, events, and greetings."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir feiern ___ Weihnachten zu Hause. (every — with neuter noun)",
+      "solution": "jedes",
+      "explanation": "jedes Weihnachten = every Christmas. Weihnachten is neuter → jedes."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Die Tour ___ drei Stunden. (dauern, es-form)",
+      "solution": "dauert",
+      "explanation": "dauern regular; er/es form: dauert."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir fahren ___ die Alpen nach Österreich. (through)",
+      "solution": "durch",
+      "explanation": "durch + Akkusativ = through. die Alpen stays same (plural Akkusativ = plural Nominativ)."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie ist in Madrid ___. (born)",
+      "solution": "geboren",
+      "explanation": "sein + geboren (fixed expression). No haben used here."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Was ___ auf dem Marathon ___? (passieren, Perfekt)",
+      "solution": "ist / passiert",
+      "explanation": "passieren uses sein: ist passiert. Partizip II: passiert (no ge- for -ieren verbs)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir lernen ___ drei Monaten Deutsch. (since / for)",
+      "solution": "seit",
+      "explanation": "seit + Dativ for ongoing duration: seit drei Monaten."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Nach dem Marathon sind wir sofort nach Hause ___. (zurückfahren, Perfekt)",
+      "solution": "zurückgefahren",
+      "explanation": "zurückfahren Perfekt: zurückgefahren. Auxiliary: sind (sein, movement)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Wetter ist heute schön.",
+      "options": ["Das", "Der", "Die"],
+      "solution": "Das",
+      "explanation": "das Wetter — neuter. Must memorize."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr schnell!",
+      "options": ["läufst", "laufst", "läuft"],
+      "solution": "läufst",
+      "explanation": "laufen: du-form au → äu: du läufst."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Konzert war wirklich ___!",
+      "options": ["cool", "willkommen", "ziemlich"],
+      "solution": "cool",
+      "explanation": "cool = great / cool. willkommen = welcome; ziemlich = quite (not standalone)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir fahren ___ Berlin.",
+      "options": ["nach", "durch", "seit"],
+      "solution": "nach",
+      "explanation": "nach + city name (no article) = to. nach Berlin = to Berlin."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ nach der Tour sofort nach Hause ___.",
+      "options": ["ist / zurückgefahren", "hat / zurückgefahren", "ist / zurückfahren"],
+      "solution": "ist / zurückgefahren",
+      "explanation": "zurückfahren uses sein. Partizip II: zurückgefahren (ge- between prefix and stem)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ dauert die Radtour?",
+      "options": ["Wie lange", "Was", "Wann"],
+      "solution": "Wie lange",
+      "explanation": "wie lange = how long (duration). Was = what; Wann = when."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Ich wohne ___ fünf Jahren in Deutschland.",
+      "options": ["seit", "bis", "nach"],
+      "solution": "seit",
+      "explanation": "seit + Dativ for ongoing duration. seit fünf Jahren = for five years."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Monat gehe ich zum Sport.",
+      "options": ["Jeden", "Jede", "Jedes"],
+      "solution": "Jeden",
+      "explanation": "jeder Monat — Monat is masculine. Akkusativ masculine: jeden. Jeden Monat = every month."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "In Hamburg there are many ships in the harbour.",
+      "solution": "In Hamburg gibt es viele Schiffe im Hafen.",
+      "explanation": "es gibt + Akkusativ: viele Schiffe; im Hafen (Dativ, in + dem)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The cycling tour lasts three hours.",
+      "solution": "Die Radtour dauert drei Stunden.",
+      "explanation": "die Radtour (feminine, subject); dauert (er/es form); drei Stunden (plural)."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "My birthday is in March.",
+      "solution": "Mein Geburtstag ist im März.",
+      "explanation": "der Geburtstag (masculine) → mein; im März = in + dem (Dativ, months)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "At Christmas we celebrate with a few friends and then drive back home.",
+      "solution": "Zu Weihnachten feiern wir mit ein paar Freunden und fahren dann nach Hause zurück.",
+      "explanation": "zu Weihnachten (no article); ein paar Freunden (Dativ plural with mit); zurückfahren separable."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He was born in Hamburg and has been living here since January.",
+      "solution": "Er ist in Hamburg geboren und wohnt seit Januar hier.",
+      "explanation": "sein + geboren; seit Januar (ongoing duration, no article for months without number)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The weather is quite cold at night in December.",
+      "solution": "Das Wetter ist nachts im Dezember ziemlich kalt.",
+      "explanation": "das Wetter; nachts (temporal adverb); im Dezember (Dativ); ziemlich before kalt."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Every year visitors come to the island by ship in summer.",
+      "solution": "Jedes Jahr kommen Besucher im Sommer mit dem Schiff zur Insel.",
+      "explanation": "jedes Jahr (neuter); die Besucher (plural); mit dem Schiff (Dativ); zur Insel = zu + der Insel (Dativ, feminine)."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She jumped from the ten-metre board. That was really cool!",
+      "solution": "Sie ist vom Zehn-Meter-Brett gesprungen. Das war wirklich cool!",
+      "explanation": "springen (ist gesprungen, sein); vom = von + dem (Dativ); cool as predicate adjective."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Die Sommer ist warm.",
+      "solution": "Der Sommer ist warm.",
+      "explanation": "Sommer is masculine: der Sommer. All seasons are masculine in German."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Er lauft jeden Tag.",
+      "solution": "Er läuft jeden Tag.",
+      "explanation": "laufen: stem vowel change au → äu in er-form: läuft (not lauft)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Was hat auf dem Marathon passiert?",
+      "solution": "Was ist auf dem Marathon passiert?",
+      "explanation": "passieren takes sein (not haben): ist passiert."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich lerne seit zwei Monate Deutsch.",
+      "solution": "Ich lerne seit zwei Monaten Deutsch.",
+      "explanation": "seit requires Dativ. Plural Dativ: Monaten (not Monate)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Das Konzert ist cooles.",
+      "solution": "Das Konzert ist cool.",
+      "explanation": "Predicate adjective: no ending after ist. cool (not cooles)."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben im Sommer in den Alpen gewandert.",
+      "solution": "Wir sind im Sommer in den Alpen gewandert.",
+      "explanation": "wandern uses sein (movement), not haben."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Wetter ist ziemlich kalt.",
+      "solution": "Das Wetter ist ziemlich kalt.",
+      "explanation": "das Wetter — neuter. Must memorize."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er ist ins Wasser gespringt.",
+      "solution": "Er ist ins Wasser gesprungen.",
+      "explanation": "springen strong verb. Partizip II: gesprungen (i → u vowel change)."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Jeder Woche wandern wir in den Bergen.",
+      "solution": "Jede Woche wandern wir in den Bergen.",
+      "explanation": "die Woche is feminine → jede (not jeder, which is masculine)."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: der Monat",
+      "solution": "die Monate",
+      "explanation": "der Monat, plural: die Monate. Add -e."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: das Schiff",
+      "solution": "die Schiffe",
+      "explanation": "das Schiff, plural: die Schiffe. Add -e."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural: der Hafen",
+      "solution": "die Häfen",
+      "explanation": "der Hafen, plural: die Häfen. Umlaut: a → ä, no ending added."
+    },
+    {
+      "id": 41,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Stunde",
+      "solution": "die Stunden",
+      "explanation": "die Stunde, plural: die Stunden. Add -n."
+    },
+    {
+      "id": 42,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural: die Tour",
+      "solution": "die Touren",
+      "explanation": "die Tour, plural: die Touren. Add -en."
+    },
+    {
+      "id": 43,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ gestern fünf Kilometer gelaufen.",
+      "solution": "ist",
+      "explanation": "laufen uses sein (movement on foot): ist gelaufen."
+    },
+    {
+      "id": 44,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Wir ___ Silvester in Hamburg gefeiert.",
+      "solution": "haben",
+      "explanation": "feiern uses haben (no movement): haben gefeiert."
+    },
+    {
+      "id": 45,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Sie ___ durch die Alpen gewandert.",
+      "solution": "ist",
+      "explanation": "wandern uses sein (movement): ist gewandert."
+    },
+    {
+      "id": 46,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Die Tour ___ drei Stunden gedauert.",
+      "solution": "hat",
+      "explanation": "dauern uses haben: hat gedauert."
+    },
+    {
+      "id": 47,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ nach dem Marathon zurückgefahren.",
+      "solution": "ist",
+      "explanation": "zurückfahren uses sein (movement): ist zurückgefahren."
+    },
+    {
+      "id": 48,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Since March, there have been many visitors travelling through Germany.",
+      "solution": "Seit März gibt es viele Besucher, die durch Deutschland reisen.",
+      "explanation": "seit März (ongoing since March); es gibt + Akkusativ: viele Besucher; die durch Deutschland reisen (relative clause)."
+    },
+    {
+      "id": 49,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Jahreszeit ist der Winter, weil er so kalt und schön ist. (favourite — feminine)",
+      "solution": "Meine Lieblings",
+      "explanation": "die Jahreszeit → meine Lieblingsjahreszei. Feminine → meine."
+    },
+    {
+      "id": 50,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir sind bis München gefahren. Dann haben wir weiter nach Wien gefahren.",
+      "solution": "Wir sind bis München gefahren. Dann sind wir weiter nach Wien gefahren.",
+      "explanation": "weiterfahren uses sein (movement). Dann sind wir weitergefahren = Then we continued on."
+    }
+  ]
+}

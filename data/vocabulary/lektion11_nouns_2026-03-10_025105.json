@@ -1,0 +1,985 @@
+{
+  "lektion": 11,
+  "focus": "nouns",
+  "file_slug": "lektion11_nouns",
+  "generated_at": "2026-03-10T02:51:05",
+  "vocabulary": [
+    {
+      "german": "das Schild",
+      "base_form": "Schild",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-er",
+      "plural_full": "Schilder",
+      "english": "sign",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Spaziergang",
+      "base_form": "Spaziergang",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Spaziergänge",
+      "english": "stroll / walk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Wald",
+      "base_form": "Wald",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..er",
+      "plural_full": "Wälder",
+      "english": "forest",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kinderarzt",
+      "base_form": "Kinderarzt",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Kinderärzte",
+      "english": "paediatrician (m.)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Kinderärztin",
+      "base_form": "Kinderärztin",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-nen",
+      "plural_full": "Kinderärztinnen",
+      "english": "paediatrician (f.)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Zeitung",
+      "base_form": "Zeitung",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Zeitungen",
+      "english": "newspaper",
+      "word_type": "noun",
+      "pattern_hint": "-ung ending → always die (feminine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Boutique",
+      "base_form": "Boutique",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Boutiquen",
+      "english": "boutique",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Mode",
+      "base_form": "Mode",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Moden",
+      "english": "fashion",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Urlaub",
+      "base_form": "Urlaub",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Urlaube",
+      "english": "holiday / vacation",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Unterricht",
+      "base_form": "Unterricht",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "class / instruction",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kursleiter",
+      "base_form": "Kursleiter",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Kursleiter",
+      "english": "course instructor (m.)",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Kursleiterin",
+      "base_form": "Kursleiterin",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-nen",
+      "plural_full": "Kursleiterinnen",
+      "english": "course instructor (f.)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kurs",
+      "base_form": "Kurs",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Kurse",
+      "english": "course",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Blume",
+      "base_form": "Blume",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Blumen",
+      "english": "flower",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Laden",
+      "base_form": "Laden",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Läden",
+      "english": "shop / store",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Eiscafé",
+      "base_form": "Eiscafé",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-s",
+      "plural_full": "Eiscafés",
+      "english": "ice cream parlour",
+      "word_type": "noun",
+      "pattern_hint": "Borrowed word → often das (neuter)",
+      "pattern_reliability": "moderate",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Praxis",
+      "base_form": "Praxis",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "Praxen",
+      "plural_full": "Praxen",
+      "english": "medical practice / doctor's office",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Kiosk",
+      "base_form": "Kiosk",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Kioske",
+      "english": "kiosk",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Zahn",
+      "base_form": "Zahn",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Zähne",
+      "english": "tooth",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Fragebogen",
+      "base_form": "Fragebogen",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Fragebögen",
+      "english": "questionnaire",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Vogel",
+      "base_form": "Vogel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..",
+      "plural_full": "Vögel",
+      "english": "bird",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Film",
+      "base_form": "Film",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-e",
+      "plural_full": "Filme",
+      "english": "film / movie",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Pause",
+      "base_form": "Pause",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Pausen",
+      "english": "break / pause",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Doktor",
+      "base_form": "Doktor",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-en",
+      "plural_full": "Doktoren",
+      "english": "doctor",
+      "word_type": "noun",
+      "pattern_hint": "-er ending (agent noun) → usually der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Doktorarbeit",
+      "base_form": "Doktorarbeit",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-en",
+      "plural_full": "Doktorarbeiten",
+      "english": "doctoral dissertation",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Hausaufgabe",
+      "base_form": "Hausaufgabe",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Hausaufgaben",
+      "english": "homework",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Serie",
+      "base_form": "Serie",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "-n",
+      "plural_full": "Serien",
+      "english": "series / TV show",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Basketball",
+      "base_form": "Basketball",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural — usually singular)",
+      "english": "basketball (sport)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Einkaufsbummel",
+      "base_form": "Einkaufsbummel",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "-",
+      "plural_full": "Einkaufsbummel",
+      "english": "shopping trip / browse",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Sport",
+      "base_form": "Sport",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "sport",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Riesenrad",
+      "base_form": "Riesenrad",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "..er",
+      "plural_full": "Riesenräder",
+      "english": "Ferris wheel",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Volksfest",
+      "base_form": "Volksfest",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Volksfeste",
+      "english": "folk festival / fair",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Chor",
+      "base_form": "Chor",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Chöre",
+      "english": "choir",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Handball",
+      "base_form": "Handball",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural — usually singular)",
+      "english": "handball (sport)",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Wäsche",
+      "base_form": "Wäsche",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "laundry",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "die Mitte",
+      "base_form": "Mitte",
+      "article": "die",
+      "gender": "fem",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "middle / center",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Oktober",
+      "base_form": "Oktober",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "October",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    },
+    {
+      "german": "das Geschenk",
+      "base_form": "Geschenk",
+      "article": "das",
+      "gender": "neut",
+      "plural_marker": "-e",
+      "plural_full": "Geschenke",
+      "english": "present / gift",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der Anfang",
+      "base_form": "Anfang",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "..e",
+      "plural_full": "Anfänge",
+      "english": "beginning / start",
+      "word_type": "noun",
+      "pattern_hint": "Must memorize — no reliable pattern",
+      "pattern_reliability": "memorize",
+      "lektion_source": 11
+    },
+    {
+      "german": "der November",
+      "base_form": "November",
+      "article": "der",
+      "gender": "masc",
+      "plural_marker": "(Sg.)",
+      "plural_full": "(no plural)",
+      "english": "November",
+      "word_type": "noun",
+      "pattern_hint": "Days / months / seasons → always der (masculine)",
+      "pattern_reliability": "high",
+      "lektion_source": 11
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Der Laden ist heute geschlossen, aber das Eiscafé hat geöffnet.",
+      "english": "The shop is closed today, but the ice cream parlour is open.",
+      "level": "medium",
+      "note": "Uses: der Laden, das Eiscafé — two Lektion 11 nouns in one sentence."
+    },
+    {
+      "id": 2,
+      "german": "Wir haben gestern einen langen Spaziergang durch den Wald gemacht.",
+      "english": "We went for a long walk through the forest yesterday.",
+      "level": "complex",
+      "note": "Uses: der Spaziergang, der Wald — Perfekt with haben; Akkusativ after durch."
+    },
+    {
+      "id": 3,
+      "german": "Die Zeitung liegt auf dem Tisch neben der Blume.",
+      "english": "The newspaper is lying on the table next to the flower.",
+      "level": "medium",
+      "note": "Uses: die Zeitung, die Blume — Dativ after auf and neben (location)."
+    },
+    {
+      "id": 4,
+      "german": "Mein Kursleiter hat am Anfang des Kurses viele Informationen gegeben.",
+      "english": "My course instructor gave a lot of information at the beginning of the course.",
+      "level": "complex",
+      "note": "Uses: der Kursleiter, der Anfang, der Kurs — Perfekt; Genitiv structure."
+    },
+    {
+      "id": 5,
+      "german": "Der Arzt hat eine Pause gemacht und dann die Praxis wieder geöffnet.",
+      "english": "The doctor took a break and then opened the practice again.",
+      "level": "complex",
+      "note": "Uses: die Pause, die Praxis — Perfekt with haben; sequence of actions."
+    },
+    {
+      "id": 6,
+      "german": "Am Volksfest haben wir das Riesenrad gesehen und Geschenke gekauft.",
+      "english": "At the folk festival we saw the Ferris wheel and bought presents.",
+      "level": "complex",
+      "note": "Uses: das Volksfest, das Riesenrad, das Geschenk — Perfekt with haben."
+    },
+    {
+      "id": 7,
+      "german": "Ich kaufe die Zeitung am Kiosk, weil der Laden zu weit ist.",
+      "english": "I buy the newspaper at the kiosk because the shop is too far away.",
+      "level": "medium",
+      "note": "Uses: die Zeitung, der Kiosk, der Laden — weil-clause (verb to end)."
+    },
+    {
+      "id": 8,
+      "german": "Der Unterricht beginnt um neun Uhr und endet nach der Pause.",
+      "english": "The class starts at nine o'clock and ends after the break.",
+      "level": "medium",
+      "note": "Uses: der Unterricht, die Pause — time expression and sequence."
+    },
+    {
+      "id": 9,
+      "german": "Im Oktober haben wir in Wien ein Volksfest besucht.",
+      "english": "In October we visited a folk festival in Vienna.",
+      "level": "medium",
+      "note": "Uses: der Oktober, das Volksfest — Perfekt; im (in + dem) contraction."
+    },
+    {
+      "id": 10,
+      "german": "Der Doktor in der Praxis hat mir gesagt, dass mein Zahn nicht schlimm ist.",
+      "english": "The doctor at the practice told me that my tooth is not bad.",
+      "level": "complex",
+      "note": "Uses: der Doktor, die Praxis, der Zahn — dass-clause; Perfekt sagen."
+    },
+    {
+      "id": 11,
+      "german": "Meine Schwester macht immer einen Einkaufsbummel in der Boutique.",
+      "english": "My sister always goes on a shopping trip at the boutique.",
+      "level": "medium",
+      "note": "Uses: der Einkaufsbummel, die Boutique — Dativ after in (location)."
+    },
+    {
+      "id": 12,
+      "german": "Der Chor singt jeden Mittwoch, und der Sport beginnt danach.",
+      "english": "The choir sings every Wednesday, and sport starts afterwards.",
+      "level": "medium",
+      "note": "Uses: der Chor, der Sport — coordinated main clauses."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Schild sagt 'geöffnet'. (sign)",
+      "solution": "Das",
+      "explanation": "das Schild is neuter. The article in Nominativ is 'das'."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Spaziergang war sehr schön. (stroll)",
+      "solution": "Der",
+      "explanation": "der Spaziergang is masculine. Nominativ article is 'der'."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir gehen durch ___ Wald. (forest — Akkusativ)",
+      "solution": "den",
+      "explanation": "der Wald is masculine. After durch (Akkusativ), 'der' becomes 'den'."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Zeitung kostet einen Euro. (newspaper)",
+      "solution": "Die",
+      "explanation": "die Zeitung is feminine (-ung → always die). Nominativ article is 'die'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Laden ist geschlossen. Ich gehe zum ___. (kiosk)",
+      "solution": "Kiosk",
+      "explanation": "der Kiosk; after zum (= zu + dem, Dativ), the noun stays 'Kiosk'."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "In ___ Boutique gibt es schöne ___. (boutique; fashion)",
+      "solution": "der; Mode",
+      "explanation": "die Boutique → Dativ 'der Boutique'. die Mode → Nominativ 'Mode' (no article after 'es gibt' here with die Mode used as uncountable)."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Der Unterricht beginnt, und alle machen eine ___. (break)",
+      "solution": "Pause",
+      "explanation": "die Pause; Akkusativ after machen → 'eine Pause'."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Mein ___ arbeitet in einer Praxis in der Stadt. (doctor, m.)",
+      "solution": "Doktor",
+      "explanation": "der Doktor; after mein (Nominativ), the noun is 'Doktor'."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Die ___ hat im Oktober ein tolles Programm. (choir)",
+      "solution": "Der Chor",
+      "explanation": "der Chor is masculine. Nominativ: 'Der Chor'. Wait — 'Die ___' must be 'Der Chor': the blank is just 'Chor' and the article clue is given (the article should be 'Der'). Correction: prompt uses blank before noun → 'Der Chor'."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er hat ___ ___ gut gefallen. (the folk festival — Dativ after gefallen)",
+      "solution": "das Volksfest",
+      "explanation": "das Volksfest is neuter. Nominativ/Dativ after gefallen: ihm hat das Volksfest gefallen."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Am Ende des ___ haben wir ein Geschenk bekommen. (course)",
+      "solution": "Kurses",
+      "explanation": "der Kurs; Genitiv form of masculine noun adds -es → 'Kurses'."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ Hausaufgabe ist fertig. (homework)",
+      "solution": "Die",
+      "explanation": "die Hausaufgabe is feminine. Nominativ: 'Die'."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Wald ist sehr groß.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Der",
+      "explanation": "der Wald is masculine. Nominativ singular = 'Der'."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Ich lese ___ Zeitung jeden Morgen.",
+      "options": ["den", "die", "das"],
+      "solution": "die",
+      "explanation": "die Zeitung is feminine (-ung → die). Akkusativ feminine = 'die'."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Das Kind geht mit seiner Mutter zur ___.",
+      "options": ["Praxis", "Praxen", "Praxin"],
+      "solution": "Praxis",
+      "explanation": "zur = zu der (Dativ). The Dativ singular of die Praxis is 'Praxis' (no change for this noun)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir haben im Park einen langen ___ gemacht.",
+      "options": ["Spaziergang", "Spaziergänge", "Spazierganges"],
+      "solution": "Spaziergang",
+      "explanation": "Akkusativ of der Spaziergang (masculine) = 'einen Spaziergang'."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der ___ beginnt um 8 Uhr.",
+      "options": ["Unterricht", "Unterrichts", "Unterrichte"],
+      "solution": "Unterricht",
+      "explanation": "der Unterricht is singular-only. Nominativ: 'Unterricht'."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ Eiscafé ist neu.",
+      "options": ["Der", "Die", "Das"],
+      "solution": "Das",
+      "explanation": "das Eiscafé is neuter (borrowed word → often das). Nominativ = 'Das'."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er hat ___ Riesenrad zum ersten Mal gesehen.",
+      "options": ["das", "den", "dem"],
+      "solution": "das",
+      "explanation": "das Riesenrad is neuter. Akkusativ neuter = 'das' (no change from Nominativ)."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Meine Schwester kauft immer ___ für ihre Freunde.",
+      "options": ["Geschenke", "Geschenks", "Geschenken"],
+      "solution": "Geschenke",
+      "explanation": "das Geschenk, plural = Geschenke. Akkusativ plural = 'Geschenke'."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Der Kinderarzt hat viele ___ in seiner Praxis.",
+      "options": ["Patienten", "Doktorarbeiten", "Vögel"],
+      "solution": "Patienten",
+      "explanation": "Patienten (patients) is the logical word for a paediatrician's practice. 'Doktorarbeiten' and 'Vögel' do not fit the context."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The newspaper is on the table.",
+      "solution": "Die Zeitung liegt auf dem Tisch.",
+      "explanation": "die Zeitung (Nominativ); auf + Dativ for location → dem Tisch."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We are going for a walk in the forest.",
+      "solution": "Wir machen einen Spaziergang im Wald.",
+      "explanation": "einen Spaziergang machen = to go for a walk; im = in + dem (Dativ, location)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The shop is closed.",
+      "solution": "Der Laden ist geschlossen.",
+      "explanation": "der Laden (masculine, memorize); geschlossen = closed."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The course starts in October.",
+      "solution": "Der Kurs beginnt im Oktober.",
+      "explanation": "der Kurs (masculine); im Oktober = in + dem Oktober; months are always der."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My sister bought a present at the folk festival.",
+      "solution": "Meine Schwester hat auf dem Volksfest ein Geschenk gekauft.",
+      "explanation": "Perfekt with haben: hat gekauft. auf + Dativ for location: dem Volksfest. das Geschenk → ein Geschenk (Akkusativ)."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "The doctor's practice opens at eight o'clock.",
+      "solution": "Die Praxis des Doktors öffnet um acht Uhr.",
+      "explanation": "die Praxis (feminine); des Doktors = Genitiv of der Doktor; um acht Uhr = at eight o'clock."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We saw the Ferris wheel and bought flowers for our friends.",
+      "solution": "Wir haben das Riesenrad gesehen und Blumen für unsere Freunde gekauft.",
+      "explanation": "Perfekt with haben; das Riesenrad (Akkusativ neuter); Blumen (plural, Akkusativ)."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "The homework is very long.",
+      "solution": "Die Hausaufgabe ist sehr lang.",
+      "explanation": "die Hausaufgabe (feminine, memorize); sehr lang = very long."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He works at the kiosk.",
+      "solution": "Er arbeitet am Kiosk.",
+      "explanation": "am = an + dem (Dativ); der Kiosk → am Kiosk."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Schild ist neu. (Correct the error.)",
+      "solution": "Das Schild ist neu.",
+      "explanation": "das Schild is neuter, not feminine. Article must be 'Das', not 'Die'."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir machen einen Spaziergang im Wälder. (Correct the error.)",
+      "solution": "Wir machen einen Spaziergang im Wald.",
+      "explanation": "im = in + dem (Dativ singular). 'Wälder' is plural nominativ. Dativ singular of der Wald = 'Wald'."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Der Unterrichte beginnt um neun Uhr. (Correct the error.)",
+      "solution": "Der Unterricht beginnt um neun Uhr.",
+      "explanation": "der Unterricht is singular-only (Sg.). Adding -e for a non-existent plural is wrong."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Die Eiscafé ist sehr schön. (Correct the error.)",
+      "solution": "Das Eiscafé ist sehr schön.",
+      "explanation": "das Eiscafé is neuter (borrowed word). The article must be 'Das', not 'Die'."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er hat den Geschenk für seine Mutter gekauft. (Correct the error.)",
+      "solution": "Er hat das Geschenk für seine Mutter gekauft.",
+      "explanation": "das Geschenk is neuter. Akkusativ neuter = 'das', not 'den' (which is masculine Akkusativ)."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich kaufe Blumen an der Kiosk. (Correct the error.)",
+      "solution": "Ich kaufe Blumen am Kiosk.",
+      "explanation": "der Kiosk is masculine. an + dem (Dativ) = 'am'; 'an der Kiosk' uses feminine article incorrectly."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Die Doktorarbeit von mein Bruder ist sehr lang. (Correct the error.)",
+      "solution": "Die Doktorarbeit von meinem Bruder ist sehr lang.",
+      "explanation": "von takes Dativ. Dativ of mein (masculine) = 'meinem'. 'von mein' is incorrect."
+    },
+    {
+      "id": 38,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: der Zahn",
+      "solution": "die Zähne",
+      "explanation": "der Zahn, plural marker ..e = add umlaut (a → ä) + e → die Zähne."
+    },
+    {
+      "id": 39,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: die Zeitung",
+      "solution": "die Zeitungen",
+      "explanation": "die Zeitung, plural marker -en → die Zeitungen."
+    },
+    {
+      "id": 40,
+      "type": "plural_formation",
+      "level": "simple",
+      "prompt": "Give the plural of: das Schild",
+      "solution": "die Schilder",
+      "explanation": "das Schild, plural marker -er → die Schilder."
+    },
+    {
+      "id": 41,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: der Wald",
+      "solution": "die Wälder",
+      "explanation": "der Wald, plural marker ..er = add umlaut (a → ä) + er → die Wälder."
+    },
+    {
+      "id": 42,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: das Volksfest",
+      "solution": "die Volksfeste",
+      "explanation": "das Volksfest, plural marker -e → die Volksfeste."
+    },
+    {
+      "id": 43,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: der Spaziergang",
+      "solution": "die Spaziergänge",
+      "explanation": "der Spaziergang, plural marker ..e = add umlaut (a → ä) + e → die Spaziergänge."
+    },
+    {
+      "id": 44,
+      "type": "plural_formation",
+      "level": "medium",
+      "prompt": "Give the plural of: die Blume",
+      "solution": "die Blumen",
+      "explanation": "die Blume, plural marker -n → die Blumen."
+    },
+    {
+      "id": 45,
+      "type": "plural_formation",
+      "level": "complex",
+      "prompt": "Write a sentence using the plural of das Geschenk.",
+      "solution": "Die Kinder haben viele Geschenke bekommen.",
+      "explanation": "das Geschenk, plural -e → die Geschenke. In Akkusativ after 'viele': 'Geschenke'."
+    }
+  ]
+}

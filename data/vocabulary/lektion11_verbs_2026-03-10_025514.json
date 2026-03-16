@@ -1,0 +1,583 @@
+{
+  "lektion": 11,
+  "focus": "verbs",
+  "file_slug": "lektion11_verbs",
+  "generated_at": "2026-03-10T02:55:14",
+  "vocabulary": [
+    {
+      "german": "aufräumen",
+      "base_form": "aufräumen",
+      "english": "to tidy up",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "räume auf",
+        "du": "räumst auf",
+        "er/sie/es": "räumt auf",
+        "wir": "räumen auf",
+        "ihr": "räumt auf",
+        "sie/Sie": "räumen auf"
+      },
+      "perfekt": "hat aufgeräumt",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Separable verb: auf|räumen. Prefix 'auf' splits off in main clauses and goes to the end.",
+      "lektion_source": 11
+    },
+    {
+      "german": "abwaschen",
+      "base_form": "abwaschen",
+      "english": "to do the dishes / wash up",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wasche ab",
+        "du": "wäschst ab",
+        "er/sie/es": "wäscht ab",
+        "wir": "waschen ab",
+        "ihr": "wascht ab",
+        "sie/Sie": "waschen ab"
+      },
+      "perfekt": "hat abgewaschen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Separable verb: ab|waschen. Strong verb with stem vowel change a→ä in du/er forms.",
+      "lektion_source": 11
+    },
+    {
+      "german": "schlafen",
+      "base_form": "schlafen",
+      "english": "to sleep",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "schlafe",
+        "du": "schläfst",
+        "er/sie/es": "schläft",
+        "wir": "schlafen",
+        "ihr": "schlaft",
+        "sie/Sie": "schlafen"
+      },
+      "perfekt": "hat geschlafen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb with stem vowel change a→ä in du/er forms.",
+      "lektion_source": 11
+    },
+    {
+      "german": "einladen",
+      "base_form": "einladen",
+      "english": "to invite",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "lade ein",
+        "du": "lädst ein",
+        "er/sie/es": "lädt ein",
+        "wir": "laden ein",
+        "ihr": "ladet ein",
+        "sie/Sie": "laden ein"
+      },
+      "perfekt": "hat eingeladen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Separable verb: ein|laden. Strong verb with stem vowel change a→ä in du/er forms.",
+      "lektion_source": 11
+    },
+    {
+      "german": "besuchen",
+      "base_form": "besuchen",
+      "english": "to visit",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "besuche",
+        "du": "besuchst",
+        "er/sie/es": "besucht",
+        "wir": "besuchen",
+        "ihr": "besucht",
+        "sie/Sie": "besuchen"
+      },
+      "perfekt": "hat besucht",
+      "auxiliary": "haben",
+      "is_irregular": false,
+      "verb_note": "Regular weak verb with inseparable prefix 'be-'. No ge- in Partizip II.",
+      "lektion_source": 11
+    },
+    {
+      "german": "bleiben",
+      "base_form": "bleiben",
+      "english": "to stay / to remain",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "bleibe",
+        "du": "bleibst",
+        "er/sie/es": "bleibt",
+        "wir": "bleiben",
+        "ihr": "bleibt",
+        "sie/Sie": "bleiben"
+      },
+      "perfekt": "ist geblieben",
+      "auxiliary": "sein",
+      "is_irregular": true,
+      "verb_note": "Strong verb using sein as auxiliary (no movement, but change of state / staying in place). Partizip II: geblieben.",
+      "lektion_source": 11
+    },
+    {
+      "german": "waschen",
+      "base_form": "waschen",
+      "english": "to wash / to do the laundry",
+      "word_type": "verb",
+      "conjugation_praesens": {
+        "ich": "wasche",
+        "du": "wäschst",
+        "er/sie/es": "wäscht",
+        "wir": "waschen",
+        "ihr": "wascht",
+        "sie/Sie": "waschen"
+      },
+      "perfekt": "hat gewaschen",
+      "auxiliary": "haben",
+      "is_irregular": true,
+      "verb_note": "Strong verb with stem vowel change a→ä in du/er forms. Related to abwaschen (dishes) and Wäsche waschen (laundry).",
+      "lektion_source": 11
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "Ich räume jeden Samstag mein Zimmer auf.",
+      "english": "I tidy up my room every Saturday.",
+      "level": "medium",
+      "note": "Uses: aufräumen — separable verb, 'auf' goes to end; Akkusativ 'mein Zimmer'."
+    },
+    {
+      "id": 2,
+      "german": "Er hat gestern die Küche aufgeräumt und dann abgewaschen.",
+      "english": "He tidied up the kitchen yesterday and then did the dishes.",
+      "level": "complex",
+      "note": "Uses: aufräumen, abwaschen — both in Perfekt; ge- inserted between prefix and stem."
+    },
+    {
+      "id": 3,
+      "german": "Wir haben unsere Freunde zum Abendessen eingeladen.",
+      "english": "We invited our friends for dinner.",
+      "level": "medium",
+      "note": "Uses: einladen — Perfekt with haben; 'ge-' inserted between prefix 'ein' and stem."
+    },
+    {
+      "id": 4,
+      "german": "Meine Mutter schläft immer nach dem Mittagessen eine Stunde.",
+      "english": "My mother always sleeps for an hour after lunch.",
+      "level": "medium",
+      "note": "Uses: schlafen — stem change a→ä: 'schläft' (er/sie/es form)."
+    },
+    {
+      "id": 5,
+      "german": "Wir haben letztes Jahr Wien besucht und sind drei Tage geblieben.",
+      "english": "We visited Vienna last year and stayed for three days.",
+      "level": "complex",
+      "note": "Uses: besuchen (hat besucht), bleiben (ist geblieben) — contrast: besuchen uses haben, bleiben uses sein."
+    },
+    {
+      "id": 6,
+      "german": "Er wäscht jeden Morgen die Wäsche und räumt danach auf.",
+      "english": "He does the laundry every morning and tidies up afterwards.",
+      "level": "medium",
+      "note": "Uses: waschen, aufräumen — both separable/strong verbs in Präsens."
+    },
+    {
+      "id": 7,
+      "german": "Sie ist nach dem Kurs zu Hause geblieben und hat die Hausaufgaben gemacht.",
+      "english": "She stayed home after the course and did her homework.",
+      "level": "complex",
+      "note": "Uses: bleiben (ist geblieben — sein!); context uses Hausaufgaben from same Lektion."
+    },
+    {
+      "id": 8,
+      "german": "Hast du schon abgewaschen, oder soll ich helfen?",
+      "english": "Have you already done the dishes, or should I help?",
+      "level": "complex",
+      "note": "Uses: abwaschen — Perfekt question with 'schon'; oder-clause with modal sollen."
+    },
+    {
+      "id": 9,
+      "german": "Wir besuchen jeden November unsere Familie in Bayern.",
+      "english": "We visit our family in Bavaria every November.",
+      "level": "medium",
+      "note": "Uses: besuchen — regular present tense; jeden + Akkusativ for frequency."
+    },
+    {
+      "id": 10,
+      "german": "Er lädt seine Kollegen jedes Jahr zu einem Volksfest ein.",
+      "english": "He invites his colleagues to a folk festival every year.",
+      "level": "complex",
+      "note": "Uses: einladen — 'lädt ... ein' (stem change, separable); jedes Jahr = every year."
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich ___ mein Zimmer auf. (aufräumen — ich form)",
+      "solution": "räume",
+      "explanation": "aufräumen is separable. Ich form: 'räume' + 'auf' at sentence end → 'räume ... auf'."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Du ___ lange. (schlafen — du form)",
+      "solution": "schläfst",
+      "explanation": "schlafen has stem change a→ä in du form: 'schläfst'."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ___ heute bei uns. (bleiben — er form)",
+      "solution": "bleibt",
+      "explanation": "bleiben is regular in Präsens for er/sie/es: 'bleibt'."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Wir ___ morgen unsere Oma. (besuchen — wir form)",
+      "solution": "besuchen",
+      "explanation": "besuchen — wir form is same as infinitive: 'besuchen'."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie ___ gerade die Wäsche ___. (waschen — sie [she] form, separable... but waschen is not separable: fill in conjugated form only)",
+      "solution": "wäscht",
+      "explanation": "waschen has stem change a→ä in er/sie/es form: 'wäscht'. Note: waschen itself is not separable."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Er ___ seine Freunde zum Geburtstag ___. (einladen — er form, separable)",
+      "solution": "lädt ... ein",
+      "explanation": "einladen: stem change a→ä, prefix separates → 'lädt ... ein'."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich habe gestern die Küche ___. (aufräumen — Perfekt)",
+      "solution": "aufgeräumt",
+      "explanation": "aufräumen Perfekt: 'hat aufgeräumt'. Partizip II inserts 'ge' between prefix and stem: auf-ge-räumt."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir haben das Geschirr schon ___. (abwaschen — Perfekt)",
+      "solution": "abgewaschen",
+      "explanation": "abwaschen Perfekt: 'hat abgewaschen'. Partizip II: ab-ge-waschen."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er ___ drei Tage in Wien ___. (bleiben — Perfekt, auxiliary + Partizip II)",
+      "solution": "ist ... geblieben",
+      "explanation": "bleiben uses sein as auxiliary: 'ist geblieben'. Partizip II: geblieben (strong verb)."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir haben letztes Jahr unsere Freunde in München ___. (besuchen — Perfekt)",
+      "solution": "besucht",
+      "explanation": "besuchen has inseparable prefix 'be-', so no 'ge-' in Partizip II → 'besucht'."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Sie ___ gestern lange und ist jetzt ausgeruht. (schlafen — Perfekt)",
+      "solution": "hat geschlafen",
+      "explanation": "schlafen Perfekt uses haben: 'hat geschlafen'. Partizip II: geschlafen."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Er ___ alle Freunde zur Party ___, aber nicht alle sind gekommen. (einladen — Perfekt)",
+      "solution": "hat ... eingeladen",
+      "explanation": "einladen Perfekt: hat eingeladen. Partizip II: ein-ge-laden. Auxiliary: haben."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Du ___ sehr lange.",
+      "options": ["schläfst", "schlafst", "schlafte"],
+      "solution": "schläfst",
+      "explanation": "schlafen has stem vowel change a→ä in du form: 'schläfst'. 'schlafst' ignores the change; 'schlafte' is not a real form."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ jeden Abend das Geschirr.",
+      "options": ["wäscht ab", "wascht ab", "gewaschen ab"],
+      "solution": "wäscht ab",
+      "explanation": "abwaschen: stem change a→ä in er form → 'wäscht ab'. 'wascht ab' ignores the change."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir haben unsere Eltern letzten Monat ___.",
+      "options": ["besucht", "gebesucht", "besuchtet"],
+      "solution": "besucht",
+      "explanation": "besuchen has inseparable prefix 'be-', so no ge- in Partizip II → 'besucht'."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Er ___ drei Tage in Hamburg ___.",
+      "options": ["ist ... geblieben", "hat ... geblieben", "ist ... gebliebt"],
+      "solution": "ist ... geblieben",
+      "explanation": "bleiben uses sein (movement/state verb), not haben. Partizip II: geblieben."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie ___ alle Kollegen zur Feier ___.",
+      "options": ["hat ... eingeladen", "ist ... eingeladen", "hat ... eingeladet"],
+      "solution": "hat ... eingeladen",
+      "explanation": "einladen uses haben as auxiliary. Partizip II: eingeladen (not 'eingeladet')."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich ___ mein Zimmer jeden Sonntag ___.",
+      "options": ["räume ... auf", "aufräume", "räume ... aufräumen"],
+      "solution": "räume ... auf",
+      "explanation": "aufräumen is separable: prefix 'auf' goes to sentence end in main clauses."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "Er ___ heute Nacht gut.",
+      "options": ["schläft", "schläfst", "schlaft"],
+      "solution": "schläft",
+      "explanation": "schlafen: er/sie/es form has stem change a→ä → 'schläft'."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie hat die Wäsche ___ und dann die Küche ___.",
+      "options": ["gewaschen ... aufgeräumt", "gegewaschen ... aufräumt", "gewascht ... aufgeräumt"],
+      "solution": "gewaschen ... aufgeräumt",
+      "explanation": "waschen Partizip II: gewaschen (strong). aufräumen Partizip II: aufgeräumt (with ge- between prefix and stem)."
+    },
+    {
+      "id": 21,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I tidy up my room every day.",
+      "solution": "Ich räume jeden Tag mein Zimmer auf.",
+      "explanation": "aufräumen is separable: 'räume ... auf'. jeden Tag = every day (Akkusativ)."
+    },
+    {
+      "id": 22,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "She slept for a long time yesterday.",
+      "solution": "Sie hat gestern lange geschlafen.",
+      "explanation": "schlafen Perfekt: hat geschlafen. 'lange' = for a long time. 'gestern' (yesterday) early in sentence."
+    },
+    {
+      "id": 23,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We visited the city center.",
+      "solution": "Wir haben die Stadtmitte besucht.",
+      "explanation": "besuchen Perfekt: hat/haben besucht. die Stadtmitte = the city center (Akkusativ)."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He invited his friends to the folk festival.",
+      "solution": "Er hat seine Freunde zum Volksfest eingeladen.",
+      "explanation": "einladen Perfekt: hat eingeladen. zum = zu + dem (Dativ); Akkusativ for 'seine Freunde'."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "They stayed in Vienna for three days and visited the museums.",
+      "solution": "Sie sind drei Tage in Wien geblieben und haben die Museen besucht.",
+      "explanation": "bleiben → ist/sind geblieben (sein). besuchen → haben besucht. Two different auxiliaries in one sentence."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "Do you do the dishes every evening?",
+      "solution": "Wäschst du jeden Abend ab?",
+      "explanation": "abwaschen: du form 'wäschst ab' (stem change + separable). jeden Abend = Akkusativ."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "My brother washed the laundry and tidied up the apartment.",
+      "solution": "Mein Bruder hat die Wäsche gewaschen und die Wohnung aufgeräumt.",
+      "explanation": "waschen Perfekt: hat gewaschen. aufräumen Perfekt: hat aufgeräumt. Both use haben."
+    },
+    {
+      "id": 28,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Du schlafst sehr lange. (Correct the error.)",
+      "solution": "Du schläfst sehr lange.",
+      "explanation": "schlafen has stem vowel change a→ä in du form: 'schläfst', not 'schlafst'."
+    },
+    {
+      "id": 29,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich aufräume mein Zimmer. (Correct the error.)",
+      "solution": "Ich räume mein Zimmer auf.",
+      "explanation": "aufräumen is separable. In a main clause, the prefix 'auf' must go to the end: 'räume ... auf'."
+    },
+    {
+      "id": 30,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er hat drei Tage in Wien geblieben. (Correct the error.)",
+      "solution": "Er ist drei Tage in Wien geblieben.",
+      "explanation": "bleiben uses sein as auxiliary, not haben. Correct: 'ist geblieben'."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir haben unsere Großeltern gebesucht. (Correct the error.)",
+      "solution": "Wir haben unsere Großeltern besucht.",
+      "explanation": "besuchen has inseparable prefix 'be-'. Partizip II never adds 'ge-': 'besucht', not 'gebesucht'."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Er hat alle Freunde eingeladet. (Correct the error.)",
+      "solution": "Er hat alle Freunde eingeladen.",
+      "explanation": "einladen is a strong verb. Partizip II: 'eingeladen', not 'eingeladet' (weak form is wrong)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Sie wäscht ab die Teller. (Correct the error.)",
+      "solution": "Sie wäscht die Teller ab.",
+      "explanation": "abwaschen is separable. The prefix 'ab' must go to the very end of the main clause."
+    },
+    {
+      "id": 34,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Er ___ lange geschlafen.",
+      "solution": "hat",
+      "explanation": "schlafen uses haben as auxiliary. 'hat geschlafen' — no movement, no change of location."
+    },
+    {
+      "id": 35,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Sie ___ in Berlin geblieben.",
+      "solution": "ist",
+      "explanation": "bleiben uses sein as auxiliary because it expresses a change of state / staying put."
+    },
+    {
+      "id": 36,
+      "type": "haben_vs_sein",
+      "level": "simple",
+      "prompt": "Wir ___ unsere Freunde besucht.",
+      "solution": "haben",
+      "explanation": "besuchen uses haben as auxiliary. Transitive verb with Akkusativ object."
+    },
+    {
+      "id": 37,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Er ___ die Küche aufgeräumt.",
+      "solution": "hat",
+      "explanation": "aufräumen uses haben as auxiliary. It is a transitive action (you tidy something)."
+    },
+    {
+      "id": 38,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Du ___ alle Gäste eingeladen.",
+      "solution": "hast",
+      "explanation": "einladen uses haben. Auxiliary for du in Perfekt = 'hast'."
+    },
+    {
+      "id": 39,
+      "type": "haben_vs_sein",
+      "level": "medium",
+      "prompt": "Meine Schwester ___ das Geschirr abgewaschen.",
+      "solution": "hat",
+      "explanation": "abwaschen uses haben as auxiliary."
+    },
+    {
+      "id": 40,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Wir ___ zwei Wochen im Urlaub geblieben.",
+      "solution": "sind",
+      "explanation": "bleiben uses sein. Wir form: 'sind geblieben'."
+    },
+    {
+      "id": 41,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Hast du schon ___, oder soll ich helfen? (abwaschen — Perfekt Partizip only)",
+      "solution": "abgewaschen",
+      "explanation": "abwaschen Perfekt: hat + abgewaschen. Partizip II of separable strong verb: ab-ge-waschen."
+    },
+    {
+      "id": 42,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He washes the laundry on Saturdays.",
+      "solution": "Er wäscht samstags die Wäsche.",
+      "explanation": "waschen, er form: 'wäscht' (stem change a→ä). samstags = on Saturdays."
+    },
+    {
+      "id": 43,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Sie haben das Zimmer aufräumen. (Correct the error.)",
+      "solution": "Sie haben das Zimmer aufgeräumt.",
+      "explanation": "Perfekt requires Partizip II, not infinitive. aufräumen Partizip II: 'aufgeräumt'."
+    },
+    {
+      "id": 44,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir ___ unsere Freunde letzten Samstag zum Essen ___. (einladen — Perfekt)",
+      "solution": "haben ... eingeladen",
+      "explanation": "einladen Perfekt: haben eingeladen. Auxiliary: haben. Partizip II: eingeladen."
+    },
+    {
+      "id": 45,
+      "type": "haben_vs_sein",
+      "level": "complex",
+      "prompt": "Er ___ das ganze Wochenende zu Hause ___ und ___ viel geschlafen. (bleiben / schlafen — fill both auxiliaries)",
+      "solution": "ist ... geblieben ... hat",
+      "explanation": "bleiben → ist geblieben (sein). schlafen → hat geschlafen (haben). Two different auxiliaries in one sentence."
+    }
+  ]
+}

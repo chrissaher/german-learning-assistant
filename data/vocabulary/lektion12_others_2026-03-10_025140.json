@@ -1,0 +1,578 @@
+{
+  "lektion": 12,
+  "focus": "others",
+  "file_slug": "lektion12_others",
+  "generated_at": "2026-03-10T02:51:40",
+  "vocabulary": [
+    {
+      "german": "gibt es",
+      "base_form": "gibt es",
+      "english": "there is / there are / exists",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Fixed expression from geben. Es gibt + Akkusativ = there is/are. E.g., Es gibt viele Hotels in Hamburg.",
+      "lektion_source": 12
+    },
+    {
+      "german": "seit",
+      "base_form": "seit",
+      "english": "since / for (duration)",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Requires Dativ. Used for ongoing actions: Ich lerne seit einem Monat Deutsch. Note: 'for' in English = seit in German for ongoing time.",
+      "lektion_source": 12
+    },
+    {
+      "german": "zurück",
+      "base_form": "zurück",
+      "english": "back",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Direction/particle meaning 'back'. Used in separable verbs: zurückfahren, zurückkommen. Also standalone: Ich komme zurück. (I'm coming back.)",
+      "lektion_source": 12
+    },
+    {
+      "german": "durch",
+      "base_form": "durch",
+      "english": "through",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Requires Akkusativ. Wir fahren durch den Tunnel. = We drive through the tunnel. Spanish: 'a través de'.",
+      "lektion_source": 12
+    },
+    {
+      "german": "unterwegs",
+      "base_form": "unterwegs",
+      "english": "on the way / travelling / en route",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Describes being in transit or travelling. Ich bin unterwegs. = I am on my way/travelling. No inflection.",
+      "lektion_source": 12
+    },
+    {
+      "german": "nach",
+      "base_form": "nach",
+      "english": "to (+ place name) / after",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Requires Dativ. For destinations with city/country names (no article): nach Berlin, nach Deutschland. For time: nach dem Frühstück (after breakfast).",
+      "lektion_source": 12
+    },
+    {
+      "german": "bis",
+      "base_form": "bis",
+      "english": "until / up to / as far as",
+      "word_type": "other",
+      "subtype": "preposition",
+      "usage_note": "Used with time: bis Montag (until Monday), bis 20 Uhr (until 8 pm). Also with place: bis Hamburg fahren (to travel as far as Hamburg). With definite articles, add zu: bis zum Bahnhof.",
+      "lektion_source": 12
+    },
+    {
+      "german": "weiter",
+      "base_form": "weiter",
+      "english": "on / further / continue",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Direction particle used in separable verbs (weiterfahren, weitergehen) or standalone meaning to continue. Wir fahren weiter. = We continue on.",
+      "lektion_source": 12
+    },
+    {
+      "german": "ein paar",
+      "base_form": "ein paar",
+      "english": "a few / a couple of",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Indefinite quantity. ein paar Tage = a few days. paar (lowercase) = a few; Ein Paar (capitalized) = a couple (two people). Spanish: unos pocos.",
+      "lektion_source": 12
+    },
+    {
+      "german": "jeder / jede / jedes",
+      "base_form": "jeder",
+      "english": "every / each",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Determiner/pronoun agreeing with noun gender: jeder Tag (masc), jede Woche (fem), jedes Jahr (neut). Inflects like the definite article.",
+      "lektion_source": 12
+    },
+    {
+      "german": "wie lange",
+      "base_form": "wie lange",
+      "english": "how long",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Question phrase asking about duration. Wie lange dauert die Tour? = How long does the tour take? Used with dauern or other duration verbs.",
+      "lektion_source": 12
+    },
+    {
+      "german": "nachts",
+      "base_form": "nachts",
+      "english": "at night",
+      "word_type": "other",
+      "subtype": "adverb",
+      "usage_note": "Temporal adverb: at night. Nachts ist es sehr ruhig. = At night it is very quiet. Contrasts with morgens (in the morning), abends (in the evening).",
+      "lektion_source": 12
+    },
+    {
+      "german": "Ja, das stimmt.",
+      "base_form": "Ja, das stimmt.",
+      "english": "Yes, that is right / Yes, that's correct.",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Confirmation phrase. stimmen = to be correct. Das stimmt! is a common way to agree with a statement in German.",
+      "lektion_source": 12
+    },
+    {
+      "german": "nichts",
+      "base_form": "nichts",
+      "english": "nothing / not anything",
+      "word_type": "other",
+      "subtype": "pronoun",
+      "usage_note": "Negative pronoun. Ich habe nichts gesagt. = I said nothing. Contrasts with etwas (something) and alles (everything).",
+      "lektion_source": 12
+    },
+    {
+      "german": "geboren",
+      "base_form": "geboren",
+      "english": "born",
+      "word_type": "other",
+      "subtype": "phrase",
+      "usage_note": "Past participle of gebären used as fixed expression. Ich bin in Madrid geboren. = I was born in Madrid. The fixed phrase is sein + geboren (not haben).",
+      "lektion_source": 12
+    }
+  ],
+  "examples": [
+    {
+      "id": 1,
+      "german": "In Hamburg gibt es viele schöne Hafenrestaurants.",
+      "english": "In Hamburg there are many beautiful harbour restaurants.",
+      "level": "medium",
+      "note": "Uses: gibt es (fixed phrase, es gibt + Akkusativ); der Hafen (Lektion 12 noun)"
+    },
+    {
+      "id": 2,
+      "german": "Wir lernen seit drei Monaten Deutsch und reisen jetzt nach Berlin.",
+      "english": "We have been learning German for three months and are now travelling to Berlin.",
+      "level": "complex",
+      "note": "Uses: seit + Dativ (ongoing duration); nach + city name (destination); jetzt from earlier lektionen"
+    },
+    {
+      "id": 3,
+      "german": "Wir sind durch die Alpen gefahren und dann weiter nach Innsbruck.",
+      "english": "We drove through the Alps and then on to Innsbruck.",
+      "level": "complex",
+      "note": "Uses: durch + Akkusativ; weiter (continue); die Alpen (Lektion 12 noun); Perfekt sind gefahren"
+    },
+    {
+      "id": 4,
+      "german": "Wie lange dauert die Radtour bis Hamburg?",
+      "english": "How long does the cycling tour to Hamburg take?",
+      "level": "medium",
+      "note": "Uses: wie lange (question phrase); dauern (Lektion 12 verb); bis (destination); die Radtour (Lektion 12 noun)"
+    },
+    {
+      "id": 5,
+      "german": "Nachts ist der Hafen sehr ruhig, aber am Tag gibt es viele Schiffe.",
+      "english": "At night the harbour is very quiet, but during the day there are many ships.",
+      "level": "complex",
+      "note": "Uses: nachts (temporal adverb); gibt es (there are); der Hafen, das Schiff (Lektion 12 nouns)"
+    },
+    {
+      "id": 6,
+      "german": "Jedes Jahr feiern wir Silvester am Hafen mit ein paar Freunden.",
+      "english": "Every year we celebrate New Year's Eve at the harbour with a few friends.",
+      "level": "complex",
+      "note": "Uses: jedes Jahr (every year, neuter jedes + Jahr); ein paar (a few); das Silvester, der Hafen (Lektion 12 nouns)"
+    },
+    {
+      "id": 7,
+      "german": "Ich bin in Spanien geboren und seit zehn Jahren in Deutschland.",
+      "english": "I was born in Spain and have been in Germany for ten years.",
+      "level": "complex",
+      "note": "Uses: geboren (fixed expression bin geboren); seit + Dativ (ongoing duration)"
+    },
+    {
+      "id": 8,
+      "german": "Er ist unterwegs — er fährt nach München und kommt morgen zurück.",
+      "english": "He is on his way — he is going to Munich and coming back tomorrow.",
+      "level": "complex",
+      "note": "Uses: unterwegs; nach München (destination); zurück (direction adverb/particle)"
+    },
+    {
+      "id": 9,
+      "german": "Auf der Radtour ist nichts Schlimmes passiert — Ja, das stimmt!",
+      "english": "Nothing bad happened on the cycling tour — Yes, that's right!",
+      "level": "complex",
+      "note": "Uses: nichts (negative pronoun); Ja, das stimmt (confirmation phrase); passieren (Lektion 12 verb)"
+    },
+    {
+      "id": 10,
+      "german": "Bis Dezember möchten wir ein paar Städte in Deutschland besuchen.",
+      "english": "By December we would like to visit a few cities in Germany.",
+      "level": "complex",
+      "note": "Uses: bis + time (deadline); ein paar (a few); der Dezember (Lektion 12 noun); modal möchten"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "___ viele Hotels in Hamburg. (there are)",
+      "solution": "Es gibt",
+      "explanation": "es gibt + Akkusativ = there is / there are. The fixed phrase es gibt never changes form."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich lerne ___ zwei Monaten Deutsch. (since / for)",
+      "solution": "seit",
+      "explanation": "seit + Dativ for ongoing duration. zwei Monaten (Dativ plural of der Monat: Monate → Monaten)."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir fahren ___ den Tunnel. (through)",
+      "solution": "durch",
+      "explanation": "durch + Akkusativ = through. den Tunnel (Akkusativ, masculine der Tunnel → den Tunnel)."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ dauert die Tour? (How long)",
+      "solution": "Wie lange",
+      "explanation": "wie lange = how long. Used as a question phrase to ask about duration."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Er ist ___. Er kommt heute Abend zurück. (on his way / travelling)",
+      "solution": "unterwegs",
+      "explanation": "unterwegs = on the way / travelling. No inflection. Often combined with sein: Ich bin unterwegs."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir fahren ___ Hamburg und dann ___ nach Berlin. (as far as; further on)",
+      "solution": "bis / weiter",
+      "explanation": "bis Hamburg = as far as Hamburg (destination endpoint). weiter = onwards/further. Wir fahren bis Hamburg und dann weiter."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir fahren ___ München. (to — use the preposition for cities)",
+      "solution": "nach",
+      "explanation": "nach + city/country name (no article) = to. nach München = to Munich."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "___ Jahr feiern wir Silvester am Hafen. (every)",
+      "solution": "Jedes",
+      "explanation": "jedes Jahr = every year. Jahr is neuter (das Jahr), so jede- takes the neuter form jedes."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_blank",
+      "level": "simple",
+      "prompt": "Ich habe ___ gesagt. (nothing)",
+      "solution": "nichts",
+      "explanation": "nichts = nothing. Negative pronoun. Ich habe nichts gesagt. = I said nothing / I didn't say anything."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ ist es sehr ruhig am Hafen. (at night)",
+      "solution": "Nachts",
+      "explanation": "nachts = at night. Temporal adverb placed at the start of the sentence. Note: the verb comes second (ist)."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich bin in Mexiko ___. (born)",
+      "solution": "geboren",
+      "explanation": "geboren = born. Fixed expression: sein + geboren. Ich bin geboren = I was born. No haben with this expression."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "Wir warten ___ Dienstag auf die Antwort. (until)",
+      "solution": "bis",
+      "explanation": "bis + time expression = until. bis Dienstag = until Tuesday. No article needed before day names."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "'Das Hotel hat drei Sterne.' — 'Ja, ___.' (Yes, that's right.)",
+      "solution": "das stimmt",
+      "explanation": "Ja, das stimmt = Yes, that is right / that's correct. Common confirmation phrase."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Wir bleiben noch ___ Tage auf der Insel. (a few)",
+      "solution": "ein paar",
+      "explanation": "ein paar = a few / a couple of. Followed directly by the noun in plural (no change in noun form). ein paar Tage = a few days."
+    },
+    {
+      "id": 15,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "___ Tag läuft er durch den Park. (every — with masculine noun)",
+      "solution": "Jeden",
+      "explanation": "jeden Tag = every day. Tag is masculine (der Tag), and jeder inflects like the definite article: Akkusativ masculine → jeden."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "level": "simple",
+      "prompt": "___ einen Hafen in Hamburg?",
+      "options": ["Gibt es", "Es ist", "Haben es"],
+      "solution": "Gibt es",
+      "explanation": "es gibt + Akkusativ = there is / is there. In questions, the verb-subject order inverts: Gibt es...? (Is there...?)"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich wohne ___ drei Jahren in Deutschland.",
+      "options": ["seit", "bis", "nach"],
+      "solution": "seit",
+      "explanation": "seit + Dativ for ongoing duration. seit drei Jahren = for three years (still ongoing). nach = to/after; bis = until."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Wir fahren ___ die Alpen ___ Österreich.",
+      "options": ["durch / nach", "seit / bis", "nach / durch"],
+      "solution": "durch / nach",
+      "explanation": "durch die Alpen = through the Alps (Akkusativ); nach Österreich = to Austria (country, no article). durch + Akk, nach + place name."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ dauert der Flug nach Berlin?",
+      "options": ["Wie lange", "Was", "Wann"],
+      "solution": "Wie lange",
+      "explanation": "Wie lange = how long (duration). Was = what; Wann = when. Only wie lange asks about time duration."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Er ist ___ — er kommt morgen zurück.",
+      "options": ["unterwegs", "nachts", "durch"],
+      "solution": "unterwegs",
+      "explanation": "unterwegs = on the way / travelling. nachts = at night; durch = through (preposition)."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "___ Woche gehen wir in die Stadt.",
+      "options": ["Jede", "Jeder", "Jedes"],
+      "solution": "Jede",
+      "explanation": "jede Woche = every week. Woche is feminine (die Woche), so use jede (feminine form)."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "level": "medium",
+      "prompt": "Ich habe ___ gegessen — ich bin noch hungrig.",
+      "options": ["nichts", "kein", "nicht"],
+      "solution": "nichts",
+      "explanation": "nichts = nothing. Ich habe nichts gegessen = I ate nothing / I didn't eat anything. kein negates nouns; nicht negates verbs/adjectives."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "Sie wohnt ___ fünf Jahren in Deutschland, seit sie in Berlin geboren wurde.",
+      "options": ["seit", "bis", "nach"],
+      "solution": "seit",
+      "explanation": "seit + Dativ for ongoing duration from a point in the past. seit fünf Jahren = for five years."
+    },
+    {
+      "id": 24,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "There is a harbour in Hamburg.",
+      "solution": "Es gibt einen Hafen in Hamburg.",
+      "explanation": "es gibt + Akkusativ: einen Hafen (masculine der Hafen → Akkusativ: einen Hafen)."
+    },
+    {
+      "id": 25,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "I have been learning German for six months.",
+      "solution": "Ich lerne seit sechs Monaten Deutsch.",
+      "explanation": "seit + Dativ: sechs Monaten (Dativ plural of der Monat → Monate → Monaten). Präsens tense (ongoing)."
+    },
+    {
+      "id": 26,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "We are travelling through Germany.",
+      "solution": "Wir fahren durch Deutschland.",
+      "explanation": "durch + Akkusativ: Deutschland (no article for country names). fahren = to travel by vehicle."
+    },
+    {
+      "id": 27,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "How long does the marathon last?",
+      "solution": "Wie lange dauert der Marathon?",
+      "explanation": "wie lange (how long) at the start; dauert (er/es form of dauern); der Marathon (subject)."
+    },
+    {
+      "id": 28,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "Every year there are many visitors in Hamburg.",
+      "solution": "Jedes Jahr gibt es viele Besucher in Hamburg.",
+      "explanation": "jedes Jahr (neuter jedes + Jahr); es gibt + Akkusativ: viele Besucher (plural, no article change needed in Akkusativ)."
+    },
+    {
+      "id": 29,
+      "type": "translation",
+      "level": "medium",
+      "prompt": "He was born in January.",
+      "solution": "Er ist im Januar geboren.",
+      "explanation": "sein + geboren (fixed expression for being born); im Januar (Dativ, months take im)."
+    },
+    {
+      "id": 30,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "We drove as far as Munich and then continued on to Vienna.",
+      "solution": "Wir sind bis München gefahren und dann weiter nach Wien.",
+      "explanation": "bis München (as far as Munich); weiter (continue on); nach Wien (to Vienna, country capital, no article)."
+    },
+    {
+      "id": 31,
+      "type": "error_correction",
+      "level": "simple",
+      "prompt": "Es haben viele Hotels in Hamburg.",
+      "solution": "Es gibt viele Hotels in Hamburg.",
+      "explanation": "The correct phrase for 'there are' is es gibt + Akkusativ. es haben is not used this way."
+    },
+    {
+      "id": 32,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich lerne seit zwei Monate Deutsch.",
+      "solution": "Ich lerne seit zwei Monaten Deutsch.",
+      "explanation": "seit requires Dativ. Plural Dativ of der Monat: Monaten (add -n to plural Monate → Monaten)."
+    },
+    {
+      "id": 33,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir fahren durch die Alpen nach Österreich. Das ist richtig, nicht?",
+      "solution": "Wir fahren durch die Alpen nach Österreich. Ja, das stimmt!",
+      "explanation": "Ja, das stimmt! is the natural German confirmation. 'Das ist richtig, nicht?' is understandable but less idiomatic."
+    },
+    {
+      "id": 34,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Er ist in Berlin geborenen.",
+      "solution": "Er ist in Berlin geboren.",
+      "explanation": "geboren (past participle used as fixed expression) takes no inflection ending here. geboren, not geborenen."
+    },
+    {
+      "id": 35,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Jeder Woche gehen wir ins Museum.",
+      "solution": "Jede Woche gehen wir ins Museum.",
+      "explanation": "Woche is feminine (die Woche). jede (not jeder) is the feminine Nominativ/Akkusativ form. jeder is masculine."
+    },
+    {
+      "id": 36,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Ich habe kein gesagt.",
+      "solution": "Ich habe nichts gesagt.",
+      "explanation": "nichts (nothing) is the correct negative pronoun replacing an object. kein negates nouns (kein Wort gesagt = said no word)."
+    },
+    {
+      "id": 37,
+      "type": "error_correction",
+      "level": "complex",
+      "prompt": "Wir sind bis München gefahren. Dann haben wir weiter nach Berlin gefahren.",
+      "solution": "Wir sind bis München gefahren. Dann sind wir weiter nach Berlin gefahren.",
+      "explanation": "weiterfahren uses sein (movement), not haben. Correct: Dann sind wir weitergefahren."
+    },
+    {
+      "id": 38,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "At night there is nothing to do on the island.",
+      "solution": "Nachts gibt es nichts zu tun auf der Insel.",
+      "explanation": "nachts (at night); es gibt nichts zu tun (there is nothing to do); auf der Insel (Dativ, die Insel → der Insel)."
+    },
+    {
+      "id": 39,
+      "type": "fill_in_blank",
+      "level": "complex",
+      "prompt": "— 'Die Tour dauert drei Stunden.' — '___, ___ ___.' (Yes, that's right.)",
+      "solution": "Ja, das stimmt.",
+      "explanation": "Ja, das stimmt = Yes, that is right. A common affirmation phrase in German conversations."
+    },
+    {
+      "id": 40,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "She has been living here since January and speaks a few words of German.",
+      "solution": "Sie wohnt seit Januar hier und spricht ein paar Wörter Deutsch.",
+      "explanation": "seit Januar (since January, Dativ — months without number take no article); ein paar Wörter (a few words); speaks = spricht (irregular du/er change)."
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "level": "complex",
+      "prompt": "___ Island sind besonders schön im Sommer.",
+      "options": ["Jede", "Jeder", "Jedes"],
+      "solution": "Jede",
+      "explanation": "Insel is feminine (die Insel). Jede Insel = every island. Feminine form jede (Nominativ)."
+    },
+    {
+      "id": 42,
+      "type": "fill_in_blank",
+      "level": "medium",
+      "prompt": "Ich bin ___ — ich fahre gerade von Hamburg nach Berlin. (on the road / en route)",
+      "solution": "unterwegs",
+      "explanation": "unterwegs = on the way / in transit. Ich bin unterwegs is a common way to say you are currently travelling."
+    },
+    {
+      "id": 43,
+      "type": "error_correction",
+      "level": "medium",
+      "prompt": "Wir fahren nach durch die Alpen.",
+      "solution": "Wir fahren durch die Alpen.",
+      "explanation": "nach is used before city/country names without article. durch means 'through'. These are different prepositions; nach is not needed here."
+    },
+    {
+      "id": 44,
+      "type": "translation",
+      "level": "complex",
+      "prompt": "He has been underway since the morning and arrives until noon.",
+      "solution": "Er ist seit dem Morgen unterwegs und kommt bis Mittag an.",
+      "explanation": "seit dem Morgen (since morning, Dativ); unterwegs; bis Mittag (until noon, time deadline); ankommen (to arrive) is separable."
+    }
+  ]
+}
